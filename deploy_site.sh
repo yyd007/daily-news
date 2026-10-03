@@ -13,7 +13,8 @@ if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   exit 0
 fi
 
-git add site/index.html
+git pull --rebase origin HEAD || true
+git add site/index.html site/briefing.json
 if git diff --cached --quiet; then
   echo "Website unchanged."
   exit 0

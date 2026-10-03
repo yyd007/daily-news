@@ -20,12 +20,20 @@ cat > "$PLIST" <<EOF
     <string>${PROJECT}/run.sh</string>
   </array>
   <key>StartCalendarInterval</key>
-  <dict>
-    <key>Hour</key>
-    <integer>9</integer>
-    <key>Minute</key>
-    <integer>0</integer>
-  </dict>
+  <array>
+    <dict>
+      <key>Hour</key>
+      <integer>9</integer>
+      <key>Minute</key>
+      <integer>0</integer>
+    </dict>
+    <dict>
+      <key>Hour</key>
+      <integer>19</integer>
+      <key>Minute</key>
+      <integer>0</integer>
+    </dict>
+  </array>
   <key>WorkingDirectory</key>
   <string>${PROJECT}</string>
   <key>StandardOutPath</key>
@@ -44,5 +52,5 @@ launchctl unload "$PLIST" >/dev/null 2>&1 || true
 if ! launchctl bootstrap "gui/${UID_NUM}" "$PLIST" >/dev/null 2>&1; then
   launchctl load "$PLIST"
 fi
-echo "Scheduled daily news for 9:00 AM."
+echo "Scheduled daily news for 9:00 AM and 7:00 PM."
 echo "Plist: $PLIST"

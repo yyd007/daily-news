@@ -1,15 +1,16 @@
 name: Publish daily news
 
 on:
-  # 01:00 UTC is 09:00 in Asia/Shanghai
+  # 01:00 UTC = 09:00 Asia/Shanghai; 11:00 UTC = 19:00 Asia/Shanghai
   schedule:
     - cron: "0 1 * * *"
+    - cron: "0 11 * * *"
   workflow_dispatch:
   push:
     branches: [main]
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -30,6 +31,15 @@ jobs:
       - name: Generate briefing
         if: github.event_name != 'push'
         run: python generate_news.py
+      - name: Keep today's morning briefing for the 7pm update
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/briefing.json site/index.html
+          git diff --cached --quiet || git commit -m "Update daily news website."
+          git pull --rebase origin main
+          git push
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

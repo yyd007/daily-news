@@ -11,8 +11,13 @@ def esc(value: str) -> str:
     return escape(value or "", quote=True)
 
 
+def _sections_from_block(block: dict | None) -> dict[str, list[dict]]:
+    raw = (block or {}).get("sections") or {}
+    return {key: list(raw.get(key, [])) for key in ("worldwide", "china", "ai")}
+
+
 def render_site(
-    sections: dict[str, list[dict]],
+    state: dict,
     generated_at: datetime,
     output_dir: Path,
     section_specs: list[dict],
@@ -39,34 +44,64 @@ def render_site(
     ]
     weekday = weekday_zh[generated_at.weekday()]
     empty_label = "\u4eca\u5929\u8fd9\u4e00\u680f\u6682\u65f6\u6ca1\u6709\u6293\u5230\u65b0\u95fb\u3002"
+    edition_labels = {
+        "morning": {"title": "Morning Briefing", "title_zh": "\u65e9\u62a5"},
+        "evening": {"title": "Evening Briefing", "title_zh": "\u665a\u62a5"},
+    }
 
-    columns = []
-    for spec in section_specs:
-        stories = sections[spec["key"]]
-        items = []
-        if not stories:
-            items.append(f'<p class="empty">{esc(empty_label)}</p>')
-        for index, story in enumerate(stories, start=1):
-            source = story["source"] or "Unknown source"
-            href = story["link"] or "#"
-            zh = story.get("title_zh") or ""
-            zh_html = f'<p class="zh">{esc(zh)}</p>' if zh else ""
-            items.append(
-                "<article class=\"story\">"
-                f"<div class=\"story-index\">{index:02d}</div>"
-                "<div class=\"story-body\">"
-                f"<h3><a href=\"{esc(href)}\" target=\"_blank\" rel=\"noopener noreferrer\">{esc(story['title'])}</a></h3>"
-                f"{zh_html}"
-                f"<p class=\"meta\"><span>{esc(source)}</span>{esc(format_when(story['published']))}</p>"
-                "</div></article>"
+    def published_label(story: dict) -> str:
+        value = story.get("published")
+        if isinstance(value, datetime):
+            return format_when(value)
+        if isinstance(value, str) and len(value) >= 10:
+            return value[:10]
+        return format_when(None)
+
+    def build_columns(sections: dict[str, list[dict]], prefix: str) -> str:
+        columns = []
+        for spec in section_specs:
+            stories = sections.get(spec["key"], [])
+            items = []
+            if not stories:
+                items.append(f'<p class="empty">{esc(empty_label)}</p>')
+            for index, story in enumerate(stories, start=1):
+                source = story.get("source") or "Unknown source"
+                href = story.get("link") or "#"
+                zh = story.get("title_zh") or ""
+                zh_html = f'<p class="zh">{esc(zh)}</p>' if zh else ""
+                items.append(
+                    "<article class=\"story\">"
+                    f"<div class=\"story-index\">{index:02d}</div>"
+                    "<div class=\"story-body\">"
+                    f"<h3><a href=\"{esc(href)}\" target=\"_blank\" rel=\"noopener noreferrer\">{esc(story.get('title') or '')}</a></h3>"
+                    f"{zh_html}"
+                    f"<p class=\"meta\"><span>{esc(source)}</span>{esc(published_label(story))}</p>"
+                    "</div></article>"
+                )
+            columns.append(
+                f"<section class=\"column\" id=\"{esc(prefix)}-{esc(spec['key'])}\">"
+                "<header class=\"column-head\">"
+                f"<p class=\"eyebrow\">{esc(spec['title_zh'])}</p>"
+                f"<h2>{esc(spec['title'])}</h2>"
+                "</header>"
+                f"{''.join(items)}"
+                "</section>"
             )
-        columns.append(
-            f"<section class=\"column\" id=\"{esc(spec['key'])}\">"
-            "<header class=\"column-head\">"
-            f"<p class=\"eyebrow\">{esc(spec['title_zh'])}</p>"
-            f"<h2>{esc(spec['title'])}</h2>"
-            "</header>"
-            f"{''.join(items)}"
+        return "".join(columns)
+
+    edition_html = []
+    nav_links = []
+    for key in ("morning", "evening"):
+        block = state.get(key)
+        if not block or not block.get("sections"):
+            continue
+        labels = edition_labels[key]
+        nav_links.append(f'<a href="#{esc(key)}">{esc(labels["title"])}</a>')
+        edition_html.append(
+            f'<section class="edition" id="{esc(key)}">'
+            f'<header class="edition-head"><p class="eyebrow">{esc(labels["title_zh"])}</p>'
+            f"<h2>{esc(labels['title'])}</h2></header>"
+            f'<div class="deck">{build_columns(_sections_from_block(block), key)}</div>'
             "</section>"
         )
 
@@ -94,6 +129,9 @@ def render_site(
     nav { display: flex; justify-content: center; gap: 22px; padding: 12px 0 18px; border-bottom: 1px solid var(--ink); font-size: 14px; }
     nav a { text-decoration: none; }
     nav a:hover { color: var(--red); }
+    .edition { margin-top: 36px; }
+    .edition-head { border-bottom: 3px double var(--ink); margin-bottom: 18px; padding-bottom: 8px; }
+    .edition-head h2 { margin: 4px 0 0; font-size: 32px; }
     .deck { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; margin-top: 28px; }
     .column-head { border-bottom: 2px solid var(--ink); margin-bottom: 16px; padding-bottom: 8px; }
     .eyebrow { margin: 0; color: var(--red); letter-spacing: 0.16em; font-size: 12px; }
@@ -114,17 +152,13 @@ def render_site(
 <body>
   <div class="wrap">
     <header class="masthead">
-      <p class="kicker">Morning Briefing</p>
+      <p class="kicker">Morning and Evening</p>
       <h1 class="brand">Daily <span>News</span></h1>
       <p class="dateline">DATE_EN | WEEKDAY DATE_ZH</p>
     </header>
-    <nav>
-      <a href="#worldwide">Worldwide</a>
-      <a href="#china">China</a>
-      <a href="#ai">AI</a>
-    </nav>
-    <main class="deck">COLUMNS</main>
-    <footer>Automatically generated on DATE_ISO. Same briefing as Daily News.docx.</footer>
+    <nav>NAV</nav>
+    <main>EDITIONS</main>
+    <footer>Automatically generated on DATE_ISO. Morning stays; evening is added below. A new date replaces the page.</footer>
   </div>
 </body>
 </html>
@@ -134,7 +168,8 @@ def render_site(
         .replace("DATE_EN", esc(date_en))
         .replace("WEEKDAY", esc(weekday))
         .replace("DATE_ZH", esc(date_zh))
-        .replace("COLUMNS", "".join(columns))
+        .replace("NAV", "".join(nav_links) or '<a href="#morning">Morning</a>')
+        .replace("EDITIONS", "".join(edition_html))
     )
     site_dir = output_dir / "site"
     site_dir.mkdir(parents=True, exist_ok=True)

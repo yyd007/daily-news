@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import html
 import json
+import os
 import re
 import sys
 from datetime import datetime
@@ -24,6 +25,13 @@ from lxml import html as lxml_html
 LOCAL_TZ = ZoneInfo("Asia/Shanghai")
 HERE = Path(__file__).resolve().parent
 OUTPUT_DIR = HERE
+STATE_PATH = OUTPUT_DIR / "site" / "briefing.json"
+EVENING_HOUR = 19
+
+EDITION_LABELS = {
+    "morning": {"title": "Morning Briefing", "title_zh": "\u65e9\u62a5"},
+    "evening": {"title": "Evening Briefing", "title_zh": "\u665a\u62a5"},
+}
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
@@ -365,7 +373,154 @@ def format_when(dt: datetime | None) -> str:
     return dt.strftime("%Y-%m-%d")
 
 
-def write_document(sections: dict[str, list[dict]], generated_at: datetime) -> Path:
+def current_edition(now: datetime) -> str:
+    forced = (os.environ.get("DAILY_NEWS_EDITION") or "").strip().lower()
+    if forced in EDITION_LABELS:
+        return forced
+    return "evening" if now.hour >= EVENING_HOUR else "morning"
+
+
+def story_to_json(story: dict) -> dict:
+    published = story.get("published")
+    if isinstance(published, datetime):
+        published_s = published.isoformat()
+    else:
+        published_s = published
+    return {
+        "title": story.get("title") or "",
+        "title_zh": story.get("title_zh") or "",
+        "link": story.get("link") or "",
+        "source": story.get("source") or "",
+        "published": published_s,
+        "summary": story.get("summary") or "",
+        "summary_zh": story.get("summary_zh") or "",
+    }
+
+
+def story_from_json(raw: dict) -> dict:
+    published = raw.get("published")
+    parsed = None
+    if published:
+        try:
+            parsed = datetime.fromisoformat(published)
+            if parsed.tzinfo is None:
+                parsed = parsed.replace(tzinfo=LOCAL_TZ)
+        except ValueError:
+            parsed = None
+    return {
+        "title": raw.get("title") or "",
+        "title_zh": raw.get("title_zh") or "",
+        "link": raw.get("link") or "",
+        "source": raw.get("source") or "",
+        "published": parsed,
+        "summary": raw.get("summary") or "",
+        "summary_zh": raw.get("summary_zh") or "",
+    }
+
+
+def sections_to_json(sections: dict[str, list[dict]]) -> dict:
+    return {key: [story_to_json(story) for story in stories] for key, stories in sections.items()}
+
+
+def sections_from_json(raw: dict | None) -> dict[str, list[dict]]:
+    raw = raw or {}
+    return {key: [story_from_json(story) for story in raw.get(key, [])] for key in ("worldwide", "china", "ai")}
+
+
+def empty_state(date_iso: str) -> dict:
+    return {"date": date_iso, "morning": None, "evening": None}
+
+
+def load_state(date_iso: str) -> dict:
+    if STATE_PATH.exists():
+        try:
+            data = json.loads(STATE_PATH.read_text(encoding="utf-8"))
+            if data.get("date") == date_iso:
+                return {
+                    "date": date_iso,
+                    "morning": data.get("morning"),
+                    "evening": data.get("evening"),
+                }
+        except (json.JSONDecodeError, OSError):
+            pass
+    seeded = seed_morning_from_html(date_iso)
+    if seeded:
+        return seeded
+    return empty_state(date_iso)
+
+
+def seed_morning_from_html(date_iso: str) -> dict | None:
+    html_path = OUTPUT_DIR / "site" / "index.html"
+    if not html_path.exists():
+        return None
+    try:
+        tree = lxml_html.fromstring(html_path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    title = " ".join(tree.xpath("//title/text()"))
+    if date_iso not in title:
+        return None
+    if tree.xpath('//*[@id="evening"]'):
+        return None
+    sections: dict[str, list[dict]] = {"worldwide": [], "china": [], "ai": []}
+    for key in sections:
+        for article in tree.xpath(f'//section[@id="{key}"]//article'):
+            headlines = article.xpath(".//h3/a")
+            if not headlines:
+                continue
+            link = headlines[0].get("href") or ""
+            text = clean_text(headlines[0].text_content())
+            zh_nodes = article.xpath('.//p[contains(@class,"zh")]')
+            meta_nodes = article.xpath('.//p[contains(@class,"meta")]')
+            source = ""
+            published = None
+            if meta_nodes:
+                meta = clean_text(meta_nodes[0].text_content())
+                parts = meta.split()
+                if parts:
+                    source = " ".join(parts[:-1]) if re.match(r"\d{4}-\d{2}-\d{2}$", parts[-1]) else meta
+                    if re.match(r"\d{4}-\d{2}-\d{2}$", parts[-1]):
+                        try:
+                            published = datetime.fromisoformat(parts[-1]).replace(tzinfo=LOCAL_TZ)
+                        except ValueError:
+                            published = None
+            sections[key].append(
+                {
+                    "title": text,
+                    "title_zh": clean_text(zh_nodes[0].text_content()) if zh_nodes else "",
+                    "link": link,
+                    "source": source,
+                    "published": published,
+                    "summary": "",
+                    "summary_zh": "",
+                }
+            )
+    if not any(sections.values()):
+        return None
+    return {
+        "date": date_iso,
+        "morning": {"generated_at": f"{date_iso}T09:00:00+08:00", "sections": sections_to_json(sections)},
+        "evening": None,
+    }
+
+
+def save_state(state: dict) -> None:
+    STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def merge_edition(state: dict, edition: str, sections: dict[str, list[dict]], generated_at: datetime) -> dict:
+    date_iso = generated_at.strftime("%Y-%m-%d")
+    if state.get("date") != date_iso:
+        state = empty_state(date_iso)
+    state[edition] = {
+        "generated_at": generated_at.isoformat(),
+        "sections": sections_to_json(sections),
+    }
+    return state
+
+
+def write_document(state: dict, generated_at: datetime) -> Path:
     doc = Document()
 
     for section in doc.sections:
@@ -403,75 +558,86 @@ def write_document(sections: dict[str, list[dict]], generated_at: datetime) -> P
     intro.paragraph_format.space_after = Pt(16)
     run = intro.add_run(
         generated_at.strftime("Generated automatically on %Y-%m-%d. ")
-        + "Top 10 worldwide, China, and AI stories for the day."
+        + "Morning briefing at 9:00, evening briefing at 19:00. Same-day editions are kept together."
     )
     set_run_font(run, 10, color=SLATE, italic=True)
     add_horizontal_rule(intro)
 
-    for spec in SECTIONS:
-        stories = sections[spec["key"]]
-        heading = doc.add_paragraph()
-        heading.paragraph_format.space_before = Pt(16)
-        heading.paragraph_format.space_after = Pt(8)
-        run = heading.add_run(spec["title"])
-        set_run_font(run, 18, bold=True, color=NAVY)
-
-        if not stories:
-            empty = doc.add_paragraph()
-            run = empty.add_run("No stories could be fetched for this section today.")
-            set_run_font(run, 11, italic=True, color=MUTED)
+    for edition_key in ("morning", "evening"):
+        block = state.get(edition_key)
+        if not block or not block.get("sections"):
             continue
+        labels = EDITION_LABELS[edition_key]
+        edition_heading = doc.add_paragraph()
+        edition_heading.paragraph_format.space_before = Pt(20)
+        edition_heading.paragraph_format.space_after = Pt(4)
+        run = edition_heading.add_run(f"{labels['title']}  /  {labels['title_zh']}")
+        set_run_font(run, 20, bold=True, color=TEAL)
+        sections = sections_from_json(block.get("sections"))
+        for spec in SECTIONS:
+            stories = sections.get(spec["key"], [])
+            heading = doc.add_paragraph()
+            heading.paragraph_format.space_before = Pt(16)
+            heading.paragraph_format.space_after = Pt(8)
+            run = heading.add_run(spec["title"])
+            set_run_font(run, 18, bold=True, color=NAVY)
 
-        for index, story in enumerate(stories, start=1):
-            item = doc.add_paragraph()
-            item.paragraph_format.space_before = Pt(8)
-            item.paragraph_format.space_after = Pt(2)
-            item.paragraph_format.line_spacing_rule = WD_LINE_SPACING.SINGLE
-            run = item.add_run(f"{index}.  {story['title']}")
-            set_run_font(run, 12, bold=True, color=NAVY)
-            source = story["source"] or "Unknown source"
-            run = item.add_run(f"  -  {source}")
-            set_run_font(run, 11, color=TEAL)
-            if story.get("title_zh"):
-                title_zh = doc.add_paragraph()
-                title_zh.paragraph_format.space_after = Pt(2)
-                run = title_zh.add_run(story["title_zh"])
+            if not stories:
+                empty = doc.add_paragraph()
+                run = empty.add_run("No stories could be fetched for this section today.")
+                set_run_font(run, 11, italic=True, color=MUTED)
+                continue
+
+            for index, story in enumerate(stories, start=1):
+                item = doc.add_paragraph()
+                item.paragraph_format.space_before = Pt(8)
+                item.paragraph_format.space_after = Pt(2)
+                item.paragraph_format.line_spacing_rule = WD_LINE_SPACING.SINGLE
+                run = item.add_run(f"{index}.  {story['title']}")
+                set_run_font(run, 12, bold=True, color=NAVY)
+                source = story["source"] or "Unknown source"
+                run = item.add_run(f"  -  {source}")
                 set_run_font(run, 11, color=TEAL)
+                if story.get("title_zh"):
+                    title_zh = doc.add_paragraph()
+                    title_zh.paragraph_format.space_after = Pt(2)
+                    run = title_zh.add_run(story["title_zh"])
+                    set_run_font(run, 11, color=TEAL)
 
-            meta = doc.add_paragraph()
-            meta.paragraph_format.space_after = Pt(2)
-            run = meta.add_run(f"Source: {source}  |  {format_when(story['published'])}")
-            set_run_font(run, 9, color=MUTED)
+                meta = doc.add_paragraph()
+                meta.paragraph_format.space_after = Pt(2)
+                run = meta.add_run(f"Source: {source}  |  {format_when(story['published'])}")
+                set_run_font(run, 9, color=MUTED)
 
-            if story["summary"]:
-                summary = doc.add_paragraph()
-                summary.paragraph_format.space_after = Pt(2)
-                run = summary.add_run(story["summary"])
-                set_run_font(run, 11, color=SLATE)
-            if story.get("summary_zh"):
-                summary_zh = doc.add_paragraph()
-                summary_zh.paragraph_format.space_after = Pt(2)
-                run = summary_zh.add_run(story["summary_zh"])
-                set_run_font(run, 11, italic=True, color=SLATE)
+                if story["summary"]:
+                    summary = doc.add_paragraph()
+                    summary.paragraph_format.space_after = Pt(2)
+                    run = summary.add_run(story["summary"])
+                    set_run_font(run, 11, color=SLATE)
+                if story.get("summary_zh"):
+                    summary_zh = doc.add_paragraph()
+                    summary_zh.paragraph_format.space_after = Pt(2)
+                    run = summary_zh.add_run(story["summary_zh"])
+                    set_run_font(run, 11, italic=True, color=SLATE)
 
-            if story["link"]:
-                link_p = doc.add_paragraph()
-                link_p.paragraph_format.space_after = Pt(8)
-                run = link_p.add_run(story["link"])
-                set_run_font(run, 9, color=LINK_BLUE)
-                run.font.underline = True
-                if run._element.rPr is not None:
-                    r_id = doc.part.relate_to(
-                        story["link"],
-                        "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
-                        is_external=True,
-                    )
-                    hyperlink = run._element.makeelement(
-                        qn("w:hyperlink"),
-                        {qn("r:id"): r_id},
-                    )
-                    run._element.addprevious(hyperlink)
-                    hyperlink.append(run._element)
+                if story["link"]:
+                    link_p = doc.add_paragraph()
+                    link_p.paragraph_format.space_after = Pt(8)
+                    run = link_p.add_run(story["link"])
+                    set_run_font(run, 9, color=LINK_BLUE)
+                    run.font.underline = True
+                    if run._element.rPr is not None:
+                        r_id = doc.part.relate_to(
+                            story["link"],
+                            "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+                            is_external=True,
+                        )
+                        hyperlink = run._element.makeelement(
+                            qn("w:hyperlink"),
+                            {qn("r:id"): r_id},
+                        )
+                        run._element.addprevious(hyperlink)
+                        hyperlink.append(run._element)
 
     output_path = OUTPUT_DIR / "Daily News.docx"
     for old in OUTPUT_DIR.glob("Daily News*.docx"):
@@ -485,14 +651,16 @@ def esc(value: str) -> str:
     return html.escape(value or "", quote=True)
 
 
-def write_html(sections: dict[str, list[dict]], generated_at: datetime) -> Path:
+def write_html(state: dict, generated_at: datetime) -> Path:
     from web_page import render_site
-    return render_site(sections, generated_at, OUTPUT_DIR, SECTIONS, format_when)
+    return render_site(state, generated_at, OUTPUT_DIR, SECTIONS, format_when)
 
 
 def main() -> int:
     generated_at = datetime.now(LOCAL_TZ)
-    print(f"Generating daily news for {generated_at:%Y-%m-%d %H:%M %Z}")
+    date_iso = generated_at.strftime("%Y-%m-%d")
+    edition = current_edition(generated_at)
+    print(f"Generating {edition} news for {generated_at:%Y-%m-%d %H:%M %Z}")
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     collected: dict[str, list[dict]] = {}
@@ -503,8 +671,10 @@ def main() -> int:
 
     print("\nTranslating English stories to Chinese")
     add_translations(collected)
-    path = write_document(collected, generated_at)
-    html_path = write_html(collected, generated_at)
+    state = merge_edition(load_state(date_iso), edition, collected, generated_at)
+    save_state(state)
+    path = write_document(state, generated_at)
+    html_path = write_html(state, generated_at)
     print(f"\nWrote {path}")
     print(f"Wrote {html_path}")
     return 0

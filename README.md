@@ -1,12 +1,19 @@
 # Daily News
 
-Generates a Word briefing with:
+Generates a Word briefing and webpage with:
 
 1. Top 10 worldwide
 2. Top 10 in China
 3. Top 10 related to AI
 
-Each run overwrites two copies of the same briefing:
+There are two editions each day:
+
+- 9:00 AM morning briefing
+- 7:00 PM evening briefing, added under the morning list
+
+The same date keeps both editions. A new date replaces yesterday's file.
+
+Outputs:
 
 - `Daily News.docx` in this folder
 - `site/index.html`, published at https://yyd007.github.io/daily-news/
@@ -20,11 +27,11 @@ cd "/Users/aria/Downloads/daily news"
 ./run.sh
 ```
 
-## Automatic daily run (9:00 AM)
+## Automatic daily run (9:00 AM and 7:00 PM)
 
-This Mac writes `Daily News.docx` at 9:00 AM and also publishes the webpage.
+This Mac writes the Word file and publishes the webpage at 9:00 AM and 7:00 PM.
 
-The live site is also rebuilt every day at 9:00 AM Asia/Shanghai by GitHub Actions, even if this computer is off:
+GitHub Actions also rebuilds the site at those times, even if this computer is off:
 
 https://yyd007.github.io/daily-news/
 
