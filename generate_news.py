@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import html
+import json
 import re
 import sys
 from datetime import datetime
@@ -39,6 +40,7 @@ SECTIONS = [
     {
         "key": "worldwide",
         "title": "Top 10 Worldwide",
+        "title_zh": "\u5168\u7403\u5934\u6761",
         "feeds": [
             "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
             "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -48,6 +50,7 @@ SECTIONS = [
     {
         "key": "china",
         "title": "Top 10 in China",
+        "title_zh": "\u4e2d\u56fd\u5934\u6761",
         "feeds": [
             "https://news.google.com/rss?hl=zh-CN&gl=CN&ceid=CN:zh-CN",
             "https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-CN",
@@ -58,6 +61,7 @@ SECTIONS = [
     {
         "key": "ai",
         "title": "Top 10 Related to AI",
+        "title_zh": "\u4eba\u5de5\u667a\u80fd",
         "feeds": [
             "https://news.google.com/rss/search?q=artificial+intelligence+OR+%22generative+AI%22+OR+ChatGPT+OR+OpenAI+OR+LLM+when:1d&hl=en-US&gl=US&ceid=US:en",
             "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+OR+%E5%A4%A7%E6%A8%A1%E5%9E%8B+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-CN",
@@ -109,6 +113,80 @@ def clean_summary(value: str) -> str:
         clipped = text[:277].rsplit(" ", 1)[0]
         text = clipped + "..."
     return text
+
+
+def is_english(text: str) -> bool:
+    if not text:
+        return False
+    cjk = len(re.findall(r"[\u4e00-\u9fff]", text))
+    latin = len(re.findall(r"[A-Za-z]", text))
+    return latin >= 8 and cjk * 2 < latin
+
+
+_TRANSLATE_CACHE: dict[str, str] = {}
+
+
+def _parse_google_translation(payload) -> str:
+    if isinstance(payload, str):
+        return payload.strip()
+    if isinstance(payload, dict):
+        return clean_text(str(payload.get("responseData", {}).get("translatedText") or ""))
+    if isinstance(payload, list) and payload:
+        first = payload[0]
+        if isinstance(first, str):
+            return first.strip()
+        if isinstance(first, list):
+            chunks = []
+            for part in first:
+                if isinstance(part, str) and not re.fullmatch(r"[a-z]{2}(?:-[A-Z]{2})?", part):
+                    chunks.append(part)
+                elif isinstance(part, list) and part and isinstance(part[0], str):
+                    chunks.append(part[0])
+            return "".join(chunks).strip()
+    return ""
+
+
+def translate_to_zh(text: str) -> str:
+    text = clean_text(text)
+    if not is_english(text):
+        return ""
+    if text in _TRANSLATE_CACHE:
+        return _TRANSLATE_CACHE[text]
+
+    endpoints = [
+        (
+            "https://clients5.google.com/translate_a/t",
+            {"client": "dict-chrome-ex", "sl": "auto", "tl": "zh-CN", "q": text},
+        ),
+        (
+            "https://api.mymemory.translated.net/get",
+            {"q": text, "langpair": "en|zh-CN"},
+        ),
+    ]
+    translated = ""
+    for url, params in endpoints:
+        try:
+            response = requests.get(url, params=params, headers=HEADERS, timeout=20)
+            if response.status_code == 429:
+                continue
+            response.raise_for_status()
+            translated = _parse_google_translation(response.json())
+            if translated:
+                break
+        except (requests.RequestException, json.JSONDecodeError, TypeError, IndexError, KeyError) as exc:
+            print(f"  skip translation via {urlparse(url).netloc}: {exc}", file=sys.stderr)
+
+    if translated and translated.lower() == text.lower():
+        translated = ""
+    _TRANSLATE_CACHE[text] = translated
+    return translated
+
+
+def add_translations(sections: dict[str, list[dict]]) -> None:
+    for stories in sections.values():
+        for story in stories:
+            story["title_zh"] = translate_to_zh(story["title"])
+            story["summary_zh"] = ""
 
 
 DOMAIN_SOURCES = {
@@ -283,8 +361,8 @@ def add_horizontal_rule(paragraph) -> None:
 
 def format_when(dt: datetime | None) -> str:
     if not dt:
-        return "Time unavailable"
-    return dt.strftime("%Y-%m-%d %H:%M")
+        return "Date unavailable"
+    return dt.strftime("%Y-%m-%d")
 
 
 def write_document(sections: dict[str, list[dict]], generated_at: datetime) -> Path:
@@ -297,7 +375,7 @@ def write_document(sections: dict[str, list[dict]], generated_at: datetime) -> P
         section.right_margin = Inches(0.9)
         header = section.header.paragraphs[0]
         header.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-        run = header.add_run(generated_at.strftime("Daily News  |  %Y-%m-%d %H:%M"))
+        run = header.add_run(generated_at.strftime("Daily News  |  %Y-%m-%d"))
         set_run_font(run, 9, color=MUTED)
         footer = section.footer.paragraphs[0]
         footer.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -324,8 +402,8 @@ def write_document(sections: dict[str, list[dict]], generated_at: datetime) -> P
     intro = doc.add_paragraph()
     intro.paragraph_format.space_after = Pt(16)
     run = intro.add_run(
-        f"Generated automatically at {generated_at.strftime('%H:%M')} (Asia/Shanghai). "
-        "Top 10 worldwide, China, and AI stories for the day."
+        generated_at.strftime("Generated automatically on %Y-%m-%d. ")
+        + "Top 10 worldwide, China, and AI stories for the day."
     )
     set_run_font(run, 10, color=SLATE, italic=True)
     add_horizontal_rule(intro)
@@ -354,6 +432,11 @@ def write_document(sections: dict[str, list[dict]], generated_at: datetime) -> P
             source = story["source"] or "Unknown source"
             run = item.add_run(f"  -  {source}")
             set_run_font(run, 11, color=TEAL)
+            if story.get("title_zh"):
+                title_zh = doc.add_paragraph()
+                title_zh.paragraph_format.space_after = Pt(2)
+                run = title_zh.add_run(story["title_zh"])
+                set_run_font(run, 11, color=TEAL)
 
             meta = doc.add_paragraph()
             meta.paragraph_format.space_after = Pt(2)
@@ -365,6 +448,11 @@ def write_document(sections: dict[str, list[dict]], generated_at: datetime) -> P
                 summary.paragraph_format.space_after = Pt(2)
                 run = summary.add_run(story["summary"])
                 set_run_font(run, 11, color=SLATE)
+            if story.get("summary_zh"):
+                summary_zh = doc.add_paragraph()
+                summary_zh.paragraph_format.space_after = Pt(2)
+                run = summary_zh.add_run(story["summary_zh"])
+                set_run_font(run, 11, italic=True, color=SLATE)
 
             if story["link"]:
                 link_p = doc.add_paragraph()
@@ -385,10 +473,21 @@ def write_document(sections: dict[str, list[dict]], generated_at: datetime) -> P
                     run._element.addprevious(hyperlink)
                     hyperlink.append(run._element)
 
-    stamp = generated_at.strftime("%Y-%m-%d %H-%M")
-    dated_path = OUTPUT_DIR / f"Daily News {stamp}.docx"
-    doc.save(dated_path)
-    return dated_path
+    output_path = OUTPUT_DIR / "Daily News.docx"
+    for old in OUTPUT_DIR.glob("Daily News*.docx"):
+        if old != output_path:
+            old.unlink(missing_ok=True)
+    doc.save(output_path)
+    return output_path
+
+
+def esc(value: str) -> str:
+    return html.escape(value or "", quote=True)
+
+
+def write_html(sections: dict[str, list[dict]], generated_at: datetime) -> Path:
+    from web_page import render_site
+    return render_site(sections, generated_at, OUTPUT_DIR, SECTIONS, format_when)
 
 
 def main() -> int:
@@ -402,8 +501,12 @@ def main() -> int:
         collected[spec["key"]] = collect_top10(spec["feeds"])
         print(f"  got {len(collected[spec['key']])} stories")
 
+    print("\nTranslating English stories to Chinese")
+    add_translations(collected)
     path = write_document(collected, generated_at)
+    html_path = write_html(collected, generated_at)
     print(f"\nWrote {path}")
+    print(f"Wrote {html_path}")
     return 0
 
 

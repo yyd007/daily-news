@@ -6,7 +6,12 @@ Generates a Word briefing with:
 2. Top 10 in China
 3. Top 10 related to AI
 
-The document is written into this folder. The filename includes the date and time, for example `Daily News 2026-10-04 09-00.docx`.
+Each run overwrites two copies of the same briefing:
+
+- `Daily News.docx` in this folder
+- `site/index.html`, published at https://yyd007.github.io/daily-news/
+
+See [METHODS.md](METHODS.md) for the methods, tech, and tools used.
 
 ## Run once
 
