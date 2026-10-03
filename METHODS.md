@@ -4,13 +4,26 @@ This file lists the methods, technologies, and tools used to build the daily new
 
 ## Purpose
 
-The project fetches the day's top stories in three buckets, then writes one Word document:
+The project fetches the day's top stories in three buckets:
 
 1. Top 10 worldwide
 2. Top 10 in China
 3. Top 10 related to AI
 
-The briefing is always written to `Daily News.docx` and overwritten on each run. The date is shown inside the document. A macOS Launch Agent runs the job every day at 9:00 AM.
+There are two editions each day:
+
+- **9:00 AM** morning briefing
+- **7:00 PM** evening briefing, added under the morning list
+
+On the same date, the morning list is kept. The evening run only appends. When the date changes, yesterday is replaced and there is no evening block until 7:00 PM.
+
+Outputs:
+
+- `Daily News.docx` in this folder
+- `site/index.html` at https://yyd007.github.io/daily-news/
+- `site/briefing.json` so the evening run can reuse the morning list
+
+Anyone with the webpage link can open it. No login is required.
 
 ## Runtime and language
 
@@ -21,7 +34,8 @@ The briefing is always written to `Daily News.docx` and overwritten on each run.
 | Isolation | `python3 -m venv .venv` |
 | Package installer | `pip` |
 | Shell | `zsh` |
-| OS | macOS (darwin), scheduled with LaunchAgents |
+| OS | macOS, scheduled with LaunchAgents |
+| Website host | GitHub Pages |
 
 ## Python packages
 
@@ -29,27 +43,33 @@ Pinned in `requirements.txt`:
 
 | Package | Version | Role |
 | --- | --- | --- |
-| `requests` | 2.32.5 | HTTP fetch of RSS feeds with a browser-like User-Agent |
+| `requests` | 2.32.5 | HTTP fetch of RSS feeds, plus translation requests |
 | `feedparser` | 6.0.12 | Parse RSS/Atom into feed and entry objects |
-| `lxml` | 6.0.2 | Read HTML inside Google News summaries and pull real article links |
+| `lxml` | 6.0.2 | Read HTML in Google News summaries and recover article links |
 | `python-docx` | 1.2.0 | Build and save the `.docx` briefing |
+
+`web_page.py` builds the static HTML. No extra web framework is used.
 
 ## Python standard library
 
 | Module | Role |
 | --- | --- |
 | `html` | Unescape HTML entities in titles and summaries |
+| `json` | Save and reload `site/briefing.json` between 9:00 and 19:00 |
+| `os` | Optional `DAILY_NEWS_EDITION=morning` or `evening` override |
 | `re` | Strip tags, clean source names, normalize titles for dedupe |
 | `sys` | Print skipped-feed errors to stderr |
-| `datetime` | Generation timestamp and published times |
-| `email.utils.parsedate_to_datetime` | Parse RSS `published` / `updated` date strings |
-| `pathlib.Path` | Resolve the project folder and output path |
-| `urllib.parse` | Read hosts and `url=` query values from Google News links |
-| `zoneinfo.ZoneInfo` | Convert times to `Asia/Shanghai` |
+| `datetime` | Generation time, published dates, morning vs evening cutoff |
+| `email.utils.parsedate_to_datetime` | Parse RSS date strings |
+| `pathlib.Path` | Project folder and output paths |
+| `urllib.parse` | Hosts and `url=` values from Google News links |
+| `zoneinfo.ZoneInfo` | All local times use `Asia/Shanghai` |
 
 ## News sources
 
-No paid news API is used. Headlines come from public RSS feeds.
+No NewsAPI or other key-based news API is used. Headlines come from public **RSS** feeds.
+
+RSS is a public XML list that many news sites publish: title, link, time, and a short summary. The script downloads those URLs and parses them. No account or API key is required.
 
 ### Worldwide
 
@@ -60,107 +80,110 @@ No paid news API is used. Headlines come from public RSS feeds.
 ### China
 
 1. Google News China (zh-CN)
-2. Google News search for `??` in the last day
+2. Google News search for China in Chinese, last day
 3. BBC Chinese (simplified) RSS
-4. Google News English search for `China` in the last day (fallback)
+4. Google News English search for `China`, last day (fallback)
 
 ### AI
 
 1. Google News search for `artificial intelligence`, `generative AI`, `ChatGPT`, `OpenAI`, `LLM`
-2. Google News Chinese search for `????` / `???`
+2. Google News Chinese search for AI / large-model terms
 3. The Verge AI RSS
 
-Feeds are tried in order. The first 10 unique headlines in a section are kept. If one feed fails (timeout, HTTP 400), the next feed is used.
+Feeds are tried in order. The first 10 unique headlines in a section are kept. If one feed fails, the next feed is used.
 
 ## Methods in `generate_news.py`
 
 ### `fetch_feed(url)`
 
-Downloads one RSS URL with `requests.get`. A Chrome-like User-Agent is sent because some publishers block the default Python client. The response body is parsed with `feedparser`. Each entry becomes a dict: title, link, source, published time, summary.
+Downloads one RSS URL with `requests.get`. A Chrome-like User-Agent is sent because some publishers block the default Python client. `feedparser` turns the XML into entries: title, link, source, published time, summary.
 
-### `clean_text(value)` / `clean_summary(value)`
+### `extract_source(...)`
 
-Removes HTML tags, unescapes entities, and collapses whitespace. Summaries are truncated to about 280 characters. Google News "View Full Coverage" boilerplate is removed.
-
-### `extract_source(entry, title, feed_title, link)`
-
-Resolves the outlet for each story, in this order:
+Finds the real outlet, in this order:
 
 1. RSS `<source>` title from Google News
 2. Trailing ` - Outlet` text in the headline
 3. Feed title, if it is not a generic Google News label
-4. Domain lookup from `DOMAIN_SOURCES` (BBC, Reuters, Xinhua, The Verge, and others)
-
-Generic labels such as `Google News` are discarded.
+4. Domain lookup (`DOMAIN_SOURCES`)
 
 ### `unwrap_link(entry)`
 
-Prefers a publisher URL over a Google News redirect:
+Prefers a publisher URL over a Google News redirect.
 
-1. Scan HTML in the summary for the first non-Google `href`
-2. Else read `?url=` from a Google News link
-3. Else keep the original RSS link
+### `collect_top10(feeds)`
 
-### `parse_published(entry)`
+Deduplicates headlines and stops at 10 stories per section.
 
-Parses RSS dates and converts them to Asia/Shanghai.
+### `translate_to_zh(text)`
 
-### `normalize_title(title)` / `collect_top10(feeds)`
+English headlines get a Chinese line underneath. Translation uses public Google / MyMemory endpoints, not an LLM and not a paid Translate API key.
 
-Builds a fingerprint from letters, digits, and CJK characters. Near-duplicate headlines are skipped. Collection stops at 10 stories per section.
+### `current_edition(now)` / `load_state` / `merge_edition` / `save_state`
 
-### `write_document(sections, generated_at)`
+- Before 19:00: morning edition
+- From 19:00: evening edition
+- Same date: keep morning, write or replace evening only
+- New date: start empty, so evening is hidden until 7:00 PM
+- State is stored in `site/briefing.json`
 
-Creates the Word file with `python-docx`:
+### `write_document(state, generated_at)`
 
-- Header: `Daily News | YYYY-MM-DD HH:MM`
-- Title and weekday date
-- Three numbered sections
-- Each item: headline, source, date, summary, clickable link
-- English headlines and summaries get a Chinese translation underneath via the Google Translate public endpoint
-- Fonts: Calibri for Latin text, PingFang SC for Chinese (`w:eastAsia`)
-- Low-level OOXML for a teal rule and hyperlinks
-- Output name: `Daily News.docx` (overwritten every run; older dated copies are removed)
+Writes `Daily News.docx`:
 
-### `write_html(sections, generated_at)`
+- Date in the header (no clock time)
+- Morning block first, then evening block if it exists
+- Each item: headline, source, date, Chinese translation, link
+- Fonts: Calibri plus PingFang SC for Chinese
 
-Writes the same three lists to `site/index.html`: newspaper layout, Chinese translations under English headlines, and GitHub Pages hosting.
+### `write_html(state, generated_at)`
 
-## Scheduling and shell tools
+Calls `web_page.render_site` and writes `site/index.html`. Same two-edition layout as the Word file.
+
+## Scheduling
+
+**LaunchAgents** is built into macOS. The system service `launchd` reads `~/Library/LaunchAgents/com.aria.dailynews.plist` and runs `run.sh` at 09:00 and 19:00.
+
+**Cron** is the usual Linux/server timer (a time rule plus a command). This Mac job does not use cron. GitHub Actions uses a cron-style rule in UTC:
+
+| Local time (Asia/Shanghai) | GitHub Actions cron (UTC) |
+| --- | --- |
+| 09:00 | `0 1 * * *` |
+| 19:00 | `0 11 * * *` |
 
 | Tool | Role |
 | --- | --- |
-| `run.sh` | Create/activate the venv, install deps, run `generate_news.py` |
-| `install_schedule.sh` | Write `~/Library/LaunchAgents/com.aria.dailynews.plist` and load it |
-| `uninstall_schedule.sh` | Unload and remove that Launch Agent |
-| `launchctl bootstrap` / `bootout` | Modern macOS load/unload |
-| `launchctl load` / `unload` | Fallback on older macOS |
-| `StartCalendarInterval` | Fire at 09:00 local time every day |
-| Project `logs/` | stdout/stderr from the scheduled run |
+| `run.sh` | Create/activate the venv, install deps, generate, publish site |
+| `deploy_site.sh` | Commit `site/index.html` and `site/briefing.json`, then push |
+| `install_schedule.sh` | Install the 9:00 and 19:00 Launch Agent |
+| `uninstall_schedule.sh` | Remove that Launch Agent |
+| `launchctl bootstrap` / `bootout` | Load/unload the agent on current macOS |
+| GitHub Actions | Rebuild and publish the website at 9:00 and 19:00 even if this Mac is off |
+| GitHub Pages | Public host: https://yyd007.github.io/daily-news/ |
 
 ## Document and file conventions
 
 | Item | Detail |
 | --- | --- |
-| Output format | Word `.docx` plus `site/index.html` |
-| Filename | Always `Daily News.docx` and `site/index.html`; both overwritten |
-| Hosting | GitHub Pages at https://yyd007.github.io/daily-news/ |
+| Word file | Always `Daily News.docx` |
+| Webpage | Always `site/index.html` |
+| Same day | Morning stays; 7:00 PM is appended below |
+| New day | File and page are replaced; no evening block before 19:00 |
 | Timezone | Asia/Shanghai |
-| Generated files | Word files, `.venv/`, and `logs/` are gitignored |
+| Gitignore | `.venv/`, `logs/`, `*.docx` |
 
 ## Version control and GitHub
 
 | Tool | Role |
 | --- | --- |
-| Git | Local repo in this folder, branch `main` |
-| GitHub | Remote `git@github.com:yyd007/daily-news.git` |
-| SSH | Push/auth as GitHub user `yyd007` |
-| GitHub REST API | Used to create the repository and enable Pages |
-| GitHub Actions | Rebuilds the website at 09:00 and 19:00 Asia/Shanghai. Same-day evening is appended; a new date replaces the page. |
-| `deploy_site.sh` | After the local 9:00 AM run, commits `site/index.html` and pushes it live |
+| Git | Local repo, branch `main` |
+| GitHub | `git@github.com:yyd007/daily-news.git` (public) |
+| SSH | Push as `yyd007` |
+| GitHub Pages | Public webpage, no login needed to read |
 
 ## What was intentionally not used
 
-- No NewsAPI or other key-based news API
-- No database
-- No LLM for summarization; summaries come from the RSS entries
+- No NewsAPI or other key-based news API. Information is read from public RSS feeds.
+- No database. Same-day morning/evening state is a JSON file.
+- No cron on this Mac. The Mac timer is LaunchAgents. GitHub Actions uses a cron-style UTC schedule.
+- No LLM for summarization. Short text comes from RSS; Chinese lines are machine translation of headlines.
