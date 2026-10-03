@@ -1,6 +1,7 @@
 name: Publish daily news
 
 on:
+  # 01:00 UTC is 09:00 in Asia/Shanghai
   schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:

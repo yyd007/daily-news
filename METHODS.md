@@ -156,7 +156,8 @@ Writes the same three lists to `site/index.html`: newspaper layout, Chinese tran
 | GitHub | Remote `git@github.com:yyd007/daily-news.git` |
 | SSH | Push/auth as GitHub user `yyd007` |
 | GitHub REST API | Used to create the repository and enable Pages |
-| GitHub Actions | Daily rebuild at 01:00 UTC (09:00 Asia/Shanghai) and Pages deploy |
+| GitHub Actions | Rebuilds and publishes the website every day at 09:00 Asia/Shanghai (cron `0 1 * * *` UTC) |
+| `deploy_site.sh` | After the local 9:00 AM run, commits `site/index.html` and pushes it live |
 
 ## What was intentionally not used
 

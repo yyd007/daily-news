@@ -22,11 +22,17 @@ cd "/Users/aria/Downloads/daily news"
 
 ## Automatic daily run (9:00 AM)
 
+This Mac writes `Daily News.docx` at 9:00 AM and also publishes the webpage.
+
+The live site is also rebuilt every day at 9:00 AM Asia/Shanghai by GitHub Actions, even if this computer is off:
+
+https://yyd007.github.io/daily-news/
+
 ```bash
 ./install_schedule.sh
 ```
 
-To stop the daily job:
+To stop the local Mac job:
 
 ```bash
 ./uninstall_schedule.sh
