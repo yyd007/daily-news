@@ -27,6 +27,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Generate briefing
+        if: github.event_name != 'push'
         run: python generate_news.py
       - uses: actions/upload-pages-artifact@v3
         with:
