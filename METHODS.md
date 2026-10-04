@@ -142,14 +142,14 @@ Calls `web_page.render_site` and writes `site/index.html`. Same two-edition layo
 
 ## Scheduling
 
-**LaunchAgents** is built into macOS. The system service `launchd` reads `~/Library/LaunchAgents/com.aria.dailynews.plist` and runs `run.sh` at 09:00 and 19:00.
+**LaunchAgents** is built into macOS. The system service `launchd` reads `~/Library/LaunchAgents/com.aria.dailynews.plist` and runs a wrapper at 09:00 and 19:00. The wrapper lives next to the plist (`com.aria.dailynews.run.sh`) so `launchd` never opens the project path, which contains a space and sits under `Downloads`. The wrapper then `cd`s into this folder and sources `run.sh`. Logs go to `~/Library/Logs/daily-news/`.
 
-**Cron** is the usual Linux/server timer (a time rule plus a command). This Mac job does not use cron. GitHub Actions uses a cron-style rule in UTC:
+**Cron** is the usual Linux/server timer (a time rule plus a command). This Mac job does not use cron. GitHub Actions uses a cron-style rule in UTC, set 8 minutes past the hour because GitHub often drops jobs scheduled at `:00`:
 
 | Local time (Asia/Shanghai) | GitHub Actions cron (UTC) |
 | --- | --- |
-| 09:00 | `0 1 * * *` |
-| 19:00 | `0 11 * * *` |
+| 09:08 | `8 1 * * *` |
+| 19:08 | `8 11 * * *` |
 
 | Tool | Role |
 | --- | --- |
@@ -158,7 +158,7 @@ Calls `web_page.render_site` and writes `site/index.html`. Same two-edition layo
 | `install_schedule.sh` | Install the 9:00 and 19:00 Launch Agent |
 | `uninstall_schedule.sh` | Remove that Launch Agent |
 | `launchctl bootstrap` / `bootout` | Load/unload the agent on current macOS |
-| GitHub Actions | Rebuild and publish the website at 9:00 and 19:00 even if this Mac is off |
+| GitHub Actions | Rebuild and publish the website at 9:08 and 19:08 even if this Mac is off |
 | GitHub Pages | Public host: https://yyd007.github.io/daily-news/ |
 
 ## Document and file conventions

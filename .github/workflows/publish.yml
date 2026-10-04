@@ -1,10 +1,11 @@
 name: Publish daily news
 
 on:
-  # 01:00 UTC = 09:00 Asia/Shanghai; 11:00 UTC = 19:00 Asia/Shanghai
+  # 01:08 UTC = 09:08 Asia/Shanghai; 11:08 UTC = 19:08 Asia/Shanghai.
+  # Offset 8 minutes past the hour so GitHub is less likely to drop the run.
   schedule:
-    - cron: "0 1 * * *"
-    - cron: "0 11 * * *"
+    - cron: "8 1 * * *"
+    - cron: "8 11 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -16,7 +17,7 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
