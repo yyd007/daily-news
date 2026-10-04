@@ -142,7 +142,7 @@ Calls `web_page.render_site` and writes `site/index.html`. Same two-edition layo
 
 ## Scheduling
 
-**LaunchAgents** is built into macOS. The system service `launchd` reads `~/Library/LaunchAgents/com.aria.dailynews.plist` and runs a wrapper at 09:00 and 19:00. The wrapper lives next to the plist (`com.aria.dailynews.run.sh`) so `launchd` never opens the project path, which contains a space and sits under `Downloads`. The wrapper then `cd`s into this folder and sources `run.sh`. Logs go to `~/Library/Logs/daily-news/`.
+**LaunchAgents** is built into macOS. The system service `launchd` reads `~/Library/LaunchAgents/com.aria.dailynews.plist` and runs a wrapper at 09:00 and 19:00. The wrapper lives next to the plist (`com.aria.dailynews.run.sh`) so `launchd` never opens the project path as a zsh script file. That failed with `can't open input file` because the folder name has a space and sits under `Downloads`. The wrapper `cd`s here and calls `.venv/bin/python generate_news.py` plus `deploy_site.sh`. Logs go to `~/Library/Logs/daily-news/`.
 
 **Cron** is the usual Linux/server timer (a time rule plus a command). This Mac job does not use cron. GitHub Actions uses a cron-style rule in UTC, set 8 minutes past the hour because GitHub often drops jobs scheduled at `:00`:
 

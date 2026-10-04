@@ -8,12 +8,22 @@ LOG_DIR="$HOME/Library/Logs/daily-news"
 PROJECT="$(cd "$(dirname "$0")" && pwd)"
 mkdir -p "$LOG_DIR"
 
+# launchd cannot use this project path as zsh's script file: the folder
+# name has a space and sits under Downloads. Run a wrapper with no spaces
+# and call python by absolute path instead of `source ./run.sh`.
 cat > "$WRAPPER" <<EOF
 #!/bin/zsh
 set -euo pipefail
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:\$PATH"
-cd $(printf '%q' "$PROJECT")
-source ./run.sh
+PROJECT=$(printf '%q' "$PROJECT")
+cd "\$PROJECT"
+if [[ ! -x .venv/bin/python ]]; then
+  python3 -m venv .venv
+fi
+.venv/bin/python -m pip install -q --upgrade pip
+.venv/bin/python -m pip install -q -r requirements.txt
+.venv/bin/python generate_news.py
+/bin/zsh ./deploy_site.sh
 EOF
 chmod +x "$WRAPPER"
 
