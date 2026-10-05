@@ -9,4 +9,4 @@ source .venv/bin/activate
 python -m pip install -q --upgrade pip
 python -m pip install -q -r requirements.txt
 python generate_news.py
-./deploy_site.sh
+python publish_site.py

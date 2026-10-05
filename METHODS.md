@@ -142,19 +142,22 @@ Calls `web_page.render_site` and writes `site/index.html`. Same two-edition layo
 
 ## Scheduling
 
-**LaunchAgents** is built into macOS. The system service `launchd` reads `~/Library/LaunchAgents/com.aria.dailynews.plist` and runs a wrapper at 09:00 and 19:00. The wrapper lives next to the plist (`com.aria.dailynews.run.sh`) so `launchd` never opens the project path as a zsh script file. That failed with `can't open input file` because the folder name has a space and sits under `Downloads`. The wrapper `cd`s here and calls `.venv/bin/python generate_news.py` plus `deploy_site.sh`. Logs go to `~/Library/Logs/daily-news/`.
+**LaunchAgents** is built into macOS. The system service `launchd` reads `~/Library/LaunchAgents/com.aria.dailynews.plist` and runs a wrapper at 09:00 and 19:00. The wrapper lives next to the plist (`com.aria.dailynews.run.sh`) so `launchd` never opens a zsh script under `Downloads`. That path has a space and is privacy-restricted; `zsh run.sh` and `zsh deploy_site.sh` both failed with `can't open input file`. The wrapper `cd`s here and calls `.venv/bin/python generate_news.py` then `publish_site.py`. Logs go to `~/Library/Logs/daily-news/`.
 
 **Cron** is the usual Linux/server timer (a time rule plus a command). This Mac job does not use cron. GitHub Actions uses a cron-style rule in UTC, set 8 minutes past the hour because GitHub often drops jobs scheduled at `:00`:
 
 | Local time (Asia/Shanghai) | GitHub Actions cron (UTC) |
 | --- | --- |
 | 09:08 | `8 1 * * *` |
+| 09:38 | `38 1 * * *` (backup) |
 | 19:08 | `8 11 * * *` |
+| 19:38 | `38 11 * * *` (backup) |
 
 | Tool | Role |
 | --- | --- |
 | `run.sh` | Create/activate the venv, install deps, generate, publish site |
-| `deploy_site.sh` | Commit `site/index.html` and `site/briefing.json`, then push |
+| `publish_site.py` | Commit `site/index.html` and `site/briefing.json`, then push |
+| `deploy_site.sh` | Thin wrapper around `publish_site.py` for a manual run |
 | `install_schedule.sh` | Install the 9:00 and 19:00 Launch Agent |
 | `uninstall_schedule.sh` | Remove that Launch Agent |
 | `launchctl bootstrap` / `bootout` | Load/unload the agent on current macOS |

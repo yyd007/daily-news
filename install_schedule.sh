@@ -23,7 +23,7 @@ fi
 .venv/bin/python -m pip install -q --upgrade pip
 .venv/bin/python -m pip install -q -r requirements.txt
 .venv/bin/python generate_news.py
-/bin/zsh ./deploy_site.sh
+.venv/bin/python publish_site.py
 EOF
 chmod +x "$WRAPPER"
 
