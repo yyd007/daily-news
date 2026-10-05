@@ -142,7 +142,9 @@ Calls `web_page.render_site` and writes `site/index.html`. Same two-edition layo
 
 ## Scheduling
 
-**LaunchAgents** is built into macOS. The system service `launchd` reads `~/Library/LaunchAgents/com.aria.dailynews.plist` and runs a wrapper at 09:00 and 19:00. The wrapper lives next to the plist (`com.aria.dailynews.run.sh`) so `launchd` never opens a zsh script under `Downloads`. That path has a space and is privacy-restricted; `zsh run.sh` and `zsh deploy_site.sh` both failed with `can't open input file`. The wrapper `cd`s here and calls `.venv/bin/python generate_news.py` then `publish_site.py`. Logs go to `~/Library/Logs/daily-news/`.
+**LaunchAgents** is built into macOS. The system service `launchd` reads `~/Library/LaunchAgents/com.aria.dailynews.plist` and runs `~/daily-news/run.sh` at 09:00 and 19:00.
+
+The underlying restriction is from macOS, not from one script name. LaunchAgents cannot use a zsh/bash file as their program if that file is under `Downloads` / `Desktop` / `Documents`, or if the path contains a space. That is why `run.sh`, `source ./run.sh`, and `deploy_site.sh` all failed the same way. The scheduled checkout is therefore `~/daily-news` (no space, not in Downloads). `install_schedule.sh` rsyncs this project there. Logs go to `~/Library/Logs/daily-news/`.
 
 **Cron** is the usual Linux/server timer (a time rule plus a command). This Mac job does not use cron. GitHub Actions uses a cron-style rule in UTC, set 8 minutes past the hour because GitHub often drops jobs scheduled at `:00`:
 

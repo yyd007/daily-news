@@ -23,9 +23,11 @@ See [METHODS.md](METHODS.md) for the methods, tech, and tools used.
 ## Run once
 
 ```bash
-cd "/Users/aria/Downloads/daily news"
+cd "$HOME/daily-news"
 ./run.sh
 ```
+
+The scheduled copy lives at `~/daily-news`. macOS will not run LaunchAgent shell scripts from `Downloads` or from a folder name with a space.
 
 ## Automatic daily run (9:00 AM and 7:00 PM)
 

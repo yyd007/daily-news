@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-"""Commit and push the generated website. Used by the LaunchAgent wrapper
-because launchd cannot execute zsh scripts inside Downloads."""
+"""Commit and push the generated website."""
 
 from __future__ import annotations
 

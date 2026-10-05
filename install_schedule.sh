@@ -1,31 +1,28 @@
 #!/bin/zsh
 set -euo pipefail
 
+# macOS LaunchAgents cannot execute zsh/bash scripts from Downloads,
+# Desktop, Documents, or any path with a space. The scheduled job always
+# runs from $HOME/daily-news.
+
 LABEL="com.aria.dailynews"
 PLIST="$HOME/Library/LaunchAgents/${LABEL}.plist"
-WRAPPER="$HOME/Library/LaunchAgents/${LABEL}.run.sh"
+OLD_WRAPPER="$HOME/Library/LaunchAgents/${LABEL}.run.sh"
 LOG_DIR="$HOME/Library/Logs/daily-news"
-PROJECT="$(cd "$(dirname "$0")" && pwd)"
-mkdir -p "$LOG_DIR"
+RUNTIME="$HOME/daily-news"
+SRC="$(cd "$(dirname "$0")" && pwd -P)"
+mkdir -p "$LOG_DIR" "$RUNTIME"
 
-# launchd cannot use this project path as zsh's script file: the folder
-# name has a space and sits under Downloads. Run a wrapper with no spaces
-# and call python by absolute path instead of `source ./run.sh`.
-cat > "$WRAPPER" <<EOF
-#!/bin/zsh
-set -euo pipefail
-export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:\$PATH"
-PROJECT=$(printf '%q' "$PROJECT")
-cd "\$PROJECT"
-if [[ ! -x .venv/bin/python ]]; then
-  python3 -m venv .venv
+if [[ "$SRC" != "$RUNTIME" ]]; then
+  /usr/bin/rsync -a --delete \
+    --exclude .venv \
+    --exclude logs \
+    --exclude __pycache__ \
+    --exclude .DS_Store \
+    "$SRC/" "$RUNTIME/"
 fi
-.venv/bin/python -m pip install -q --upgrade pip
-.venv/bin/python -m pip install -q -r requirements.txt
-.venv/bin/python generate_news.py
-.venv/bin/python publish_site.py
-EOF
-chmod +x "$WRAPPER"
+
+rm -f "$OLD_WRAPPER"
 
 cat > "$PLIST" <<EOF
 <?xml version="1.0" encoding="UTF-8"?>
@@ -37,7 +34,7 @@ cat > "$PLIST" <<EOF
   <key>ProgramArguments</key>
   <array>
     <string>/bin/zsh</string>
-    <string>${WRAPPER}</string>
+    <string>${RUNTIME}/run.sh</string>
   </array>
   <key>StartCalendarInterval</key>
   <array>
@@ -55,7 +52,7 @@ cat > "$PLIST" <<EOF
     </dict>
   </array>
   <key>WorkingDirectory</key>
-  <string>${HOME}/Library/LaunchAgents</string>
+  <string>${RUNTIME}</string>
   <key>EnvironmentVariables</key>
   <dict>
     <key>PATH</key>
@@ -73,11 +70,13 @@ EOF
 
 UID_NUM="$(id -u)"
 launchctl bootout "gui/${UID_NUM}" "$PLIST" >/dev/null 2>&1 || true
+launchctl bootout "gui/${UID_NUM}/${LABEL}" >/dev/null 2>&1 || true
 launchctl unload "$PLIST" >/dev/null 2>&1 || true
 if ! launchctl bootstrap "gui/${UID_NUM}" "$PLIST" >/dev/null 2>&1; then
   launchctl load "$PLIST"
 fi
+
 echo "Scheduled daily news for 9:00 AM and 7:00 PM."
+echo "Runtime: $RUNTIME"
 echo "Plist: $PLIST"
-echo "Wrapper: $WRAPPER"
 echo "Logs: $LOG_DIR"
