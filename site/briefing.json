@@ -1,79 +1,70 @@
 {
   "date": "2026-10-06",
   "morning": {
-    "generated_at": "2026-10-06T03:50:19.197814+08:00",
+    "generated_at": "2026-10-06T15:27:37.606105+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "U.S. officials seeking details of reported Russian plague death, quarantines",
-          "title_zh": "美国官员正在寻求有关俄罗斯鼠疫死亡和隔离的详细信息",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDVGSEE3WEp6TnEyYU50aERYUHgzbU1VMTZrUG1SRnhHRE9RUkVDUVUwbVZHM3VjLUdaM2dKNmgzeTBpc3hoenpjWV90cHZZOEMxU1habm14bVJBT29Va0UyOUU1MGdiN2RXUWc1Q3pVZEQ4czNGMklEbVB6TEdHTXJXT0J3c0hFeXVidU05c3JqWnBjeG1mN1hCYWFfaUxpczRlQ3VlYjk4cHdiN0kwY3VlTmdwMkt3QnJES01zcw?oc=5",
+          "title": "Spanish election threatens to blow up Brussels’ political balance",
+          "title_zh": "西班牙大选可能会破坏布鲁塞尔的政治平衡",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzlFa2JxNVpyaGxmRkpPY2MzakppbXVLNWhYQTVFUWU2Ym5vYmE0bU10UzV4TVFySG9EcXAwT2NjcGtQSlRxeEo2VEp3M0F2SkJnUlRxazZ6UXJxQkRTSThJZzkybXluSzZodEM0VktkSlVHNjNiNmpJa3A3OTlpZHFFQTZqNkNEVUhaLU5QSlg4eTVHelVLZS1WVTNHWnBmTk1jUWhWQVBhZUp5Mllja21UbXhSdWc0bi1LRkc1eEZtbzRsUUpKdDJlSQ?oc=5",
+          "source": "politico.eu",
+          "published": "2026-10-06T11:18:00+08:00",
+          "summary": "Spanish election threatens to blow up Brussels’ political balance politico.eu Spain’s Leader Calls an Early Election The New York Times Spain gets a surprise election The Economist Spanish prime minister calls snap election after housing protests BBC Trump's nemesis in...",
+          "summary_zh": ""
+        },
+        {
+          "title": "What is pneumonic plague, and how will we know if it’s spreading in Russia?",
+          "title_zh": "什么是肺鼠疫，我们如何知道它是否正在俄罗斯传播？",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTY2Sm9xcDdvaWQzcDJlUmVTQ3lJcmJUV2swUGZLM0M5c0szNnlZSlV2Yjc2OUlEdnUtMEtCQ1dXU05CNEEzSnpJNmVNUUFIbHFTelpTenJWb3Y4TDRvbm5lZWZzMGNpd0liNWZZRnJqa0dEUllBZFc4aC1rZDhqZVhzRWxXd2FuU01sV0pIa0pCcERTaXRNZXlGWGZLak40NmQtWnJkMGhyc1VzYm5ULUg0QzRzZw?oc=5",
           "source": "The Washington Post",
-          "published": "2026-10-06T03:42:10+08:00",
-          "summary": "U.S. officials seeking details of reported Russian plague death, quarantines The Washington Post Dozens quarantined after researcher at Russian plague laboratory dies of ‘unknown’ infection CNN State Department monitoring reported fatal case of pneumonic plague in Russia...",
+          "published": "2026-10-06T09:24:04+08:00",
+          "summary": "What is pneumonic plague, and how will we know if it’s spreading in Russia? The Washington Post What is pneumonic plague and how dangerous is it? CNN Trump Says He Is Concerned About Russian Plague Lab Death Forbes Dozens quarantined in Siberia after plague institute lab...",
           "summary_zh": ""
         },
         {
-          "title": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait",
-          "title_zh": "也门政府军将胡塞武装逐出曼德海峡",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVotTm16YzZEU2xvWHNOcjllZVU1RlNYZjBoUnMzWThDbHRLUmJpUE16d0lSR00xcXRBNXppSGcwZHpjNGd6azFjeVBWSHV5T3lZWG9mZEdMRmhBYzVhMF9seTQ2UnZTa201X3hHb2o1ZHN5alNJRmFPcUdvaWVnX1ZKWFZVYmwyS2huNHg2bG1TNlVNT3RuUk5Mbi1naHRFaFQ0YjRKZ0YtVVUta3V2Q1dmQzN5bTlkZmpV?oc=5",
+          "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+          "title_zh": "特朗普称“威胁”导致美国从英国皇家空军费尔福德撤回轰炸机",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2NTE5Y0llSGt0NXhzZThxeGl6QTRqS0x1YzdjRjNYcTh2QVFHRzJiYlRvRjBfZzl0bzdLeGI1bEM1SktONTBxU2RlWVI3VVQ0S0VpeGZTZ0ZZQlk?oc=5",
+          "source": "BBC",
+          "published": "2026-10-06T12:25:22+08:00",
+          "summary": "Trump says 'threat' led US to pull bombers from RAF Fairford BBC Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base The New York Times U.S. B-1 bombers evacuated from UK base because of threat of Iranian drone attack Axios 'We had a threat':...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Yemen government forces claim recapturing Mocha from Houthis",
+          "title_zh": "也门政府军声称已从胡塞武装手中夺回摩卡",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUR2N0t5WlpTWk9kYkljOWdERTlyUlo3RFcyS0dWQmFxUXpMZVBUcm95aDByRWhHbkpNWlhQN3R2RTNHa0hiYXgwRk9NWUN4UGRiNVJvZ1NMcWhkWDV2ZlFNZWtSN1kwN3pvQlhzSXpDRHNKMVRudlROa09jS1A0Y0dnUU9DMV9xNk84ZUFwWHhoOUw3b1VCTzJtVEdZVl9PVWZxUUFEQVRrNDY1cElWSDBIc9IBuAFBVV95cUxOS2JNb1hvM2hkdXIwZ0hyWnJkQk01blV5U0d6LW52MTVwbXBrdFZoeE55enZCaGJmQmdLWmVCdnlfVXBkSm1hWlVsQndOOHlqLVdoVEJfUnQ1aDdXSldDdVlqZWRRVmVuV2ZGa0lBbF9CVV9fUFNBbWdCS2I4bHA2ZTAyQ2dZNDhWYzJfU2w3WU9zbFByelRzMl81UlVBQUs5cVZodEdRTnJrUVl6a0huYkU4RlZkWUdQ?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-10-06T12:18:14+08:00",
+          "summary": "Yemen government forces claim recapturing Mocha from Houthis Al Jazeera Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis Al Jazeera Yemen Armed Forces Retake Control Over Red Sea Chokepoint Bloomberg.com Yemeni military says it has retaken Mokha and...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Teenager's hand blown off as French school protests enter third week",
+          "title_zh": "法国学校抗议活动进入第三周，青少年的手被炸断",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2hsMDFzX0Q1QTMzeEJpSHVybjh6OS1iWDN4OEVpM3RaNlRFY3FOUnRwTXdidExTVlprbzgyS09oc1FEck40bjhaWUEtdk1aYmZjZzZXQVp3U19KRjJmcWR2eHU0Q2xUcUN2d1RqWTJFaVQwSzNFS3Mxd2NjZy1JSG5FRk5GSndFekc3eWVHaWdlUDRvZzFrNWR3WFBCYmRzTkxZSU5TMnQ0Z1JoUDIyeHUyRVBZQQ?oc=5",
           "source": "Reuters",
-          "published": "2026-10-06T00:33:49+08:00",
-          "summary": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait Reuters Iran war live: Yemen armed forces say they have taken control of Mocha city aljazeera.com Saudi-Backed Forces Launch Fight to Free Bab al-Mandeb from Houthis WSJ Yemeni military says it has retaken Mokha...",
+          "published": "2026-10-06T00:37:27+08:00",
+          "summary": "Teenager's hand blown off as French school protests enter third week Reuters France braces for national day of school protests after injuries and mass arrests BBC Live: Tens of thousands expected at Paris protests as unions join students france24.com France Set for Nationwide...",
           "summary_zh": ""
         },
         {
-          "title": "Spain’s Leader Calls Early Election After Housing Crisis Roils Government",
-          "title_zh": "住房危机扰乱政府后西班牙领导人呼吁提前大选",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXVab2VKTExiN1E3LVNCdE5YSXJUOGdkM0F2TVZNQWt5cGExZFNscTFzSVVvcDBHVl9TSEJGMERoZnBpaFlXaTlmZERudlV2NFFwN3BxZERJWG54d0tJTWlhWWdaTjJ6VzBNUWoxSkZBMGZZYmdSUkFYVE5ybUJyMXRMUENkaDBp?oc=5",
-          "source": "nytimes.com",
-          "published": "2026-10-06T02:16:04+08:00",
-          "summary": "Spain’s Leader Calls Early Election After Housing Crisis Roils Government nytimes.com Spain PM pins hopes on housing crisis to help win snap election bbc.com Spain's prime minister calls early elections as pressure mounts over housing crisis NPR Spain's Sanchez gambles on...",
+          "title": "Australia launches probe into FlyDubai co-pilot’s past, and other Mideast news",
+          "title_zh": "澳大利亚对迪拜航空副驾驶的过去和其他中东新闻展开调查",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUJwQ2l6TEw4Wnoxa1p3UmVXcGJxRjN2RWZVZ3ZCbVBSMlpmS1RWSTZWaXV4eWJlZVI0NThaRTVLM2NDOHhrM0ZfTDBDSlNSM0M1YjVnSzVpNkM0YjJkYlh1ck10Z0NwX25JVDV1alhXZDNFZGluUHNBbVRqdFB3clR1S041dmdaOEdCMjhnZUdyMWNNbkM4MENkbXphSWJSeE5fVE5DSXBBbmpNZk5aUQ?oc=5",
+          "source": "AP News",
+          "published": "2026-10-06T05:02:00+08:00",
+          "summary": "Australia launches probe into FlyDubai co-pilot’s past, and other Mideast news AP News Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit WSJ Suspected Flydubai attacker received flight training in New Zealand ft.com Alleged Flydubai hijacker likely wanted to...",
           "summary_zh": ""
         },
         {
-          "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-          "title_zh": "法国学校抗议者与警察对峙 青少年手被炸断",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0eUZUVGl6Z2MyWVVfSlgtQmNVSlItaUs1bjVycEVRZktrb2FQOFdWTFhlTE9ma05EM0RIVGUzTVlZRlplaWphOHhSSzZ1VFBhWUxYRU85c1QzTTA?oc=5",
-          "source": "bbc.com",
-          "published": "2026-10-06T00:32:18+08:00",
-          "summary": "Teenager's hand blown off during confrontation between France school protesters and police bbc.com France braces for national day of school protests as boy loses hand The Guardian Teenager has hand blown off during French school protests, official says Reuters Teen loses hand...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit",
-          "title_zh": "多次安全故障导致 FlyDubai 飞行员进入驾驶舱",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHlVbENWcXJoYlFOV1F2dC1WV1NERnRKeEI0OWliWW9jaUowMnZYMkNHMFEtajZuYUtMT1RJVVVzakhCTmlPV001c292NnBIbXZEd091Qk9PYWtPVkhuTU1mLTVrS1ItQ3JBcWYtTnlRYlI2eTVLZkFfSDFEb1pSNlYycnVGcXRWeWdhWDNhQQ?oc=5",
-          "source": "WSJ",
-          "published": "2026-10-05T21:16:56+08:00",
-          "summary": "Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit WSJ Alleged Flydubai hijacker likely wanted to target Israel’s Ben Gurion Airport, sources say CNN Co-pilot planned flydubai attack before joining airline, two Israeli officials say Reuters FlyDubai attacker...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Russia pounds Kyiv during German chancellor’s visit in a new escalation",
-          "title_zh": "德国总理访问期间俄罗斯袭击基辅，局势再次升级",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjRmTXhRUFl2VEFsRXQyOGhKUzI4cHpyRzNQQjBtSnk4WkxQczM1MkdRaGFRX0VhejdDSHV2UktOYjJMdFlZZmlVSjdwUXZyTjVpMHhYWmFyeWJpRlhSeDdnd0V3UXFyOTFXY0M4c01ibFlHaEVxenJJdUdZZ1NPSjZUZWh5YTBWNHBjUW5peFZqaGpXbzhGdmxwNVI1NEVUb01OS2h2Ql92cTQ?oc=5",
-          "source": "NBC News",
-          "published": "2026-10-05T19:55:04+08:00",
-          "summary": "Russia pounds Kyiv during German chancellor’s visit in a new escalation NBC News Merz unveils fresh military aid in Kyiv, says Germany won't be intimidated Reuters Merz pledges military and financial aid on visit to Ukraine dw.com Europe Today: Russia hits Kyiv as Merz...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Brazil Election Could Give Bolsonaro a Key Role in Trump’s Latin America Map",
-          "title_zh": "巴西大选可能会让博尔索纳罗在特朗普的拉丁美洲版图中发挥关键作用",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTBnQ2J5R2FOdTdzdUh1dWNYU0RhbHhyZTN0VGR5VUpyU1Ezc0I4bjF5NEdWRmdMN3pVMzAxQ1lESTYzTDI0UDBYdE5jNHM3Mldtc3RUNEs0Z1lpLUlWb2JmenBNamtmRnZSaDdqVzdyczdxa09CMnZSREpCWVhNWG13Tkd0Z2xGVDhNamZ0WQ?oc=5",
-          "source": "nytimes.com",
-          "published": "2026-10-06T02:45:00+08:00",
-          "summary": "Brazil Election Could Give Bolsonaro a Key Role in Trump’s Latin America Map nytimes.com Why the Populist Right Is Gaining Ground The American Mind Why The Trump Effect In Latin America Is Completely Misunder ИФЗ РАН Elections Crucial to Curbing Far Right International...",
-          "summary_zh": ""
-        },
-        {
-          "title": "France, Germany push for EU rapid-response trade tool with likely focus on China",
-          "title_zh": "法国、德国推动欧盟快速反应贸易工具，可能重点关注中国",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDQ0OVBka2szNklkWXItcVUwNElEU1RVai0tcTQ5Rm5sNVhjZzBIWnRYRkFVYVV4aHlibWUybzYtVGhIa203N19GZlI0ZkFzMlVGLVVRNGpQZ3BSTC1JWllRUjlxenc1MHBRdEk0T0Y4QUhVcFZhWEs0c0dlLWlJVFhzUlhORzZ4U3VNWVBEMDBhS0RtQU5IT3YyNkxTWlhzNm80ZDFn?oc=5",
-          "source": "Reuters",
-          "published": "2026-10-06T00:23:22+08:00",
-          "summary": "France, Germany push for EU rapid-response trade tool with likely focus on China Reuters Germany and France Push Trade Weapon to Bar China Access Bloomberg.com Germany and France want EU storm gates for China’s trade surge The Economist Germany and France Are Proposing a New...",
+          "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
+          "title_zh": "分离主义魁北克党赢得魁北克选举，重振主权",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMUdIYUFvS19NdE1VWm92aGltcXRYVHVnTWN6WWM0WWtoQTlsZDZNWjBrV3FmYlJjZ2JXTHF5Z2ZuRmhIenJVVTRTT253MERZYndSbGJMVGNmNVR2b1l3NmJsdHNmWldvR0xJZ0h4enpiQjRabHZuZVJ4RFVieGRvNWZwYUp2YzJralc4SXBNQ1l0d3JiT09neEJabw?oc=5",
+          "source": "The New York Times",
+          "published": "2026-10-06T12:11:00+08:00",
+          "summary": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push The New York Times Quebec separatists vowing independence vote win provincial election but fall short of majority CNN Canada: Quebec separatists return to power, promise new independence referendum...",
           "summary_zh": ""
         },
         {
@@ -82,173 +73,137 @@
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YWXlhVXFpc1dhNUkya3JvejlrWk5WbHJCYnROY1ZKRjlGR0NHM3M5bjJsTEZrLUdhU21QYU5XaHBJaFg2ZlVYWjN6NUpEN0EwckNROVVrS0VUY3pQN0k0Q0lDdWdCN21RZWNzZ05JR0ZlSHgzeXc?oc=5",
           "source": "CNN",
           "published": "2026-10-05T08:42:00+08:00",
-          "summary": "Britain’s Green Party votes to class Zionism as a form of racism CNN UK Green Party declares Zionism is racism, angering Israel Reuters Zack Polanski may rue lack of leadership when Greens needed him to act The Guardian 'I'm an anti-Zionist Jew and I'm very upset' • Jews in...",
+          "summary": "Britain’s Green Party votes to class Zionism as a form of racism CNN I won't accept exclusion, says Polanski after criticism of Zionism motion BBC European Green Party condemns UK Greens over ‘Zionism is racism’ policy timesofisrael.com UK Green Party declares Zionism is...",
           "summary_zh": ""
         },
         {
-          "title": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran",
-          "title_zh": "伊朗袭击威胁后，美国B-1轰炸机从英国基地撤离",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaGVFcXp0VEluYW14M2pjWk91QUdjLWNoS25SdVBEeU1vZjZ6Y1BRSUVsaHc2aVRmR2V3elJJSHdFdUx6bGpHU01ZVUExRnVCRXpEZUYtSEVkampkVTBhZGlnM181RXVIbXZJN3NOcV8zdlc1QnpQRy0xMjlDUDkycjZfOG5sc192alU1bmp4Nk92QW1xYnRGRm1fQ0cyVGk4Q3J3?oc=5",
-          "source": "Axios",
-          "published": "2026-10-05T22:54:59+08:00",
-          "summary": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran Axios U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats nytimes.com What prompted the US bombers to leave RAF Fairford? bbc.com US pulls bombers from UK base: Is Iran manoeuvring Trump’s...",
+          "title": "Germany and France Push Trade Weapon to Bar China Access",
+          "title_zh": "德国和法国推出贸易武器阻止中国进入",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnNrUWVrM1RLRTYyUF9FSDNYYzFsN3gwWWFqdjRmZU0xNENWSnYySG9VTHA4ejVrMmxabDB6OWhaUFhjR3k0YzgzOG8zckNOZmwxZTJqdm55ZDlFX2RfSkRnOEF1cUEtdWFST0JwVW5FMnFJcHNYbDdfeVFxSDBabW1hYXlPMEtPaHRDZklXcktOZFYzX1VDS3o5dWF1MXg4VmdDN0c1TVdfT2dBUUU3TkMxd20?oc=5",
+          "source": "Bloomberg.com",
+          "published": "2026-10-06T12:02:00+08:00",
+          "summary": "Germany and France Push Trade Weapon to Bar China Access Bloomberg.com Germany and France Are Proposing a New Weapon to Counter Flood of Chinese Goods WSJ Germany and France want EU storm gates for China’s trade surge The Economist France, Germany seek new EU weapon to...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Author and former politician Jeffrey Archer dies aged 86",
+          "title_zh": "作家、前政治家杰弗里·阿彻 (Jeffrey Archer) 去世，享年 86 岁",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54UWFGUWVFZmpRaHZNWXZjeEoweGdmcnNhRFZOaVZ6OTlhQXF3UmFUSGpGOGRqZDQyazdYZUtJUGxWZTBuRk5QSV8xcldRUWZMb2EwczBKOTJUNjg?oc=5",
+          "source": "BBC",
+          "published": "2026-10-06T05:41:53+08:00",
+          "summary": "Author and former politician Jeffrey Archer dies aged 86 BBC Jeffrey Archer: successful novelist, disgraced politician and convicted liar BBC Jeffrey Archer Firmly Believed His Final Novel Was His Best The New York Times Jeffrey Archer, bestselling UK novelist and...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "美国和德国科学家获得今年度诺贝尔生理学或医学奖",
+          "title": "国庆假期前三天武汉线下零售额超66亿元",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPQTZBenBHbVpnLWJoQTdVRVVjNnVoZEE1T2plTG5EcjJpbzhoeFlIWXhUMVBnUzdBMTNiOGsydlZOUVZfcWZaTTMwaTdDZjJvZUNuUzZqa2JnQzUxMWVPamhpdDhJSlJhOGFfUFJucFlPZ2I3VkVOWVBkOGVRNl9yZW1hN0NiMlRGLU1kaGgxdmI2X3V3cGJsWU02U3BZYVl5VXFnYW1RR3pxeGVUaW5OUWtRVnNSRDNQYXc2WDZSeENGbHVYMzR2V2FHMU44cEZPR0JmcmtlSGpOYUEwaHNQYm5ESnVpQloydDVkSzVDd3Q1Vk9xNEo3T25kd0I0T1VlQlRuZUNzRThzUk5xemZtT1BfRmlpVFh3VlI4MktaUTl4dGVGd05mUmVSMll5Y2dvV1RDYW9pVWQwN2Jfdk8tSEdoQVdkZXd6blN5SjFTV052VlI5bmJDYjFYS2_SAdwCQVVfeXFMTXdqWWdSODB1a3FsclVFMjVkbmZXcHhuWTByNWxCRVhkU00taDMzRkQ4ak5SdUtpeGFkODFZMmxtaVdOX1h0MjIwb1hwQ2RsUzFEQzhaNFN0N19HeFZxLXg2LWV6dzZJZjJqSThNdTFRLUoxUGM1cjM3TGhZbWR2Mm50R1kyVk9NTGFJSWMzVldsRy1UWGVmLTRKS2gzZmxUT2NZVHN2OTBpYkRpNkJ1NWIxWmpWNGRjOUU5RWxmb0lvSWJQSHR5Nmhwd3BHczFieEZWNm8xTnZrbXpua2ZYZHZaUkdsTXBjVTUwcFljM3VCZ3l5aWNHYzB2ckZ3LUpKaUpKQkp3aDFZalFWc1VYQ19EQ2JSNVRQVU54WENEVnFIY0ttYTYyRlFTNkU5THQyZkNKNS1mWnJNWEN6Z0ItX0YxZlZleDhFZzZzVmhLSEQzelVBdE4xNEhRYy1J?oc=5",
-          "source": "dw.com",
-          "published": "2026-10-05T18:13:05+08:00",
-          "summary": "美国和德国科学家获得今年度诺贝尔生理学或医学奖 dw.com 为绘制大脑图谱提供梦想机会！诺贝尔委员会详解为何今年拿奖的是光遗传学 新浪新闻_手机新浪网 2026年诺贝尔生理学或医学奖揭晓 news.cctv.com 2026年的这项诺奖级研究，让人类第一次控制大脑 news.ifeng.com 尹烨预测2026年诺贝尔物理学奖 量子物理再成焦点 中华网",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENC1GUlZhbEk3VnVFa1lsdFdDLWRfcTZpMlQ1eFVPWlJ1RTA2TEE2cjNNbFhHcUlFTV9jb1dwUlZRWmZnXzR0ck5rSzlwSzdQRGp2UXVFUFFFdGx2c0VjVGxB?oc=5",
+          "source": "长江网",
+          "published": "2026-10-06T11:48:00+08:00",
+          "summary": "国庆假期前三天武汉线下零售额超66亿元 长江网 攀升、焕新、升腾，国庆消费多点开花！火热假日市场为全年经济回升向好注入持久动能 新浪财经 超3亿消费券、2万场活动 “补贴 贴息”激发假日消费活力 上海热线 假日中国新图景丨烟火升腾 假日消费夯实内需底盘 中国日报网 人气高涨！抚州人开启国庆“买买买”模式 凤凰网",
           "summary_zh": ""
         },
         {
-          "title": "日本开始第24轮核污染水排海",
+          "title": "光遗传学获诺奖，中国已在这条道路上“追光”十年",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5adDNnWXpDSlMySTVmTmIzaTYtQkgwUmdCTjRTei1KT0NBSGdGa2h6NnJydjI1LXNUbWw4MEhWY0kyaWc5ZnM5OG9PSzdVdU9Xc3lGRGxjVWtQYU5ST0dBbzdyWnlwNlZYUWpnTDUtcmQydXpxamNjLWNMaUJtNzg?oc=5",
-          "source": "新华网",
-          "published": "2026-10-05T22:33:37+08:00",
-          "summary": "日本开始第24轮核污染水排海 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtLTZ1UHpZLXpxLUNLdEV2YkZSS2JweVZ1S3BreG5nejZxR1dmZWVMZEhXWWc1WHF1eFRLd2RvUC1lUXViT2w1NGRlT3BhVDRaOURJ?oc=5",
+          "source": "第一财经",
+          "published": "2026-10-06T14:58:04+08:00",
+          "summary": "光遗传学获诺奖，中国已在这条道路上“追光”十年 第一财经 获奖后第一件事是给孩子做三明治：诺贝尔首奖颁给三名“用光研究大脑”的人 凤凰网 从量子物理到基因编辑，诺奖“风向标”背后的华人科学家 新浪新闻 解读2026诺贝尔医学奖——用一束光照亮神经元 thepaper.cn “光开关”为脑科学打开新路 新浪财经",
           "summary_zh": ""
         },
         {
-          "title": "武汉高速迎来返程小高峰 车流有序通行",
+          "title": "10秒钟，6名中国人缅北遭枪杀",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52bVIxWGd2U21QbmxvWjZ2N1Znd2dFa0s2Q0c2aE9RVnJkMU5xbXdxYkNyZDdCRElXT0FWV2o4T3hNWWhtMGxKWHNqZFV0a0txSFFVcXhGNmkydlZTeGEzdUhlT05zWmhORUtxSFJKSHU?oc=5",
-          "source": "中华网",
-          "published": "2026-10-05T21:49:03+08:00",
-          "summary": "武汉高速迎来返程小高峰 车流有序通行 中华网 武汉火车站迎建站以来最大客流考验“日均40万人次”，洪山公安全力以赴保安全护畅通 新浪财经 湖北交警发布最新交通管制及返程提醒→ sohu.com 当反诈遇上电竞，当寻人夜里响起一声“别怕”…… 光谷公安的国庆首日有点暖！ gat.hubei.gov.cn 高峰即将抵达武汉，交通运输部：今天36个高速公路路段易发拥堵，主要集中在湖北、湖南、广东、江苏、浙江、四川、安徽等省份 news.cnhubei.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41OW5VQ0w0RmFvdHE2WUNFcXlCN1l4UTdiNTNDVkNVdjloZmdiXzQxanZRZDlIU3NQXzY5bEJqd1VEQ3VsSHRUcFVoeS15OHJ6TlpnZ05BTXQtc2NwR09IeHZNYXI3TWpSamI3RDdvdDI?oc=5",
+          "source": "观察者网",
+          "published": "2026-10-06T14:10:00+08:00",
+          "summary": "10秒钟，6名中国人缅北遭枪杀 观察者网 缅北电诈主犯随机杀人祭天、有受害者头骨7个弹孔 案件细节曝光 新浪新闻 明学昌畏罪自杀照片公布 观察者网 有10万民警赴中缅边境打击涉我犯罪 铲除电诈毒瘤行动纪实 中华网 电诈集团手段残忍 男子被逼到割腕 缅北电诈黑暗面 中华网",
           "summary_zh": ""
         },
         {
-          "title": "学习新语·家国同心丨做堂堂正正、光荣自豪的中国人",
+          "title": "赓续长征精神 奋进复兴征程丨这口铜锅 是军民情谊的最好见证",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXb0haTk8zdy15ZDA1N2paU2VhWlNVVXZjdi00UXRuVmI4WlBLUXVZOVpXUkw4dWh1bFVYU0MxdERYTW9ZQUk1VVNqbEtfcTZ4b0FfUjdPNFRGVjNhUkdKbk95UlhZcFVpLXRVcU8tbkdyblZxSUthZkp5Q0k?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTJEY2tuQXJVQ1pyUEpVTWRPakJBMjR5eGNpRjdtalVJOXlkNk5WeXlOYl96cWhIa1lLWGk5MmFRb3NmU0F1Rnh3dV9IRHBmY3FONlVIakdQUEIwOTl2VV85U0VTNm5hNXBRQVZtRGlSTWIzeGVxUHZidFNUbkhkdFB6S21teVYxYlhLTWZWWEZSUE5ySDBrYnFR?oc=5",
+          "source": "新华网客户端",
+          "published": "2026-10-06T12:32:34+08:00",
+          "summary": "赓续长征精神 奋进复兴征程丨这口铜锅 是军民情谊的最好见证 新华网客户端 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "求是网评论员：抓民生，为何也是抓发展",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SbDE2N1pLOTdXMXgybm1ST2Z5em10M2JtODIwUGkwSmlWUVh6SVIzTldYU2Y1dkV3T1IzQkNYaS1OMGhEaEhHUERtNUtKWDNRd01CYk1nNm9aLTdkcDJsSzNWMTJNWjVZT1dkZEQ1enhyWWJOVm10alBEX24?oc=5",
           "source": "qstheory.cn",
-          "published": "2026-10-05T09:32:21+08:00",
-          "summary": "学习新语·家国同心丨做堂堂正正、光荣自豪的中国人 qstheory.cn 学习手记｜爱国，是人世间最深层、最持久的情感 news.ifeng.com 学习新语·家国同心｜做堂堂正正、光荣自豪的中国人 新浪新闻_手机新浪网 学习新语·家国同心｜总书记心中的“家”与“国” 搜狐网 学习新语·家国同心｜怀爱国之心 立报国之志 中国网新闻中心",
+          "published": "2026-10-06T09:34:05+08:00",
+          "summary": "求是网评论员：抓民生，为何也是抓发展 qstheory.cn 时政微观察丨民生为大，把老百姓的事办实办好 新浪财经 加强普惠性、基础性、兜底性民生建设 qstheory.cn 第19期《求是》杂志发表习近平总书记重要文章 凤凰网 夯实中国式现代化的民生根基 中国共产党员网",
           "summary_zh": ""
         },
         {
-          "title": "10万人涌进5万人口县城，文旅局长给游客铺床",
+          "title": "九州同庆 共赴征途——致敬假日里坚守一线的劳动者",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV05JQURxMDhwanV3ZVhESmlXeDdtYXU3U3VxZnlRZzhqaUpfYmhpV1JTVE9FeDlDNGV5UHhIakk1MXFDMzJwSHZWQTIwTGtET19FNE5CS0cwdGlfSE9kNC1aU3FBMGt0YWpiYUhTbFlJZFd0bEtTQmhDV1c4aUtPalJKVTF3UUsyRXliYg?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mZXUzTmJkSkhhTkNyS1hybHlYR0kyUlNkSHpaQk5ydTNqb0Z0Nml2ODNuUllaV1EyUDJIbFFOY1hVZkVKQVg5R2JELUtlbU5WTlBOYW4zeVFaVHROTnRuSw?oc=5",
+          "source": "光明网",
+          "published": "2026-10-06T05:10:00+08:00",
+          "summary": "九州同庆 共赴征途——致敬假日里坚守一线的劳动者 光明网 致敬！每一位假期里的坚守者 新浪财经 建设者假日坚守岗位一线 守护岁月静好 中华网 我的“顶流”不休假丨“奋斗模式”开启，他们这样为祖国庆生 搜狐网 国庆我在岗，同心护万家|伊金霍洛旗|消防安全|消防救援|医护人员|防控 新浪财经",
+          "summary_zh": ""
+        },
+        {
+          "title": "长三角铁路迎来国庆假期返程客流高峰 预计10月6日发送旅客390万人次",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2a0Q4V3N3Tk1aM05MWVpuMTYtUWItbmtmVVg3SzJSa0EtYXNhYlo4YmR1ekdoS21pMm1vX2hWd2kwYkZkd0lsVEM1dnQ4WVdmWHpPRkRaanprN2V3aEw2OGZPU2stQy1G?oc=5",
+          "source": "chinanews.com.cn",
+          "published": "2026-10-06T11:46:29+08:00",
+          "summary": "长三角铁路迎来国庆假期返程客流高峰 预计10月6日发送旅客390万人次 chinanews.com.cn 长三角迎来节中返程客流高峰！计划增开旅客列车553列 新浪财经 “十一”长假出行需求集中释放 交通运输部门“多点发力”加强服务保障 上海热线 广州南站不语 只是一味发车 40秒一列创纪录 中华网 10月5日全国铁路预计发送旅客2105万人次 中国网新闻中心",
+          "summary_zh": ""
+        },
+        {
+          "title": "国庆假期尾声 广东雨歇转晴！广州获“秋高气爽体验卡”",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU0haY3dMRk5hQ0xwVGVfbzZXVmdEMDlJaVpTcHRtdGJ5Tmw5LXRqQXlZYW9vLXE4Q2tNb0pQSTB5c0F0WEVpTmFwa1Y4eVlHUXFMNkgzT3pTMmVRUWtJZHRpQTlQbFgtZG5oUHJyRHdfMkxIT2hKczZHVWh3TEh5V1o0SE9NTGlQWGhrRw?oc=5",
           "source": "21财经",
-          "published": "2026-10-05T22:04:28+08:00",
-          "summary": "10万人涌进5万人口县城，文旅局长给游客铺床 21财经 10万游客涌入5万人口县城，当地文旅局7小时接400多个求助电话，紧急安排免费宿舍 观察者网 祁连多举措解决游客住宿难题 新浪财经 游客免费住学生宿舍、文旅局长铺床，为何没迎来一边倒点赞？ news.ifeng.com 国庆假期冷门小城也挤爆了 sohu.com",
+          "published": "2026-10-06T11:35:00+08:00",
+          "summary": "国庆假期尾声 广东雨歇转晴！广州获“秋高气爽体验卡” 21财经 国庆假期尾声广东雨歇转晴！广州获“秋高气爽体验卡”|中央气象台|国庆节|广东省|广州市|天气预告 新浪财经 冷空气扩散南下 明晨南方气温将继续大面积创新低 光明网 冷空气已致粤北北部多地降温 广东南部沿海市县将受影响 中华网 广东大部仍有雷雨天气，粤西持续高温！假期后半段降温转晴 东方财富",
           "summary_zh": ""
         },
         {
-          "title": "视频丨菲律宾1架军机非法侵入中国黄岩岛领空，南部战区跟踪监视、警告驱离",
+          "title": "从“面朝黄土”到奔赴“诗与远方”，农民旅游热折射消费新活力",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQV1lFU09XMDdpTGZPVlE1N2hWTU1WcUlkeEwyYV9VRkkzTGFab0J4VGNMakFpbjFPTGtKY0lvRFpZVnNuQ1JnQ0l4S0pUOXhMV08wM1dkSW0zSnZYM0xfUg?oc=5",
-          "source": "thepaper.cn",
-          "published": "2026-10-05T17:39:00+08:00",
-          "summary": "视频丨菲律宾1架军机非法侵入中国黄岩岛领空，南部战区跟踪监视、警告驱离 thepaper.cn 菲律宾指责中国海警在中业岛附近阻挠其执法行动 美国之音 菲飞机侵入黄岩岛领空 中方警告驱离 印媒参与挑衅 中华网 秦安：请你发声！支持清理非法坐滩的破军舰吗？“逢节必闹”的菲律宾，该敲打一下了！ sohu.com 菲律宾1架C-208型机非法侵入中国黄岩岛领空 南部战区回应 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSNDRaWGdEYWltN3M2aDM5a1V0Q1dPZ0lYYkswYVo0VGtuM0FqdnFrYWl5R1F0SS1KNFZsMU9aQjlZMlF0dTdFdHQxQi1mZFJaN3VfRGRKTFdsdmp2Sm9lNGNKcw?oc=5",
+          "source": "jingjiribao.cn",
+          "published": "2026-10-06T12:42:03+08:00",
+          "summary": "从“面朝黄土”到奔赴“诗与远方”，农民旅游热折射消费新活力 jingjiribao.cn 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "记者手记丨德国青少年在歌声中走近中国",
+          "title": "四川农业大学建校120周年高质量发展大会举行 施小琳讲话",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxQklteUlwXzVjZF9Va2xvNWtsM2lMQUlXdjktV2tQMWd0RXJNR1Nqc0tOYTNnVmZmT2VqbFpaUG5UcDdIUGNIamhJdEx0Nzh3TFdhejQtczdtbDZGeUFkVWEydVE4SERMVlhOamJMdnVDSk1tRU9n?oc=5",
-          "source": "新华网",
-          "published": "2026-10-05T16:48:27+08:00",
-          "summary": "记者手记丨德国青少年在歌声中走近中国 新华网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "出行热 体验丰 门市旺——国庆假期消费市场观察",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wZndOOGJqMDJnLWJYc05VMUJKY2VueHBfUUVXXzdObjJqVWJzdWhFQXh2eEhPRnBLMThid2ZwYkxERVhCejhtWDdKUWU?oc=5",
-          "source": "news.ifeng.com",
-          "published": "2026-10-05T22:59:17+08:00",
-          "summary": "出行热 体验丰 门市旺——国庆假期消费市场观察 news.ifeng.com 出行热 体验丰 门市旺 新浪财经 以旧换新，“悦享金秋”消费季 local.cctv.com 人气高涨！抚州人开启国庆“买买买”模式 jx.ifeng.com 假日消费展现新动能 gmw.cn",
-          "summary_zh": ""
-        },
-        {
-          "title": "告别连日雷雨闷热，广州喜提超长晴天，昼夜温差加大",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ29nZHFMSnhFTGlMSllOOU5BTk9jNlJUS0pRQndVZGxZSFNTX0JVd21qRVppc2VYMWtBREVsSHUxcnZ0SXktV3ZLR01BVHhJeGJSS0p0NS13UXUwMmt1TGhFN3k1bG5MYm9wTlZCV2l0SGZENUJ6Mjl5QlhzMFRoQUJZNFc1TzVPZGkyTw?oc=5",
-          "source": "21财经",
-          "published": "2026-10-05T21:11:00+08:00",
-          "summary": "告别连日雷雨闷热，广州喜提超长晴天，昼夜温差加大 21财经 冷空气降温效果已显现，假期后期深圳连续晴天干燥 新浪财经 14城市度过今年下半年来最冷清晨 秋凉尽显添衣保暖 中华网 假期尾声广东晴朗昼夜温差大|广东省|冷空气|天气预告|市县|粤北_手机新浪网 新浪财经 冷空气到！广西一夜最多降12.6℃ 新浪财经",
-          "summary_zh": ""
-        },
-        {
-          "title": "以色列消息人士：迪拜航空副驾驶作案动机是“为加沙复仇”",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMcHFNd3FjTFhOWmdHQ0h2c20zRFlrelhhQ0lSMXJDVXpLZHBHWU11NmNMN1lxdmFLeXk4OEdvWkMxUkhXX09ENDc5UE4wWkp3VzhiLXh1UHlmc3NBM1pJTQ?oc=5",
-          "source": "东方财富",
-          "published": "2026-10-06T03:18:45+08:00",
-          "summary": "以色列消息人士：迪拜航空副驾驶作案动机是“为加沙复仇” 东方财富 以色列总理下令对入境外国航班进行安全审查 新华网 李公明｜一周画记：空中惊魂——迪拜航空FZ1073航班的生死时速 thepaper.cn 迪拜航空客机上到底发生了什么？机长等人“还原”惊魂时刻 sohu.com 以色列交通部收紧对赴以航班外国机组人员限制 news.cctv.com",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RX2x4dG1uai1SZGk3eXhEeTlxX3FtLWxhYlY5aGEtR21qZEQ0T2tmZmRfa2lXTmxuMFZGMVRTUm81MzJvS0ZNNDF2eFl5WmEtZUh2S3BETFNScnNiQS1JdmE1RQ?oc=5",
+          "source": "四川新闻",
+          "published": "2026-10-06T12:50:01+08:00",
+          "summary": "四川农业大学建校120周年高质量发展大会举行 施小琳讲话 四川新闻 四川农业大学举办未来农业科技创新国际论坛- 中国日报网 China Daily 受四川省委书记王晓晖委托，省长施小琳代表省委、省政府向四川农业大学建校120周年表示祝贺 搜狐网 【百廿川农】我校举办建校120周年足球邀请赛 四川农业大学新闻网 120年前“川农大出生证”上写了啥？中国第一历史档案馆复制版来了 四川新闻",
           "summary_zh": ""
         }
       ],
       "ai": [
         {
-          "title": "Preventing artificial intelligence from triggering a world war",
-          "title_zh": "防止人工智能引发世界大战",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xWC1TRmswNHZVd0RwV0lJMGdEZTA5ZHZ0aEs0WkZjazVGT1E4SWVuNDlPbGF5M3UxU1pHVTY5R1dQSjhnV3N2R1phX3V0eXdwVnBpa1dyeHg1ZXNuNThST0Nubkd1dTlCb2JNM21GbFNFbjZGdjlfSTln?oc=5",
-          "source": "The Japan Times",
-          "published": "2026-10-06T03:19:54+08:00",
-          "summary": "Preventing artificial intelligence from triggering a world war The Japan Times",
-          "summary_zh": ""
-        },
-        {
           "title": "Ignatian Examen on artificial intelligence, Oct. 7",
           "title_zh": "伊格纳修人工智能考试，10 月 7 日",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTItWnpBcUNjcHZKUlkzd2QzV2Y2anpCazFnbGI3Y2lYNHhlVDFlQUQ0QXlHMktmeU5UY3N0NHdYaVlfNkpMRmdtOHRpaWpsNkFTLUtQMlJnc0dnaC1IZkxXeWZwVHp4UlFNcWJCa1VVWDJkUzMyTWEzTENMWExPM2prYmtjVjFXU3ByNVNR?oc=5",
           "source": "Marquette Today",
-          "published": "2026-10-05T22:13:53+08:00",
+          "published": "2026-10-06T09:18:04+08:00",
           "summary": "Ignatian Examen on artificial intelligence, Oct. 7 Marquette Today",
           "summary_zh": ""
         },
         {
-          "title": "In The Know: Oklahoma gubernatorial candidates debate education, healthcare and artificial intelligence | Oklahoma schools set guardrails for AI in the classroom | The problem with Oklahoma’s property tax ‘fixes’",
-          "title_zh": "知情人士：俄克拉荷马州州长候选人辩论教育、医疗保健和人工智能 |俄克拉荷马州学校在课堂上为人工智能设置护栏俄克拉荷马州财产税的问题“解决”",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fOUUxaXZWYjJvVXYtYmFwa2pPUEJzTmFTNUNveVF5eWVESFFraFhiSWxBRnJtbDgtMVBIM0lDTHpram9iNXhudElhblBvM0ItNXBBSGYzRQ?oc=5",
-          "source": "Oklahoma Policy Institute",
-          "published": "2026-10-06T02:31:05+08:00",
-          "summary": "In The Know: Oklahoma gubernatorial candidates debate education, healthcare and artificial intelligence | Oklahoma schools set guardrails for AI in the classroom | The problem with Oklahoma’s property tax ‘fixes’ Oklahoma Policy Institute",
-          "summary_zh": ""
-        },
-        {
-          "title": "Infinite Potential—Insights On Artificial Intelligence Loss of Control Across Five Scenarios",
-          "title_zh": "无限潜力——五种场景下人工智能失控的洞察",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90RXM2UDdrT3dvbE5oUl9pcGJETU5wWjR4ZkVaV25LVGpQdXc5T2VVbGc3T1luaWNXVnpySl9vXzlYeGUtem1neS1KS2ZMdW5QZ3VpNnlWYVJBUXhBSFkzVUVFa0x2TXRN?oc=5",
-          "source": "RAND.org",
-          "published": "2026-10-05T21:17:54+08:00",
-          "summary": "Infinite Potential—Insights On Artificial Intelligence Loss of Control Across Five Scenarios RAND.org",
-          "summary_zh": ""
-        },
-        {
-          "title": "AI apocalypse? Most Louisiana candidates for Congress stay vague on regulation",
-          "title_zh": "人工智能启示录？大多数路易斯安那州国会候选人对监管持模糊态度",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzRWWFM2b0pBTTIySVRPVlNHRjZTaWRNXzNaYnMzbV9VVTFURDJXdWRiblF2cW1sUFMtSFM1WUFlTzFlLWxqR1J0RlQ1NERZN0xzMF8tVVEtcjc4YkhGUjBpWUJhTF9PemJVVDdhODV0ZEtHaXVPWEN0TlFkU2E1aWlfRUMwcE1idzlOOHhhMWhjcU5aM2hPY2c3c1dyeTdBMDU4ZGtIX1IwMzJ3b1JDTmY5MTFMQQ?oc=5",
-          "source": "Louisiana Illuminator",
-          "published": "2026-10-06T03:00:33+08:00",
-          "summary": "AI apocalypse? Most Louisiana candidates for Congress stay vague on regulation Louisiana Illuminator",
-          "summary_zh": ""
-        },
-        {
-          "title": "Norfolk Police Department E911 Division implements Artificial Intelligence (AI) system on non-emerge",
-          "title_zh": "诺福克警察局 E911 部门在非紧急情况下实施人工智能 (AI) 系统",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuTThVY1JRdlZMQzQ1UWx1ZERBakpGQmhVazcwak1EOV91U01SaTVzZ25wX3hSOXRwQi1yaVRPa1JpVnBjZ2lyYmZkZlBKc25tNDVQOUNGNlluQmMwbmc?oc=5",
-          "source": "City of Norfolk (.gov)",
-          "published": "2026-10-05T21:30:26+08:00",
-          "summary": "Norfolk Police Department E911 Division implements Artificial Intelligence (AI) system on non-emerge City of Norfolk (.gov)",
-          "summary_zh": ""
-        },
-        {
-          "title": "WATCH LIVE: NYC Council holds rare hearing on AI risks with top tech executives",
-          "title_zh": "观看直播：纽约市议会与顶级科技高管举行罕见的人工智能风险听证会",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGtDLWZWV05KV0FKTDRDMW5rbHlGckhwbGpTNkNhUzJhRUZVT1JyQS1ybkYwbVU0RThsQUV1ZkRCb0xXVnM0Z0FONDNTdFhWSEd5MlJ6Vks3eGtzY0JrcTN4ZDJNTVQxQXhKRG1oUmtQa2xScjdEOEJPTDRoR2FrZkV6RjI4NlHSAY8BQVVfeXFMT3JESlVYb2lmbE5hTE9SU1RSNEpTTjNxUHpYTXZWRWZZcW1MMG95UkRTU2lzSTZVcURINkxoNW1XaF9CbFJUck10elRuQ1ZWbnlodHhHbmRTWWd1NFF4V0Q1WDVPTm5GOFN6WEtBNmRfdDVDU3hUMHEyM25oNlE2Sndod1NTMTlLWC1EUkZXdTg?oc=5",
-          "source": "NBC 4 New York",
-          "published": "2026-10-05T23:12:17+08:00",
-          "summary": "WATCH LIVE: NYC Council holds rare hearing on AI risks with top tech executives NBC 4 New York",
+          "title": "OPINIONS: How U.Va. should respond to the changing artificial intelligence landscape",
+          "title_zh": "意见：弗吉尼亚大学如何应该应对不断变化的人工智能格局",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVS1XMlN2amtfOGZwMndpQTVwM1BicVI2VUZaYTBsNXlac0hyY29qY2xkb19hbTh4UDRwbXlsM2d4eGFMYjRKMTZWdFp6a3B6OXFIelBaQ0xSbWlsUFdEUk5qX25PeS1JTG1qSGhSX1ZSY0p2djlkWDVvQVBmWTMycVhZeXlsMGdsRno3SnpKbEk3U19qTjZsN05SVnVoSUV3cUplcHlwY0ptNmZnRldYU1JiYkppaEc3QUhnQ1dLX0dMVXNUeFE?oc=5",
+          "source": "The Cavalier Daily",
+          "published": "2026-10-06T10:48:55+08:00",
+          "summary": "OPINIONS: How U.Va. should respond to the changing artificial intelligence landscape The Cavalier Daily",
           "summary_zh": ""
         },
         {
@@ -256,26 +211,71 @@
           "title_zh": "特朗普任命国家情报总监杰伊·克莱顿领导新的联邦人工智能工作组",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaVVaUEpBX3FqZkNYc2J2R2czMy1zNzktWmpSMnR3VEZ0WkVtSXlfaFN2RnNybVpXVnZqTXZjcW1GZm45MjJFZFdHRmpCNjRHSVU4VFdhdERkek9uQ2RockxyNkZPMU9zaHUyMDVmWFpvam9xeHVWV0h0MUtUZDNrenUtWWRtTDh6TFJJUm54SDZ3dUEwLUpxSXZZYjdSbnRaUWJ4dy1aNzVvSDF6MnBfSkJXOEpTZWotQXhLMzlfVmlvcFk3bmEySkNwbi1KN19td2djaF90OWlGZklLOFhJb01HM3lZa0pqZ2c?oc=5",
           "source": "Federal News Network",
-          "published": "2026-10-06T00:21:29+08:00",
+          "published": "2026-10-06T11:07:38+08:00",
           "summary": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force Federal News Network",
           "summary_zh": ""
         },
         {
-          "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
-          "title_zh": "随着地方政府重视安全问题，人工智能行业内部人士向纽约市议会发出警报",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNN3ZOT2xtakg0MUJpYUVsa2o0cXBobFlfTnJXUUpKZWhYQWdwLTZoNl9WS2xJdWd2UkNVNlNCMFRLNGtqZDAteXdFczFCdmEzc1FoQi03eVg5ZlVXa01qTXhZM0dyMFdaOXJCRjF0UUFYQ1VNWkZXQkc4ZXRQN1ZxWlB1VXJKSWExd09ndE93M29WWEFhaU1obWw0cW5QNHRUQ3Vaam5RYm1NMnV3QWJsTUEzRmJadW1odTZCVkt2VE1BVXRZeFE3RWwxTk5IV0RnX1lGb1NEOFd6MHNodjd3dHZldU85dDJmeU4xTmZ6ajFmWGVadnRpUHFTWTJlUVVmZ0kyMWVmV0E3U096MVdaMlJmdGZraktaRXdzNVhYXzA?oc=5",
-          "source": "Bozeman Daily Chronicle",
-          "published": "2026-10-06T02:45:54+08:00",
-          "summary": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns Bozeman Daily Chronicle",
+          "title": "AI whistleblowers join Google, Meta, OpenAI at NYC hearing",
+          "title_zh": "AI 举报者与 Google、Meta、OpenAI 一起出席纽约听证会",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHJydEo0VjNfR1l0eWVTUlFTd2Zka0gxcWoyOUV3N0ZRVU9JOWVxaDI5Um91RU4tWW5ldk9EWjMzdGw4NzEzbzdiMVp5NW9Ud1dQT21YT2hfVVBfZElhVG9uWm9pUnJEN3d5MWNnZWNmMGdlSnZJS1dsTE5VcGJVbjVad01fMFdtOGdTM1Jmc3JneUnSAZgBQVVfeXFMTWJlb3RSWUFHMlRSaDNNMEhFNGJnaEdncGtRbWNmUzlld3B6Ym1tZng3SmM0WG1Jal9TX29qOU9tYXpxaVBNYV92WXNTLWxQeWt5MmJUaWZJamxOV1FpNjQ0VzAzUGQ0dTlULUppZlQ3YjFnZTk4ajQyX01Way1LVnJmdTRfVjgtby16Y19KTmp4Uzk1WEhNSUM?oc=5",
+          "source": "ABC7 Eyewitness News",
+          "published": "2026-10-06T06:05:08+08:00",
+          "summary": "AI whistleblowers join Google, Meta, OpenAI at NYC hearing ABC7 Eyewitness News",
           "summary_zh": ""
         },
         {
-          "title": "The changing economics of artificial intelligence",
-          "title_zh": "人工智能不断变化的经济学",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFVILWl0am1ZLU5La2ticjdVb2RaN3hHUmYzTWJtcldCQlNMNjlJbG1qc2I4M3lsSkFPUVdYaWhUTTRuY3dFZ0hBQmc0a0x5QldNXzBweFhGZktvZ1dfSlpYUC1nQlRYX1lUS0w0OVVqSG93SGw5UlJ3MTR0Slkyb1o4dHlpTkRJRnBzcWpzeUM?oc=5",
-          "source": "Natixis Corporate & Investment Banking - Natixis CIB",
-          "published": "2026-10-06T00:19:40+08:00",
-          "summary": "The changing economics of artificial intelligence Natixis Corporate & Investment Banking - Natixis CIB",
+          "title": "AI apocalypse? Most Louisiana candidates for Congress stay vague on regulation",
+          "title_zh": "人工智能启示录？大多数路易斯安那州国会候选人对监管持模糊态度",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzRWWFM2b0pBTTIySVRPVlNHRjZTaWRNXzNaYnMzbV9VVTFURDJXdWRiblF2cW1sUFMtSFM1WUFlTzFlLWxqR1J0RlQ1NERZN0xzMF8tVVEtcjc4YkhGUjBpWUJhTF9PemJVVDdhODV0ZEtHaXVPWEN0TlFkU2E1aWlfRUMwcE1idzlOOHhhMWhjcU5aM2hPY2c3c1dyeTdBMDU4ZGtIX1IwMzJ3b1JDTmY5MTFMQQ?oc=5",
+          "source": "Louisiana Illuminator",
+          "published": "2026-10-06T10:55:05+08:00",
+          "summary": "AI apocalypse? Most Louisiana candidates for Congress stay vague on regulation Louisiana Illuminator",
+          "summary_zh": ""
+        },
+        {
+          "title": "AAP issues guidance for safe and equitable pediatric use of generative AI",
+          "title_zh": "AAP 发布儿科安全、公平使用生成人工智能的指南",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUpLOFpzT0lDMDJmVjZrZU5MLU9ENFlKTkg3cVdjOWxwLUF0Zl9TcmU0QlJ0QllQQmppNTRtcmxtOUlsWDBMODExOVJXN0Q0S0lqci1xN2RVbGxDNkFxMS03MmlYLWZLd09Cb3l2eXc1MWw5ZjNKZi1MdWNXOXZQUVBWbEtYNkg5TGlBaGc1ZzRWQjBZVTNTWDlsQnRJbUpnX2pZbmFackpBaEV4WmJaUHRwd0xfNkdJVGVyYlFn?oc=5",
+          "source": "News-Medical",
+          "published": "2026-10-06T10:30:00+08:00",
+          "summary": "AAP issues guidance for safe and equitable pediatric use of generative AI News-Medical",
+          "summary_zh": ""
+        },
+        {
+          "title": "A review of 'Artificial', Luca Guadagnino's origin story of OpenAI with Andrew Garfield as Sam Altman in the controversial movie that Amazon dropped. Read more below.",
+          "title_zh": "卢卡·瓜达尼诺 (Luca Guadagnino) 与安德鲁·加菲尔德 (Andrew Garfield) 在亚马逊下架的一部备受争议的电影中饰演山姆·奥特曼 (Sam Altman) 共同创作的 OpenAI 起源故事《人工》(Artificial) 的评论。阅读下文了解更多内容。",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmd4RUlaUjlxM2lkUEd3aDA3Mnp6YlItckVmN2pKOGVZQml3ckdVOGtqbW1aek5SZlNTUVlKSkFqd1NhVHcwbTZRMlBPcUtHZDhhbzZOTy1hQXRfNTNsVGs2MHE0THZ5dTI4Nktja29DLXIteXhqX1hqU08tTUJKclVsZS1haWU4bXRsckMyTmEzS1F3cHVWSWRHZ1NJbTFKTmlRay0yaVlxcmd4RTBkRG5RbThrdGdDZTV3dzI2VVhYTnZNVlhEeUI5NWZXNUk2bDhILQ?oc=5",
+          "source": "facebook.com",
+          "published": "2026-10-06T15:00:05+08:00",
+          "summary": "A review of 'Artificial', Luca Guadagnino's origin story of OpenAI with Andrew Garfield as Sam Altman in the controversial movie that Amazon dropped. Read more below. facebook.com",
+          "summary_zh": ""
+        },
+        {
+          "title": "Where Are You? A Jewish-Christian Dialogue in the Age of Artificial Intelligence",
+          "title_zh": "你在哪里？人工智能时代的犹太基督徒对话",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd1plNjQ4a0RIaVRXRGtUM3BYOHpRTTJON2tCRk81RFFNZWFuQ0I5LVRETHAzQWFHTzl3aXpIREdhdmxWTXVXdXYya3FqbWxNSWNYYjdlUXZpbWl2S2F4QnpYTjBQUnVTTnVmdjNFb0RrVDM1NndrSkZDNWQ3VkZhQnVKM1hNWHhGY2ZMTEs1eFZlNVZHMzdCMjB1TW5HRmR3Y3dJYlhpUFBJbnlyeE5TeXpn?oc=5",
+          "source": "The Times of Israel",
+          "published": "2026-10-06T06:50:00+08:00",
+          "summary": "Where Are You? A Jewish-Christian Dialogue in the Age of Artificial Intelligence The Times of Israel",
+          "summary_zh": ""
+        },
+        {
+          "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules",
+          "title_zh": "OpenAI、Anthropic 告诉澳大利亚他们欢迎数据泄露规则",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
+          "source": "Reuters",
+          "published": "2026-10-06T08:15:00+08:00",
+          "summary": "OpenAI, Anthropic tell Australia they would welcome data breach rules Reuters",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial intelligence in the classroom | Commentary",
+          "title_zh": "课堂上的人工智能 |评论",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nREU5U0NjWk9kQ2daZU81SElzb3ZjOXYwUU0zVzdZWHBjak9PTWdIZXhqclpxdWNhcVpJQUdxQ1RaeHJPbEl0bFVpZVFQWmwwLXFnS2VxRXVpZFduVHJVR0ljRnRuUWU1OUx3YktR?oc=5",
+          "source": "Seattle's Child",
+          "published": "2026-10-06T08:05:35+08:00",
+          "summary": "Artificial intelligence in the classroom | Commentary Seattle's Child",
           "summary_zh": ""
         }
       ]
