@@ -16,6 +16,7 @@ from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
+import zhconv
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
 from docx.oxml.ns import qn
@@ -190,11 +191,23 @@ def translate_to_zh(text: str) -> str:
     return translated
 
 
+def to_simplified(text: str) -> str:
+    return zhconv.convert(text or "", "zh-cn")
+
+
+def simplify_china_stories(stories: list[dict]) -> None:
+    for story in stories:
+        for key in ("title", "title_zh", "summary", "summary_zh"):
+            if story.get(key):
+                story[key] = to_simplified(story[key])
+
+
 def add_translations(sections: dict[str, list[dict]]) -> None:
     for stories in sections.values():
         for story in stories:
             story["title_zh"] = translate_to_zh(story["title"])
             story["summary_zh"] = ""
+    simplify_china_stories(sections.get("china") or [])
 
 
 DOMAIN_SOURCES = {
@@ -424,7 +437,9 @@ def sections_to_json(sections: dict[str, list[dict]]) -> dict:
 
 def sections_from_json(raw: dict | None) -> dict[str, list[dict]]:
     raw = raw or {}
-    return {key: [story_from_json(story) for story in raw.get(key, [])] for key in ("worldwide", "china", "ai")}
+    sections = {key: [story_from_json(story) for story in raw.get(key, [])] for key in ("worldwide", "china", "ai")}
+    simplify_china_stories(sections["china"])
+    return sections
 
 
 def empty_state(date_iso: str) -> dict:

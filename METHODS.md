@@ -47,6 +47,7 @@ Pinned in `requirements.txt`:
 | `feedparser` | 6.0.12 | Parse RSS/Atom into feed and entry objects |
 | `lxml` | 6.0.2 | Read HTML in Google News summaries and recover article links |
 | `python-docx` | 1.2.0 | Build and save the `.docx` briefing |
+| `zhconv` | 1.4.3 | Convert Traditional Chinese headlines in the China section to Simplified |
 
 `web_page.py` builds the static HTML. No extra web framework is used.
 
@@ -83,6 +84,8 @@ RSS is a public XML list that many news sites publish: title, link, time, and a 
 2. Google News search for China in Chinese, last day
 3. BBC Chinese (simplified) RSS
 4. Google News English search for `China`, last day (fallback)
+
+After fetch, every China headline is converted to **Simplified Chinese** (`zh-cn`) with `zhconv`, so BBC/HK/TW Traditional titles still display as 简体字.
 
 ### AI
 
