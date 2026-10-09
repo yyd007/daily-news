@@ -1,25 +1,25 @@
 {
   "date": "2026-10-10",
   "morning": {
-    "generated_at": "2026-10-10T01:24:47.133479+08:00",
+    "generated_at": "2026-10-10T01:32:09.900663+08:00",
     "sections": {
       "worldwide": [
-        {
-          "title": "Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes",
-          "title_zh": "实时更新：特朗普排除中期选举前的袭击，伊朗胡塞盟友在沙特机场袭击中造成 3 人死亡",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRLWlFxeDRfeGxUcGJ6dTM2X3l2cldSWlB4MDJIN3lpWXlRUE1sdE8tbHhtQzY5Ul9WRzJ0bk4taEVCOF9JVGkwN2d4S0xIQmJHbmlFZFlDZ3VDdXk1U3B6bHE4SExtTWZIcURVWkFmaXdNZ1QtdWdoNVR3Z2FBOHNxVmFwQTY2TXpUOWlja3hvdXdLekhv?oc=5",
-          "source": "CBS News",
-          "published": "2026-10-10T01:21:00+08:00",
-          "summary": "Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes CBS News Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict Fox News Houthis Escalate Attacks on Saudi Arabia, Three...",
-          "summary_zh": ""
-        },
         {
           "title": "Nobel Peace Prize Live Updates: Navi Pillay, Human Rights Lawyer, Wins",
           "title_zh": "诺贝尔和平奖实时更新：人权律师纳维·皮莱获奖",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0I2YUlxVWh4S3g2WWpQdW9lQUlnSWpmOVdfWUtGUnZLbGcxQU9FSFFvOGpaN1RVZmhXc0h6NWE1aDNjbTlwXy1ZQ3BUczBkQlRYd2REam45cUJjY2szOWlXUmFRWG9UY3g2b2EzRWJscmw5aE1BN2VXbHNCSm9ONg?oc=5",
           "source": "The New York Times",
           "published": "2026-10-10T01:00:18+08:00",
-          "summary": "Nobel Peace Prize Live Updates: Navi Pillay, Human Rights Lawyer, Wins The New York Times Trump Reshares Post Calling Nobel Peace Prize Winner A ‘Hater of America And Israel’ Forbes Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay The New York Times...",
+          "summary": "Nobel Peace Prize Live Updates: Navi Pillay, Human Rights Lawyer, Wins The New York Times Trump Reshares Post Calling Nobel Peace Prize Winner A ‘Hater of America And Israel’ Forbes Nobel Peace Prize Winner Mocks Trump After Receiving Award People.com Former ICC judge Navi...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes",
+          "title_zh": "实时更新：特朗普排除中期选举前的袭击，伊朗胡塞盟友在沙特机场袭击中造成 3 人死亡",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkRLWlFxeDRfeGxUcGJ6dTM2X3l2cldSWlB4MDJIN3lpWXlRUE1sdE8tbHhtQzY5Ul9WRzJ0bk4taEVCOF9JVGkwN2d4S0xIQmJHbmlFZFlDZ3VDdXk1U3B6bHE4SExtTWZIcURVWkFmaXdNZ1QtdWdoNVR3Z2FBOHNxVmFwQTY2TXpUOWlja3hvdXdLekhv?oc=5",
+          "source": "CBS News",
+          "published": "2026-10-10T01:21:00+08:00",
+          "summary": "Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes CBS News Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict Fox News Houthi strikes on Riyadh airport killed three Saudis...",
           "summary_zh": ""
         },
         {
@@ -55,7 +55,7 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xVS0yTWxUemFZYy0yQ2dNY2VGSFhPbzJBMWM1bHVtUkVtN3p2QVZCdFN2LWQyU2RFUVVqSDRISTBkemh5aWhBb1hyN3VoelBBSzNlOHV6OHIyT1U?oc=5",
           "source": "BBC",
           "published": "2026-10-09T22:35:31+08:00",
-          "summary": "Widdecombe suspect had 'particular hostility to Reform', court told BBC Prosecutor says suspect in Nigel Farage terror plot was motivated by extreme left-wing views 10TV Ann Widdecombe murder 'politically and ideologically motivated', court hears Sky News UK man charged with...",
+          "summary": "Widdecombe suspect had 'particular hostility to Reform', court told BBC Prosecutor says suspect in Nigel Farage terror plot was motivated by extreme left-wing views 10TV Ann Widdecombe murder 'politically and ideologically motivated', court hears Sky News Prosecutor says man...",
           "summary_zh": ""
         },
         {
@@ -90,7 +90,7 @@
           "title_zh": "胡塞武装连日来的致命袭击暴露了沙特阿拉伯的弱点",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0MtOFlNWi1mcnROSTYxUl9MbmNkbVJ1cGJMMGlVclp6WlpMMHRDYzhScHlKSXQzSHdINm5BQ3FkVFctVzhnVDBGbndLQ0xEajh1RmYwSVEzZ1FENndkYnAzVVJGSlZVeDJ1YzJNMVprRE91VmZKbU40TjVzUFNFOUJPMERFRVVVTHB4YUp6czNGRjdLRDJQSXBab1pmc0RRbkd0dzNnTQ?oc=5",
           "source": "The New York Times",
-          "published": "2026-10-09T18:56:59+08:00",
+          "published": "2026-10-09T23:17:54+08:00",
           "summary": "Days of Deadly Houthi Attacks Show Saudi Arabia’s Vulnerabilities The New York Times NEWSLETTER: The war's explosive new front Reuters View / Saudi Arabia faces its toughest moment of war Semafor Saudi Arabia has a sword; it still needs to learn how to swing it Firstpost How...",
           "summary_zh": ""
         }
@@ -174,7 +174,7 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0ZHT29JNjlzbTNNWm5uSzVlQlFQNzlSLWFyanN6ZklRYWRaVkhxdjNtanVBYmhBZUl1YXdnVTVDVFpYRVVPb2N3VVh3QXdKWEVMdVRZN1RaUVZMcGt2ckNpRVJaR0VuMl9iX0o3TVZUNkd3NnhKYWZDdFRvM3JhQmI1U0ZOWFJQ?oc=5",
           "source": "新华网",
           "published": "2026-10-09T18:13:47+08:00",
-          "summary": "新华鲜报丨山河锦绣 国庆节假期8.26亿人次竞出游 新华网 假日出行折射深度“慢游”新风尚 新浪财经 山河锦绣 国庆节假期8.26亿人次竞出游 中国网 AI当向导“边走边问”带火文旅新消费 “赏秋+特色体验”为“小城”聚集人气 央视网 不赶景点赶生活，年轻人在旅行中体验“在地化” 中国青年网",
+          "summary": "新华鲜报丨山河锦绣 国庆节假期8.26亿人次竞出游 新华网 假日出行折射深度“慢游”新风尚 新浪财经 国庆节假期国内出游8.26亿人次 China Daily AI当向导“边走边问”带火文旅新消费 “赏秋+特色体验”为“小城”聚集人气 央视网 不赶景点赶生活，年轻人在旅行中体验“在地化” 中国青年网",
           "summary_zh": ""
         },
         {
@@ -193,7 +193,7 @@
           "title_zh": "BCMA：2026 年人工智能会议，2026 年 10 月 17 日",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVV9xX0FQcXpYWnluUFNWN3pYUVEzU25DOGVKQTR0bGN0QnRYb1I3SkpQOE1VRHdCc0VoaVVObjRFUzR4cG9pUEt0SGR3VFg2R2oxS3Q2WFVYaXZUaE1HM2tKYXlkSFkwRzRoX09URFZSdWZzclJJY1NlLUZGaVVHelF5R3kyZlVDMGtOOXpiWEtlWF9wWUVZZUJDSjRmV0w2d3Y5MjBnOWJydE9FcXc?oc=5",
           "source": "Florida Hospital News and Healthcare Report",
-          "published": "2026-10-09T23:11:15+08:00",
+          "published": "2026-10-09T23:19:53+08:00",
           "summary": "BCMA: Artificial Intelligence Conference 2026, October 17, 2026 Florida Hospital News and Healthcare Report",
           "summary_zh": ""
         },
