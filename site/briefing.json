@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
   "morning": {
-    "generated_at": "2026-10-11T00:11:35.860850+08:00",
+    "generated_at": "2026-10-11T00:22:04.031623+08:00",
     "sections": {
       "worldwide": [
         {
@@ -10,7 +10,7 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWGp5bTN6SWFLOFZzRUh1dW91ZFFvQUh6a0ZsVGJ0QXRrUzVabE1zeWc1VmJpSVhzR1hpdjR4cWhoVmxnNjMwZk9RM0J2YmtVcERyMk1PaFlQUi1DTnlqNk9hcFU3UUhzZllwLVJ5MW1WWDJnQm5yWnBNY1JOcFZ1U01RUFphSl9qWEVYSTZIOU9MNUdDSTZMSHJRR3FYUdIBowFBVV95cUxNaGdET2tqRll6Q2U3d3JaMTJRcmtadlI5aVp2MExsRWR1bm83b3FxWkFhYkh1VkxGRzhCNWQ0Z0VJS3QwLXhwYUh1YXRyVTJtX1k2TmRWUkY5UVJqaHcwSENzSTYzQzBRWXh6a0t0NEN1d3d2V0NQUWJKTXpFREc0alRVNDRZaTJPSDljY0tFMnJ3Vk5MV1hiUjlFWmtOSWluTDA0?oc=5",
           "source": "Al Jazeera",
           "published": "2026-10-10T21:00:09+08:00",
-          "summary": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown Al Jazeera Live Updates: Leaders of Protest Paralyzing New Delhi Say They’ve Been Detained by Police The New York Times India detains thousands of youth protesters as anger grows against Modi and election chief CBS...",
+          "summary": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown Al Jazeera Protest Leaders Rounded Up as New Delhi Is Locked Down The New York Times India detains thousands of youth protesters as anger grows against Modi and election chief CBS News Founder of India’s Gen-Z...",
           "summary_zh": ""
         },
         {
@@ -37,7 +37,7 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
           "source": "Reuters",
           "published": "2026-10-10T23:30:21+08:00",
-          "summary": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses Reuters Iran-Backed Houthis Hit Saudi Capital’s Airport in Damaging New Attack WSJ Live Updates: Iran's Houthi allies kill 3 in strike on Saudi airport as Trump rules out pre-midterms strikes CBS News...",
+          "summary": "Multiple people wounded in blast at Riyadh airport, say eyewitnesses Reuters Dozens reported injured in Yemeni Houthi attack at Riyadh airport The Guardian Houthis Bombard Saudi Air Links in Effort to Cut Kingdom Off From Rest of World WSJ Attacks on airport in Riyadh, Saudi...",
           "summary_zh": ""
         },
         {
@@ -46,7 +46,7 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVl9TaDlyMTA4emtwWlhyemdqTUY2ak9BUzU4TWlyT3d6dEtfWGs1RWVESTZ3YlhBcmx0S1dhajROOEJjY2NvbDlHc0h0Z2s2a1RFY3dRSDJTSlFrOTVWWk5PVjBlVGtUTEtPSEpMeS1nZFE1eTFmWWJzUGd4Ym5mOE1KZw?oc=5",
           "source": "AP News",
           "published": "2026-10-10T10:53:00+08:00",
-          "summary": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations AP News Panama struck by 2 powerful earthquakes, U.S. Geological Survey says CBS News Magnitude 7.6 earthquake strikes Panama; no tsunami threat to West Coast Yahoo Strong Panama quake...",
+          "summary": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations AP News Panama struck by 2 powerful earthquakes, U.S. Geological Survey says CBS News Powerful earthquake shakes Panama, followed by large aftershocks CNN Strong Panama quake shakes...",
           "summary_zh": ""
         },
         {
@@ -55,7 +55,7 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVDlQaFVTdEV6TXhYd1VZMjJXMHZCdllxUjl2akVnb1pmb01aMFdDa2lkZWxxZGdzUGgtazdILUVUMHJqbmswYUJzdmlveFVfbDlDcDhoRnNVdnI1OVRncjdDeUNOcEl3cTBFdmwzS1g1dUFWd3hRVl9EdURGWkxDX0NLWDYtUmktcnlzMGJhdi0?oc=5",
           "source": "CBS News",
           "published": "2026-10-10T22:08:00+08:00",
-          "summary": "Palestinian Authority president postpones legislative elections another year, marking 20 years without a vote CBS News Abbas postpones Palestinian elections, sets presidential poll for September 2027 Reuters Palestinian Authority Says Elections Are to Be Postponed The New...",
+          "summary": "Palestinian Authority president postpones legislative elections another year, marking 20 years without a vote CBS News Palestinian Authority Says Elections Are to Be Postponed The New York Times Palestinians set to delay November’s legislative elections, citing worsening...",
           "summary_zh": ""
         },
         {
@@ -106,21 +106,12 @@
           "summary_zh": ""
         },
         {
-          "title": "[大公报]中欧贸易投资磋商达成16项成果共识 就混动汽车贸易达成谅解 续探降低部分商品关税",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xRUJLMWZfM0RNWnBCTFFYdFlfSWhaSUwzcHFBYnZUei16YkpmTFFzNTdQMFJJRWpsWEktMkc4QVdMR0R4QkN5X3dubUV3RWFaeTBIX01UOS13LWNl?oc=5",
-          "source": "人大新闻网",
-          "published": "2026-10-10T17:35:45+08:00",
-          "summary": "[大公报]中欧贸易投资磋商达成16项成果共识 就混动汽车贸易达成谅解 续探降低部分商品关税 人大新闻网 中欧“各退一步”，开了一个好头 观察者网 中欧贸易投资磋商机制第二次例会形成16项成果共识|世界贸易组织|欧盟委员会|知识产权|商务部|王文涛 新浪财经 （经济观察）在机制化对话中管控分歧 中欧经贸形成多项成果共识 搜狐网 何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇 华尔街见闻",
-          "summary_zh": ""
-        },
-        {
           "title": "增值税发票数据显示——国庆假期服务消费态势良好",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16alF3TjBRRkRmRlg3NG41Vm9TeThqR0Y1dHVqbVFQbVhzN0p3dGNMM0FGRDZkWl9HRnFfMDlJbC1iWXcyWXdWZDA1Vl9SRlhLc3NOWVRnMzVDTU1CYWFXNnBZQlczOXZhenZvLQ?oc=5",
           "source": "湖北省人民政府",
           "published": "2026-10-10T09:23:00+08:00",
-          "summary": "增值税发票数据显示——国庆假期服务消费态势良好 湖北省人民政府 市场旺 餐饮热 消费暖……九江国庆假期消费市场活力迸发 凤凰网 发票数据增长19.5%，国庆假期服务消费旺盛 经济频道 【小店头条】商圈人气爆棚消费烟火升腾|华宇百花谷|王府井百货|太原印象城|国庆节|万达广场 新浪财经 复盘国庆消费数据：除了人多，还有哪些启示？ ThePaper.cn",
+          "summary": "增值税发票数据显示——国庆假期服务消费态势良好 湖北省人民政府 市场旺 餐饮热 消费暖……九江国庆假期消费市场活力迸发 凤凰网 发票数据增长19.5%，国庆假期服务消费旺盛 经济频道 假日经济升腾活力开放中国共享机遇（和音）|中国游客|国庆节|中国经济|国庆假期|消费市场 新浪财经 复盘国庆消费数据：除了人多，还有哪些启示？ ThePaper.cn",
           "summary_zh": ""
         },
         {
@@ -142,6 +133,15 @@
           "summary_zh": ""
         },
         {
+          "title": "美国放宽消音器和部分枪支的登记要求",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNWXJITkZMUENyS1FLX0dqWWRoeENCcHFjSUZya3E4cGFfODRaRnNFUW4xUlduNl9oMXZKVWFIQlNtZGE3NHB4bGVzeWhOWUZ6aXdxdFgxVHNDeHk0ODJQa0o3MmdEeXpMX09aQ0FOR2hWZUk?oc=5",
+          "source": "观察者网",
+          "published": "2026-10-10T16:59:00+08:00",
+          "summary": "美国放宽消音器和部分枪支的登记要求 观察者网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
           "title": "焦点柳览丨外卖小哥、网约车司机的专属“工伤保障” “十五五”时期继续加码_社会新闻",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wTmlOMnN0dE5KVWYtRmlhLU9IMmhrblRqQ0F0eElIZGs1YWdFbzV3d0JwalZab0diTkdlZ0c1SlhIb1JaaVJXZjZlV29HblFVc2NDZERudTNSTzgzeV9iWGowV0JGQW53TncxcFExT0hLNEZwcFgwcm9JTQ?oc=5",
@@ -151,30 +151,30 @@
           "summary_zh": ""
         },
         {
-          "title": "中国海警舰艇编队在中国钓鱼岛及其附属岛屿领海内维权巡航",
+          "title": "挪用2亿多元，嫌疑人拒不认罪？检察官靠一枚印章破局",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DUTlZV0lrekxiYlVVXzdibTNDeWdwaHBBWGN3eldySzlzakNQMjA4alRtV0lVdkk2MGxHUjFLTHVONzN5MVBLYVdoUWZOWm5VYXFzYU9KdzViTWFCWFBCLUNPMmpDR0pl?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-10-10T21:22:47+08:00",
-          "summary": "中国海警舰艇编队在中国钓鱼岛及其附属岛屿领海内维权巡航 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sTnhUMTZaLTJzQndaU2ZyMnhRbkNxQUJUbFNkRGxVQmgyajYxR2M3NDFJZVo4ZXpaT1NYTFBDVjVkSTk2Z2RPS1UtRTI3dC1SWmFnbncza29aY19ydWdZWktXVmZNc2w3MGsxTVE5WFE?oc=5",
+          "source": "中国科技网",
+          "published": "2026-10-10T20:12:29+08:00",
+          "summary": "挪用2亿多元，嫌疑人拒不认罪？检察官靠一枚印章破局 中国科技网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "检察系统代表与中外记者见面交流",
+          "title": "中国海警舰艇编队10日在钓鱼岛领海维权巡航",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hdDFGSGVaR2ZLd1oyYS03enNVNC00R1ZJQ3VQNFRhQmNLbUs4aEZMS3dfQWJZRnJScWpIcEpEQ2J1YlBsdWExUF93VFlmOEdWa1FfWXZJTXVFdFR2OUJpU3VlVQ?oc=5",
-          "source": "http://www.jingjiribao.cn/",
-          "published": "2026-10-10T20:58:01+08:00",
-          "summary": "检察系统代表与中外记者见面交流 http://www.jingjiribao.cn/ 国新办举行“新征程上的奋斗者”中外记者见面会 围绕“强化检察监督 履行好国家法律监督机关职责”与中外记者见面交流 搜狐网 国新办就“强化检察监督 履行好国家法律监督机关职责”举行中外记者见面会 央视网 “一房二卖”案当事人矛盾突出 检察官智慧化解：房款全部追回 房子归属确认 新浪财经 挪用2亿多元，嫌疑人拒不认罪？检察官靠一枚印章破局 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiRjRxZDJBV09xclhNSU43UUI3RmVBZ3BtTW5GeXF2SXlqQXhNUG1sYXBXS0ZmOFVvbllnVC0zZ0NFcEJLTkJ4X19zV3pWeGlBalp5cFhjZkE?oc=5",
+          "source": "中国评论",
+          "published": "2026-10-10T18:22:03+08:00",
+          "summary": "中国海警舰艇编队10日在钓鱼岛领海维权巡航 中国评论 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "广西壮族自治区党委常委谭丕创任南宁市委书记",
+          "title": "10月11日铁路调图，香港西九龙高铁“朋友圈”新增台山",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83RE41cFJpV3ZweTJuWHpUQ2Njc05abU1wUjRnMTV3Um9FRjZ0alp4R1R4WE9WN0JhUjRRdXlsX1o4VUp5amJFd3UxcjQ2b1NXU0tXS1dPZlVOQ2t5RS1rSg?oc=5",
-          "source": "ThePaper.cn",
-          "published": "2026-10-10T18:52:00+08:00",
-          "summary": "广西壮族自治区党委常委谭丕创任南宁市委书记 ThePaper.cn 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcmhsZGtVcURCNUt1aUxOZEtOa2Y0U3dQeVpwbnl4YUkwbnY2SUlZXzZ2RXRYRXUzYUxUUzA0aDIxQ19yMDdsRURxOFF6MTBxb1ZXcDc1YUd2N3lVMWMyNjVVbURTYVhjcERRTFdWVnN4cGozZ2hXbGtTV19SZG9hRDJOXzRRN2s0M1E?oc=5",
+          "source": "广州日报新花城",
+          "published": "2026-10-10T17:04:49+08:00",
+          "summary": "10月11日铁路调图，香港西九龙高铁“朋友圈”新增台山 广州日报新花城 全国铁路实行新的货物列车运行图 新浪财经 明起铁路杭州站新增4对往返上海动车组列车 浙江新闻 今天起，陕西铁路实行新的列车运行图 搜狐网 10月11日起实施四季度列车运行图，粤港澳大湾区铁路运力再升级|铁路出行|广州市|佛山市|广东省|佛山 finance.sina.com.cn",
           "summary_zh": ""
         },
         {
@@ -189,11 +189,20 @@
       ],
       "ai": [
         {
+          "title": "Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say",
+          "title_zh": "费城警方称，人择人工智能模型提交了有关未侦破谋杀案的虚假提示",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUdPS1ZSX3I2OG4zdVNISmtQdWJDN1VmR1lSemRhS1dwUzVVU1ZZRV9UN0lyc2lEbE96WkgxX0J2TjI2U1l0cGRnX3BsNFhudE5oWUh3VUh1bDgxTk1ITmdJOFMxaFFTVXBJSE5tNXlVV0Nqb2VEek9rLTB0TE1YWGtMa3M1dmxhME1PWE9UbFVrS2dERHotazRzLWJza21seElQQmlFcUJZckZfTzQw0gG0AUFVX3lxTE1RSW5Xb2ZQQjNFYlpBVXllWTVUbmlpQWN0NGNPdzAxNEFqMEE1T196dHZNYXAwQTRTc3J6UVpGNkFOMEo4c2tialBna3MtQ24xbDJ5QTdxcUxXWEJUYmlKVFJXNXJMeFJjM2p3T3dpd2d2WjA1bmFpUEhhdzA1QmQwa0tMRm53U25RaGxVSlFReHdwWGdiSS1Sd2ZqcV9KZXE0al9VNUc1aXNOSjNDOTNFUmxpSg?oc=5",
+          "source": "6abc Philadelphia",
+          "published": "2026-10-10T08:21:43+08:00",
+          "summary": "Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say 6abc Philadelphia",
+          "summary_zh": ""
+        },
+        {
           "title": "Artificial Intelligence",
           "title_zh": "人工智能",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
           "source": "ABC News",
-          "published": "2026-10-10T07:51:05+08:00",
+          "published": "2026-10-10T08:49:20+08:00",
           "summary": "Artificial Intelligence ABC News - Breaking News, Latest News and Videos",
           "summary_zh": ""
         },
@@ -225,21 +234,21 @@
           "summary_zh": ""
         },
         {
+          "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+          "title_zh": "Anthropic 的 Claude AI 就费城未侦破的凶杀案提交了虚假线索",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEFOSHNGWm5fbUNzM0RLT2lJQ0RTVGVrZTlDeVF4YVRkcnJCQWE4SklDcjhWdVV1MkI3NXI3STY5T0hlNVFxSmoweEpfcVpoNU9rTmU4U1k4MUtPcUFSWmdlWFpGclZySHpzWU1lOFhud3dwdFhESDFLd0xseTRrYmZkU0pPTkh0UDBscTVLYXV6al9ZOGo4c0J1b01GLUt3ZFg5REd1UnAtU1lYN2Fvek4xS09yTTZxQ2pHUQ?oc=5",
+          "source": "Audacy",
+          "published": "2026-10-10T23:43:00+08:00",
+          "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case Audacy",
+          "summary_zh": ""
+        },
+        {
           "title": "‘Super intelligence’ has some early takers, plenty of skepticism",
           "title_zh": "“超级智能”有一些早期接受者，但也有很多质疑",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnBUOGZEb1FMckJLa1k5djRrMFdCdUpERVY2T1Y4OTk2bHpLM1U0eWVNelpqY0ZfZ1A3bFFZc1FIOTFVYThZNnJmakNfNHNLUFJOWnBsNUZIUGlUUFNGRzBkcU02UUFwcGUwUWdLOUdNXzdEb0xWVTNISXN1M1Jhbzd4Z3pFZWNUNGstbVVBYlhoVHlN?oc=5",
           "source": "The Center Square",
           "published": "2026-10-10T22:01:00+08:00",
           "summary": "‘Super intelligence’ has some early takers, plenty of skepticism The Center Square",
-          "summary_zh": ""
-        },
-        {
-          "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
-          "title_zh": "Anthropic 的 Claude AI 就费城未侦破的凶杀案提交了虚假线索",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUhMbXZmQXRsN2NKQzdBaEtMUFZEakxSczR2WjBwejEzX0ZZdTJUOTl4dnhRVDc3YjNSMjJybUVTZkxpR0pReEJYbVM2TUpKMXl4YWhGQllHcWtjeDVQSFZxR3JDQldzZTVSNE1yc0sxd0RBeXRZcmYxYmUxXzBwUWVhTWRIYzI0YTdQZmFlaWZYZVdlOXZhSzZIaldNNGZGZTYyY3dzOVhkUXc5dUVjLUlzaTR3ZUpiTUtQQQ?oc=5",
-          "source": "Audacy",
-          "published": "2026-10-10T23:43:00+08:00",
-          "summary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case Audacy",
           "summary_zh": ""
         },
         {
@@ -267,15 +276,6 @@
           "source": "BBC",
           "published": "2026-10-10T18:06:23+08:00",
           "summary": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case BBC",
-          "summary_zh": ""
-        },
-        {
-          "title": "El-Sayed talks corporate money, healthcare, artificial intelligence at Lansing town hall",
-          "title_zh": "埃尔-赛义德在兰辛市政厅谈论企业资金、医疗保健和人工智能",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlJKSnVCQTV6Z0NiaGw3N2NrdkdtS0c0Zmo1VXlTMUQ0SjZLQzRuV3dzWmgxa2U2OHY0bVlPUW1xd2NfdFJxNUw0aEI5VTQ4LTd1VGtZQVk4ZFNoME5GVkFjNkFva0l5dFpKeElCWi1YZ1lnNEhSZVROWFFiVmFldVZCVS1wZDB3UW5NeS1DcTQ0M25TYUttX01GNG04cmg2T25TVlVtY2ZOTlFIanZvMERKYXctenV4cVJRMXpTTmNfMUJf?oc=5",
-          "source": "Michigan Advance",
-          "published": "2026-10-10T05:53:49+08:00",
-          "summary": "El-Sayed talks corporate money, healthcare, artificial intelligence at Lansing town hall Michigan Advance",
           "summary_zh": ""
         }
       ]
