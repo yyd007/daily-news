@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
   "morning": {
-    "generated_at": "2026-10-13T04:13:58.227638+08:00",
+    "generated_at": "2026-10-13T04:24:52.742531+08:00",
     "sections": {
       "worldwide": [
         {
@@ -14,21 +14,21 @@
           "summary_zh": ""
         },
         {
-          "title": "Nato’s supreme commander warns Moscow against attacks in Europe",
-          "title_zh": "北约最高指挥官警告莫斯科不要在欧洲发动袭击",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGtoYVh0cVg3NnBlNUY1Z0szTnNqV19aOVM1aFpEZ0s5ZkM3ZjNHZFc4OXRwZGYyRlIza1g0dzFsNnJzSmsxemlROGNKRExzbzJtWDFDZi1ncTJLNkNhbTZoUHhaWFNkajFsTlVadlZUNXN3aGZCQnZXSWNzMTVuTTZpM2w?oc=5",
-          "source": "Financial Times",
-          "published": "2026-10-12T21:34:54+08:00",
-          "summary": "Nato’s supreme commander warns Moscow against attacks in Europe Financial Times NATO Details Plan to Shield Ukraine’s European Allies from Russia The New York Times NATO says will do ‘anything and everything’ if alliance is attacked Al Jazeera NATO’s Top Commander Lays Out...",
-          "summary_zh": ""
-        },
-        {
           "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
           "title_zh": "泽伦斯基称，尽管特朗普声称能源停火，俄罗斯仍袭击能源设施",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYk9yd3EweHFPQ2doVnFxQmxCdEJxMmdBdF9FT2tzdExGZmR3eUo0TjFyTmU0azY4UEtmRW56djNGaERmMGdpcmNHZWRPcllwdEhPUVhsNjJqMzYxRko2dXA0VTBtdGZvYUdid1hZZkFMeGtJOGdVX1J0NUU5X29naUJaUVNxMG9LWEw2Q3prUHVTNTlyanVIbjFxOE80Y3oyNTlfX3VhT2U?oc=5",
           "source": "AP News",
           "published": "2026-10-13T03:52:00+08:00",
-          "summary": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire AP News Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine NBC News Trump bears down on Zelensky as Russia keeps up attacks on Ukraine Axios Trump's...",
+          "summary": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire AP News Trump bears down on Zelensky as Russia keeps up attacks on Ukraine Axios Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine NBC News Zelenskyy...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Nato’s supreme commander warns Moscow against attacks in Europe",
+          "title_zh": "北约最高指挥官警告莫斯科不要对欧洲发动袭击",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGtoYVh0cVg3NnBlNUY1Z0szTnNqV19aOVM1aFpEZ0s5ZkM3ZjNHZFc4OXRwZGYyRlIza1g0dzFsNnJzSmsxemlROGNKRExzbzJtWDFDZi1ncTJLNkNhbTZoUHhaWFNkajFsTlVadlZUNXN3aGZCQnZXSWNzMTVuTTZpM2w?oc=5",
+          "source": "Financial Times",
+          "published": "2026-10-12T21:34:54+08:00",
+          "summary": "Nato’s supreme commander warns Moscow against attacks in Europe Financial Times NATO Details Plan to Shield Ukraine’s European Allies from Russia The New York Times NATO says will do ‘anything and everything’ if alliance is attacked Al Jazeera NATO’s Top Commander Lays Out...",
           "summary_zh": ""
         },
         {
@@ -37,16 +37,25 @@
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhjR0VrVjNqLU1EcjhyRUVHQ3JGR29Lcnc1bUVERllyazdqTWQ1ZFBNZU4yRF9OQ3lwWnJiUTNTQ3d4Q3BQeDJiVzcwSC1PeGpkVXRib3N3dnl3QTRPWVBGOVlTMVdzYjhTbzF2RjBDRG1zX1B2bTB6Q2NrNmh6eXFLekhINHFzdU5uRVVCczVVMTlDaHZVVnU5b2xld0VxMjhKR05IQlNaNVhSZGh3ZmV0Z3Z3d2hIVUE?oc=5",
           "source": "NBC News",
           "published": "2026-10-12T20:53:08+08:00",
-          "summary": "Pope Leo to be hospitalized Tuesday for surgery to remove a lung nodule NBC News Pope Leo announces he will undergo surgery to remove lung nodule CNN Bishops, clergy, religious and faithful offer prayers for Pope Leo ahead of lung surgery OSV News Pope Leo to be hospitalised...",
+          "summary": "Pope Leo to be hospitalized Tuesday for surgery to remove a lung nodule NBC News What to know about Pope Leo’s planned lung nodule surgery CNN What do we know about Pope Leo’s lung surgery? The Pillar Pope Leo Will Have Surgery to Remove Growth on Lung The New York Times...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Witness says victim was dancing and taking photos moments before deadly tiger encounter",
+          "title_zh": "目击者称受害者在遭遇致命老虎之前正在跳舞和拍照",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmhCd1lJR20wQTVIUmFqV0J2X3VGc1J3SklEUUh6VUxSeTNiaDJMYWF0UHlCdE5mWExrSkRhdDVxcGJzc3Y0dFVtX0o5M014NXhoN1JRVnV6RDRPQ2dPQWFsTFZSeC1xYjRjcG1FMHRVMnluVS0taGJaTjRZSWxaS1pudXVSYWhTbE1zYjA1RUZuS3lWVk8zcGFzLVF2a3FQRmp2N0dyU0VZVUZKVnU2Y0VjWmRUekt3M2w4Zkl2cE9FQllxajZVQVVlVdIB3wFBVV95cUxOQWh5NWJvZG95S3BhejBWRlNHMzNMamdoc3IwTDR1SThVRWt2QlhMODBMVV9ZQjBVQW9WaHg3LTd3WUtXNmM3ZnBudHhKQ0RZWXFYVWJ2LUUzcVV0UWhJSTJNRHRXVllxZHVEV2JZaGo4RW8zaHdHelliQVQ0clhaZmpEcFFqcW9oNnlJYWpfRWYwSW10WUJKZmo4Q3IwcmdIcFNDZWtrS2RlX1hqOHhOQTVBOGpqWDFYbDA2aWdNTWFiNS0wY1NwMlBQQ1I1MWNQQS1tWkUtRXRPX0gxREpR?oc=5",
+          "source": "Cleveland.com",
+          "published": "2026-10-12T22:07:00+08:00",
+          "summary": "Witness says victim was dancing and taking photos moments before deadly tiger encounter Cleveland.com Tiger that mauled British man to death won't be euthanized, zoo says Yahoo Yorkshire Wildlife Park fatal tiger attack - what we know so far BBC After two tragic incidents in...",
           "summary_zh": ""
         },
         {
           "title": "Adieu aux ‘Enfants Rouges’: Tears and shock as fire destroys Paris’s oldest covered food market",
-          "title_zh": "告别“红孩儿”：火灾摧毁了巴黎最古老的室内食品市场，泪水和震惊",
+          "title_zh": "再见“红孩儿”：火灾摧毁了巴黎最古老的室内食品市场，泪水和震惊",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdjVTYk9DYVhCbkZ2RjhQaWdiUGRGVF9Lb25XNVE2T3djVmNwbVZRLVJWamRjaG5qOG9iYkZyUFdJZ2J2c3plUWFYSXhWejdxN3AxUjJZOVpmNUNNazNPT2hoVzk1cTlhRVNobjVnZnBiWHFsdTJSRWducFNUbGZjaU9yRkF3RXpsaEpBcW1QU0h2eXdWenVvX1lGb0RQYzRHVGpQRXZHc2xRRndvQW4zM3RaSG44UmM1OXk3aG1WekNETjNmYnc?oc=5",
           "source": "France 24",
           "published": "2026-10-12T23:28:36+08:00",
-          "summary": "Adieu aux ‘Enfants Rouges’: Tears and shock as fire destroys Paris’s oldest covered food market France 24 Fire Devastates the Oldest Covered Food Market in Paris The New York Times Fire destroys Marché des Enfants Rouges, ‘coolest market in Paris’ The Guardian Fire destroys...",
+          "summary": "Adieu aux ‘Enfants Rouges’: Tears and shock as fire destroys Paris’s oldest covered food market France 24 Fire Devastates Paris’s Oldest Covered Food Market, Le Marché des Enfants Rouges The New York Times The Oldest Covered Food Market in Paris, Marché des Enfants Rouges, Is...",
           "summary_zh": ""
         },
         {
@@ -54,17 +63,8 @@
           "title_zh": "青少年在黎巴嫩边境附近徒步时被真主党未爆炸弹药炸死、24人受伤",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUtCZjhxcXBhSTFRWk5BZWo5Q2lJU3AyOC15aUd2OTNCdExKNms5dlg4Y04wMXAxd2NWV0N6NXFqV241STNDZ3VMZ1p5eDQtMXl1LVA1ZmlOdF9JdThNbnJYMllvbXBPVGN4dG45OVhMR2c3QjBCeWxjLXV4SWY0VXlRa0wzRi04TkptLUlnZnVlZXVySWNNYUdVYzJfOFgxRmNfVUxkWDNndzc2dHVzYjdCNWHSAboBQVVfeXFMUG5IazNhSFk0RUhNQ3dneFdnR3pBM0tIYktZRS1JLWg3dVF0S2ZKbURqdnd0SFV5SEJuYlR6d3FtTGQtd2VmWDFtMlBTN09nbDNrODN3UGZpUE9xMDFfWFdtb0hDZC1pdGJkYUgyS2hWcm1FbFhDLXdtdFJoS0NMOTZ3ZVlXQ1VEejcyeFBCZC1RN0hhdTNkM1JQcGV2aC0taEh0R19qZnhnNHF5SUNIaGZNYjB6SFBKSkF3?oc=5",
           "source": "The Times of Israel",
-          "published": "2026-10-13T00:59:57+08:00",
+          "published": "2026-10-13T04:03:45+08:00",
           "summary": "Teen killed, 24 injured by unexploded Hezbollah munition on hike near Lebanon border The Times of Israel Katz: IDF presence in depopulated West Bank camps is ‘permanent’; not High Court’s business to intervene The Times of Israel One teen killed, others wounded, after...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Yorkshire Wildlife Park fatal tiger attack - what we know so far",
-          "title_zh": "约克郡野生动物园致命老虎袭击事件——目前我们所知道的情况",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WdFp0LTJTNGRHb1gwcUxTQjRMTGcyb2FBa1JUZWI1d01HcFp1NHZkc2RLUE53MHhDWHRQaWN2WDlheEZwa19haTJadkcwVUlEOGVRSnFIV1c2UXc?oc=5",
-          "source": "BBC",
-          "published": "2026-10-12T23:21:11+08:00",
-          "summary": "Yorkshire Wildlife Park fatal tiger attack - what we know so far BBC Tiger that mauled British man to death won't be euthanized, zoo says Yahoo After two tragic incidents in months does safety at English zoos need a rethink? The Guardian Man fatally attacked by tiger at UK...",
           "summary_zh": ""
         },
         {
@@ -73,16 +73,16 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUNTTXZadFFkTDZQNEc0UzZjbUxYTkt2eXNkNGthZHdPTXZWNFJxVGJadUhyRXh3OWpHV1dDemwzeThXZk9BLVhjejI2MUtnblJDMlRnbzZ0bjhBQU9BSTFKQ1lwOWxTQk9tblFWMlk5dVZ5TlduWEs3TFdNbUVDd0ZjWUdRR3M?oc=5",
           "source": "The New York Times",
           "published": "2026-10-13T02:20:16+08:00",
-          "summary": "‘There Are No Words’: Dozens Killed in Airstrikes Near Sudan-Egypt Border The New York Times Deadly gold mine air strikes highlight Egypt-Sudan border insecurity Al Jazeera At least 72 Sudanese artisanal miners killed in strike, rights monitor says CNN 'At least 72' miners...",
+          "summary": "‘There Are No Words’: Dozens Killed in Airstrikes Near Sudan-Egypt Border The New York Times At least 72 Sudanese artisanal miners killed in strike, rights monitor says CNN Deadly gold mine air strikes highlight Egypt-Sudan border insecurity Al Jazeera At least 13 miners...",
           "summary_zh": ""
         },
         {
-          "title": "UK PM Burnham says Russia interfered in 2016 Brexit vote",
-          "title_zh": "英国首相伯纳姆称俄罗斯干预了2016年脱欧公投",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTklfczl3dnRhVTF2Z21Gd1FON0VHeTdCeEN2SWJBeDlzNUJuT2llT1BsUjZDUHBXZzZEN1dlNGJCQ2pOV1VfUVEwRng1REFFVDY4MTg2Z2RUbnFBWUFkbzRBdkxTeGdpemRiM09DLU5WQ1BmV042dERQOFB4TERkcXVNaHpWRHdvSEhTcExYTS1lemxZcEdnUE5Wem5WbG8?oc=5",
-          "source": "Reuters",
-          "published": "2026-10-12T20:28:30+08:00",
-          "summary": "UK PM Burnham says Russia interfered in 2016 Brexit vote Reuters Burnham says it is 'clear' Russia interfered with Brexit vote BBC U.K. prime minister accuses Russia of meddling in Brexit vote The Washington Post If Russia had interfered with the Brexit vote, Nige would have...",
+          "title": "U.K. prime minister accuses Russia of meddling in Brexit vote",
+          "title_zh": "英国首相指责俄罗斯干预脱欧公投",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ242Z241OHVsZ0JBY3VBczIwZ0tlQTN1cnJGVF9yYUp3S0FfLUtfYkJ2eERiRWJNc1dYbWFqa2owZUg3LTd0T1VBYzVVUDZuYUh5a3l3WUZwVUlwMTVjbVVueHlzblN6TFNOT25uenRkTTRzTUJIVVJzQXlHQ1lYNms1VUE3YUF6a254dG5KdEppWmFadTgxOV9YbUZiT0p0V3hkQw?oc=5",
+          "source": "The Washington Post",
+          "published": "2026-10-13T04:07:08+08:00",
+          "summary": "U.K. prime minister accuses Russia of meddling in Brexit vote The Washington Post UK PM Burnham says Russia interfered in 2016 Brexit vote Reuters Burnham says it is 'clear' Russia interfered with Brexit vote BBC If Russia had interfered with the Brexit vote, Nige would have...",
           "summary_zh": ""
         },
         {
@@ -106,21 +106,21 @@
           "summary_zh": ""
         },
         {
-          "title": "习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电 李强同巴新总理马拉佩互致贺电",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sX0k3dmlaaVRaX2N6TW9HeTVtNFdDVmFUV0NwVlVtRERmb1hpTzlRRnRpaGxQbkZ3M3VjdDdMZDJBRFRrVV8wWkZ4UmNtVTR0T1VIQ3hYajhRcHdOUm5yYWN0VGtBNndYcTBB?oc=5",
-          "source": "中国共产党新闻网",
-          "published": "2026-10-12T18:42:00+08:00",
-          "summary": "习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电 李强同巴新总理马拉佩互致贺电 中国共产党新闻网 外交部：中方愿同巴新方携手构建更加紧密的中国同太平洋岛国命运共同体 finance.sina.com.cn 携手书写中巴新全面战略伙伴关系新篇章（大使随笔） 人民日报 驻巴布亚新几内亚大使杨晓光在巴新媒体发表署名文章《携手推动中巴新关系再创辉煌 中华人民共和国外交部 澳广视新闻｜习近平同巴新总督就建交50周年互致贺电｜ TDM",
-          "summary_zh": ""
-        },
-        {
           "title": "马迪塞宣誓就任爱沙尼亚总统",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVB0ZjlIMUZJWldQX0laTDVQLUFxNm9OQUs4NzdwYkhRVkgtTERFcjE3eE5BTEJUZkdIQVpMTHJ6d1lLT0cyY1dmOUxybHcxdjlqQ3hfV2UtSXA4SFZ5UWRaRWs2c2xNUElRTWVpWGhlZEZxVHNzWEJoLVlITW5EWDk5SG9fdw?oc=5",
           "source": "新华网",
           "published": "2026-10-12T23:44:15+08:00",
           "summary": "马迪塞宣誓就任爱沙尼亚总统 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电 李强同巴新总理马拉佩互致贺电",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sX0k3dmlaaVRaX2N6TW9HeTVtNFdDVmFUV0NwVlVtRERmb1hpTzlRRnRpaGxQbkZ3M3VjdDdMZDJBRFRrVV8wWkZ4UmNtVTR0T1VIQ3hYajhRcHdOUm5yYWN0VGtBNndYcTBB?oc=5",
+          "source": "中国共产党新闻网",
+          "published": "2026-10-12T18:42:00+08:00",
+          "summary": "习近平同巴布亚新几内亚总督达达埃就中巴新建交50周年互致贺电 李强同巴新总理马拉佩互致贺电 中国共产党新闻网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
@@ -133,21 +133,21 @@
           "summary_zh": ""
         },
         {
+          "title": "胡塞武装称再次袭击沙特机场和空军基地",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JX1NHUTJ4RE0yWVhNSGdSYXZyTk9qbUNLa24zVm5XSlZteVkzZV9JbzJKQ0tTN2l6Y2x4dEpETjJVdzlsVjdtcnUyMjNYVnV1SWFOZjBRRmxHdzQ3czJZSA?oc=5",
+          "source": "东方财富",
+          "published": "2026-10-13T04:07:30+08:00",
+          "summary": "胡塞武装称再次袭击沙特机场和空军基地 东方财富 航空枢纽，接连被炸 凤凰网 中国使馆提醒在沙特中资机构和中国公民务必加强安全防范 新华网 北美观察丨沙特机场接连遭袭 白宫又面临新的军事抉择 中国日报网 中国旅客转机亲历爆炸:都在哭喊 现场紧急疏散 中华网",
+          "summary_zh": ""
+        },
+        {
           "title": "新皇岗口岸10月12日开通 中国旅游集团旗下公司承担运维与证件服务保障",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxeG5DX1k5MTNIdUR3Wko1cmxYX092Zk1KcUd0eGdRb29lOV9RSFpCZGpMS2FJdFFTOHNwT09hTFQwQlRZUUkwbVNZbm9WTW5jTEtIaTJIcE81dXdQZDZ4VERn?oc=5",
           "source": "观点网",
           "published": "2026-10-12T22:46:03+08:00",
           "summary": "新皇岗口岸10月12日开通 中国旅游集团旗下公司承担运维与证件服务保障 观点网 今天正式开通！第一批广东人已经体验：太方便了|广州日报|陆路口岸|皇岗口岸|广东省|广州市 新浪财经 新枢纽深化新联通 新融合创造新未来——皇岗口岸全新开通综述 中国网新闻中心 皇岗口岸正式开通运行 中国日报网 特写：皇岗口岸开启极速通关新模式 中国网新闻中心",
-          "summary_zh": ""
-        },
-        {
-          "title": "北美观察丨沙特机场接连遭袭 白宫又面临新的军事抉择",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42T3FWZUF0Z21Nd2NrODlhbFZ3VFFlM1IwVHpMeXNOT0h1VjZjR2lOVjZLUUJ0YWdkRWtoVjA2aENBZ1R6WUlaci1mZG1ZMTZzWktrLS0tZ1hybDRyN3dMU09NQ1g3cjhxV2JOU0ZVUktkOHZJUVl5LWM1Z1c?oc=5",
-          "source": "中国日报网",
-          "published": "2026-10-12T21:37:28+08:00",
-          "summary": "北美观察丨沙特机场接连遭袭 白宫又面临新的军事抉择 中国日报网 航空枢纽，接连被炸 凤凰网 中国使馆提醒在沙特中资机构和中国公民务必加强安全防范 新华网 中国旅客转机亲历爆炸:都在哭喊 现场紧急疏散 中华网 我驻沙特使馆：中国公民务必加强安全意识 观察者网",
           "summary_zh": ""
         },
         {
@@ -271,7 +271,7 @@
         },
         {
           "title": "USA Today Hits OpenAI With $250 Million-Plus Copyright Lawsuit Over ChatGPT",
-          "title_zh": "《今日美国》对 OpenAI 提起针对 ChatGPT 的 2.5 亿美元版权诉讼",
+          "title_zh": "《今日美国》因 ChatGPT 版权诉讼对 OpenAI 提起价值 2.5 亿美元以上的诉讼",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEVVS0diVy04eUZDYXg1Qm12ME9CMm5Na3REa3dKbWRyNzNJVWxwOExrVHpMc3NwQ2xrbFBSSE1RVjJDS0VlZEluQVVaM3lXSzRhR285VklhTGxES2FHcV9hLVZ6NWI5elg3VklVaE1tODBzOUo4ajUtOGM2RkhiS2xSV2V0RUliQXVmVEVRQ0F4ZzNNdHhJZg?oc=5",
           "source": "Law Commentary",
           "published": "2026-10-13T03:01:03+08:00",
