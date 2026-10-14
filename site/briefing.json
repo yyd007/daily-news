@@ -281,5 +281,285 @@
       ]
     }
   },
-  "evening": null
+  "evening": {
+    "generated_at": "2026-10-14T23:47:43.051634+08:00",
+    "sections": {
+      "worldwide": [
+        {
+          "title": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates",
+          "title_zh": "随着星链受到限制和俄罗斯升级，乌克兰的脆弱性日益增加",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNXdEMlRSTDR5bVVYU1RhR1ljMjB3RU5iaFZYZmdndGg5UWdtdjVLOEdibVlXLUtRSVB3S3RGYXhkZnJWY2dNQjlwMWZaSnJ3NTliaTZrQ0p6X2RWYm9CSEZiTmFDWEJVNnZjeGsyMUlPdkVCajIya2tXWWlNeFFTcVBn?oc=5",
+          "source": "The New York Times",
+          "published": "2026-10-14T19:27:26+08:00",
+          "summary": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates The New York Times Starlink restrictions affecting Ukraine's front line operations, Kyiv says BBC What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service? The New York Times Ukrainian...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war",
+          "title_zh": "特朗普中期暂停伊朗战争，油价上涨，沙特胡塞武装袭击仍在继续",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWVpMUFEeDIzNVZsN1hTVlFCbTJXWm1qRHh6RUgyczJVUF9Ha3FLblZOVzVaS2QtSDJDMDRIaUFrRzRkZmlOaTR4OFVVcml1Z21NWXhDUjl6SmZtWkE0SFVHRmszbnYwRU5oRFVCTHVNQm15dkNSRWo4dGl0Y3lnSmZBZWx6Z3hZRVVBMWJ2eWxLeENhd3NZNmppLVRxNlF2Qmlv?oc=5",
+          "source": "Fox News",
+          "published": "2026-10-14T22:12:28+08:00",
+          "summary": "Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war Fox News ‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport The New York Times Iran's Houthi allies' deadly attacks on Saudi Arabia create \"a difficult dilemma for...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Two Cargo Ships Sink Near Hormuz, as Iranian Attacks Spike",
+          "title_zh": "伊朗袭击激增，两艘货船在霍尔木兹附近沉没",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVJzcVMzeW15SzZXQ09EZHdZNzdXY0lmbWVJNjRDLVlodjE0SVBTeFBES1VudmJROGNiQ3RlYU1NM2FlLWs0eVhadlR1Q3luYnoxTDBkRjBwcFdoN052cUxSOVBkQTFBSkdVYTd0elBuX3F0X19feXBuRGgtTVZfZmVvY21yU0F0RkdKX01DMHZDZE5ITUtMTzFZTnBJX1VnSWpwRW4xQQ?oc=5",
+          "source": "WSJ",
+          "published": "2026-10-14T22:14:00+08:00",
+          "summary": "Two Cargo Ships Sink Near Hormuz, as Iranian Attacks Spike WSJ Iran shifting tactics to step up attacks on shipping before US vote, officials say Yahoo Container ship sinks in Strait of Hormuz after being hit by projectile, Singapore says BBC Oil prices steady after gains on...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
+          "title_zh": "俄罗斯逮捕日本记者：紧张局势为何升级？",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM3NpS2Fiek9lTkxFWko5TkpNUTJkekM2V081aXBEVmJDcmhCRDNBUjhPenNiWE9SeHJ5VWZYLVJsMmhqcGVKOVYzWmNudHVqdl9yS1huNmZMLXVBaF92a2cyM3RCMXZING9IWDNVeG9DZ1g0UnBaLVNlb1BNczUyNG9NRGp1cXhvdTB0XzhSTmdURUttOS1GY3NiQXVQYndyMktHMWln0gGrAUFVX3lxTE1taXFnX3p5RHFGcFVwWVdLaFZkMWNudF9ZTFQwamN6T0tmRnJodjl3aFdIV0o2NVg2V0FrZlM5Y3VOS1F0T2hPbHZTcThyZlJIMkJxb1JKNmwtdHJ4Uzh2czN4TEZaN3h2Y0RNcnQydjhmV09qWFh5eVJBc2U0UVB3WmdOUURkcnpfMEUtcGhBZDU4eU43cUtqV2VDSXptODVsQ3BIX3pMS01Tcw?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-10-14T18:51:27+08:00",
+          "summary": "Russia’s arrest of Japanese journalist: Why are tensions rising? Al Jazeera Japan Protests Russia’s Detention of Journalist Accused of Spying The New York Times Japanese journalist arrested in Russia’s Sakhalin region on spying charges AP News Russia arrests Japanese...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Bulgaria says Russia was likely behind Black Sea drone strikes as rescue operations continue",
+          "title_zh": "保加利亚称，救援行动仍在继续，俄罗斯可能是黑海无人机袭击的幕后黑手",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXRicXJvcXBsM21wZ1F1UmphdlRlTjk3Z3RROTB4MjVOTUtRcVkzUXF1T0h3QVkwNGE4UzRSUFdQbzRBeXlsaFdvQVg5d045d01GQlNJUkgwNTNmbU5YdzNvTmR6cjlwNGxQU0UzNzhwcDQyTkloeWoyU25LSVVHS01vcUc4enNEaDdLQ1N0WEw3d3NubWtSaVlJOW9VdDBZY1daT2p6b3hYRDNXTmJR?oc=5",
+          "source": "AP News",
+          "published": "2026-10-14T22:23:00+08:00",
+          "summary": "Bulgaria says Russia was likely behind Black Sea drone strikes as rescue operations continue AP News 11 sailors missing after drone strike sinks merchant vessel near Bulgarian waters CNN Bulgaria expects to join NATO anti-drone initiative this month, says minister Reuters...",
+          "summary_zh": ""
+        },
+        {
+          "title": "U.S. may have withheld warnings to Ukraine of Russian strikes that killed 6, cut power to 600,000, sources say",
+          "title_zh": "消息人士称，美国可能没有就俄罗斯发动的袭击向乌克兰发出警告，该袭击造成 6 人死亡、60 万人断电",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzBha3hkak5PVXhhdTB1RzZSQTVMYzkweE9kUDNqdVFUOUZWN1FxQ3RlUVI1ZVhKa2RQLVFJclBpeFRFeHZyTVdKVDN6cWluTERiZERqYjZCdlRZVFFQZVV2X0VKNC1aS2dlS3V4YXlLbGxUVjJZQ0V0b2U2QTVlUDljM2JHRk03OW9SY0pDZ05FNVpSTUVyRkNHWXRXcGht?oc=5",
+          "source": "CBS News",
+          "published": "2026-10-14T20:58:00+08:00",
+          "summary": "U.S. may have withheld warnings to Ukraine of Russian strikes that killed 6, cut power to 600,000, sources say CBS News Ukraine says Elon Musk’s Starlink imposed curbs without warning The Times Allies gave Ukraine no warning of impending missile attack, Zelensky says CNN...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Pope Leo spends a peaceful night in the hospital after cancer surgery",
+          "title_zh": "教皇利奥在癌症手术后在医院度过了一个平静的夜晚",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2FVdnBfU19rMGdWb2xBWjBrRlBMUFhETDBRejMyUWYzdDAzN215ZlRlT2lGQmJ5TWlrWVZvdEtKTlI5b0FOajVyWmpyYnR2NlZCT3lEcjFWNmhLMGE2Q2VvMFpqTnBKT3NncmlPVFo0eTE4akRmVmlJZGpmc3NRMXhScmhMa0d0RE1RR183OFVlYXpaLTN2U2R1ZnltM3VaU01jYVhmdWFKUQ?oc=5",
+          "source": "NBC News",
+          "published": "2026-10-14T20:51:09+08:00",
+          "summary": "Pope Leo spends a peaceful night in the hospital after cancer surgery NBC News Leo XIV’s Cancer Diagnosis Tests the Assumption of a Long Papacy The New York Times Pope Leo’s cancer diagnosis brings uncertainty to the Vatican The Washington Post World-renowned lung cancer...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Photos: Student protest in Albania prompts violent clashes with police",
+          "title_zh": "照片：阿尔巴尼亚学生抗议引发与警察的暴力冲突",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX25QYlMzSGNuakpLZDBmcGhTX2RsMXNXMjRpM3c5TllKOEVBUTlaa2o5RlBFdTN5U1FNTEE2Tnd4TVZSVGRwanVCdUxsdlpQUjgwUC0wdGIyYWNySzZ1d0lfTXNIaEV0Ujg0MHhYR2ZjX245b3VXanpwTHdIQWhENG9Sa3ZORjJnY3prMERwakc5aVN0SnpzOXphM3lvSHdYMTQweXFxeVhLZWpubmMtdVNvcEhtMDd0OVVJ0gHAAUFVX3lxTE9oUkxlU2RQd2xKMFBTTlREU1lVQ3E3Y3VSVDFMZ2xCN3pISTlaUEdwY1A0bkY0aUdQdnhMLWZtNUVERUJpUWRVc3JMSDJfaTFQSzd3R1pXOHo5NE9JbWhSZ0NqazZpb1g5bTByWVgwclBJZVhBdW90MExoNGtGYzlkbnQ5Z1hlZjFCbmFvT1ZoMHk3dDljTE5nbmNGcDVlYUxPcGdsQjFLM1ZJa0ZIa3FiVFlMcVR0anlocml0cjRMSQ?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-10-14T14:50:19+08:00",
+          "summary": "Photos: Student protest in Albania prompts violent clashes with police Al Jazeera Albanian students protest over education, jobs, clash with police Reuters Albania: Fire at Education Ministry as students protest DW.com Anti-Government Student Protests Erupt in Albania...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Turkish authorities take over country’s most-watched news channel",
+          "title_zh": "土耳其当局接管该国收视率最高的新闻频道",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbk4yVHU4T0F0NHVqT3JONGhDdGgwVEJJTkhNSFQ4V3V1WUN4Y1ZnVDlTRC1STVAyeEtOWThxWHFaRVVZd1phWTRNckRWdWszMVdkeHVVRUlDYlFpd3JYeHFMMXFDVzNLQjZIZ1pHTm9teGdKSFJvT19rZnRMb2NJbDBOZGY?oc=5",
+          "source": "Financial Times",
+          "published": "2026-10-14T17:47:49+08:00",
+          "summary": "Turkish authorities take over country’s most-watched news channel Financial Times Turkish authorities raid TV channel as press freedom groups warn of a crackdown AP News Turkey Raids Pro-Opposition TV Station The New York Times Turkish police raid opposition TV station,...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Spain's ruling Socialists lead in state-run poll ahead of snap election",
+          "title_zh": "西班牙执政党社会党在提前大选前的国营民意调查中领先",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUk5NE5Tc3RqX0s3TUx6Q2F4bm04aUE4WWhXZmpUbnJVM0VENlBNeWNnbWw3dGw4WGhQaTQwNW9YLWJtNTI2TmNiVi1tUk1venkwUDVtVks0LVdUZHM3Zk1YT2pNbmxrWlNIdmVzb1k3MUFWS2ppa0E1cldKM2pQenpyRmpHSjI0VUprNnMtejAtek9hRjhaS1NJQWkzVlg0Z1AzX05EMHYydw?oc=5",
+          "source": "Reuters",
+          "published": "2026-10-14T20:19:27+08:00",
+          "summary": "Spain's ruling Socialists lead in state-run poll ahead of snap election Reuters See more headlines & perspectives on Google News",
+          "summary_zh": ""
+        }
+      ],
+      "china": [
+        {
+          "title": "自治区党委常委会召开会议 学习贯彻全国卫生与健康大会精神 王伟中主持",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ncmVnV1pmaS1QN1VOb2x0VG5YRnBaZ1MwLUVSUzI2LWdPa2cwbWw1akQxR2poVGdXc1ZIaFRldnVTdWRwOXNTQVVhMlI4X2kyM1lseXJhUmZfb1NHNXgzeWpaNmlzWGdUYXpBcTlCQQ?oc=5",
+          "source": "内蒙古新闻网",
+          "published": "2026-10-14T18:23:48+08:00",
+          "summary": "自治区党委常委会召开会议 学习贯彻全国卫生与健康大会精神 王伟中主持 内蒙古新闻网 [新华社] 习近平出席全国卫生与健康大会并发表重要讲话 中华人民共和国国家卫生健康委员会 看图学习丨这项保障被总书记放在“优先发展的战略位置” 新浪新闻_手机新浪网 习近平总书记为健康中国建设取得决定性进展指明方向 央视网 建设健康中国，习近平强调“六大能力” China Daily",
+          "summary_zh": ""
+        },
+        {
+          "title": "日本外务省就日本记者被拘留事件召见俄罗斯大使",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQem1ub0hQRmNkd2J3VDM3dmZabGYzMVVTRUxROTF5U0ZFUXlVZ2NzMWx6QTR4NVgxeUNUaUtkODd2a2dCQzlwRHB1UFZ0WGZLeTcwRFZpVHFvaUlfSDBYQU5mSjVndV9zYWRwS1lZZHZUcHpTZzN6QnVKSmtFN180VTNGcTRWTk52XzluSmxicnlnMU5FbUp6TWlR?oc=5",
+          "source": "新华网客户端",
+          "published": "2026-10-14T20:20:50+08:00",
+          "summary": "日本外务省就日本记者被拘留事件召见俄罗斯大使 新华网客户端 俄外交部：日本驻俄记者搜集情报将恶化俄日关系 凤凰网 日方就日本记者在俄远东被捕事件与俄方交涉 央视网 俄外交部：日方以新闻报道为掩护从事情报活动不可接受 中国日报网 日本记者涉嫌间谍活动在俄被拘 手机新浪网",
+          "summary_zh": ""
+        },
+        {
+          "title": "从烽火长征路到乡村全面振兴路",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91ZldNWllhZmp6bmYzamtVRGZaZDhtR2FrX28zUUJhNXp1d1gxSFg2bHFFSERjU2xGQ3c2S2NpUGNyVW9ra0VvM3V2ZWdhMEtuNS15S0s4WlRaUGhPSHlMSi1FWGQ?oc=5",
+          "source": "西部网",
+          "published": "2026-10-14T10:15:00+08:00",
+          "summary": "从烽火长征路到乡村全面振兴路 西部网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa040OWQwX0J4RW5INzdCTUQtcVpNNDlET2lHSlNVWEtBWUNYdWtUOUdOeVpKRlJvOTVDeUJCdVB6dVI5Q0h2SEl2dVJFNmdqbE81X0Izd1RIZVBuVC1nR1lwRmU5UjVFRGMyOXlDN2I1c24yNkp4bFlTWmExbUhMVnVhaw?oc=5",
+          "source": "新华网",
+          "published": "2026-10-14T17:18:42+08:00",
+          "summary": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲 新华网 李强出席“广交世界70年”座谈会_中央领导活动_首都之窗 北京市人民政府门户网站 第140届广交会开幕 江西630余家企业携“赣贸优品”齐聚羊城 凤凰网 第140届中国进出口商品交易会开幕 中国日报网 上海进出口规模连续19个月正增长，市商务委透露“增长密码” ThePaper.cn",
+          "summary_zh": ""
+        },
+        {
+          "title": "多名美参议员致信特朗普要求撤销美俄“柴油协议”",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RdnJOdzdlWGkyWGhQZTJQYXFxbkFOUEdNbHlPYWVVajg4RHVIU1IxVVpMVm9jcl9Sd3N5ZXBVU0lzYnBlaFdkMkd1MGxTM0Q5Uy1JVUZSc00zYTZXcDJaMmNDaXl4UzZoaTlKekZ6WTRtY051bGxsTQ?oc=5",
+          "source": "央视网",
+          "published": "2026-10-14T14:26:24+08:00",
+          "summary": "多名美参议员致信特朗普要求撤销美俄“柴油协议” 央视网 保选票、催停火、促谈判：美方三个算盘能成吗 新华网 俄副总理：俄美正就达成对美供应柴油合同进行谈判 凤凰网 数据显示，普京与特朗普达成协议后，俄罗斯恢复柴油出口装船作业。 手机新浪网 薛凯桓：特朗普“赢学”算盘噼啪响，泽连斯基被拨得最疼 观察者网",
+          "summary_zh": ""
+        },
+        {
+          "title": "新鸭绿江大桥建成12年终于通车 中朝或就经济分歧达成妥协",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4Zk5DME9TZ28wcmVZNzBqN2l4ZGU4S2ZPZmlIcUhKVHA3T0owZjV5YkFHYllMcU44eGR0eE82eUl3a3NTWE9qcWUwOWdoeTJzeE1NNl9uUlB0ZVNmVXNNeGZBNFpUN3V3aEE?oc=5",
+          "source": "联合早报",
+          "published": "2026-10-14T22:34:57+08:00",
+          "summary": "新鸭绿江大桥建成12年终于通车 中朝或就经济分歧达成妥协 联合早报 中朝跨鸭绿江新桥周四正式通车 RFI 江西人都收到这条短信了吧|国际减灾日|自救方法|地震预警|山体滑坡|沙尘暴 新浪财经 中朝新鸭绿江大桥明日开通，外交部回应 观察者网 界面晚报 | 9月中国出口同比增长36.3%；中朝新鸭绿江大桥明日正式开通 Jiemian.com",
+          "summary_zh": ""
+        },
+        {
+          "title": "暴雨蓝色预警：重庆贵州等6省市有大到暴雨 湖南湖北局地大暴雨",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MdXVjcEYzVks4VFhmam1TVWZONDJidHRiV1lJdTRMUXFBWWRFdnJKbjVVNVdsSF93QnhtcXFuSUxZR1dvSHpaNmpZd1gzWGJpTXJvTkpZOHdvT21L?oc=5",
+          "source": "天气网",
+          "published": "2026-10-14T18:01:13+08:00",
+          "summary": "暴雨蓝色预警：重庆贵州等6省市有大到暴雨 湖南湖北局地大暴雨 天气网 中央气象台：今天至明天，江西部分地区有中到大雨，局地暴雨或大暴雨 凤凰网 新一轮冷空气即将影响我国 北方多地气温将创新低 中国日报网 本周两轮降雨接连来袭 哪些地方雨水将超长待机？ 搜狐网 冷空气携暖湿气流登场 多地将现明显降水与大风降温天气 搜狐网",
+          "summary_zh": ""
+        },
+        {
+          "title": "第33届世界大学生冬季运动会火种欢迎仪式在长春举行",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nYXc1RGZITUlfZnVOMmM4WV80a2tlSlotYXBvN0t5WmJkTTl3YVM1bXRQQUJzY3pFcWhHWFlvTW1DUlRRQjlsVGc0WkgzbjltMm9feTg5SnNVN1N3LXU5b3lWaW84bmxQWUhnSjBnRjI?oc=5",
+          "source": "中国科技网",
+          "published": "2026-10-14T20:05:01+08:00",
+          "summary": "第33届世界大学生冬季运动会火种欢迎仪式在长春举行 中国科技网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "郑东新区医疗保障中心：开展第37个国际减灾日主题宣传活动",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVc2JfMEF6RmZnRHdjVVdhaHR2Ukc0Ri10dTlHdG5ycnppekZqMl9mX09FZUJRMEVIa0t4NzNMTlh0bG4yZ2ROckw0NFpXYUtpd0daNnBYUU11TDZaNWNUMHNfWl9HNHplVWJJ?oc=5",
+          "source": "河南经济网",
+          "published": "2026-10-14T16:56:55+08:00",
+          "summary": "郑东新区医疗保障中心：开展第37个国际减灾日主题宣传活动 河南经济网 顺义区：国际减灾日活动守护家园“最小单元” 北京市人民政府门户网站 国际减灾日学减灾 中国青年网 海南升级房屋建筑和市政基础设施 建设安全韧性家园 搜狐网 国际减灾日特写：他身着瑶族服饰，讲述山体滑坡前转移的“三个庆幸” 搜狐网",
+          "summary_zh": ""
+        },
+        {
+          "title": "2026年湖南省“社保服务进万家”活动在安化启动",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xY0RUNUFUbVlacWZpNnRlZi1ldGE0WmFoUWJScF9PMlYxeU90aV8xX1hxUGpveGJwdlQ1TFVPYkFSeVYyRGdRTjF3a19GNUJSTnpoNTBrc01Xc2Q0MDNF?oc=5",
+          "source": "华声在线",
+          "published": "2026-10-14T19:02:00+08:00",
+          "summary": "2026年湖南省“社保服务进万家”活动在安化启动 华声在线 2026年“社保服务进万家”活动启动 新华网 黑龙江“社保服务号”地铁主题车厢亮相 让“社保服务进万家” 搜狐网 “把政策红利和便民服务送到群众家门口” 厦门市2026年“社保服务进万家”活动启动 人民网-福建频道 2026年“社保服务进万家”活动新疆主场在喀什市与全国同步启动- 中国日报网 China Daily",
+          "summary_zh": ""
+        }
+      ],
+      "ai": [
+        {
+          "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
+          "title_zh": "AI @ CLS：哥伦比亚法学院的人工智能计划",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5",
+          "source": "Columbia Law School",
+          "published": "2026-10-14T22:53:52+08:00",
+          "summary": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative Columbia Law School",
+          "summary_zh": ""
+        },
+        {
+          "title": "AI ML Now: Gert Desmet on the Future of Artificial Intelligence and Machine Learning in Separation Science",
+          "title_zh": "AI ML Now：Gert Desmet 谈分离科学领域人工智能和机器学习的未来",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMHVjSTEzLUxMZUF4MzRFYXdIOFZubzRQenRuZndIbjhWT2RUYXY5NmF2NmRFcXpZLW5KR3ZRcUNkYUw4eUVzOEhiVWxWTFJoRUlxcjFZTnRIZHFPYmNvVFRmZXR1OHY5V0llSUtPLVFJSmlSU1FiTDNHOEJmUzFGRks2clpxVngzOXpQdEtSWjl6SDFsdDNURFRkWnlYN0x0YU9RbTNLbnkyM0VYS25mRXNZNnVJRDdGR0dmc2pBMktQcTNrWEwxWjJqYlo1YTVLQlpHYkl2RW5SMnJjeUl0Zg?oc=5",
+          "source": "Chromatography Online",
+          "published": "2026-10-14T19:22:28+08:00",
+          "summary": "AI ML Now: Gert Desmet on the Future of Artificial Intelligence and Machine Learning in Separation Science Chromatography Online",
+          "summary_zh": ""
+        },
+        {
+          "title": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin",
+          "title_zh": "由于数据中心仍然是潜在的政治问题，大卫·克劳利提出了威斯康星州监管人工智能的计划",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSVJQRDJweEhtbjJhWkNZc2hHM3MzR3pfTVIzeS03RkQwbXBsanVJN19OVTUzZ3NOOHR2U0lVc282UnpMMlMzLVRYclNXRkJGSXFLWkEzTGJvM21LU3VwZGJoeWRzOFZ1bVpmMC1OOVhBT2hUMkg2ejA5dkVadVVtUmxEV1BkUHBTRGRWZERsRHVkemk3MGcxQWJjTTd5am9zVFhfRlJ5T3JRTzVHWHM1dTdIV0ZEYTQwZk9pTGxMNk9qSGpEUmZ6STdHWEhrY1FRd0ZhWW83OHhucHZraUdiS2c1MHRMenM0eWRhQWxWWXI?oc=5",
+          "source": "Civic Media",
+          "published": "2026-10-14T22:24:00+08:00",
+          "summary": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin Civic Media",
+          "summary_zh": ""
+        },
+        {
+          "title": "The Big Problem Every Artificial Intelligence Company Faces",
+          "title_zh": "每个人工智能公司面临的大问题",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnVOLXZnNnFmY05jSl9pTjZzWEppZllJR1lTM2hOOE5ZSTFrRWthRHZsVy1BSzg1NzJ5Vm9DdmJqSURaNVNEa2xNblFTaHpPanFINlpkdjE4SGk3OHlsQnVydGt0eGthb3p0eEppaWFreGdPTkFQRGY1LVR2RUNMZUpCRTRJaTczZk9QSQ?oc=5",
+          "source": "BGR",
+          "published": "2026-10-14T18:17:00+08:00",
+          "summary": "The Big Problem Every Artificial Intelligence Company Faces BGR",
+          "summary_zh": ""
+        },
+        {
+          "title": "What My Son Is Learning From Artificial Intelligence",
+          "title_zh": "我儿子从人工智能中学到了什么",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5",
+          "source": "Greater Good: The Science of a Meaningful Life",
+          "published": "2026-10-14T01:09:40+08:00",
+          "summary": "What My Son Is Learning From Artificial Intelligence Greater Good: The Science of a Meaningful Life",
+          "summary_zh": ""
+        },
+        {
+          "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027.",
+          "title_zh": "不是英伟达。不是美光。这支低调的人工智能 (AI) 芯片股可能成为 2027 年的最大赢家。",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzZ2NU5fcG1WbFdrOFpUMF9NWFRibEhqclowaW1QVk1rMGFaZFhnRmt2WmVvdi1WMnNlRXpsamdSSmNDWng0S2x2cXplZE5aZWFQZG5mLUN4MzNVYXlWMzBHQ0dYREd0LVRIOGowM1YtYTUwWjhpUDExdDk1Xy1wY1lsa1E5STJva19iaFdpWkpiaDVuYWRNOA?oc=5",
+          "source": "The Motley Fool",
+          "published": "2026-10-14T22:42:19+08:00",
+          "summary": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027. The Motley Fool",
+          "summary_zh": ""
+        },
+        {
+          "title": "What Allegations of Spying at OpenAI Mean for the A.I. Industry",
+          "title_zh": "OpenAI 的间谍指控对人工智能意味着什么行业",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ekVqUEtoemNqT3hQa3VRMXNWSDJXZjdhTDV1Ynd4QXpCUW5xNElTS3U4TUlmODREeUFzYy1QLTFOeWdPUlRNbzIxMDdjc2RGSkRZUm9QM0lhaDFUSGtTNUZRbnFwUWJKTkJ2SlV2X29CWFU1UzY4b0ZnN19BNjg?oc=5",
+          "source": "The New York Times",
+          "published": "2026-10-14T20:39:24+08:00",
+          "summary": "What Allegations of Spying at OpenAI Mean for the A.I. Industry The New York Times",
+          "summary_zh": ""
+        },
+        {
+          "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
+          "title_zh": "纽约时报。 。人工智能已经从苦苦挣扎于基本算术变成了帮助解决一些最著名的数学开放问题——该领域正在思考这意味着什么。史蒂文·斯特罗加茨 (Steven Strogatz)，Co. 数学教授",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5",
+          "source": "Facebook",
+          "published": "2026-10-14T03:30:06+08:00",
+          "summary": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co Facebook",
+          "summary_zh": ""
+        },
+        {
+          "title": "What The Tech: How criminals are tricking artificial intelligence platforms",
+          "title_zh": "技术是什么：犯罪分子如何欺骗人工智能平台",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQy1OZkw3enhLRUdMNXlIbVFrUTBiWkFQZDk0NjRUcEdYQjdPVGMzZVZKcDg3M1Fud1M4NzM1QnJEeDhPbktaSDZKeHRpUEtfbERodEhhbEUzWFpyQW1mM0EtTVVBMXM2ZFZHdVI3ckZya1JkZnZYdEFiOHA0dUJ0Wl9qLVJFMWpJYWVlaFR1UENWQlBHazd4Rk5taFVFLXZZWXpKcGwtQnpHaHM?oc=5",
+          "source": "WAKA 8",
+          "published": "2026-10-14T19:30:00+08:00",
+          "summary": "What The Tech: How criminals are tricking artificial intelligence platforms WAKA 8",
+          "summary_zh": ""
+        },
+        {
+          "title": "New court filing in SEC-LSU lawsuit includes artificial intelligence disclosure",
+          "title_zh": "SEC-LSU 诉讼中的新法庭文件包括人工智能披露",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM0RfWGxWV3hqVUNUWUppYUdqaFg4WDlDV0R4QXpjbmZGMWxLX0RUcmNMbjNLSUNPem1Ubk9FWU9xWnpsUmJ5V1ZRaG9fUmcwYzBkRUd4OHQ3SElRTW9Tc3k1VGx1dFZxYjdFZk1aSEwwcDF4ZTB2R0NFVnV0WWxWc0pEZDdKQXRaeUJLcWZhOENjTFhVUEp4Tld0aW9YUGUzLWhuczFoRkhkZjdMRHdqbkxpaC16U2ZTRVlENmM3N2lIYVNfc0NCYUhCOXRrNlA1OVFKTGlaWVhLbjQ?oc=5",
+          "source": "The Tuscaloosa News",
+          "published": "2026-10-14T23:01:00+08:00",
+          "summary": "New court filing in SEC-LSU lawsuit includes artificial intelligence disclosure The Tuscaloosa News",
+          "summary_zh": ""
+        }
+      ]
+    }
+  }
 }
