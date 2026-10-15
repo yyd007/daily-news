@@ -1,565 +1,285 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "morning": {
-    "generated_at": "2026-10-14T14:38:43.447898+08:00",
+    "generated_at": "2026-10-15T13:47:04.161341+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "Pope Leo diagnosed with lung cancer, undergoes successful surgery",
-          "title_zh": "教皇利奥被诊断患有肺癌并接受了成功的手术",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZOEZPMFQ1RzBQUm90NllqNGJGUG9mMmFyS3FOU2pHYWl2WFEtbnN2N1lsXzgzcmlLdmRjYWRFTFB1bVM3bkdMRklXQllld3Npakt3RmEySFhPcERvOXlIT2lLc0JrY3ppM1RSNUxpWE1tbGpFRXBvUzdZYkw?oc=5",
-          "source": "Axios",
-          "published": "2026-10-14T08:48:52+08:00",
-          "summary": "Pope Leo diagnosed with lung cancer, undergoes successful surgery Axios What to Know About Pope Leo’s Lung Cancer Diagnosis The New York Times Pope Leo XIV undergoes successful lung surgery Vatican News Pope lung cancer news: Chicago doctors explain Pope Leo XIV's lung...",
-          "summary_zh": ""
-        },
-        {
-          "title": "MI5 chief warns against overstating Russian interference in Brexit vote",
-          "title_zh": "军情五处负责人警告不要夸大俄罗斯干预英国脱欧公投",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpZTVXSmotbENRSnZsZTRCeHBKbEJBQ1dEbG1idVF0bkhYYUdldnJpcFpRMmUtbFViN0lFVGFEai00SnA1MUtOUWFFWVhvLVZkNFI2VnU4Q2Q0OWM?oc=5",
-          "source": "BBC",
-          "published": "2026-10-14T01:06:18+08:00",
-          "summary": "MI5 chief warns against overstating Russian interference in Brexit vote BBC Brexiters can’t cope with the fact that Putin was cheering them on | Rafael Behr The Guardian UK prime minister say it is ‘clear’ Russia interfered in 2016 Brexit referendum AP News UK PM Burnham says...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Houthis strike Aramco hours after Saudi-led coalition hits Sanaa oil site",
-          "title_zh": "沙特领导的联军袭击萨那石油基地数小时后，胡塞武装袭击了沙特阿美石油公司",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmRBdUZFd2VfLThKOWQ3elR2ZWJzVzFrdDhMMkU2TGlFbnhiR0ZkeVVYOUhhZnNDTFNndHd3azRFZ0lqbG50Z0hlS2tVbkxhRmptNWhVRHJ3aER0WTc4ZXRPSTluRWpjdnVhOEF4bncxU3h6ZTkxSF9OQkduWWxnZTNtOURzQXM5OWRvNWNBUXBEYzlEM0VjR3N0WF9WWDdZU00yd0hR0gGrAUFVX3lxTE9xYjVUdUk4dUhhTmNFYnFCbl9TamRndElPREdPaFM3ZW0zc0NGYjd2aWRlVU1SUGxaS3NsZEY3UDBTaVJaMHZ5YnM2ZmVHNUhmTk9md0xIVzl6WFZTam13bm1iSHpEenFoUkJIcnU4dTBNSnY3NkFLZkhZajdWT2JQRUNCYlh5bWRfTGZJcS1BdEY0VUlCdzlWT1ZnUGQ1Tl9ocEdiUWZOX2Q4RQ?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-10-14T08:40:04+08:00",
-          "summary": "Houthis strike Aramco hours after Saudi-led coalition hits Sanaa oil site Al Jazeera Aramco Headquarters Hit as Houthis Widen Attacks on Saudi Arabia Bloomberg.com Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia The New York Times Saudi Aramco...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say",
-          "title_zh": "官员称，伊朗在美国投票前改变策略，加大对航运的攻击力度",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5",
-          "source": "Reuters",
-          "published": "2026-10-14T08:06:00+08:00",
-          "summary": "Iran shifting tactics to step up attacks on shipping before US vote, officials say Reuters Iran Escalates Attacks on Ships, Threatening Oil Export Recovery Bloomberg.com Ships in Hormuz strait hit by worst spate of attacks since start of war Financial Times Iran escalates...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Zelensky and Burnham to meet in Downing Street",
-          "title_zh": "泽伦斯基和伯纳姆将在唐宁街会面",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wR1hYSGsydFZ0UF9RZXZ5dU8tdmhlck1DejFhcS16c0pMdjlfUjNpclZDMDUyVzRRejRVT0U4Wjg0UVlldTY5MmRiazBPLUx0ZXJCUnRONE00VzQ?oc=5",
-          "source": "BBC",
-          "published": "2026-10-14T05:31:30+08:00",
-          "summary": "Zelensky and Burnham to meet in Downing Street BBC Zelenskiy visits Britain as Burnham pledges fresh support for Ukraine Reuters Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support The Guardian PM pledges 'rock-solid' support ahead of Zelenskyy visit after...",
-          "summary_zh": ""
-        },
-        {
-          "title": "U.K. intelligence chief warns Iran is shifting plots to ‘harder targets’",
-          "title_zh": "英国情报局长警告伊朗正在将阴谋转向“更难的目标”",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHpoSWxCVzlWVmVkY05uUXZNLV85OHRFclFDZ1hXYV9HNzdFZ29XQ2xmVG9VYlF0VWhoNnJ4bzVxY1h2WmFOZGFQWE0tdndpTGVrTXNyTlgzLVBqS3ZvUXRmanBpWnBFckdSdVZvMHZSYUJMSUJCY0tBeGxTbnQzTTVtNmVvMWJNYUdoRHB0T29PcmRLVU5qV00wV3BRZ1c3YlRWTWhhclc1dGFIeEdrZjlpUHU?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-10-14T03:58:36+08:00",
-          "summary": "U.K. intelligence chief warns Iran is shifting plots to ‘harder targets’ The Washington Post MI5 tackling more state threats than during Cold War, warns intelligence chief BBC Rightwing extremists increasingly likely to consider terrorist attacks, MI5 chief says The Guardian...",
-          "summary_zh": ""
-        },
-        {
-          "title": "India’s government fails to crush Gen Z protests",
-          "title_zh": "印度政府未能镇压 Z 世代的抗议活动",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObC1oNzN2REpyOW5JSThSSEVaWk91ckVRdWRNcE9NdnRKMUxITXdKU09VYjJoTi1iem9zajZleUIybWxPREJoTWpNOVBWUHA0S3h2ZzBUSk0yU2c5aUQyeE9TdnBmQlRSZTRiVVVvaW8tckNiUWJBc1l4YVMzaWg5RzF3RG84UE9MblM0SFNzSHRRWTA?oc=5",
-          "source": "The Economist",
-          "published": "2026-10-14T01:09:32+08:00",
-          "summary": "India’s government fails to crush Gen Z protests The Economist India’s Modi faces unprecedented challenge to power as youth mobilize The Washington Post Is This the Beginning of the End of Indian Democracy? The New Yorker After Lockdown, Sea of Protesters Flows Through...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Trump Posts Videos Of Violent Animal Attacks In Warning To Never 'Mess With Nature'",
-          "title_zh": "特朗普发布暴力动物袭击视频，警告不要“扰乱自然”",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ3NYYnVvWVl4ZFlKQ1c0RTk4VGUtQ3RmVEpOYmxVRFRaU2tOa1diLWpVWXZRZ3BlUHN0UVBSYXdIT3J5QVMwX2phMF9vRl92VUxxSnVLXzMwajBJYzRjZ1FDMUFVdWVjdDJkREE5UFdjMVJ2TXd6aTd6T1RtMTRnTkt0TE5CTTBEcm9mT3kxSnNybHNRcFZWdmlrekU1UEdSSmZZNmJ2MTc0ekRuazBiY0lqdmd1Wm9GdEp3SFpTVXFzZHE0aFBGdTlzT1hJcnJWdGRYcUlB?oc=5",
-          "source": "Forbes",
-          "published": "2026-10-14T05:21:47+08:00",
-          "summary": "Trump Posts Videos Of Violent Animal Attacks In Warning To Never 'Mess With Nature' Forbes Family pays tribute to 'warm and engaging' man killed in tiger attack BBC Trump Posts AI Video Of Himself Chasing Away Tiger After Sharing Fatal Attack Video Forbes Man killed by tiger...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-          "title_zh": "德国对被控炸毁北溪管道的乌克兰人进行审判",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nV1c3TWdoUG1JS01sSXlFSks1dllZM1ZpZG8xTFpDck9JSk9iVzBtbkZONHhady1CWjdHX0llSm9weXJsb0U2QkJBVW9IaDJ0MnpmWGdXSmRUMU0?oc=5",
-          "source": "BBC",
-          "published": "2026-10-14T07:42:22+08:00",
-          "summary": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines BBC A trial over one of the biggest acts of sabotage in decades is getting underway. Here’s a refresher CNN Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts Al Jazeera Ukrainian...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says",
-          "title_zh": "保加利亚称，黑海无人机击中船只，导致一艘船只沉没并促使救援行动",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTJPTHc4YkdLRVc4S2RXZG1kVEFYRTNDR1pzdHk1anYybkY3ZFd1c0xaWS1kZ256M2hGM1dMMU84alVTbUQwVTBwUktsUWVzaXIzUnl0cnBWV3Y0aHFGQnhZZzllSjFfdjI0TjdyVGJxNXdwOFp5Y0liU3VoVE5pYXNTVjVTQTg1cUtvcE8tNzZvbzhjSUE?oc=5",
-          "source": "AP News",
-          "published": "2026-10-14T06:15:00+08:00",
-          "summary": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says AP News Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack BBC Eleven sailors missing after drone sinks ship off Bulgaria Reuters Drones hit ships in Black...",
-          "summary_zh": ""
-        }
-      ],
-      "china": [
-        {
-          "title": "勇闯医学前沿 筑牢健康根基——健康中国建设的十年奋进之路",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcU5xNmFPcnJqNWR6VnVhOTZ2NjZGVXhLZ0RqS0lLX05Vd2VHaVdHUlVVbUZzZFRhZ0JiWnd1Y09QYlcwZktpRFBCS0hoZzcxREpsMHJ4QlpBWFdMRk5IcUt5MFhUa3VaamFieGFUVTBhcVJCM0lEZ2VxS2d6OFQxQmlVN1NEOEowQUhacjIyS2NGUkI2?oc=5",
-          "source": "紫荆网",
-          "published": "2026-10-14T10:01:37+08:00",
-          "summary": "勇闯医学前沿 筑牢健康根基——健康中国建设的十年奋进之路 紫荆网 坚定不移走中国特色卫生与健康发展道路 确保“十五五”时期健康中国建设取得决定性进展 人民日报 时政微观察丨夯实全民健康根基，总书记强调这个关键词 央视网 建设健康中国，习近平强调“六大能力” China Daily 全国卫生与健康大会时隔十年再次召开，习近平强调这些重点 中国网",
-          "summary_zh": ""
-        },
-        {
-          "title": "中国与博茨瓦纳将携手推进全球南方媒体智库合作传播",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhU2xGXzZHdXNJeHdqTWI5QXNJeTZvUmdjSjk4VTlCT1NxVnRENHJWOGpfbThDVl83WHRUWVkwNHRxUXo4RDVQT0V1ZVZkR0lVUXRoZkJ4VTVFTmFWVGx6QURmYjNrclREZDJaMWFlMEh2VEF1UUE3QnA5bmI?oc=5",
-          "source": "求是",
-          "published": "2026-10-14T10:11:27+08:00",
-          "summary": "中国与博茨瓦纳将携手推进全球南方媒体智库合作传播 求是 习近平同博茨瓦纳总统博科会谈 新华网 赵乐际分别会见博茨瓦纳总统博科、多哥部长会议主席福雷 人民日报 中华人民共和国和博茨瓦纳共和国关于建立全面战略合作伙伴关系的联合声明 ThePaper.cn 中央广播电视总台与博茨瓦纳总统事务、国防和安全部广播服务局等机构签署多份合作文件 央视网",
-          "summary_zh": ""
-        },
-        {
-          "title": "重庆借道平陆运河南向出海有何影响 新增运输组合选择",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQmE5QnU3SEhibWE2OTFrQzNiQkZHREcwaUhOT2hPM2dMcnU3dFpJTy1XeVEzVG9rdlpGM3BQWE5GdnFuQ2dsSjdYODZ2dzlEMnA0eHNScFNiTmU5WmN0SDhLSUdCd0ZwSExjV1l2QlQ?oc=5",
-          "source": "中华网",
-          "published": "2026-10-14T11:23:30+08:00",
-          "summary": "重庆借道平陆运河南向出海有何影响 新增运输组合选择 中华网 活力中国调研行丨一河通江海 “智”水谱新篇 新华网 （活力中国调研行）平陆运河通航将满月 广西从“末梢”变“枢纽” 搜狐网 活力中国调研行｜让千吨巨轮翻越65米“台阶”！平陆运河如何做到？ ThePaper.cn 从平陆运河看“竞合”（人民锐评） 人民日报",
-          "summary_zh": ""
-        },
-        {
-          "title": "日方就日本记者在俄远东被捕事件与俄方交涉",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uRjRTOVhqLUxuZ2NqcVRBM3lCaEhWUk1RRjZrQUtJNnRyemNqR3hCNFg4eFdIRUxsMjJCVXR5ZjNiVF92OHUyalZodzlBMGxMaGdZb3JGUUttTTJIaEw2QjBUa29uZTF1c1VlZmp2b2NJcGZCRUJCRg?oc=5",
-          "source": "央视网",
-          "published": "2026-10-14T09:38:39+08:00",
-          "summary": "日方就日本记者在俄远东被捕事件与俄方交涉 央视网 俄再次呼吁日本放弃敌对行动 改善双边关系 中华网 俄外交部：日本利用驻俄记者搜集情报将恶化俄日关系 新京报 涉嫌从事间谍活动一名日本记者在俄远东被捕|俄罗斯|千岛群岛|萨哈林州|安全局|情报 新浪新闻 进屋扑倒在地、押送上机转移！俄方称逮捕一名涉嫌从事间谍活动的日本记者 搜狐",
-          "summary_zh": ""
-        },
-        {
-          "title": "中央机关及其直属机构2027年度考试录用公务员报名开始",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWhGWGxnNWZSWUtIVmx3R3czcGVlQmFMQzQ2b0ZHQXV5TUNsSXVFYmN3SE1VTWFHMkRZcElUaUZ2akphZHVwcEFkYkk4UENjTElXR3hhbUI5N3UwbFBuRnRIVDFzUFFJd0dBV2F4TDJsNjdNMjlCWHU5b0w3TElzY3pqaw?oc=5",
-          "source": "新华网",
-          "published": "2026-10-14T09:12:35+08:00",
-          "summary": "中央机关及其直属机构2027年度考试录用公务员报名开始 新华网 2027年国考有这些新变化 报名认证更严格 中华网 国考来了！苍南岗位→ finance.sina.com.cn 国考招录两连降，公考培训进入“贴身战” Jiemian.com 迟到 15 分钟禁入，国考缩招6.3%，2027 年报考新规矩|国考|公考围岗_新浪新闻 手机新浪网",
-          "summary_zh": ""
-        },
-        {
-          "title": "深海探索，“蛟龙”号带回了哪些“海货”",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81X1NBNXZ3aHBwdEhMdWJhcUk5Z1ZxSjBpMDA0ZjlVNXVackxLX0hnQk16Znd5N0ZtNk9HdjhYRTkwUWw0RjBnemtIa1N1el9rekl2c0RwTmU2YlpVUjJxNUtHb1lpWHhYaWlsS3gyOE4?oc=5",
-          "source": "https://www.aksxw.com/",
-          "published": "2026-10-14T11:15:14+08:00",
-          "summary": "深海探索，“蛟龙”号带回了哪些“海货” https://www.aksxw.com/ 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "国台办：我们始终高度重视台胞权益保护工作，依法保护台湾同胞正当权益",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSm9UNFlBdlhiMmRfeHRJVmwwbTh2RUVTRF8xMHU1NEZlT0ZMb3BKSkFMYlVFRXFCTG5YUm5ZVXlFQzZ2MVdNX1hQSXRrZ1B3OEkwOEpVb1FkbWVqQzR6U2M3QlVmZ1dnc1NKb1FJcGU3a1dxTEllSnBjWC1EaElBU1huQ2RKdw?oc=5",
-          "source": "海峡飞虹",
-          "published": "2026-10-14T12:36:47+08:00",
-          "summary": "国台办：我们始终高度重视台胞权益保护工作，依法保护台湾同胞正当权益 海峡飞虹 国台办回应林佳龙窜访美国 中华网 国台办：希望广大台胞台企在大陆守法经营、合法经营 并依法依规维护自身权益 搜狐 国台办回应台媒：我们尊重台湾同胞选择的社会制度和生活方式，台湾同胞也应尊重大陆同胞选择的发展道路和大陆现行司法制度 搜狐 国台办答台媒：坚决打击“台独”分裂与争取台湾民心不矛盾 京报网",
-          "summary_zh": ""
-        },
-        {
-          "title": "何立峰会见法国总统外事顾问博纳",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ndHJaaE5tQXlDSTQ3RnYzSGE3TlpIQXl0VkR2djlKbWRmZDJGMGJ2a1VDMlNBcndJQjZIeDc3aFBLWkhMQUhPbWo0SGVOTTJLeTJxU0w4QUpaa0l2bjNsbUp5Z0RUdw?oc=5",
-          "source": "东方财富",
-          "published": "2026-10-14T13:46:49+08:00",
-          "summary": "何立峰会见法国总统外事顾问博纳 东方财富 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "赖清德称“不许扭曲二战历史” 国台办回应",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHSE01UXlubUNvVnptd0hMdk9yUTZTbmYwUVpnRm9ZSmdEclY3NzVkdFNBd2xKNHFRRmJnR2xoYkdEOFVmQXpjT0VfLWxLZGtLRjhLLWd3STU1T0NIcmhObDFwUDdKLWx6Y0hvbUVRNlBrbzROeVp1WW5xUUw1UQ?oc=5",
-          "source": "新华网",
-          "published": "2026-10-14T10:22:31+08:00",
-          "summary": "赖清德称“不许扭曲二战历史” 国台办回应 新华网 赖清德称“不会接受矮化” ，国台办回应 ThePaper.cn 赖清德“双十”讲话遭岛内各界质疑批评 凤凰网 跳梁小丑的“本色表演”|赖清德|国台办|台湾省|台独|台海 新浪财经 外交部：不管赖清德说什么做什么，都阻挡不了中国终将统一的大势 中国青年网",
-          "summary_zh": ""
-        },
-        {
-          "title": "习近平总书记关切事· 长征丨长征精神薪火相传",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IMXhqenVfd0lKMkwxU3NlOE9HWmhuTFVtVVZ5VGY0cm1oVzJFbURYYl95Vks2NUVFZ1d6a0Q3akR3WlVHQkhKNWo0b3IzbWJmLUhSSE1wR2dZRHlQQV9pbWhDb1pDMkJlZTVaaQ?oc=5",
-          "source": "大江网",
-          "published": "2026-10-14T10:44:00+08:00",
-          "summary": "习近平总书记关切事· 长征丨长征精神薪火相传 大江网 从烽火长征路到乡村全面振兴路 新浪新闻 习近平总书记关切事·长征丨长征精神薪火相传- 中国日报网 China Daily 大国重器命名背后的红色传承 央视网 回望峥嵘岁月 感悟长征精神 人民网－四川频道",
-          "summary_zh": ""
-        }
-      ],
-      "ai": [
-        {
-          "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
-          "title_zh": "纽约时报。 。人工智能已经从苦苦挣扎于基本算术变成了帮助解决一些最著名的数学开放问题——该领域正在思考这意味着什么。史蒂文·斯特罗加茨 (Steven Strogatz)，Co. 数学教授",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5",
-          "source": "Facebook",
-          "published": "2026-10-14T03:30:06+08:00",
-          "summary": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co Facebook",
-          "summary_zh": ""
-        },
-        {
-          "title": "What My Son Is Learning From Artificial Intelligence",
-          "title_zh": "我儿子从人工智能中学到了什么",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5",
-          "source": "Greater Good: The Science of a Meaningful Life",
-          "published": "2026-10-14T01:09:40+08:00",
-          "summary": "What My Son Is Learning From Artificial Intelligence Greater Good: The Science of a Meaningful Life",
-          "summary_zh": ""
-        },
-        {
-          "title": "Coahoma encourages employees to access free Mississippi Artificial Intelligence Network training",
-          "title_zh": "Coahoma 鼓励员工参加免费的密西西比人工智能网络培训",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaUVYMUdlQks1SWNMVENjS3Q5Y2RWRTBoV1poUmlDenRVVHlaRjcxZXBEZjhaZ1RrRVJ2cy1qVG8wekpTSUpMY0RZSHJocW9uZElhOXJBdHhLTU52SEhEeFpmRWk0eE94cUUtbHltTkZ2SVg1ZUZkX2tFaFRkQjV6UkZjdklDTjIzc2ZILW9TQUVUNjRPNmNQd1lYOUZmM1U?oc=5",
-          "source": "Coahoma Community College",
-          "published": "2026-10-14T09:47:29+08:00",
-          "summary": "Coahoma encourages employees to access free Mississippi Artificial Intelligence Network training Coahoma Community College",
-          "summary_zh": ""
-        },
-        {
-          "title": "The Virginia Senate receives new research on artificial intelligence",
-          "title_zh": "弗吉尼亚州参议院收到人工智能新研究",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDRLRFJZa1JCT2d2V0RMNHVLVGpUekh5bkl1TGF6ZkVDcXZ6VEppazRYQ3JQa2xla0tlV1E4TUhzZk85blJiQXZxVzBwbEZSWmNjenloUFZ6NU1KOFowY3lLZUtjREZfcXBXV1NHMnVCV0hmTlVWUGpQQ3BscHg3Q21HRXI3Zm5NeWdYSnBqaE91TlZOSEJrRTNlMEbSAbABQVVfeXFMT1UtYmQydkVpdy1wLXJaOUxFOXRPcjZQaGpHTV9mUHhzVzZIUko2VERzc1hfdElpbmpoSjhpTl9OMDFDWHVJemljWERoLURodkhkUnM1RWJ5Rm81a2hrT0l0RHRWUk03a3ZOUzlyZENwSDJuRHM3U2V2dFNpNXdja19MOTBlUVRFV0RGUTZ4ZnoxS2l0SEk0OWFya1BoUHFHcXhEUGVlczZmdFdSS3lVeHQ?oc=5",
-          "source": "WVIR",
-          "published": "2026-10-14T08:14:00+08:00",
-          "summary": "The Virginia Senate receives new research on artificial intelligence WVIR",
-          "summary_zh": ""
-        },
-        {
-          "title": "How artificial neural networks build their own learning machinery",
-          "title_zh": "人工神经网络如何构建自己的学习机器",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEdzZlpSZE5va0hVeUExZ2h5UU9oSEZrUTYxcElOd05xRDdTeVRMUV9HbkpiQWc2QTloaExDWW1Nc1VOdDVkSEY5a2VUWk9PR05ySXJnYVpRZFl3azB0WEZGTlUtVlJ3b3d5ME45VHZoc3VKMHR5TU1tWElFNEduMGc4VXYxZjF5bUNoRjVIc2NRTlVFLXpGekVqZlg?oc=5",
-          "source": "MIT News",
-          "published": "2026-10-14T05:00:00+08:00",
-          "summary": "How artificial neural networks build their own learning machinery MIT News",
-          "summary_zh": ""
-        },
-        {
-          "title": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin",
-          "title_zh": "由于数据中心仍然是潜在的政治问题，大卫·克劳利提出了威斯康星州监管人工智能的计划",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVdic3Y0alV1WldMbW1SSkpoWl81cE1UblhZOVl4dDYzS00xUnNvU01YaVRYb1lXUlhmaVFlSXNUQ0o5RUxjZjhEaEtMUlItYTNHUFFTaTRVb3IzZk1ud2h6THJZMVBESTNIdXR0RzhKWmtWTmszODQ2bEtITHdsX3E2dkUyaE1GWmxZYWR1Sl9xUUg5UUhHWEZXMkV6MGJ6Slh0ekNEYXdHOWo1WlQzLWdkZnY5amE3STdmZWkwV1hlOU9C?oc=5",
-          "source": "Wisconsin Watch",
-          "published": "2026-10-14T02:00:00+08:00",
-          "summary": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin Wisconsin Watch",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial intelligence threatens North Dakota security",
-          "title_zh": "人工智能威胁北达科他州安全",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDJLVzR6SG5KNXA2dTRUbzN3c3FlOWNrdE5IZzZ5c0U0TU9aS3czUjJTQ3dCcFp6VUpFc3k3dDh0cDlaVEM5NHBiakhIMXNMYy1wTTNGYnJobVVkZHhwQk9tLWdzX2Qtd0lDWWw3cDFOOHpoMWFLdGplaWRfUDBGM2tHN3d3Mk1FaDNJWU4zcXMwM2VK0gGoAUFVX3lxTE1hUHp6WEJTeHotdm10OWtoSTJhckZsbEpwYURYS1BvOVlSdmY4cU40SGp4SUhjNTQ2elE1TlJNNEFVYTkycDB0UDkyMHVHLTNHZ1hpTXMwRGZabjBIcHpJdUgtQjlYay1TSXNUdFFGMEs1NlZreFNjb2hTSVdReHhZWk0wQ0lfWUhrZklzWjRSZHctSnZRMkNQMmozUkRYaWZGRkswQjNGUQ?oc=5",
-          "source": "KFYR-TV",
-          "published": "2026-10-14T09:50:00+08:00",
-          "summary": "Artificial intelligence threatens North Dakota security KFYR-TV",
-          "summary_zh": ""
-        },
-        {
-          "title": "Delegate: Virginia will regulate artificial intelligence in 2027",
-          "title_zh": "代表：弗吉尼亚州将于 2027 年监管人工智能",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1N5YnI2ekE5NWU4ZndXSl9ETURzY25RX0ozTGhXc2tzMS0yRXJCS0N4cVNYRFBqbTRpb0YyVS1jbUdFODZiMXpub3Ffc2FQSDZzXzVHUnRrRTFZUG5ZMlAzVmFnS2hwbi1YLVBVUC00UlJxQ2VVck1WUTBXc3JrNFFPekFNSy1QRldXZ1RjNFZUSHNnYll2S0JkX29jcURlbGc?oc=5",
-          "source": "WVTF",
-          "published": "2026-10-14T02:23:00+08:00",
-          "summary": "Delegate: Virginia will regulate artificial intelligence in 2027 WVTF",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial Intelligence for Glucose Prediction and Glycemic Management in Diabetes: A Systematic Review of Predictive Performance and Clinical Outcomes",
-          "title_zh": "用于糖尿病血糖预测和血糖管理的人工智能：预测性能和临床结果的系统评价",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcTlVUzNhRG9aa3hvTFZWcHRDZWxzc3JDakFxSXdJVHRWTF9qd3FOdVlNNnJMZ29SX3JqVXB3Ti00V3I4WW5oY1JqdS1sWXllNDhrV2Z3MnNsUmpkZVk1U2xseVFJZUVkRWhJMWxfU3FNSEdjakswSkd5U0otRVRhSFl2UkFVbF9Hbkdfa3dOTEx5TWt2UFI1NGl0UkEzeE9BVm1jZmNtanRJNTZXdDdfaW8xdjVLQ3pPSzBlZC1SQkdzOTZkMGR1MFFEUFF5dE82VjI2TFV6dWZBT2ZuTFdqR24zallPcFNUa0Fvbjg1eV9lWlNJeHI5Z2RJSG54dDZoSlhKWk5SalM4b1IySHhDeVo2cTBCcHdH?oc=5",
-          "source": "Cureus",
-          "published": "2026-10-14T13:25:51+08:00",
-          "summary": "Artificial Intelligence for Glucose Prediction and Glycemic Management in Diabetes: A Systematic Review of Predictive Performance and Clinical Outcomes Cureus",
-          "summary_zh": ""
-        },
-        {
-          "title": "Loyola University New Orleans Explores Faith and Artificial Intelligence in NOLA.com Feature",
-          "title_zh": "新奥尔良洛约拉大学在 NOLA.com 专题中探索信仰和人工智能",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYm95ck53aXF3bU9FZ1RwOTYxMmtyNzZFY0xwVnhVeGRpcFM2MXdaMDktanhKZWhQeTAxbXRlT3drbS15VXhHTlZwQ3NId3pLTmZMcU5RQzRqUnluTGwzb0hrM2JqNGNHbVYxVkVyRElidjdmbkV3SE85X0R6ck45eDlVdi01blZXLUxpUlhCbnZwU3h5NzUydFVPTFVCWnNaNUM5MVVzOThONTYzMmNTNXZkVnR5dw?oc=5",
-          "source": "Loyola University New Orleans",
-          "published": "2026-10-14T04:32:19+08:00",
-          "summary": "Loyola University New Orleans Explores Faith and Artificial Intelligence in NOLA.com Feature Loyola University New Orleans",
-          "summary_zh": ""
-        }
-      ]
-    }
-  },
-  "evening": {
-    "generated_at": "2026-10-14T23:57:05.444849+08:00",
-    "sections": {
-      "worldwide": [
-        {
-          "title": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates",
-          "title_zh": "随着星链受到限制和俄罗斯升级，乌克兰的脆弱性日益增加",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNXdEMlRSTDR5bVVYU1RhR1ljMjB3RU5iaFZYZmdndGg5UWdtdjVLOEdibVlXLUtRSVB3S3RGYXhkZnJWY2dNQjlwMWZaSnJ3NTliaTZrQ0p6X2RWYm9CSEZiTmFDWEJVNnZjeGsyMUlPdkVCajIya2tXWWlNeFFTcVBn?oc=5",
+          "title": "While Leo Recovers From Lung Surgery, the Church Runs on Autopilot",
+          "title_zh": "当利奥从肺部手术中康复时，教会却在自动驾驶仪上运行",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU5nN3MwUGJLdEtud0RIZ2p1QVNETjFVTGRlLTVsNkU4QXJ5Q3c2UlktclREcGhsc1p6enYzYVZRaDZQY05UdU4yS2ZXelh2YzgxTWpMV3JzT1RmaWZXSG91aC02Tzk4ZS1ZalpvOEFFN0JpY0p5Nnpicm9uajFHRTc4Q0FPdF85QjE5VXFfT3gxbks4YmV2eWkyZTE2WWdORjJOd2paZUFaQ2xYSnBlYUxhY2xZZTF0cnc?oc=5",
           "source": "The New York Times",
-          "published": "2026-10-14T19:27:26+08:00",
-          "summary": "Ukraine’s Vulnerability Grows as Starlink Is Restricted and Russia Escalates The New York Times Starlink restrictions affecting Ukraine's front line operations, Kyiv says BBC What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service? The New York Times Ukrainian...",
+          "published": "2026-10-15T12:01:15+08:00",
+          "summary": "While Leo Recovers From Lung Surgery, the Church Runs on Autopilot The New York Times Pope shares first message after lung cancer diagnosis CNN Pope Leo lung cancer: Cardinal Blase Cupich speaks, Catholic school students making care package for Chicago-born pontiff ABC7...",
           "summary_zh": ""
         },
         {
-          "title": "Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war",
-          "title_zh": "特朗普中期暂停伊朗战争，油价上涨，沙特胡塞武装袭击仍在继续",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWVpMUFEeDIzNVZsN1hTVlFCbTJXWm1qRHh6RUgyczJVUF9Ha3FLblZOVzVaS2QtSDJDMDRIaUFrRzRkZmlOaTR4OFVVcml1Z21NWXhDUjl6SmZtWkE0SFVHRmszbnYwRU5oRFVCTHVNQm15dkNSRWo4dGl0Y3lnSmZBZWx6Z3hZRVVBMWJ2eWxLeENhd3NZNmppLVRxNlF2Qmlv?oc=5",
-          "source": "Fox News",
-          "published": "2026-10-14T22:12:28+08:00",
-          "summary": "Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war Fox News State Department issues travel advisory as arrests and exit bans hit popular destination Fox News ‘Why Did They Kill Him?’ Mourning Victims of Houthi Attack on a Saudi Airport The...",
+          "title": "World’s oldest shipwreck discovered off coast of Turkey",
+          "title_zh": "土耳其海岸发现世界上最古老的沉船",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZGc2bV9RRU9wcUt3Z0g5Z2p1eFIydFRHNVRUY0E2MUZwcVF2RjBTOUNaaGpsNFZIU3dqM0g3bUZ5TWROblVndE9vYUdKWHVmUElDTi12SHBjRnZCQnpzRktpbDY4UWpsNFllM2t4UkM0Y2JsSE84MW93VWRnUmJreUg5UnVRc2Zac09uM1VfTm5CVUk?oc=5",
+          "source": "The Conversation",
+          "published": "2026-10-15T04:27:39+08:00",
+          "summary": "World’s oldest shipwreck discovered off coast of Turkey The Conversation World's oldest shipwreck found off Turkey, archaeologists say: \"Time capsule at the bottom of the sea\" CBS News Shipwreck believed to be the world's oldest discovered off the coast of Turkey ABC News -...",
           "summary_zh": ""
         },
         {
-          "title": "Two Cargo Ships Sink Near Strait of Hormuz, as Iranian Attacks Increase",
-          "title_zh": "随着伊朗袭击加剧，两艘货船在霍尔木兹海峡附近沉没",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVJzcVMzeW15SzZXQ09EZHdZNzdXY0lmbWVJNjRDLVlodjE0SVBTeFBES1VudmJROGNiQ3RlYU1NM2FlLWs0eVhadlR1Q3luYnoxTDBkRjBwcFdoN052cUxSOVBkQTFBSkdVYTd0elBuX3F0X19feXBuRGgtTVZfZmVvY21yU0F0RkdKX01DMHZDZE5ITUtMTzFZTnBJX1VnSWpwRW4xQQ?oc=5",
-          "source": "WSJ",
-          "published": "2026-10-14T22:14:00+08:00",
-          "summary": "Two Cargo Ships Sink Near Strait of Hormuz, as Iranian Attacks Increase WSJ Iran shifting tactics to step up attacks on shipping before US vote, officials say Yahoo Oil prices steady after gains on Iran's new tactics to target tankers Reuters Iran says a ship sank after...",
+          "title": "Iranian attacks sink two ships in Strait of Hormuz",
+          "title_zh": "伊朗袭击在霍尔木兹海峡击沉两艘船",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVg0eWh4OTZ1NG5IR1M1ZWJJejUxUncyYVVWeHB3QTdHaHYzUnRDOHBpaFpEZldsb0RNZG5SNVZDMWJIVUV6U0JZRVhLSmdtWEZfSnpGSDlXWVU1UlRRSF9wT0JSbktPRTRWT2dkazNCSmJoWDBaUl9wZEI3bjVpLUNZS2ZDWW9IQk9oUndRNU1qYUpHclhnUzhVYVU1RE0?oc=5",
+          "source": "The Washington Post",
+          "published": "2026-10-15T11:36:29+08:00",
+          "summary": "Iranian attacks sink two ships in Strait of Hormuz The Washington Post Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks in run-up to midterms CNN Container ship sinks in Strait of Hormuz as Iran steps up attacks CNBC Iran war updates: Cargo ships sunk in...",
           "summary_zh": ""
         },
         {
-          "title": "Bulgaria says Russia was likely behind Black Sea drone strikes as rescue operations continue",
-          "title_zh": "保加利亚称，救援行动仍在继续，俄罗斯可能是黑海无人机袭击的幕后黑手",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXRicXJvcXBsM21wZ1F1UmphdlRlTjk3Z3RROTB4MjVOTUtRcVkzUXF1T0h3QVkwNGE4UzRSUFdQbzRBeXlsaFdvQVg5d045d01GQlNJUkgwNTNmbU5YdzNvTmR6cjlwNGxQU0UzNzhwcDQyTkloeWoyU25LSVVHS01vcUc4enNEaDdLQ1N0WEw3d3NubWtSaVlJOW9VdDBZY1daT2p6b3hYRDNXTmJR?oc=5",
-          "source": "AP News",
-          "published": "2026-10-14T22:23:00+08:00",
-          "summary": "Bulgaria says Russia was likely behind Black Sea drone strikes as rescue operations continue AP News 11 sailors missing after drone strike sinks merchant vessel near Bulgarian waters CNN Deadly drone strikes in NATO waters raise stakes for Black Sea trade POLITICO.eu Bulgaria...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
-          "title_zh": "俄罗斯逮捕日本记者：紧张局势为何升级？",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM3NpS2Fiek9lTkxFWko5TkpNUTJkekM2V081aXBEVmJDcmhCRDNBUjhPenNiWE9SeHJ5VWZYLVJsMmhqcGVKOVYzWmNudHVqdl9yS1huNmZMLXVBaF92a2cyM3RCMXZING9IWDNVeG9DZ1g0UnBaLVNlb1BNczUyNG9NRGp1cXhvdTB0XzhSTmdURUttOS1GY3NiQXVQYndyMktHMWln0gGrAUFVX3lxTE1taXFnX3p5RHFGcFVwWVdLaFZkMWNudF9ZTFQwamN6T0tmRnJodjl3aFdIV0o2NVg2V0FrZlM5Y3VOS1F0T2hPbHZTcThyZlJIMkJxb1JKNmwtdHJ4Uzh2czN4TEZaN3h2Y0RNcnQydjhmV09qWFh5eVJBc2U0UVB3WmdOUURkcnpfMEUtcGhBZDU4eU43cUtqV2VDSXptODVsQ3BIX3pMS01Tcw?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-10-14T18:51:27+08:00",
-          "summary": "Russia’s arrest of Japanese journalist: Why are tensions rising? Al Jazeera Japan Protests Russia’s Detention of Journalist Accused of Spying The New York Times Japanese journalist arrested in Russia’s Sakhalin region on spying charges AP News Russia arrests Japanese...",
-          "summary_zh": ""
-        },
-        {
-          "title": "U.S. may have withheld warnings to Ukraine of Russian strikes that killed 6, cut power to 600,000, sources say",
-          "title_zh": "消息人士称，美国可能没有就俄罗斯发动的袭击向乌克兰发出警告，该袭击造成 6 人死亡、60 万人断电",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzBha3hkak5PVXhhdTB1RzZSQTVMYzkweE9kUDNqdVFUOUZWN1FxQ3RlUVI1ZVhKa2RQLVFJclBpeFRFeHZyTVdKVDN6cWluTERiZERqYjZCdlRZVFFQZVV2X0VKNC1aS2dlS3V4YXlLbGxUVjJZQ0V0b2U2QTVlUDljM2JHRk03OW9SY0pDZ05FNVpSTUVyRkNHWXRXcGht?oc=5",
+          "title": "Live Updates: Houthis launch new attack on Saudi capital as Trump mulls U.S. role in Mideast war's new front",
+          "title_zh": "实时更新：特朗普考虑美国在中东战争新战线中的角色，胡塞武装对沙特首都发动新的袭击",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1N6LVU4X3R3a3ljSC1KY3BYOGI1bFVCWjA0bnM1WjE2eDRZQW43VVUxMnhFbThpcDdGSUdneU03ZFFjeFFmVWczeDVaelRBeXZGekhFdmNxeWZzUHlHNUpseS0tN09GMWtkSzB2WnJEV3ZnUXhqQnlyMEY3VVl0bA?oc=5",
           "source": "CBS News",
-          "published": "2026-10-14T20:58:00+08:00",
-          "summary": "U.S. may have withheld warnings to Ukraine of Russian strikes that killed 6, cut power to 600,000, sources say CBS News Ukraine Blames Trump Administration for Russian Missile Intel Blunder The New Republic Ukraine Says It Received No Intelligence About Strikes 2 Nights in a...",
+          "published": "2026-10-15T06:03:00+08:00",
+          "summary": "Live Updates: Houthis launch new attack on Saudi capital as Trump mulls U.S. role in Mideast war's new front CBS News Oil price hikes, Saudi-Houthi strikes carry on amid Trump's midterm pause on Iran war Fox News AI-generated video falsely linked to Houthi attacks on Saudi...",
           "summary_zh": ""
         },
         {
-          "title": "Pope Leo spends a peaceful night in the hospital after cancer surgery",
-          "title_zh": "教皇利奥在癌症手术后在医院度过了一个平静的夜晚",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2FVdnBfU19rMGdWb2xBWjBrRlBMUFhETDBRejMyUWYzdDAzN215ZlRlT2lGQmJ5TWlrWVZvdEtKTlI5b0FOajVyWmpyYnR2NlZCT3lEcjFWNmhLMGE2Q2VvMFpqTnBKT3NncmlPVFo0eTE4akRmVmlJZGpmc3NRMXhScmhMa0d0RE1RR183OFVlYXpaLTN2U2R1ZnltM3VaU01jYVhmdWFKUQ?oc=5",
-          "source": "NBC News",
-          "published": "2026-10-14T20:51:09+08:00",
-          "summary": "Pope Leo spends a peaceful night in the hospital after cancer surgery NBC News Leo XIV’s Cancer Diagnosis Tests the Assumption of a Long Papacy The New York Times Pope walking and recovering 'as expected' after surgery, doctors say BBC Pope Leo’s cancer diagnosis brings...",
+          "title": "UK threatens to ban Eritreans over migrant return policy",
+          "title_zh": "英国威胁因移民回国政策而禁止厄立特里亚人入境",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1INTJ4ZlNCa1lnb25HZFFoUVA5RkYzS19VRGdyeFdncHFid2dVYWZuYnVocDFETUh3UmpEUi1uQko5bm5LS3hOTW9PMjJEZ3YwV1JNTnhoT25BWXM?oc=5",
+          "source": "BBC",
+          "published": "2026-10-15T05:30:13+08:00",
+          "summary": "UK threatens to ban Eritreans over migrant return policy BBC See more headlines & perspectives on Google News",
           "summary_zh": ""
         },
         {
-          "title": "Turkish authorities take over country’s most-watched news channel",
-          "title_zh": "土耳其当局接管该国收视率最高的新闻频道",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbk4yVHU4T0F0NHVqT3JONGhDdGgwVEJJTkhNSFQ4V3V1WUN4Y1ZnVDlTRC1STVAyeEtOWThxWHFaRVVZd1phWTRNckRWdWszMVdkeHVVRUlDYlFpd3JYeHFMMXFDVzNLQjZIZ1pHTm9teGdKSFJvT19rZnRMb2NJbDBOZGY?oc=5",
-          "source": "Financial Times",
-          "published": "2026-10-14T17:47:49+08:00",
-          "summary": "Turkish authorities take over country’s most-watched news channel Financial Times Turkish authorities raid TV channel as press freedom groups warn of a crackdown AP News Turkey Raids Pro-Opposition TV Station The New York Times Turkish police raid opposition TV station,...",
+          "title": "North Korea and China open new bridge after 12-year delay",
+          "title_zh": "朝鲜和中国延迟12年后开通新桥",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HWEd5VU9mVlpobVFOQXRDWlZ6Y3B4VmsxdTlJV1BBcW9lMGgwbmJ0YXBCdGlJX1BuYzJTdmhLUFJlX3BESmZ0TlNKZ3pvaTAwdDQ5TEtvMHJOSnM?oc=5",
+          "source": "BBC",
+          "published": "2026-10-15T10:59:30+08:00",
+          "summary": "North Korea and China open new bridge after 12-year delay BBC Trucks line up as long-delayed China-North Korea bridge officially opens Reuters China, North Korea Open Long-Stalled Bridge, Boosting Trade Bloomberg.com China and North Korea open New Yalu River Bridge, state...",
           "summary_zh": ""
         },
         {
-          "title": "Photos: Student protest in Albania prompts violent clashes with police",
-          "title_zh": "照片：阿尔巴尼亚学生抗议引发与警察的暴力冲突",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX25QYlMzSGNuakpLZDBmcGhTX2RsMXNXMjRpM3c5TllKOEVBUTlaa2o5RlBFdTN5U1FNTEE2Tnd4TVZSVGRwanVCdUxsdlpQUjgwUC0wdGIyYWNySzZ1d0lfTXNIaEV0Ujg0MHhYR2ZjX245b3VXanpwTHdIQWhENG9Sa3ZORjJnY3prMERwakc5aVN0SnpzOXphM3lvSHdYMTQweXFxeVhLZWpubmMtdVNvcEhtMDd0OVVJ0gHAAUFVX3lxTE9oUkxlU2RQd2xKMFBTTlREU1lVQ3E3Y3VSVDFMZ2xCN3pISTlaUEdwY1A0bkY0aUdQdnhMLWZtNUVERUJpUWRVc3JMSDJfaTFQSzd3R1pXOHo5NE9JbWhSZ0NqazZpb1g5bTByWVgwclBJZVhBdW90MExoNGtGYzlkbnQ5Z1hlZjFCbmFvT1ZoMHk3dDljTE5nbmNGcDVlYUxPcGdsQjFLM1ZJa0ZIa3FiVFlMcVR0anlocml0cjRMSQ?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-10-14T14:50:19+08:00",
-          "summary": "Photos: Student protest in Albania prompts violent clashes with police Al Jazeera Albanian students protest over education, jobs, clash with police Reuters Albania: Fire at Education Ministry as students protest DW.com APTOPIX Albania Protest chronicleonline.com...",
+          "title": "Albania protests: Student protesters attack government ministries in Tirana",
+          "title_zh": "阿尔巴尼亚抗议：学生抗议者袭击地拉那政府部门",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pVDRtanRzbU5VNUdQTU5rUG1vLVVkeUk3bmFXUUxpVHYxZ0VhOGpWYkpsZkVmNzVkaTdUMG4tNngyS2l5Rnl1TFk3Y0YxZ3hYTnZtdndjTWZMTUk?oc=5",
+          "source": "BBC",
+          "published": "2026-10-15T04:29:05+08:00",
+          "summary": "Albania protests: Student protesters attack government ministries in Tirana BBC Albanian students protest over education, jobs, clash with police Reuters Riots erupt in Albania’s capital as students join anti-government movement AP News Student protests in Albania turn...",
           "summary_zh": ""
         },
         {
-          "title": "Spain's ruling Socialists lead in state-run poll ahead of snap election",
-          "title_zh": "西班牙执政党社会党在提前大选前的国营民意调查中领先",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUk5NE5Tc3RqX0s3TUx6Q2F4bm04aUE4WWhXZmpUbnJVM0VENlBNeWNnbWw3dGw4WGhQaTQwNW9YLWJtNTI2TmNiVi1tUk1venkwUDVtVks0LVdUZHM3Zk1YT2pNbmxrWlNIdmVzb1k3MUFWS2ppa0E1cldKM2pQenpyRmpHSjI0VUprNnMtejAtek9hRjhaS1NJQWkzVlg0Z1AzX05EMHYydw?oc=5",
-          "source": "Reuters",
-          "published": "2026-10-14T20:19:27+08:00",
-          "summary": "Spain's ruling Socialists lead in state-run poll ahead of snap election Reuters See more headlines & perspectives on Google News",
+          "title": "Russia detains Japanese journalist, alleging espionage",
+          "title_zh": "俄罗斯拘留日本记者，指控其从事间谍活动",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjRfd1dVd1puM3BORXMtdXFfQ3dmWURILUJnZ2RXZDU3UTlBZThreFA5aE9sMUtlMTVablNHNVNFalBXYUlSb1dRTktUWkhLQkNtQVUzRUtoZHVrenBnOE9LZjcybkljcVJueW9sa3MtVERBVUN5VzFQaF9kSjUxbzR1ODBPY2VTNHFRMVJvdVVsdVVtU0YwRjdzQkNSenIxSVlWNg?oc=5",
+          "source": "The Washington Post",
+          "published": "2026-10-15T06:48:14+08:00",
+          "summary": "Russia detains Japanese journalist, alleging espionage The Washington Post Russia detains Japanese journalist on suspicion of spying CNN Japan’s Takaichi Denies Allegations of Spying In Russia Bloomberg.com Japan Protests Russia’s Detention of Journalist Accused of Spying The...",
+          "summary_zh": ""
+        },
+        {
+          "title": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe",
+          "title_zh": "中国面临更多贸易壁垒，无法承受失去欧洲的代价",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUQzNFBYX1hBcGFYNDNELUppYzROV3VxSjE5Zlg0cHBsSDFacFBTbEY2R011SnRGT3NuMHpDT3RiSGhfOHRnb05WQllxVVk1LVpaUzVoLUpOSlhNa3NRbU1BQmlDb1NGa3o2Tk1hRjRVWkFLeF9NSEdTeG80WC1aUEFPcFV2N2t5NVpISmg3eE01M3pwUlJNMWx3RUoyOFVRMnlGRkxNUTgxWDVuRkdn?oc=5",
+          "source": "WSJ",
+          "published": "2026-10-15T02:39:00+08:00",
+          "summary": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe WSJ Emboldened by hybrid car deal, Europe coalesces around tougher China stance South China Morning Post Germany to Push EU to Impose Caps on More Chinese Imports Bloomberg.com China Shock 2.0: Europe's...",
+          "summary_zh": ""
+        },
+        {
+          "title": "EXCLUSIVE | Leaked emails reveal former German intelligence chief's Mossad links",
+          "title_zh": "独家|泄露的电子邮件揭示了前德国情报局长与摩萨德的联系",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXI4cGE0TDVzR09VcEgwSWt1dGJ5djZDSktka0NiNnBrX3VZMV9Sei02a3JhaUpNQU9XTHlaUV8zYnF0RXkyODUyQ2k0OXJXcFRhUlk0S0cyTF9mS2R2ZXU5QS1aTlNzSkJKUzFySTVWSXp1Uk5BUWhOZ2FDSU5zb0dpeHkzQzU2czFhM0JEeC0xS0drQzVGeVJ3MmxQRW9RbnZ0cmEzRzZkNUE?oc=5",
+          "source": "thecradle.co",
+          "published": "2026-10-14T03:07:05+08:00",
+          "summary": "EXCLUSIVE | Leaked emails reveal former German intelligence chief's Mossad links thecradle.co Germany's intelligence scandal has a long list of possible consequences NPR An explosive allegation rocks Germany’s spy agency The Economist Something is rotten in the state of...",
           "summary_zh": ""
         }
       ],
       "china": [
-        {
-          "title": "自治区党委常委会召开会议 学习贯彻全国卫生与健康大会精神 王伟中主持",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ncmVnV1pmaS1QN1VOb2x0VG5YRnBaZ1MwLUVSUzI2LWdPa2cwbWw1akQxR2poVGdXc1ZIaFRldnVTdWRwOXNTQVVhMlI4X2kyM1lseXJhUmZfb1NHNXgzeWpaNmlzWGdUYXpBcTlCQQ?oc=5",
-          "source": "内蒙古新闻网",
-          "published": "2026-10-14T18:23:48+08:00",
-          "summary": "自治区党委常委会召开会议 学习贯彻全国卫生与健康大会精神 王伟中主持 内蒙古新闻网 [新华社] 习近平出席全国卫生与健康大会并发表重要讲话 中华人民共和国国家卫生健康委员会 看图学习丨这项保障被总书记放在“优先发展的战略位置” 新浪新闻_手机新浪网 习近平总书记为健康中国建设取得决定性进展指明方向 央视网 建设健康中国，习近平强调“六大能力” China Daily",
-          "summary_zh": ""
-        },
         {
           "title": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa040OWQwX0J4RW5INzdCTUQtcVpNNDlET2lHSlNVWEtBWUNYdWtUOUdOeVpKRlJvOTVDeUJCdVB6dVI5Q0h2SEl2dVJFNmdqbE81X0Izd1RIZVBuVC1nR1lwRmU5UjVFRGMyOXlDN2I1c24yNkp4bFlTWmExbUhMVnVhaw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yakVVWTduck5fM2VrdVNuLUYzNnN0Ql9XNVBnRWN4NlVyOHdTcVVDTHI1X0FKX0pya29uWEtwZVFTb1c1dmM1MDBCR2NKQ2xnazJlU3phYjRsNDNadWRxU2l5eXZvRUtFRjh3?oc=5",
+          "source": "中国共产党新闻网",
+          "published": "2026-10-15T08:13:00+08:00",
+          "summary": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲 中国共产党新闻网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "天津市委常委会召开扩大会议 传达学习贯彻全国卫生与健康大会精神 陈敏尔主持并讲话",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUllzWW5RY0ZtZF9mMExQcGFra05mZEFyZ3ZnZ0xZZnJqaUU4b1ZSU0lUNFYxQlIxX1ozZS1YZkRDVG5pZ3U3SkJCdHV3OU5icTlYM1gxbEhxeG5DbjRVQkRVYTZWaGlmdGtQUUlmd2RTNm52MHRnVllhMnhhMWZHaS1R?oc=5",
           "source": "新华网",
-          "published": "2026-10-14T17:18:42+08:00",
-          "summary": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲 新华网 李强出席“广交世界70年”座谈会_中央领导活动_首都之窗 北京市人民政府门户网站 第140届广交会开幕 江西630余家企业携“赣贸优品”齐聚羊城 凤凰网 第140届中国进出口商品交易会开幕 中国日报网 上海进出口规模连续19个月正增长，市商务委透露“增长密码” ThePaper.cn",
+          "published": "2026-10-15T09:08:39+08:00",
+          "summary": "天津市委常委会召开扩大会议 传达学习贯彻全国卫生与健康大会精神 陈敏尔主持并讲话 新华网 [新华社] 习近平出席全国卫生与健康大会并发表重要讲话 中华人民共和国国家卫生健康委员会 锚定航程 向建成健康中国的目标扎实迈进 中华网 看图学习丨这项保障被总书记放在“优先发展的战略位置” 中国日报网 全生命周期健康维护 未来看病就医新变化 上海热线",
           "summary_zh": ""
         },
         {
-          "title": "日本外务省就日本记者被拘留事件召见俄罗斯大使",
+          "title": "要闻分析 - 泽连斯基是否被背叛了",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQem1ub0hQRmNkd2J3VDM3dmZabGYzMVVTRUxROTF5U0ZFUXlVZ2NzMWx6QTR4NVgxeUNUaUtkODd2a2dCQzlwRHB1UFZ0WGZLeTcwRFZpVHFvaUlfSDBYQU5mSjVndV9zYWRwS1lZZHZUcHpTZzN6QnVKSmtFN180VTNGcTRWTk52XzluSmxicnlnMU5FbUp6TWlR?oc=5",
-          "source": "新华网客户端",
-          "published": "2026-10-14T20:20:50+08:00",
-          "summary": "日本外务省就日本记者被拘留事件召见俄罗斯大使 新华网客户端 俄外交部：日本驻俄记者搜集情报将恶化俄日关系 凤凰网 日本召见俄大使抗议拘捕日本记者_7x24快讯_新浪财经 手机新浪网 日方就日本记者在俄远东被捕事件与俄方交涉 央视网 日本记者涉嫌间谍活动在俄被拘 搜集情报被捕 中华网",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNY3NyNUdyVkd6aVV1QW9IdWJNZDJBWnZmVGpsbnJDS1NPTHkyXzhsbWpWcHNwbXRsM1RNalFObGlRaHM1Ymp4aWlIa3llajEwZVJ3X0JRbGE3M25RQWZfb2pMaThPUDJ0Y3M0T201bW1kY0RSZHNQU01heTl5bDlCVWxuQWVfLTFfR2ltLXBuRVlxc2Nyc0F4TmVWUk9NV2sybHdMekxiQ1N0ckx6bHlkd1VwbDJFeDlXQ0UxZzN6dWdDalFhUEU4Z1ZFc21oZ1A4Q0tmM2FEYUJJWE9xOG9nYm1xZFQ4M0RfM005NkRlOXNVLURqLXVBOGFIQ09wVmhDRGZVZ21QbWNjdzNNZUs0UnptWTBfVlAtUmFYaExXTHM?oc=5",
+          "source": "RFI",
+          "published": "2026-10-15T07:24:00+08:00",
+          "summary": "要闻分析 - 泽连斯基是否被背叛了 RFI 到底发生了什么，导致特朗普对乌克兰“破防”？ 凤凰网 江西人都收到这条短信了吧|国际减灾日|自救方法|地震预警|山体滑坡|沙尘暴 新浪财经 欧洲集体唱反调：“筹码”不可丢 观察者网 泽连斯基：我感到被特朗普“背叛”，调停方应保持中立 ThePaper.cn",
           "summary_zh": ""
         },
         {
-          "title": "从烽火长征路到乡村全面振兴路",
+          "title": "千年古渠何以滋养良田？我国再添四处世界灌溉工程遗产",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91ZldNWllhZmp6bmYzamtVRGZaZDhtR2FrX28zUUJhNXp1d1gxSFg2bHFFSERjU2xGQ3c2S2NpUGNyVW9ra0VvM3V2ZWdhMEtuNS15S0s4WlRaUGhPSHlMSi1FWGQ?oc=5",
-          "source": "西部网",
-          "published": "2026-10-14T10:15:00+08:00",
-          "summary": "从烽火长征路到乡村全面振兴路 西部网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nX0NtRGE0ZXFoX0M0Ym5XTVExMjZqREw0bzI5VHBWVmlrTzE4MlN6MFFoZXA1YjNnWENFMEJpQm1lNDBMMVljVmplbEFsdHFsLWtFLUJacERRMzRWNVhHWnA3bkY?oc=5",
+          "source": "新京报",
+          "published": "2026-10-15T10:56:00+08:00",
+          "summary": "千年古渠何以滋养良田？我国再添四处世界灌溉工程遗产 新京报 上饶广信黄沙渠成功入选世界灌溉工程遗产名录 凤凰网 福建长泰龙津古陂灌溉工程入选世界灌溉工程遗产名录 搜狐网 中国再添4处世界灌溉工程遗产，总数已达46项 中国网新闻中心 中国世界灌溉工程遗产总数已达46项 中华网",
           "summary_zh": ""
         },
         {
-          "title": "多名美参议员致信特朗普要求撤销美俄“柴油协议”",
+          "title": "红色根脉永传承铁路担当助振兴“坐着高铁看中国·重走长征路”主题采访团走进白银_兰州",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RdnJOdzdlWGkyWGhQZTJQYXFxbkFOUEdNbHlPYWVVajg4RHVIU1IxVVpMVm9jcl9Sd3N5ZXBVU0lzYnBlaFdkMkd1MGxTM0Q5Uy1JVUZSc00zYTZXcDJaMmNDaXl4UzZoaTlKekZ6WTRtY051bGxsTQ?oc=5",
-          "source": "央视网",
-          "published": "2026-10-14T14:26:24+08:00",
-          "summary": "多名美参议员致信特朗普要求撤销美俄“柴油协议” 央视网 保选票、催停火、促谈判：美方三个算盘能成吗 新华网 俄副总理：俄美正就达成对美供应柴油合同进行谈判 凤凰网 数据显示，普京与特朗普达成协议后，俄罗斯恢复柴油出口装船作业。 手机新浪网 薛凯桓：特朗普“赢学”算盘噼啪响，泽连斯基被拨得最疼 观察者网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZRHphd0RienBBMFZCdEh0ZnJURzByUnNyeE5PWEhyME9yZ1hPcktRUm5adGJVYlo4TTlqcGtVWEdMazRQYWpvMmJERmhVRkQtOUkxMnRZMkFfRnprRUNCaDdVbllGYmRTMHc?oc=5",
+          "source": "中国甘肃网",
+          "published": "2026-10-15T08:36:00+08:00",
+          "summary": "红色根脉永传承铁路担当助振兴“坐着高铁看中国·重走长征路”主题采访团走进白银_兰州 中国甘肃网 腊子口：镌刻在绝壁上的红色信仰 人民网-图片频道 再走长征路丨会宁：把曾经的“军粮”种成“富民粮” 新浪财经 90后科普团队解码“长征路上的科学” 中国青年网 （长征胜利 90 周年）俄界会议旧址点亮藏乡振兴新方向 搜狐网",
           "summary_zh": ""
         },
         {
-          "title": "新鸭绿江大桥建成12年终于通车 中朝或就经济分歧达成妥协",
+          "title": "也门：胡塞武装用中企零件，我们找了中方",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4Zk5DME9TZ28wcmVZNzBqN2l4ZGU4S2ZPZmlIcUhKVHA3T0owZjV5YkFHYllMcU44eGR0eE82eUl3a3NTWE9qcWUwOWdoeTJzeE1NNl9uUlB0ZVNmVXNNeGZBNFpUN3V3aEE?oc=5",
-          "source": "联合早报",
-          "published": "2026-10-14T22:34:57+08:00",
-          "summary": "新鸭绿江大桥建成12年终于通车 中朝或就经济分歧达成妥协 联合早报 中朝跨鸭绿江新桥周四正式通车 RFI 江西人都收到这条短信了吧|国际减灾日|自救方法|地震预警|山体滑坡|沙尘暴 新浪财经 中朝新鸭绿江大桥明日开通，外交部回应 观察者网 界面晚报 | 9月中国出口同比增长36.3%；中朝新鸭绿江大桥明日正式开通 Jiemian.com",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2U3AtZUU4ZHBYaHI2WUt3RDItVVVxeDQySGQ4NU1vREp6Qnl1YTBmb3NnVlpsRWZYU0pHS2tOVXVNZDhpVnpmUjJoR083VHEwQWFDMlRJdno2T19uSll4Y01KSVp3TkxFOER2ak16dU16RWM?oc=5",
+          "source": "观察者网",
+          "published": "2026-10-15T08:25:00+08:00",
+          "summary": "也门：胡塞武装用中企零件，我们找了中方 观察者网 也门政府就胡塞武装疑用中国技术制造武器向中方表示关切 RFI 神了！胡塞的缴获已凑齐五常装备？中美俄法英均有，运输大队长实锤！ 风闻 专家：伊朗支持的胡塞武装恐怖组织的野心不止于也门 美国之音 沙特为何被胡塞打成这样 胡塞武装的崛起之路 中华网",
           "summary_zh": ""
         },
         {
-          "title": "第33届世界大学生冬季运动会火种欢迎仪式在长春举行",
+          "title": "高举队旗跟党走，温江中学实验学校少年接力新长征",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nYXc1RGZITUlfZnVOMmM4WV80a2tlSlotYXBvN0t5WmJkTTl3YVM1bXRQQUJzY3pFcWhHWFlvTW1DUlRRQjlsVGc0WkgzbjltMm9feTg5SnNVN1N3LXU5b3lWaW84bmxQWUhnSjBnRjI?oc=5",
-          "source": "中国科技网",
-          "published": "2026-10-14T20:05:01+08:00",
-          "summary": "第33届世界大学生冬季运动会火种欢迎仪式在长春举行 中国科技网 长春大冬会已有超3700人报名 筹备工作稳步推进 新华网 体育头图丨大冬季运动会火种欢迎仪式在长春举行 搜狐 最务实的仪式，最悠长的回响 凤凰网 卫星视角解锁长春大冬会场馆的城市版图 中国日报网",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xWWNVbGRpVUNzbXZYcU00S251eHRqSmtDTVdfbUk1eUV1aFFMR05PT1lKZ1hlTTB2bXBGMElUQlhfbUt3dmhZeDVMUFQtR2RVd2tJeFNkTzZ0OVptYjRiUDBjbU1IR1lNTVRaaEV6dzhGSVZqRFE?oc=5",
+          "source": "https://www.scjyxw.com/",
+          "published": "2026-10-15T09:18:45+08:00",
+          "summary": "高举队旗跟党走，温江中学实验学校少年接力新长征 https://www.scjyxw.com/ 高举旗帜跟党走 少年接力新长征——来安县新安镇中心学校党总支举行新队员入队仪式 凤凰网安徽 千城百县看中国｜山东定陶：系上红领巾 少年启新程 新华网 画里有话丨红色火种代代传 新浪新闻_手机新浪网 河北丰南举办少先队建队日暨党团队一体化育人示范活动 人民网－河北频道",
           "summary_zh": ""
         },
         {
-          "title": "暴雨蓝色预警：重庆贵州等6省市有大到暴雨 湖南湖北局地大暴雨",
+          "title": "中央气象台发布暴雨蓝色预警 局地将有雷暴大风等强对流天气",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MdXVjcEYzVks4VFhmam1TVWZONDJidHRiV1lJdTRMUXFBWWRFdnJKbjVVNVdsSF93QnhtcXFuSUxZR1dvSHpaNmpZd1gzWGJpTXJvTkpZOHdvT21L?oc=5",
-          "source": "天气网",
-          "published": "2026-10-14T18:01:13+08:00",
-          "summary": "暴雨蓝色预警：重庆贵州等6省市有大到暴雨 湖南湖北局地大暴雨 天气网 中央气象台：今天至明天，江西部分地区有中到大雨，局地暴雨或大暴雨 凤凰网 新一轮冷空气即将影响我国 北方多地气温将创新低 中国日报网 本周两轮降雨接连来袭 哪些地方雨水将超长待机？ 搜狐网 冷空气携暖湿气流登场 多地将现明显降水与大风降温天气 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBURXNDYk1xRDdwRWt6RmJBMDExUndHQ25Dd2xickdZT2phdEhJNEQxS0MzR1g5RGpOanFKVktsYmhsOVdSeDVCVGVHUjJrMVdWUkhPQUZXeWNYSFk2TkJXd2c1WTFqUQ?oc=5",
+          "source": "每日经济新闻",
+          "published": "2026-10-15T07:19:00+08:00",
+          "summary": "中央气象台发布暴雨蓝色预警 局地将有雷暴大风等强对流天气 每日经济新闻 新一股冷空气携降雨降温来袭！明日四川局地有大雨、暴雨|天气预告|阵雨|局部|大雪|川西高原 新浪财经 新一轮冷空气即将影响我国 北方多地气温将创新低 中国日报网 湖北湖南江西重庆贵州等地将有短时强降水天气 搜狐网 北方大部气温将转为偏低 长江及其以北大部地区多降水 搜狐网",
           "summary_zh": ""
         },
         {
-          "title": "2026年湖南省“社保服务进万家”活动在安化启动",
+          "title": "就业政策宣传暨“社保服务进万家”活动启动",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xY0RUNUFUbVlacWZpNnRlZi1ldGE0WmFoUWJScF9PMlYxeU90aV8xX1hxUGpveGJwdlQ1TFVPYkFSeVYyRGdRTjF3a19GNUJSTnpoNTBrc01Xc2Q0MDNF?oc=5",
-          "source": "华声在线",
-          "published": "2026-10-14T19:02:00+08:00",
-          "summary": "2026年湖南省“社保服务进万家”活动在安化启动 华声在线 2026年“社保服务进万家”活动启动 新华网 社保服务进万家 湖南多措保障新就业劳动者权益 搜狐网 “把政策红利和便民服务送到群众家门口” 厦门市2026年“社保服务进万家”活动启动 人民网-福建频道 2026年“社保服务进万家”活动新疆主场在喀什市与全国同步启动- 中国日报网 China Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40RE1wYzM4TGVsQ09TazVHNmpySXJ4Uk5leF84N1h3WEtSUE1VWkRBVTBHdkVDZExfQktUcTBPd1ZFQUEwaWluODd2YUhwSEZlUUJQYXVXLUVESUNIY1BuUmUtcGhzSGRLU2VVQ09Yaw?oc=5",
+          "source": "内蒙古新闻网",
+          "published": "2026-10-15T06:40:00+08:00",
+          "summary": "就业政策宣传暨“社保服务进万家”活动启动 内蒙古新闻网 情系桑榆携手暖夕阳 区镇政企联动护晚情 昌平区“社保服务进万家”重阳专场暖心启幕 北京市人民政府门户网站 怕断保、不会办、算不清？抚州社保服务摆到家门口 凤凰网 快板响、问答热，泸州这场活动把“参保明白账”算到了市民心坎里 人民网-四川频道 助您了解社保政策！2026年“社保服务进万家”四川主场活动启动 新浪财经",
           "summary_zh": ""
         },
         {
-          "title": "赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表",
+          "title": "从一辆车到一张电网：国际嘉宾在常州触摸新能源“全链条”",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQXJWMkUwYlI1VnFFSmFSMFZzaTUzaXZRckVxaDhRZ1JHSjA3N29tV1hSOFRHTFhxcnlCZDZrd1AwSEFjQl95dU5LS1NpVV8tZ2N5US12UEo5UGdSbklJd1dESWNBUnV4U3hfdmJMTm9aNnB3Z0tBTDdmNGUteDlNMG1FT21WZ0UxdmwtVjhR?oc=5",
-          "source": "新华网",
-          "published": "2026-10-14T19:03:56+08:00",
-          "summary": "赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OQmw4UXd3TkExd3FPTkhXb1ExMEI1VXpuM2JHaTc5VGh5eGRVam9Ba2U2RmdnenhuZDJ2MDJ3MTdndUowWFp0UFNEdHcySllqbEdUekljYnFvcU4wR3FwTjh6eEUwOHo4ZUF0VGRhSQ?oc=5",
+          "source": "紫牛新闻",
+          "published": "2026-10-15T07:55:00+08:00",
+          "summary": "从一辆车到一张电网：国际嘉宾在常州触摸新能源“全链条” 紫牛新闻 苏州这面“双面绣”，向国际嘉宾展示了什么？ 凤凰网江苏 一日跨越南京 外媒记者感受智造、生态与文脉 搜狐网 外媒记者走进南京云锦博物馆 感受“寸锦寸金”里的文明互鉴 搜狐 一句“你好，银河！”外籍嘉宾在苏州“驯服”车载AI，讲出字正腔圆普通话 紫牛新闻",
           "summary_zh": ""
         }
       ],
       "ai": [
+        {
+          "title": "Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses",
+          "title_zh": "负责任地采用人工智能 (AI) 的良好实践：咨询回复概述",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFl6MzRpNks5bGt0cE1adGdqbVhEX1hpUFBwSGlsSnhnM1FTd0RNUXVYZ3NqRjdrZDduazBRR1VFa2xhdElsdnRkTjlJLTI0VVlFMFFfd2RCOU1DM2RDUms0bmhLT0p3YVdIX0psdkFXT181dVM1TzBpS05LeHJvblRfXzY2V290TmRGUTNLWXFtOHB5d0RQaHFqckxfNzRjOXdyR0d2aFBud0tGRkVhQVQ0RnRnZ196czJSb2pobEpTeGpjLWR0ZFZSZWNwUVE?oc=5",
+          "source": "Financial Stability Board",
+          "published": "2026-10-15T12:00:07+08:00",
+          "summary": "Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses Financial Stability Board",
+          "summary_zh": ""
+        },
+        {
+          "title": "AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science",
+          "title_zh": "AI ML Now：Gert Desmet 谈分离科学中人工智能和机器学习的现状",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVNpQS1kMHVuNkZNTi1nZkxEVmx6LVIwX0E4U25qOVlteER3WVdObkZWc1otQm9zU1dSVzB3Rm1lOS1sbldsZWw5ekI4a0ZfcVprS1VkaUtsaHd0bkNLeTA5VURnRHAyNk5PSGlnWUp4X2ZkR1JGS0Z4MHlfU3RPMXJ1d2FhTEQyeGV1eVByVHFNQTFIbGtXSkliNE9Xem1sTUwtVzQ5akJiOGRWYXVWZ1dnNlJJNHZ1SURkVGdRZlR4d0s2Z3hBVmdzXzFYTVI0NW92WTZTeldOMkZJbjdJ?oc=5",
+          "source": "Chromatography Online",
+          "published": "2026-10-15T08:33:45+08:00",
+          "summary": "AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science Chromatography Online",
+          "summary_zh": ""
+        },
+        {
+          "title": "Mission adopts policy for artificial intelligence usage in city business",
+          "title_zh": "代表团通过城市商业人工智能使用政策",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFhaZTBOYVE1bDZLa05VekJCbEJJeFVhUmpETnprMzdTbkhUUXMtbklQTnRzQWVqNEdVYUMtWk5SR2xuMnJwcHF4UmlVNWFWYUVWUktTaXZOYTFxcUxSUS1yNGU0U3JuUkpaNWNva1c4dlhaVjc4b1ozUlp2aWlldkpkQlFXd2h3ZE1PRXZnV2tyMnBtNjYwR29pX3N6MTBldV91SFlhV1JjYWFRRUFhR010VQ?oc=5",
+          "source": "MyRGV.com",
+          "published": "2026-10-15T06:05:00+08:00",
+          "summary": "Mission adopts policy for artificial intelligence usage in city business MyRGV.com",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat",
+          "title_zh": "基于人工智能的人类棕色脂肪临床表型分析",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5",
+          "source": "Nature",
+          "published": "2026-10-15T06:55:28+08:00",
+          "summary": "Artificial intelligence-enabled clinical phenotyping of human brown fat Nature",
+          "summary_zh": ""
+        },
+        {
+          "title": "How Should Engineering Schools Adapt To Artificial Intelligence?",
+          "title_zh": "工科院校如何适应人工智能？",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDFtYjREdWJtWEE3a2ZGcHhiN0RQSF85TXJFb2NSZHhRM21KeFFBUlhLMjJzQk5ma1NFRThzQjVEdlRTZVBFb1JPWVE3czFGWVo3d2hSZEtBNG5qODhWS1J0VFNjQnlyV29sc1hFcTZjOEphUHdnWFI3ZDRGbWswTTFaQjFsX1V4SWRrOVY1VzR5TXc2bGxVZ0VWQnJmTWFyQjVPRmV0Vmh1THg0eVNQZXR4LTQyQVFFbEdHT3I2VQ?oc=5",
+          "source": "Aviation Week",
+          "published": "2026-10-15T07:44:22+08:00",
+          "summary": "How Should Engineering Schools Adapt To Artificial Intelligence? Aviation Week",
+          "summary_zh": ""
+        },
         {
           "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission",
           "title_zh": "加入Discerning AI：通过马凯特的使命探索人工智能",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2RIcWdpSmJBaGpkbU0?oc=5",
           "source": "Marquette Today",
-          "published": "2026-10-14T23:48:02+08:00",
+          "published": "2026-10-15T02:31:35+08:00",
           "summary": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission Marquette Today",
           "summary_zh": ""
         },
         {
-          "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative",
-          "title_zh": "AI @ CLS：哥伦比亚法学院的人工智能计划",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5",
-          "source": "Columbia Law School",
-          "published": "2026-10-14T22:53:52+08:00",
-          "summary": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative Columbia Law School",
+          "title": "Yael Grushka-Cockayne discusses artificial intelligence and future of business education",
+          "title_zh": "Yael Grushka-Cockayne 讨论人工智能和商业教育的未来",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlJ3elc1Z3ZFbW4xM0xNbjFZSlJHWVlWQ0ZILTdZZnI5a29YeU1NbGdhbkR3SG1WT0tFTDBnVzZRWndicWZmMDRrMWZoelExU1pmdjNwdmRJMFY0RlBodGo0b0ZVTVJURnVKeXFEY1lHdlVYLW9GY05JU2tabnFmSGxhR1piaGh2dDhqcW12aEx1WTE1UlFUN0N1WHBoMUo4Sk9BM0hWdk1fX3ZaUkRWLTZzT20yd01QTk1pNU0zX1FPYlhDd2VKNDROU1JpYzg?oc=5",
+          "source": "The Cavalier Daily",
+          "published": "2026-10-15T07:34:42+08:00",
+          "summary": "Yael Grushka-Cockayne discusses artificial intelligence and future of business education The Cavalier Daily",
           "summary_zh": ""
         },
         {
-          "title": "AI ML Now: Gert Desmet on the Future of Artificial Intelligence and Machine Learning in Separation Science",
-          "title_zh": "AI ML Now：Gert Desmet 谈分离科学领域人工智能和机器学习的未来",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMHVjSTEzLUxMZUF4MzRFYXdIOFZubzRQenRuZndIbjhWT2RUYXY5NmF2NmRFcXpZLW5KR3ZRcUNkYUw4eUVzOEhiVWxWTFJoRUlxcjFZTnRIZHFPYmNvVFRmZXR1OHY5V0llSUtPLVFJSmlSU1FiTDNHOEJmUzFGRks2clpxVngzOXpQdEtSWjl6SDFsdDNURFRkWnlYN0x0YU9RbTNLbnkyM0VYS25mRXNZNnVJRDdGR0dmc2pBMktQcTNrWEwxWjJqYlo1YTVLQlpHYkl2RW5SMnJjeUl0Zg?oc=5",
-          "source": "Chromatography Online",
-          "published": "2026-10-14T19:22:28+08:00",
-          "summary": "AI ML Now: Gert Desmet on the Future of Artificial Intelligence and Machine Learning in Separation Science Chromatography Online",
+          "title": "Arkansas sues OpenAI, claiming company misled consumers about ChatGPT safety",
+          "title_zh": "阿肯色州起诉 OpenAI，声称该公司在 ChatGPT 安全性方面误导消费者",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbENDQzlJMExmS0dFeWswcmlaMmFVXzc5RjNkd2RfcEFPVkxtRlNLV0dDdm1xbFd5T1p2WkRxN2ZMTUVleGNGakRJbXBwUFF5aUZuSmNlem1yQ2I4aFBiLUFiVEZLdkhvOHdYUDB3aVdFOFhuMjRHV3RzQmJtVzc2Nl9pbWNGVHFZNkJpUGlKM0JSVWlfRS1NRHhBbEVaS01SNjRsaTRlVVdSVnhOdHFOZWpaOVR2OGc?oc=5",
+          "source": "Arkansas Advocate",
+          "published": "2026-10-15T07:30:34+08:00",
+          "summary": "Arkansas sues OpenAI, claiming company misled consumers about ChatGPT safety Arkansas Advocate",
           "summary_zh": ""
         },
         {
-          "title": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin",
-          "title_zh": "由于数据中心仍然是潜在的政治问题，大卫·克劳利提出了威斯康星州监管人工智能的计划",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSVJQRDJweEhtbjJhWkNZc2hHM3MzR3pfTVIzeS03RkQwbXBsanVJN19OVTUzZ3NOOHR2U0lVc282UnpMMlMzLVRYclNXRkJGSXFLWkEzTGJvM21LU3VwZGJoeWRzOFZ1bVpmMC1OOVhBT2hUMkg2ejA5dkVadVVtUmxEV1BkUHBTRGRWZERsRHVkemk3MGcxQWJjTTd5am9zVFhfRlJ5T3JRTzVHWHM1dTdIV0ZEYTQwZk9pTGxMNk9qSGpEUmZ6STdHWEhrY1FRd0ZhWW83OHhucHZraUdiS2c1MHRMenM0eWRhQWxWWXI?oc=5",
-          "source": "Civic Media",
-          "published": "2026-10-14T22:24:00+08:00",
-          "summary": "As data centers remain potent political issue, David Crowley offers plan to regulate artificial intelligence in Wisconsin Civic Media",
+          "title": "Global financial watchdog calls for more human oversight of agentic AI",
+          "title_zh": "全球金融监管机构呼吁对代理人工智能进行更多人为监督",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGFNeG9sS1g2RElieWFWS1l0a3FPSmRqT1BkSXpDbHc5LW9qY3c1UGFONlZNMHdGMHFPR1JPMzk2Rlg5OVlEM0pwaU5CZ2hyN3lzWTdPWVd2UlFaOVZPVVM4U1dPUzFFc2lEOU5hZ0V3ZG1ONm5LUHc5OUc3VVVHOHNNUUctRWNWQktSOGFDS01YUFd1Q1Atczh0ZFBlSlNGOGhNWTVWa2NPeE0wZDJqV2hyWkFoNDQ?oc=5",
+          "source": "Reuters",
+          "published": "2026-10-15T12:02:00+08:00",
+          "summary": "Global financial watchdog calls for more human oversight of agentic AI Reuters",
           "summary_zh": ""
         },
         {
-          "title": "The Big Problem Every Artificial Intelligence Company Faces",
-          "title_zh": "每个人工智能公司面临的大问题",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnVOLXZnNnFmY05jSl9pTjZzWEppZllJR1lTM2hOOE5ZSTFrRWthRHZsVy1BSzg1NzJ5Vm9DdmJqSURaNVNEa2xNblFTaHpPanFINlpkdjE4SGk3OHlsQnVydGt0eGthb3p0eEppaWFreGdPTkFQRGY1LVR2RUNMZUpCRTRJaTczZk9QSQ?oc=5",
-          "source": "BGR",
-          "published": "2026-10-14T18:17:00+08:00",
-          "summary": "The Big Problem Every Artificial Intelligence Company Faces BGR",
-          "summary_zh": ""
-        },
-        {
-          "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027.",
-          "title_zh": "不是英伟达。不是美光。这支低调的人工智能 (AI) 芯片股可能成为 2027 年的最大赢家。",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzZ2NU5fcG1WbFdrOFpUMF9NWFRibEhqclowaW1QVk1rMGFaZFhnRmt2WmVvdi1WMnNlRXpsamdSSmNDWng0S2x2cXplZE5aZWFQZG5mLUN4MzNVYXlWMzBHQ0dYREd0LVRIOGowM1YtYTUwWjhpUDExdDk1Xy1wY1lsa1E5STJva19iaFdpWkpiaDVuYWRNOA?oc=5",
-          "source": "The Motley Fool",
-          "published": "2026-10-14T22:42:19+08:00",
-          "summary": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027. The Motley Fool",
-          "summary_zh": ""
-        },
-        {
-          "title": "What Allegations of Spying at OpenAI Mean for the A.I. Industry",
-          "title_zh": "OpenAI 的间谍指控对人工智能意味着什么行业",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ekVqUEtoemNqT3hQa3VRMXNWSDJXZjdhTDV1Ynd4QXpCUW5xNElTS3U4TUlmODREeUFzYy1QLTFOeWdPUlRNbzIxMDdjc2RGSkRZUm9QM0lhaDFUSGtTNUZRbnFwUWJKTkJ2SlV2X29CWFU1UzY4b0ZnN19BNjg?oc=5",
-          "source": "The New York Times",
-          "published": "2026-10-14T20:39:24+08:00",
-          "summary": "What Allegations of Spying at OpenAI Mean for the A.I. Industry The New York Times",
-          "summary_zh": ""
-        },
-        {
-          "title": "What My Son Is Learning From Artificial Intelligence",
-          "title_zh": "我儿子从人工智能中学到了什么",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5",
-          "source": "Greater Good: The Science of a Meaningful Life",
-          "published": "2026-10-14T01:09:40+08:00",
-          "summary": "What My Son Is Learning From Artificial Intelligence Greater Good: The Science of a Meaningful Life",
-          "summary_zh": ""
-        },
-        {
-          "title": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co",
-          "title_zh": "纽约时报。 。人工智能已经从苦苦挣扎于基本算术变成了帮助解决一些最著名的数学开放问题——该领域正在思考这意味着什么。史蒂文·斯特罗加茨 (Steven Strogatz)，Co. 数学教授",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RGUE1VajZ0NWZfYWVGbGJOOXBoUi1kNnZXX2lGQjFmS0F4SERhN0VJbXJWc1BKSUl5ekNLbU96X2ZqWXdNNVF6YU1sRTFFZVFIZWpVLWN2NXRSWnRVUlUzam5qQ0xEaE13Z3ZpTmdWeTFMZnJNdkhkTVQ1UDRuNVNyOG8xZzFNV0lrbXFfMnpiWE5aMkw2TFYyUWM?oc=5",
-          "source": "Facebook",
-          "published": "2026-10-14T03:30:06+08:00",
-          "summary": "The New York Times. . Artificial intelligence has gone from struggling with basic arithmetic to helping solve some of mathematics’ most famous open problems — and the field is reckoning with what that means. Steven Strogatz, a professor of mathematics at Co Facebook",
-          "summary_zh": ""
-        },
-        {
-          "title": "What The Tech: How criminals are tricking artificial intelligence platforms",
-          "title_zh": "技术是什么：犯罪分子如何欺骗人工智能平台",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQy1OZkw3enhLRUdMNXlIbVFrUTBiWkFQZDk0NjRUcEdYQjdPVGMzZVZKcDg3M1Fud1M4NzM1QnJEeDhPbktaSDZKeHRpUEtfbERodEhhbEUzWFpyQW1mM0EtTVVBMXM2ZFZHdVI3ckZya1JkZnZYdEFiOHA0dUJ0Wl9qLVJFMWpJYWVlaFR1UENWQlBHazd4Rk5taFVFLXZZWXpKcGwtQnpHaHM?oc=5",
-          "source": "WAKA 8",
-          "published": "2026-10-14T19:30:00+08:00",
-          "summary": "What The Tech: How criminals are tricking artificial intelligence platforms WAKA 8",
+          "title": "Baisley opposes stricter artificial intelligence regulation",
+          "title_zh": "贝斯利反对更严格的人工智能监管",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRlMxOWw1RGRMU1g3THllSnRRa1VOZVR4VFBHYWRvT3JRV2dTTFBIMWtyTF9zQkNlM2ZFZFdIQ0gyc0hIbVEyOGhYSmswcGVtNnlKTUdqa3J1QWdJekZxRVZ2UlRROXpObmFiTkh5X2x6SmY1SFdjN1hwSng3ZVBhLVNGYV9CUGlEY0k4N3Y3TUpxYTNfZHZfRE5fdjJGZ0lGZDJPVGhXRW95QktTcTkzdTdIUVkxRGxWWnI3NUNpeXBjYUhkUjFGTzBLOVBTYjQteGNxRHdGSUI?oc=5",
+          "source": "9News",
+          "published": "2026-10-15T10:17:00+08:00",
+          "summary": "Baisley opposes stricter artificial intelligence regulation 9News",
           "summary_zh": ""
         }
       ]
     }
-  }
+  },
+  "evening": null
 }
