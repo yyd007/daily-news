@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
   "morning": {
-    "generated_at": "2026-10-15T13:47:04.161341+08:00",
+    "generated_at": "2026-10-15T14:21:37.240383+08:00",
     "sections": {
       "worldwide": [
         {
@@ -28,7 +28,7 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVg0eWh4OTZ1NG5IR1M1ZWJJejUxUncyYVVWeHB3QTdHaHYzUnRDOHBpaFpEZldsb0RNZG5SNVZDMWJIVUV6U0JZRVhLSmdtWEZfSnpGSDlXWVU1UlRRSF9wT0JSbktPRTRWT2dkazNCSmJoWDBaUl9wZEI3bjVpLUNZS2ZDWW9IQk9oUndRNU1qYUpHclhnUzhVYVU1RE0?oc=5",
           "source": "The Washington Post",
           "published": "2026-10-15T11:36:29+08:00",
-          "summary": "Iranian attacks sink two ships in Strait of Hormuz The Washington Post Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks in run-up to midterms CNN Container ship sinks in Strait of Hormuz as Iran steps up attacks CNBC Iran war updates: Cargo ships sunk in...",
+          "summary": "Iranian attacks sink two ships in Strait of Hormuz The Washington Post Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks in run-up to midterms CNN Two Singapore-registered vessels struck in Strait of Hormuz; one sinks Reuters Container ship sinks in Strait of...",
           "summary_zh": ""
         },
         {
@@ -46,7 +46,7 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1INTJ4ZlNCa1lnb25HZFFoUVA5RkYzS19VRGdyeFdncHFid2dVYWZuYnVocDFETUh3UmpEUi1uQko5bm5LS3hOTW9PMjJEZ3YwV1JNTnhoT25BWXM?oc=5",
           "source": "BBC",
           "published": "2026-10-15T05:30:13+08:00",
-          "summary": "UK threatens to ban Eritreans over migrant return policy BBC See more headlines & perspectives on Google News",
+          "summary": "UK threatens to ban Eritreans over migrant return policy BBC Mahmood to block Eritrean visas in row over migrant returns The Telegraph Eritreans face total UK visa ban in row over return of small boat migrants The Independent Mahmood threatens complete visa ban on Eritreans...",
           "summary_zh": ""
         },
         {
@@ -55,7 +55,16 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HWEd5VU9mVlpobVFOQXRDWlZ6Y3B4VmsxdTlJV1BBcW9lMGgwbmJ0YXBCdGlJX1BuYzJTdmhLUFJlX3BESmZ0TlNKZ3pvaTAwdDQ5TEtvMHJOSnM?oc=5",
           "source": "BBC",
           "published": "2026-10-15T10:59:30+08:00",
-          "summary": "North Korea and China open new bridge after 12-year delay BBC Trucks line up as long-delayed China-North Korea bridge officially opens Reuters China, North Korea Open Long-Stalled Bridge, Boosting Trade Bloomberg.com China and North Korea open New Yalu River Bridge, state...",
+          "summary": "North Korea and China open new bridge after 12-year delay BBC China, North Korea open long-delayed border bridge to boost trade Reuters New North Korea-China bridge finally opens. But will it help Pyongyang evade sanctions? CNN North Korea and China Open Their Biggest Border...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Why Ukrainian strikes on data centers are a real problem for Russia — and beyond",
+          "title_zh": "为什么乌克兰对数据中心的袭击对俄罗斯及其他国家来说是一个真正的问题",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVBDRGlvd3RfR203Mzl5eG5xN2tRXy16b1JmVkliUkpKT2lEQzdScXkxcFVEMmRwLURac2Vqb0tZanhrUE9MTlZfdGh4aWloYnpudkh4SHdNNHhOX3l3SXVJYzFxR0dkUXNkQTJ1V1dlemxnWnQ3eUdzNEJyZWY0RW1MalM?oc=5",
+          "source": "POLITICO.eu",
+          "published": "2026-10-15T11:00:00+08:00",
+          "summary": "Why Ukrainian strikes on data centers are a real problem for Russia — and beyond POLITICO.eu Yandex outage: Data shows that instead of going dark, malicious bots went on the move Cloudflare Blog Ukraine strikes didn’t take out Russia’s bots. They killed its dating apps The...",
           "summary_zh": ""
         },
         {
@@ -68,6 +77,15 @@
           "summary_zh": ""
         },
         {
+          "title": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe",
+          "title_zh": "中国面临更多贸易壁垒，无法承受失去欧洲的代价",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUQzNFBYX1hBcGFYNDNELUppYzROV3VxSjE5Zlg0cHBsSDFacFBTbEY2R011SnRGT3NuMHpDT3RiSGhfOHRnb05WQllxVVk1LVpaUzVoLUpOSlhNa3NRbU1BQmlDb1NGa3o2Tk1hRjRVWkFLeF9NSEdTeG80WC1aUEFPcFV2N2t5NVpISmg3eE01M3pwUlJNMWx3RUoyOFVRMnlGRkxNUTgxWDVuRkdn?oc=5",
+          "source": "WSJ",
+          "published": "2026-10-15T02:39:00+08:00",
+          "summary": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe WSJ Emboldened by hybrid car deal, Europe coalesces around tougher China stance South China Morning Post EU leaders to tackle China exports, energy prices, budget at summit Reuters Germany to Push EU to...",
+          "summary_zh": ""
+        },
+        {
           "title": "Russia detains Japanese journalist, alleging espionage",
           "title_zh": "俄罗斯拘留日本记者，指控其从事间谍活动",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjRfd1dVd1puM3BORXMtdXFfQ3dmWURILUJnZ2RXZDU3UTlBZThreFA5aE9sMUtlMTVablNHNVNFalBXYUlSb1dRTktUWkhLQkNtQVUzRUtoZHVrenBnOE9LZjcybkljcVJueW9sa3MtVERBVUN5VzFQaF9kSjUxbzR1ODBPY2VTNHFRMVJvdVVsdVVtU0YwRjdzQkNSenIxSVlWNg?oc=5",
@@ -75,88 +93,88 @@
           "published": "2026-10-15T06:48:14+08:00",
           "summary": "Russia detains Japanese journalist, alleging espionage The Washington Post Russia detains Japanese journalist on suspicion of spying CNN Japan’s Takaichi Denies Allegations of Spying In Russia Bloomberg.com Japan Protests Russia’s Detention of Journalist Accused of Spying The...",
           "summary_zh": ""
-        },
-        {
-          "title": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe",
-          "title_zh": "中国面临更多贸易壁垒，无法承受失去欧洲的代价",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUQzNFBYX1hBcGFYNDNELUppYzROV3VxSjE5Zlg0cHBsSDFacFBTbEY2R011SnRGT3NuMHpDT3RiSGhfOHRnb05WQllxVVk1LVpaUzVoLUpOSlhNa3NRbU1BQmlDb1NGa3o2Tk1hRjRVWkFLeF9NSEdTeG80WC1aUEFPcFV2N2t5NVpISmg3eE01M3pwUlJNMWx3RUoyOFVRMnlGRkxNUTgxWDVuRkdn?oc=5",
-          "source": "WSJ",
-          "published": "2026-10-15T02:39:00+08:00",
-          "summary": "With China Facing More Trade Barriers, It Can’t Afford to Lose Europe WSJ Emboldened by hybrid car deal, Europe coalesces around tougher China stance South China Morning Post Germany to Push EU to Impose Caps on More Chinese Imports Bloomberg.com China Shock 2.0: Europe's...",
-          "summary_zh": ""
-        },
-        {
-          "title": "EXCLUSIVE | Leaked emails reveal former German intelligence chief's Mossad links",
-          "title_zh": "独家|泄露的电子邮件揭示了前德国情报局长与摩萨德的联系",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXI4cGE0TDVzR09VcEgwSWt1dGJ5djZDSktka0NiNnBrX3VZMV9Sei02a3JhaUpNQU9XTHlaUV8zYnF0RXkyODUyQ2k0OXJXcFRhUlk0S0cyTF9mS2R2ZXU5QS1aTlNzSkJKUzFySTVWSXp1Uk5BUWhOZ2FDSU5zb0dpeHkzQzU2czFhM0JEeC0xS0drQzVGeVJ3MmxQRW9RbnZ0cmEzRzZkNUE?oc=5",
-          "source": "thecradle.co",
-          "published": "2026-10-14T03:07:05+08:00",
-          "summary": "EXCLUSIVE | Leaked emails reveal former German intelligence chief's Mossad links thecradle.co Germany's intelligence scandal has a long list of possible consequences NPR An explosive allegation rocks Germany’s spy agency The Economist Something is rotten in the state of...",
-          "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
+          "title": "第140届广交会今天开幕 826家温企参展“抢单”全球",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yakVVWTduck5fM2VrdVNuLUYzNnN0Ql9XNVBnRWN4NlVyOHdTcVVDTHI1X0FKX0pya29uWEtwZVFTb1c1dmM1MDBCR2NKQ2xnazJlU3phYjRsNDNadWRxU2l5eXZvRUtFRjh3?oc=5",
-          "source": "中国共产党新闻网",
-          "published": "2026-10-15T08:13:00+08:00",
-          "summary": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲 中国共产党新闻网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rVVdnRlJBOE1lZHZnbThkQlN6MUxsdWdhN0szRUI4dWozTWwzaWkxQkdiV05NS3kycmNuOU5jRmR1VFNHTkpBeWZmeUQ3RDlsRkk3RXhFN0ZOUk9WWk1VOHlxWGhQTU93Q2c?oc=5",
+          "source": "温州新闻",
+          "published": "2026-10-15T11:34:44+08:00",
+          "summary": "第140届广交会今天开幕 826家温企参展“抢单”全球 温州新闻 第一观察 | 习近平主席向广交会致贺信传递高水平开放强音 新华网 【央视快评】为世界发展繁荣持续注入新动力 光明网 李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲 人民日报 优质供给让稳外贸底气更足 中国经济网",
           "summary_zh": ""
         },
         {
-          "title": "天津市委常委会召开扩大会议 传达学习贯彻全国卫生与健康大会精神 陈敏尔主持并讲话",
+          "title": "习近平总书记重要讲话在江苏卫生健康系统引发热烈反响",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUllzWW5RY0ZtZF9mMExQcGFra05mZEFyZ3ZnZ0xZZnJqaUU4b1ZSU0lUNFYxQlIxX1ozZS1YZkRDVG5pZ3U3SkJCdHV3OU5icTlYM1gxbEhxeG5DbjRVQkRVYTZWaGlmdGtQUUlmd2RTNm52MHRnVllhMnhhMWZHaS1R?oc=5",
-          "source": "新华网",
-          "published": "2026-10-15T09:08:39+08:00",
-          "summary": "天津市委常委会召开扩大会议 传达学习贯彻全国卫生与健康大会精神 陈敏尔主持并讲话 新华网 [新华社] 习近平出席全国卫生与健康大会并发表重要讲话 中华人民共和国国家卫生健康委员会 锚定航程 向建成健康中国的目标扎实迈进 中华网 看图学习丨这项保障被总书记放在“优先发展的战略位置” 中国日报网 全生命周期健康维护 未来看病就医新变化 上海热线",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtUkwtQ0VpcHVPeF9zTUx1clEyVVFQS0J3bGJLeE1Mb2gxUHZJeW5feGxwbkVYbG4tSVJvTG94Uy02SHJRUWRPVVItak1kY2tCbTJWa3lYRUo5MTk5R2t3Y2FlM2JHcW9sdUtz?oc=5",
+          "source": "新华报业网",
+          "published": "2026-10-15T08:51:00+08:00",
+          "summary": "习近平总书记重要讲话在江苏卫生健康系统引发热烈反响 新华报业网 [新华社] 习近平出席全国卫生与健康大会并发表重要讲话 中华人民共和国国家卫生健康委员会 人民论坛网评 | 筑健康之基 谋民生之福 凤凰网 看图学习丨这项保障被总书记放在“优先发展的战略位置” 光明网 全生命周期健康维护 未来看病就医新变化 上海热线",
           "summary_zh": ""
         },
         {
-          "title": "要闻分析 - 泽连斯基是否被背叛了",
+          "title": "泽连斯基公开谈论特朗普：感到被背叛，令人痛苦",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNY3NyNUdyVkd6aVV1QW9IdWJNZDJBWnZmVGpsbnJDS1NPTHkyXzhsbWpWcHNwbXRsM1RNalFObGlRaHM1Ymp4aWlIa3llajEwZVJ3X0JRbGE3M25RQWZfb2pMaThPUDJ0Y3M0T201bW1kY0RSZHNQU01heTl5bDlCVWxuQWVfLTFfR2ltLXBuRVlxc2Nyc0F4TmVWUk9NV2sybHdMekxiQ1N0ckx6bHlkd1VwbDJFeDlXQ0UxZzN6dWdDalFhUEU4Z1ZFc21oZ1A4Q0tmM2FEYUJJWE9xOG9nYm1xZFQ4M0RfM005NkRlOXNVLURqLXVBOGFIQ09wVmhDRGZVZ21QbWNjdzNNZUs0UnptWTBfVlAtUmFYaExXTHM?oc=5",
-          "source": "RFI",
-          "published": "2026-10-15T07:24:00+08:00",
-          "summary": "要闻分析 - 泽连斯基是否被背叛了 RFI 到底发生了什么，导致特朗普对乌克兰“破防”？ 凤凰网 江西人都收到这条短信了吧|国际减灾日|自救方法|地震预警|山体滑坡|沙尘暴 新浪财经 欧洲集体唱反调：“筹码”不可丢 观察者网 泽连斯基：我感到被特朗普“背叛”，调停方应保持中立 ThePaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mZnRuSzE2VVFiRkRSUGRLdlJsbGc2M251TjlpNHZtWnlxNHBGMmFETE9XX29wVnA2M2lYNVlwZDJVVnE4dng1RnVYY0c?oc=5",
+          "source": "凤凰网",
+          "published": "2026-10-15T11:36:03+08:00",
+          "summary": "泽连斯基公开谈论特朗普：感到被背叛，令人痛苦 凤凰网 到底发生了什么，导致特朗普对乌克兰“破防”？ 凤凰网 江西人都收到这条短信了吧|国际减灾日|自救方法|地震预警|山体滑坡|沙尘暴 新浪财经 泽连斯基：我感到被特朗普“背叛”，调停方应保持中立 ThePaper.cn 俄方称俄乌“能源停火”相关工作仍在进行 搜狐",
           "summary_zh": ""
         },
         {
-          "title": "千年古渠何以滋养良田？我国再添四处世界灌溉工程遗产",
+          "title": "中国再添4处世界灌溉工程遗产",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nX0NtRGE0ZXFoX0M0Ym5XTVExMjZqREw0bzI5VHBWVmlrTzE4MlN6MFFoZXA1YjNnWENFMEJpQm1lNDBMMVljVmplbEFsdHFsLWtFLUJacERRMzRWNVhHWnA3bkY?oc=5",
-          "source": "新京报",
-          "published": "2026-10-15T10:56:00+08:00",
-          "summary": "千年古渠何以滋养良田？我国再添四处世界灌溉工程遗产 新京报 上饶广信黄沙渠成功入选世界灌溉工程遗产名录 凤凰网 福建长泰龙津古陂灌溉工程入选世界灌溉工程遗产名录 搜狐网 中国再添4处世界灌溉工程遗产，总数已达46项 中国网新闻中心 中国世界灌溉工程遗产总数已达46项 中华网",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yVHZ4bkNoRmc1ckFOREhTOHFJOEZRTUxOMENQenlHQ29qcEJJMlAzSlYySUI5YndhZ2tkRnJTRzR2UXFLU2Vpd3l3b2FwakpFUFNXc1Nld0RkUEpVOVJiNGp2STNmY2drQ2hudnZn?oc=5",
+          "source": "人民网",
+          "published": "2026-10-15T13:21:00+08:00",
+          "summary": "中国再添4处世界灌溉工程遗产 人民网 江西再添一处世界级遗产 新浪财经 福建长泰龙津古陂灌溉工程入选世界灌溉工程遗产名录 搜狐网 中国世界灌溉工程遗产总数已达46项 中华网 喜讯！我国再添4处世界灌溉工程遗产 ThePaper.cn",
           "summary_zh": ""
         },
         {
-          "title": "红色根脉永传承铁路担当助振兴“坐着高铁看中国·重走长征路”主题采访团走进白银_兰州",
+          "title": "90多年前30万人严守一个秘密 草鞋与信念的力量",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZRHphd0RienBBMFZCdEh0ZnJURzByUnNyeE5PWEhyME9yZ1hPcktRUm5adGJVYlo4TTlqcGtVWEdMazRQYWpvMmJERmhVRkQtOUkxMnRZMkFfRnprRUNCaDdVbllGYmRTMHc?oc=5",
-          "source": "中国甘肃网",
-          "published": "2026-10-15T08:36:00+08:00",
-          "summary": "红色根脉永传承铁路担当助振兴“坐着高铁看中国·重走长征路”主题采访团走进白银_兰州 中国甘肃网 腊子口：镌刻在绝壁上的红色信仰 人民网-图片频道 再走长征路丨会宁：把曾经的“军粮”种成“富民粮” 新浪财经 90后科普团队解码“长征路上的科学” 中国青年网 （长征胜利 90 周年）俄界会议旧址点亮藏乡振兴新方向 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xeDF2T0pPQ20zd0EtaGlacm5vSDVua2ROSjdmUGdKaUhfcjFjOXl3elJRTHpSQzM3eEhXSGxRYkFnaUZ0cG92MzZ6MjkwdEdiNzVKSGc5XzkyYlpKMmdIdEdvWnV5ckp3Zk5RaFM4dzg?oc=5",
+          "source": "中华网",
+          "published": "2026-10-15T10:53:04+08:00",
+          "summary": "90多年前30万人严守一个秘密 草鞋与信念的力量 中华网 寻迹长征（四）红军翻越雪山时，为何留下一盏马灯 新华网 隧道通车一年后 重访夹金山 人民网-四川频道 红星照耀中国丨长征组图：山河记得来时路|高铁|青年|精神|历史|征途 新浪新闻_手机新浪网 见证“伟大的远征” 感受长征精神 光明网",
           "summary_zh": ""
         },
         {
-          "title": "也门：胡塞武装用中企零件，我们找了中方",
+          "title": "再走长征路丨会宁：把曾经的“军粮”种成“富民粮”",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2U3AtZUU4ZHBYaHI2WUt3RDItVVVxeDQySGQ4NU1vREp6Qnl1YTBmb3NnVlpsRWZYU0pHS2tOVXVNZDhpVnpmUjJoR083VHEwQWFDMlRJdno2T19uSll4Y01KSVp3TkxFOER2ak16dU16RWM?oc=5",
-          "source": "观察者网",
-          "published": "2026-10-15T08:25:00+08:00",
-          "summary": "也门：胡塞武装用中企零件，我们找了中方 观察者网 也门政府就胡塞武装疑用中国技术制造武器向中方表示关切 RFI 神了！胡塞的缴获已凑齐五常装备？中美俄法英均有，运输大队长实锤！ 风闻 专家：伊朗支持的胡塞武装恐怖组织的野心不止于也门 美国之音 沙特为何被胡塞打成这样 胡塞武装的崛起之路 中华网",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83Z181Tzk5anFNdEpFRHd0OFZKSG9SRmhFMnBlQmxab1AxSXRhUDhJQXp6X2tpa0FRR3VQR21WbHJQNWF5aTRWVUUtczFicGM4MzlzdnJ6cTVZckllcWQwMmMtQl81Zw?oc=5",
+          "source": "东方财富",
+          "published": "2026-10-15T12:44:18+08:00",
+          "summary": "再走长征路丨会宁：把曾经的“军粮”种成“富民粮” 东方财富 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "高举队旗跟党走，温江中学实验学校少年接力新长征",
+          "title": "2026年自贡市“十·一三”建队日示范活动在富顺举行",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xWWNVbGRpVUNzbXZYcU00S251eHRqSmtDTVdfbUk1eUV1aFFMR05PT1lKZ1hlTTB2bXBGMElUQlhfbUt3dmhZeDVMUFQtR2RVd2tJeFNkTzZ0OVptYjRiUDBjbU1IR1lNTVRaaEV6dzhGSVZqRFE?oc=5",
-          "source": "https://www.scjyxw.com/",
-          "published": "2026-10-15T09:18:45+08:00",
-          "summary": "高举队旗跟党走，温江中学实验学校少年接力新长征 https://www.scjyxw.com/ 高举旗帜跟党走 少年接力新长征——来安县新安镇中心学校党总支举行新队员入队仪式 凤凰网安徽 千城百县看中国｜山东定陶：系上红领巾 少年启新程 新华网 画里有话丨红色火种代代传 新浪新闻_手机新浪网 河北丰南举办少先队建队日暨党团队一体化育人示范活动 人民网－河北频道",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvcTNYV0JzYkhqNFg3dmh3T2VXeWFrQm03TFFUTjB6akVCbWh6X1V1SFVaUGp4ZEl1RUN5TkcxcUZuS2x2SDNBNmd1d0ZIZi1lakE?oc=5",
+          "source": "自贡网",
+          "published": "2026-10-15T09:56:00+08:00",
+          "summary": "2026年自贡市“十·一三”建队日示范活动在富顺举行 自贡网 高举旗帜跟党走 少年接力新长征——来安县新安镇中心学校党总支举行新队员入队仪式 凤凰网安徽 千城百县看中国｜山东定陶：系上红领巾 少年启新程 新华网 红色火种代代传 新浪新闻_手机新浪网 飞驰的红色课堂：“红领巾号”列车上，少年接力新长征 光明网",
+          "summary_zh": ""
+        },
+        {
+          "title": "红星照耀中国｜红色矿藏助力万里长征",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qQ0tRdjIteGNqSVVmcEprRG5Ic284LU0zTUlzbG9YMWNIblFJM1Y2eGhfdmU5bVlWN2NZR29QVE1BdnlVcy1NTU1kSTRRblBCLVYxYnZxNmp5TEx1VVB2Q3c1enpvMXJ2?oc=5",
+          "source": "紫牛新闻",
+          "published": "2026-10-15T09:56:00+08:00",
+          "summary": "红星照耀中国｜红色矿藏助力万里长征 紫牛新闻 2026年10月15日 新华纵横（成品） 搜狐网 一句“等我回来”，她等了一辈子！ 岁月见证忠诚 中华网 “红星照耀中国·新长征再出发”网络主题宣传活动发布系列产业成果 光明网 【红星照耀中国】演员王雷：演绎红色故事，信仰是不变内核 中国青年网",
+          "summary_zh": ""
+        },
+        {
+          "title": "农行诏安支行：社保服务进万家金融知识来护航- 财经",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvOWtaVDdwVWxRTlRjQUR6ZExaZ2dQcHpQZWN3Q19PYlI0OWpyTlNLSkItX2VZbDJlcEFfSktRa0FVSkQxRVdKMW8tZVlPWmZnYmdxcGVJRF9aTUtBeVE1WGFzNnU?oc=5",
+          "source": "东南网",
+          "published": "2026-10-15T11:50:00+08:00",
+          "summary": "农行诏安支行：社保服务进万家金融知识来护航- 财经 东南网 情系桑榆携手暖夕阳 区镇政企联动护晚情 昌平区“社保服务进万家”重阳专场暖心启幕 北京市人民政府门户网站 2026年湖南省“社保服务进万家”活动在安化启动 凤凰网 快板响、问答热，泸州这场活动把“参保明白账”算到了市民心坎里 人民网-四川频道 助您了解社保政策！2026年“社保服务进万家”四川主场活动启动 新浪财经",
           "summary_zh": ""
         },
         {
@@ -166,24 +184,6 @@
           "source": "每日经济新闻",
           "published": "2026-10-15T07:19:00+08:00",
           "summary": "中央气象台发布暴雨蓝色预警 局地将有雷暴大风等强对流天气 每日经济新闻 新一股冷空气携降雨降温来袭！明日四川局地有大雨、暴雨|天气预告|阵雨|局部|大雪|川西高原 新浪财经 新一轮冷空气即将影响我国 北方多地气温将创新低 中国日报网 湖北湖南江西重庆贵州等地将有短时强降水天气 搜狐网 北方大部气温将转为偏低 长江及其以北大部地区多降水 搜狐网",
-          "summary_zh": ""
-        },
-        {
-          "title": "就业政策宣传暨“社保服务进万家”活动启动",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40RE1wYzM4TGVsQ09TazVHNmpySXJ4Uk5leF84N1h3WEtSUE1VWkRBVTBHdkVDZExfQktUcTBPd1ZFQUEwaWluODd2YUhwSEZlUUJQYXVXLUVESUNIY1BuUmUtcGhzSGRLU2VVQ09Yaw?oc=5",
-          "source": "内蒙古新闻网",
-          "published": "2026-10-15T06:40:00+08:00",
-          "summary": "就业政策宣传暨“社保服务进万家”活动启动 内蒙古新闻网 情系桑榆携手暖夕阳 区镇政企联动护晚情 昌平区“社保服务进万家”重阳专场暖心启幕 北京市人民政府门户网站 怕断保、不会办、算不清？抚州社保服务摆到家门口 凤凰网 快板响、问答热，泸州这场活动把“参保明白账”算到了市民心坎里 人民网-四川频道 助您了解社保政策！2026年“社保服务进万家”四川主场活动启动 新浪财经",
-          "summary_zh": ""
-        },
-        {
-          "title": "从一辆车到一张电网：国际嘉宾在常州触摸新能源“全链条”",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OQmw4UXd3TkExd3FPTkhXb1ExMEI1VXpuM2JHaTc5VGh5eGRVam9Ba2U2RmdnenhuZDJ2MDJ3MTdndUowWFp0UFNEdHcySllqbEdUekljYnFvcU4wR3FwTjh6eEUwOHo4ZUF0VGRhSQ?oc=5",
-          "source": "紫牛新闻",
-          "published": "2026-10-15T07:55:00+08:00",
-          "summary": "从一辆车到一张电网：国际嘉宾在常州触摸新能源“全链条” 紫牛新闻 苏州这面“双面绣”，向国际嘉宾展示了什么？ 凤凰网江苏 一日跨越南京 外媒记者感受智造、生态与文脉 搜狐网 外媒记者走进南京云锦博物馆 感受“寸锦寸金”里的文明互鉴 搜狐 一句“你好，银河！”外籍嘉宾在苏州“驯服”车载AI，讲出字正腔圆普通话 紫牛新闻",
           "summary_zh": ""
         }
       ],
@@ -198,24 +198,6 @@
           "summary_zh": ""
         },
         {
-          "title": "AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science",
-          "title_zh": "AI ML Now：Gert Desmet 谈分离科学中人工智能和机器学习的现状",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVNpQS1kMHVuNkZNTi1nZkxEVmx6LVIwX0E4U25qOVlteER3WVdObkZWc1otQm9zU1dSVzB3Rm1lOS1sbldsZWw5ekI4a0ZfcVprS1VkaUtsaHd0bkNLeTA5VURnRHAyNk5PSGlnWUp4X2ZkR1JGS0Z4MHlfU3RPMXJ1d2FhTEQyeGV1eVByVHFNQTFIbGtXSkliNE9Xem1sTUwtVzQ5akJiOGRWYXVWZ1dnNlJJNHZ1SURkVGdRZlR4d0s2Z3hBVmdzXzFYTVI0NW92WTZTeldOMkZJbjdJ?oc=5",
-          "source": "Chromatography Online",
-          "published": "2026-10-15T08:33:45+08:00",
-          "summary": "AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science Chromatography Online",
-          "summary_zh": ""
-        },
-        {
-          "title": "Mission adopts policy for artificial intelligence usage in city business",
-          "title_zh": "代表团通过城市商业人工智能使用政策",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFhaZTBOYVE1bDZLa05VekJCbEJJeFVhUmpETnprMzdTbkhUUXMtbklQTnRzQWVqNEdVYUMtWk5SR2xuMnJwcHF4UmlVNWFWYUVWUktTaXZOYTFxcUxSUS1yNGU0U3JuUkpaNWNva1c4dlhaVjc4b1ozUlp2aWlldkpkQlFXd2h3ZE1PRXZnV2tyMnBtNjYwR29pX3N6MTBldV91SFlhV1JjYWFRRUFhR010VQ?oc=5",
-          "source": "MyRGV.com",
-          "published": "2026-10-15T06:05:00+08:00",
-          "summary": "Mission adopts policy for artificial intelligence usage in city business MyRGV.com",
-          "summary_zh": ""
-        },
-        {
           "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat",
           "title_zh": "基于人工智能的人类棕色脂肪临床表型分析",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5",
@@ -225,12 +207,30 @@
           "summary_zh": ""
         },
         {
+          "title": "AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science",
+          "title_zh": "AI ML Now：Gert Desmet 谈分离科学中人工智能和机器学习的现状",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVNpQS1kMHVuNkZNTi1nZkxEVmx6LVIwX0E4U25qOVlteER3WVdObkZWc1otQm9zU1dSVzB3Rm1lOS1sbldsZWw5ekI4a0ZfcVprS1VkaUtsaHd0bkNLeTA5VURnRHAyNk5PSGlnWUp4X2ZkR1JGS0Z4MHlfU3RPMXJ1d2FhTEQyeGV1eVByVHFNQTFIbGtXSkliNE9Xem1sTUwtVzQ5akJiOGRWYXVWZ1dnNlJJNHZ1SURkVGdRZlR4d0s2Z3hBVmdzXzFYTVI0NW92WTZTeldOMkZJbjdJ?oc=5",
+          "source": "Chromatography Online",
+          "published": "2026-10-15T08:33:45+08:00",
+          "summary": "AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science Chromatography Online",
+          "summary_zh": ""
+        },
+        {
           "title": "How Should Engineering Schools Adapt To Artificial Intelligence?",
           "title_zh": "工科院校如何适应人工智能？",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeDFtYjREdWJtWEE3a2ZGcHhiN0RQSF85TXJFb2NSZHhRM21KeFFBUlhLMjJzQk5ma1NFRThzQjVEdlRTZVBFb1JPWVE3czFGWVo3d2hSZEtBNG5qODhWS1J0VFNjQnlyV29sc1hFcTZjOEphUHdnWFI3ZDRGbWswTTFaQjFsX1V4SWRrOVY1VzR5TXc2bGxVZ0VWQnJmTWFyQjVPRmV0Vmh1THg0eVNQZXR4LTQyQVFFbEdHT3I2VQ?oc=5",
           "source": "Aviation Week",
           "published": "2026-10-15T07:44:22+08:00",
           "summary": "How Should Engineering Schools Adapt To Artificial Intelligence? Aviation Week",
+          "summary_zh": ""
+        },
+        {
+          "title": "Mission adopts policy for artificial intelligence usage in city business",
+          "title_zh": "代表团通过城市商业人工智能使用政策",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFhaZTBOYVE1bDZLa05VekJCbEJJeFVhUmpETnprMzdTbkhUUXMtbklQTnRzQWVqNEdVYUMtWk5SR2xuMnJwcHF4UmlVNWFWYUVWUktTaXZOYTFxcUxSUS1yNGU0U3JuUkpaNWNva1c4dlhaVjc4b1ozUlp2aWlldkpkQlFXd2h3ZE1PRXZnV2tyMnBtNjYwR29pX3N6MTBldV91SFlhV1JjYWFRRUFhR010VQ?oc=5",
+          "source": "MyRGV.com",
+          "published": "2026-10-15T06:05:00+08:00",
+          "summary": "Mission adopts policy for artificial intelligence usage in city business MyRGV.com",
           "summary_zh": ""
         },
         {
@@ -261,21 +261,21 @@
           "summary_zh": ""
         },
         {
-          "title": "Global financial watchdog calls for more human oversight of agentic AI",
-          "title_zh": "全球金融监管机构呼吁对代理人工智能进行更多人为监督",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGFNeG9sS1g2RElieWFWS1l0a3FPSmRqT1BkSXpDbHc5LW9qY3c1UGFONlZNMHdGMHFPR1JPMzk2Rlg5OVlEM0pwaU5CZ2hyN3lzWTdPWVd2UlFaOVZPVVM4U1dPUzFFc2lEOU5hZ0V3ZG1ONm5LUHc5OUc3VVVHOHNNUUctRWNWQktSOGFDS01YUFd1Q1Atczh0ZFBlSlNGOGhNWTVWa2NPeE0wZDJqV2hyWkFoNDQ?oc=5",
-          "source": "Reuters",
-          "published": "2026-10-15T12:02:00+08:00",
-          "summary": "Global financial watchdog calls for more human oversight of agentic AI Reuters",
-          "summary_zh": ""
-        },
-        {
           "title": "Baisley opposes stricter artificial intelligence regulation",
           "title_zh": "贝斯利反对更严格的人工智能监管",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRlMxOWw1RGRMU1g3THllSnRRa1VOZVR4VFBHYWRvT3JRV2dTTFBIMWtyTF9zQkNlM2ZFZFdIQ0gyc0hIbVEyOGhYSmswcGVtNnlKTUdqa3J1QWdJekZxRVZ2UlRROXpObmFiTkh5X2x6SmY1SFdjN1hwSng3ZVBhLVNGYV9CUGlEY0k4N3Y3TUpxYTNfZHZfRE5fdjJGZ0lGZDJPVGhXRW95QktTcTkzdTdIUVkxRGxWWnI3NUNpeXBjYUhkUjFGTzBLOVBTYjQteGNxRHdGSUI?oc=5",
           "source": "9News",
           "published": "2026-10-15T10:17:00+08:00",
           "summary": "Baisley opposes stricter artificial intelligence regulation 9News",
+          "summary_zh": ""
+        },
+        {
+          "title": "Domain specific training with three-dimensional virtual colonoscopy images improves artificial intelligence based automated size prediction for large lesions",
+          "title_zh": "使用三维虚拟结肠镜检查图像进行领域特定训练可改善基于人工智能的大型病变的自动尺寸预测",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1UTlkVWhCX0VtUXRiQ3pSalRzYTdwR0dUM2NFRmdvVXlFdS1MUzFTRkw4UlVZWnRqc0dsLU1pV04tRGFmQjBXUHZiSkp1OWVFa1pNdHBlMG9YWUlmclo4TVhsNUZ6NjYyQ21r?oc=5",
+          "source": "Baishideng Publishing Group",
+          "published": "2026-10-15T10:19:07+08:00",
+          "summary": "Domain specific training with three-dimensional virtual colonoscopy images improves artificial intelligence based automated size prediction for large lesions Baishideng Publishing Group",
           "summary_zh": ""
         }
       ]
