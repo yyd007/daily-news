@@ -1,18 +1,9 @@
 {
   "date": "2026-10-17",
   "morning": {
-    "generated_at": "2026-10-17T13:29:18.633544+08:00",
+    "generated_at": "2026-10-17T14:04:18.083363+08:00",
     "sections": {
       "worldwide": [
-        {
-          "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
-          "title_zh": "巴勒斯坦人和美国记者在约旦河西岸大屠杀中遭到袭击：我们所知道的",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEc2RFdEdThxcUZmbVZGR2ZXUkRfUlU2Q2VLNHM3c3Z0Ry1hNmJKYTdsN1BqUVhxNkNWNHpKbzVmbVZYNXE1NTBEb2pLUnY5enhGTXlXcGNOd0tuWmpfU21lLVpqRFQ4UW1HYkV0V0lzUV85dFpNbnNEOGdjb2c0Q1Myek5va2xBSXhTNHIyemR2cmYyUVBMZzFGMF8wMmw3UHFlSTQtZDNoQ0lRTjZ30gG0AUFVX3lxTE1sRE5ZUTdiSXhsRVM5MDluRVVKVnRFZWVxUmduYnJJc2tCS3I1dl9fM2FwRWRhVXZlelE2OFJiVzhicVVXOU1hdVgta3llR2hjUE9tVDEzTXBzVlR4OGZPVXdoRDh0WGdqVllWS25pRnlhTEEtMHpiaUFpYU13ekczQ1Zza09NOUtwcHk5alNuSWlsOEttWEZ2OEF5bzRSU1pidzNwajQwdjFfR3RFUnVoa2V3Rg?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-10-17T11:56:34+08:00",
-          "summary": "Palestinians, US journalist attacked in West Bank pogrom: What we know Al Jazeera Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack BBC Israeli settlers attack Palestinians and Washington Post photographer in West Bank The Washington Post...",
-          "summary_zh": ""
-        },
         {
           "title": "Pope pictured for first time since surgery and cancer diagnosis",
           "title_zh": "教皇自手术和癌症诊断以来首次拍照",
@@ -28,7 +19,16 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ?oc=5",
           "source": "WSJ",
           "published": "2026-10-17T10:00:00+08:00",
-          "summary": "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia WSJ Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International How Yemen’s Houthis Are Testing the Limits of Iran’s Power—And America’s Newsweek What do...",
+          "summary": "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia WSJ Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength WRAL How Yemen’s...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+          "title_zh": "巴勒斯坦人和美国记者在约旦河西岸大屠杀中遭到袭击：我们所知道的",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEc2RFdEdThxcUZmbVZGR2ZXUkRfUlU2Q2VLNHM3c3Z0Ry1hNmJKYTdsN1BqUVhxNkNWNHpKbzVmbVZYNXE1NTBEb2pLUnY5enhGTXlXcGNOd0tuWmpfU21lLVpqRFQ4UW1HYkV0V0lzUV85dFpNbnNEOGdjb2c0Q1Myek5va2xBSXhTNHIyemR2cmYyUVBMZzFGMF8wMmw3UHFlSTQtZDNoQ0lRTjZ30gG0AUFVX3lxTE1sRE5ZUTdiSXhsRVM5MDluRVVKVnRFZWVxUmduYnJJc2tCS3I1dl9fM2FwRWRhVXZlelE2OFJiVzhicVVXOU1hdVgta3llR2hjUE9tVDEzTXBzVlR4OGZPVXdoRDh0WGdqVllWS25pRnlhTEEtMHpiaUFpYU13ekczQ1Zza09NOUtwcHk5alNuSWlsOEttWEZ2OEF5bzRSU1pidzNwajQwdjFfR3RFUnVoa2V3Rg?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-10-17T11:56:34+08:00",
+          "summary": "Palestinians, US journalist attacked in West Bank pogrom: What we know Al Jazeera Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack BBC Israeli settlers attack Palestinians and Washington Post photographer in West Bank The Washington Post...",
           "summary_zh": ""
         },
         {
@@ -42,7 +42,7 @@
         },
         {
           "title": "Zelenskyy warns 20M Ukrainians could flee to Europe if Russia wins war",
-          "title_zh": "泽连斯基警告称，如果俄罗斯赢得战争，2000万乌克兰人可能逃往欧洲",
+          "title_zh": "泽伦斯基警告称，如果俄罗斯赢得战争，2000万乌克兰人可能逃往欧洲",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVktWVUlFM3Q4NjM0cUhzUUFXdlY5WEJ5cWRVdVFtcU95c3IzSVVtd0VWbnlLR3Q4SVJtNVUxNnZySWZVeFd1QlMwa0ZLSlZta0F2SkNveklLWEZDbTQ1OW5uaGVLbGd1am9Lc0ZqSW1jbVN4dVR6WjM3bVB4dHBsM0R5ci1WVlZKUG1JZkk4MFpUR1MyYldNY0dYUk45NUdQa05HRk93?oc=5",
           "source": "POLITICO.eu",
           "published": "2026-10-16T21:56:00+08:00",
@@ -55,16 +55,7 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Td2ZsbFdISWxWS2JJcWMxUjhBUVdqb1RzWXRIeUxubjhnMUhQTVpCcnMtd1YwU3ZoZjJ3UkYxTlhVUDEyMVg3Vmo2T2ZNNHVJOHZxMGpXUHNHRlE?oc=5",
           "source": "BBC",
           "published": "2026-10-17T11:11:10+08:00",
-          "summary": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico BBC Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ The Guardian 3 men sentenced to more than 158 years for the killings of Australian, US...",
-          "summary_zh": ""
-        },
-        {
-          "title": "India’s Cockroach Janta party leader arrested amid crackdown on protests",
-          "title_zh": "印度蟑螂简塔党领导人在镇压抗议活动中被捕",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDlnZ2J3Y0EwYUxCYmhXbW0zOXJ4UzFOcXo3WjJxd0x1c1NpcFdGZTgzVUZEcm9MQW0wOXlVN1dETXlMVkVvQ21tRmtkSGdsUTFKSEdoa3V0bUszN1lLNF8zYjlWY0Q4UDNMVUZheXY0azJIM2NIelBKdnJiVW1mS01ENDEyT0x0SmltQXFPdlBPWVlseUFqQU1VY0k2TzhCMk12RzJpQUxuMDhZcGhsN0M3dw?oc=5",
-          "source": "The Guardian",
-          "published": "2026-10-17T00:22:00+08:00",
-          "summary": "India’s Cockroach Janta party leader arrested amid crackdown on protests The Guardian Indian police again detain ‘cockroach’ movement founder ahead of protest CNN CJP, Abhijeet Dipke: 'Cockroach' party founder detained ahead of Central Park Delhi protest BBC Anti-CEC protest...",
+          "summary": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico BBC Three men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico CNN Mexican judge sentences three men to 158 years in prison for murders of Australian and...",
           "summary_zh": ""
         },
         {
@@ -73,7 +64,7 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckJmNmRMYUlHMUctRzBjcEVXcnFHMVBmWERjWVJvRklpazZUaVBrS0JaY21pcVQtUk1zOUFENEN2RTFkN2pSQUpsNEhjMTAwZzhoV3JpUUhMdlZPVDY0czJSbFVvWWMyLUdHS0UtamV6allLRW1fYmJPTTBkdGNqTk14Ny01S29UVXJKZXY5bE02VnFZYXo5ajE4RWFPUXJMbkHSAacBQVVfeXFMT1lobG9ZdWI4U3p1aGxRNkhNd1FPSWJxYlNFSWZmcW5yeTFlTThkUHM0TGpFeDV3X3M5LThHUUI0RTl4QTZ5bmRmM0JXYTBuLW91eVdMTGRYNkE1Ym1zU0xpR05Tc0VQTWVabVhPQXdkWlpLSVlQdzZpUlJjWUQxMjgwRklUZzhOOUtxdnhNUzZWNVhwYkFRMGYwV1VMWExvY3lXbnR6ZkU?oc=5",
           "source": "Al Jazeera",
           "published": "2026-10-17T02:35:41+08:00",
-          "summary": "UK PM adviser’s wife expresses ‘support’ for Palestine Action Al Jazeera Police assess Palestine Action post by national security adviser's wife BBC UK national security adviser under pressure over wife’s comment on supporting Palestine Action The Guardian UK cops looking...",
+          "summary": "UK PM adviser’s wife expresses ‘support’ for Palestine Action Al Jazeera UK national security adviser under pressure over wife’s comment on supporting Palestine Action The Guardian Police assess Palestine Action post by national security adviser's wife BBC UK cops looking...",
           "summary_zh": ""
         },
         {
@@ -82,7 +73,7 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPelJ6OUp1VFpwTmJ0Qm85TzRUS2ppU0swVFMydlJuTDZiS1Q1V2R6M1N4bmpfeTZ0aWNqd29XbGdDMm9IVllmLTZUazAxQWFzX3lsVlJBbHI4TVRfQVFrZlk5MkNqVzVCMU5XYkFwM3Fyb0pkbDk0bGo5N1dwQWJMMEo5aEhIeXpaS1J5TkRLVFZTem93Rl9rM2trUHZlaDQwSzVIQTB4UG1xelRQSU5wZ2I4X1N1V0VPUElsWHBIYVZvckhpYk9RZVhZaw?oc=5",
           "source": "Reuters",
           "published": "2026-10-17T05:51:00+08:00",
-          "summary": "Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu Reuters Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Yemen’s government says Houthis fired two missiles at Aden airport Al Jazeera Houthi...",
+          "summary": "Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu Reuters Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Houthi Missiles Strike Government Headquarters in Yemen The New York Times Iran-aligned...",
           "summary_zh": ""
         },
         {
@@ -93,6 +84,15 @@
           "published": "2026-10-16T18:13:43+08:00",
           "summary": "Ethiopia's Abiy names new Tigray government, wants polls in six months Reuters Can Ethiopia ever be at peace? Four reasons conflict keeps flaring up The Conversation Ethiopian forces expand control in Tigray as militia claims Eritrean losses Al Jazeera Ethiopia sets up Tigray...",
           "summary_zh": ""
+        },
+        {
+          "title": "'Everything got worse': Gen Z express frustration, regret after Trump vote",
+          "title_zh": "“一切都变得更糟”：Z世代在特朗普投票后表达沮丧和遗憾",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yaHRFek4tTlppaU9mb3pDaEt3cGluNWx1Vnp2VktPbUt4TjRPLVFkRTBnNnk4cDVIaG5RN1JwVnJGb3V4dkNhWGpaMTU3czRmYkVUNDNaMGlNdW8wd01mdGYySHdyZ2dPSF9LeXNzR2p6ajRMNEUzcmxVcw?oc=5",
+          "source": "NPR",
+          "published": "2026-10-16T17:00:00+08:00",
+          "summary": "'Everything got worse': Gen Z express frustration, regret after Trump vote NPR Young Voters Say They Are Turning Their Backs on Trump and His Party The New York Times The Men Who Regret Trump—But Won’t Vote Blue Puck I Went Home to South Carolina to Ask Young Voters About...",
+          "summary_zh": ""
         }
       ],
       "china": [
@@ -102,7 +102,16 @@
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iVWdMdzNrcExNZGNNMmdVV1VrUXdwMTB1LXNFTUMwRl8tanNVZzNObl8zak1WMDlPVGMyQlVGZ21LbEY3cThiRlc1YWdtREpDWUstTDc0WEhHRGFOQVVZZTZBa2NqZw?oc=5",
           "source": "红星网",
           "published": "2026-10-17T09:12:00+08:00",
-          "summary": "习近平在内蒙古乌兰察布考察 红星网 习近平在内蒙古乌兰察布考察时强调 统筹高质量发展和高水平保护 坚定不移走生态优先绿色发展之路 北京市人民政府门户网站 上海AI企业北上乌兰察布，绿色智算中心加速扩容 finance.sina.com.cn 第一观察丨从乌梁素海到黄旗海 总书记的生态关切一以贯之 光明网 时政新闻眼丨再到祖国北疆，习近平关注高质量发展底色 搜狐网",
+          "summary": "习近平在内蒙古乌兰察布考察 红星网 习近平在内蒙古乌兰察布考察时强调 统筹高质量发展和高水平保护 坚定不移走生态优先绿色发展之路 北京市人民政府门户网站 上海AI企业北上乌兰察布，绿色智算中心加速扩容 finance.sina.com.cn 第一观察丨从乌梁素海到黄旗海 总书记的生态关切一以贯之 光明网 第一观察丨总书记考察绿色算力产业 指引因地制宜发展新质生产力 中国网新闻中心",
+          "summary_zh": ""
+        },
+        {
+          "title": "继承光荣传统 培养优秀人才",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zSkxQckNmN0dvR3E4blhldjNCVmU4ek04ME83OUVSVE9xR0l5WTgxc1RKZFNLX3IxUV9aRHQ0LUxTeHFQRjBpUEg1cE9TTlZnQUtEYV95cy1FU0R0NkF4LUV6QzJET2IzdFF6UlZhS0VqRnREZmVnbGRMRWQ?oc=5",
+          "source": "求是",
+          "published": "2026-10-17T10:30:42+08:00",
+          "summary": "继承光荣传统 培养优秀人才 求是 习近平致湖南大学建校100周年的贺信 湖南大学新闻网 【央视快评】努力培养更多经世致用的优秀人才 光明网 千年学府育英才 经世致用谱新篇 人民日报 镜观中国｜千年岳麓 百年湖大 何以常新 中国青年网",
           "summary_zh": ""
         },
         {
@@ -111,7 +120,7 @@
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXl2dVExT0NVTW1WeXYzZXBBLURPZm1BcGtNb1lKcFBaRmotV1gzN0JabWhfdFFDVlFMcFlZMjhlNkxjM3VCWDlzbWpMbTlfOUJpaS0zRDA4TEg4TkstUFpkdFFqenEyY3lLYVRwcGtvV1phVmdYM29COGpPZXJwODdn?oc=5",
           "source": "新华网",
           "published": "2026-10-17T09:19:49+08:00",
-          "summary": "国家粮食和物资储备局：中国粮食安全根基持续夯实 新华网 我国智能粮仓建设取得显著成效 北京市人民政府门户网站 兰州市启动2026年世界粮食日和全国粮食安全宣传周活动 搜狐网 全谷物食品加快走向千家万户 finance.sina.com.cn 新华鲜报丨世界粮食日，看“中国饭碗”成色如何 新华网",
+          "summary": "国家粮食和物资储备局：中国粮食安全根基持续夯实 新华网 我国智能粮仓建设取得显著成效 北京市人民政府门户网站 兰州市启动2026年世界粮食日和全国粮食安全宣传周活动 搜狐网 黑龙江秋粮收购有序展开 1271亿斤仓容待“秋粮归仓” 中国网新闻中心 开局之年看中国｜在燕赵大地读懂粮食安全的中国密码 finance.sina.com.cn",
           "summary_zh": ""
         },
         {
@@ -120,16 +129,16 @@
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSmQ5cm51T1o4RXZ2bUxRSmdqNGdhN2NPemVkaGI0UjA5clFMd3BMZmZJSmd6bzU0NjBlQ0VqaHZ6OFBiR3BrLXFCREZ5eFJhTmFPUGdyVzRwY3liMDFTQ0tyMklwS1RTNmEyRUNDVU5nbDFDRDhSNmhXNURpX29LWFNXOW83SG5WWDVRYzhLczc2bEFkckJiUFZkYUdPWHNXS2hPbGdMT2c5VG40Rno5MUl6a2had3U1WTh3a3J1WXlsUHNGUGo0SjBFeUVXTFhVLWl2R3NZMFV2ZG1SLUtFR28ydExyandwcUlCdWhtTklicG9vMnk0T2Q5LVU4c2I3Q0E?oc=5",
           "source": "华尔街日报中文网",
           "published": "2026-10-17T07:46:00+08:00",
-          "summary": "白宫新闻秘书获任命仅一周后离职 华尔街日报中文网 白宫新任发言人上任一周遭解雇 特朗普劝其重新考虑职业 财新 新任白宫发言人被指履历造假，本人承认没有中国律师证 新浪新闻 新任白宫新闻秘书张口就来：中国没有“像样的厕所” 观察者网 白宫5天换人记 凤凰网",
+          "summary": "白宫新闻秘书获任命仅一周后离职 华尔街日报中文网 白宫新任发言人上任一周遭解雇 特朗普劝其重新考虑职业 财新 白宫新发言人冒充律师已被解职，日本网友：高市早苗跟她套路相似，啥时候辞职？ 凤凰网 新任白宫新闻秘书张口就来：中国没有“像样的厕所” 观察者网 白宫发言人上任5天后离职 短暂任期引发猜测 中华网",
           "summary_zh": ""
         },
         {
-          "title": "习近平致信祝贺湖南大学建校100周年",
+          "title": "内部军政气氛诡谲 中共五中全会藏杀机",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZRXNXczU2RVFJbHpPV1hVa0xnb0JkRUtMY3JtclJVdTV6SmtGaGl2VFFSbE9RMy02cXBIWU4ydzBDd0RkQTdaYVZvNkpJTE1qYkx0aTU1UklENDUzWjZzUnVjZ3N0UlZZdVE?oc=5",
-          "source": "中国共产党新闻网",
-          "published": "2026-10-17T08:47:00+08:00",
-          "summary": "习近平致信祝贺湖南大学建校100周年 中国共产党新闻网 习近平致湖南大学建校100周年的贺信 湖南大学新闻网 【央视快评】努力培养更多经世致用的优秀人才 光明网 千年学府育英才 经世致用谱新篇 人民日报 镜观中国｜千年岳麓 百年湖大 何以常新 中国青年网",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiSGJodmF3QklTS2diWW91a3FRUUw5SFJSbUUxbVp6REVBbTBVUVp2SS04R0tRREk5M2RhLWVCclIybUUxaXFRZ1I2OGNtUXB3UThBX25KSmxoSDU1X2E3StIBZkFVX3lxTFBMd25sbF9zMU04MnR1OE9jMW16eWxMaXJpb0dmUk53Mk5aM0p3b2JxQzg3QnMyeHk2UUN2TmQwWjBVM1J6RjJtWjViNzQxcWVXZ3dTNHY2RnJoMURmQmxTWkhGb1Bsdw?oc=5",
+          "source": "新唐人電視台",
+          "published": "2026-10-17T09:17:51+08:00",
+          "summary": "内部军政气氛诡谲 中共五中全会藏杀机 新唐人电视台 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
@@ -142,21 +151,12 @@
           "summary_zh": ""
         },
         {
-          "title": "台风蔷琵生成未来靠近我国 路径或呈抛物线",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1heXJRRnRzMzlWQjJFbW9EUWE2NlZFNGRoLVFYU0Y0ZzhRQ3BDM2k1V3k1VTN5Znp1RktRWHdzU2wteEIxMkczZlhfZ1lUQlFuTE5ubDdIWjhSbnI1Z3BlbC1QYUE0TE9NTmU2S2paMlU?oc=5",
-          "source": "中华网",
-          "published": "2026-10-17T10:32:41+08:00",
-          "summary": "台风蔷琵生成未来靠近我国 路径或呈抛物线 中华网 或加强为超强台风！台风“蔷琵”最新路径预报，冷空气即将抵达福建|中央气象台|福建省|关岛|美国|天气预告 finance.sina.com.cn 台风“蔷琵” 生成！冷空气南下，真正的秋凉也将逐步登场 手机网易网 “秋台风”不消停，“蔷琵”或成全球风王，对我们有影响吗？ 浙江新闻 第30号台风“蔷琵”生成，预计可能加强为超强台风，气象部门：未来5天对我国海区无影响，有登陆我国可能 搜狐",
-          "summary_zh": ""
-        },
-        {
           "title": "广交会聚焦机器人产业 展示丰富场景应用",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nT0ZxMUhGOHNYVmpKNTd1TWs4M20xbVRWMnZHYnNtUE5vb2g3RDJCZ0R6N0JGTHRtaVR5U3VVU3ZwU0ZnbEY0OVNBVEwyUV9YcWNUX3hFeGlSU2NsbFJHMUxmbHowbDNoQW1lRXVhSzU?oc=5",
           "source": "中国科技网",
           "published": "2026-10-17T09:28:45+08:00",
-          "summary": "广交会聚焦机器人产业 展示丰富场景应用 中国科技网 握手与照见|中国进出口商品交易会|广州市|油画|苏联|广东省 finance.sina.com.cn 视频丨第140届广交会：以前沿创新展品对接全球供需 中国日报网 图片报道（探馆广交会） 人民网 三个“为什么”，答案就在“中国第一展”里 凤凰网财经",
+          "summary": "广交会聚焦机器人产业 展示丰富场景应用 中国科技网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
@@ -165,7 +165,7 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWERSSzBZOUN0UGRSRXJWSzdyczdZWmlWUkNRZEh6NS1SaXJwWUNHWWFQT1lPUFJBYXFvSDBpY3owb3RQLXZkTVEtejF6UC0tSVZZNnExMVp0dWNGMlMyQWZnOG8wNzJzUmFDSm0wYldWdUNScHlfVGRTbFJYU29jV21aUjNKQQ?oc=5",
           "source": "新华网",
           "published": "2026-10-17T10:53:58+08:00",
-          "summary": "2026年全国“我们的节日·重阳”主题文化示范活动在江苏如皋举办 新华网 2026年全国“我们的节日·重阳”主题文化示范活动在如皋举办 新华网江苏频道 河北赞皇：情暖重阳敬老月 温情服务护桑榆 搜狐网 石榴同心护银龄 权益保障暖金秋：浦北县开展2026年“我们的节日·重阳节”暨“敬老月”文明实践志愿服务活动 finance.sina.com.cn 2026年全国“我们的节日·重阳”主题活动在江苏如皋举办 央视网",
+          "summary": "2026年全国“我们的节日·重阳”主题文化示范活动在江苏如皋举办 新华网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
@@ -174,7 +174,7 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd1h1S1ZibU1ENVphcFhNZG1hTGtMTUlVVjdQa3g0R1lSS3ZOeG1lOGgwYmdVNkx1Y1J5VEZkWGhWYnd2V3R5WV9CbC1QN1dnWFZhaHBVekFYbkhzNW5SNzFGLUttQjh6eHJLUTY4T1k4UWpOU20yaXFGV3NMYnBJSG1Bak0yNzRISUYzZA?oc=5",
           "source": "21财经",
           "published": "2026-10-17T09:26:00+08:00",
-          "summary": "广东红军长征胜利90周年主题档案文献展 面向公众免费开放 21财经 红星照耀中国丨世界读懂红军制胜之道 光明网 老山界的星光|广西壮族自治区|红军墓|桂林市|兴安县|红军 finance.sina.com.cn “红军”和“人民” 中国共产党新闻网 行进中国·走好新时代的长征路胜利山上望征途- 中国日报网 China Daily",
+          "summary": "广东红军长征胜利90周年主题档案文献展 面向公众免费开放 21财经 红星照耀中国丨世界读懂红军制胜之道 光明网 总书记讲过的长征故事｜一江碧血 万千英魂 中国青年网 星火成炬｜ 我们记得他们无悔 央视网 习近平总书记关切事·长征丨长征精神薪火相传 中华人民共和国最高人民法院",
           "summary_zh": ""
         },
         {
@@ -183,7 +183,7 @@
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04Ny1RTEwwOFNKSHcwLWJzSG5iZ0FPeXhnTGJVR05Zb3RydFpaVnhselRvOEtZTC0xeGpmT2FiRG5pZHdPUVZRblQybGU2REdTOFJpNHJSZlJFMlZuZThlT0hvSFVFZkw1Mk1HUmNQTnU?oc=5",
           "source": "中华网",
           "published": "2026-10-17T09:57:38+08:00",
-          "summary": "第九届进博会多项数据创历年新高 规模与创新齐飞 中华网 第九届进博会将启美企参展面积连续八届居首|中国国际进口博览会|境外企业|国新办|商务部|斯里兰卡 finance.sina.com.cn 开放底色鲜明 创新动能强劲——第九届中国国际进口博览会亮点前瞻 光明网 答澎湃｜上海市副市长：将进一步提升外高桥、虹桥、淮海新天地这三大国家级进口贸易促进创新示范区的能级 ThePaper.cn 新朋老友共赴开放之约（锐财经） 人民网",
+          "summary": "第九届进博会多项数据创历年新高 规模与创新齐飞 中华网 第九届进博会将启美企参展面积连续八届居首|中国国际进口博览会|境外企业|国新办|商务部|斯里兰卡 finance.sina.com.cn 开放底色鲜明 创新动能强劲——第九届中国国际进口博览会亮点前瞻 光明网 视频丨首发、首展、首秀！ 第九届进博会多项数据创历年新高- 中国日报网 China Daily 答澎湃｜上海市副市长：将进一步提升外高桥、虹桥、淮海新天地这三大国家级进口贸易促进创新示范区的能级 ThePaper.cn",
           "summary_zh": ""
         }
       ],
@@ -195,15 +195,6 @@
           "source": "The Catholic University of America",
           "published": "2026-10-17T05:52:02+08:00",
           "summary": "USCCB Appoints Charles Camosy to Task Force on Artificial Intelligence The Catholic University of America",
-          "summary_zh": ""
-        },
-        {
-          "title": "President Harris’ Perspective",
-          "title_zh": "哈里斯总统的观点",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81OGZJbUMyRC1OZWxZbnFlVnIxVEFFbnFxLUdYZWtoU1gzX3k4Ti0tMkRoTlRhY2JrRVJaVVdDSExpdGJLcnM2TE5BZjRtanBZWGs1Rng2R1pzVjcxZTFsRXFPSWk?oc=5",
-          "source": "University of San Diego",
-          "published": "2026-10-17T08:42:15+08:00",
-          "summary": "President Harris’ Perspective University of San Diego",
           "summary_zh": ""
         },
         {
@@ -225,12 +216,12 @@
           "summary_zh": ""
         },
         {
-          "title": "Anything not tied to artificial intelligence took off this week",
-          "title_zh": "与人工智能无关的任何事物本周都会起飞",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajNiU2dpTDU5VnpVTmlTbFA5bk45QVJvUnJNWlFpcWZxUHJYdy1fVlYwZ0dwZ0xQaFZvWDY2UlliUE1HaGdoQ0Q0bWpmcE9jZnlEUS11Y3VsY0JQUmhxeU1RWG5zVHYwNDY0WTlha2wwdlBkRWtyUGxwZFdXNmtUV05sejB1dFhQOUx1VUZXRnFvYktwano5QWtZMXg4OVNVZHc?oc=5",
-          "source": "CNBC",
-          "published": "2026-10-17T00:38:51+08:00",
-          "summary": "Anything not tied to artificial intelligence took off this week CNBC",
+          "title": "President Harris’ Perspective",
+          "title_zh": "哈里斯总统的观点",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81OGZJbUMyRC1OZWxZbnFlVnIxVEFFbnFxLUdYZWtoU1gzX3k4Ti0tMkRoTlRhY2JrRVJaVVdDSExpdGJLcnM2TE5BZjRtanBZWGs1Rng2R1pzVjcxZTFsRXFPSWk?oc=5",
+          "source": "University of San Diego",
+          "published": "2026-10-17T08:42:15+08:00",
+          "summary": "President Harris’ Perspective University of San Diego",
           "summary_zh": ""
         },
         {
@@ -243,21 +234,12 @@
           "summary_zh": ""
         },
         {
-          "title": "Artificial intelligence should help us become more human",
-          "title_zh": "人工智能应该帮助我们变得更加人性化",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGE5VzNJMW1ySl9aR0VRRFZXTDd3WUkxSEYydUh6RmVCbmNMSkdHRnl2NDhNU0FZS1l0YlNwUkw0a0tMbEdnWmJZQkdtX1hZdTFyR0FOXzJueko0ZkVtMmlsMlJleDFLaTR6b0kzOElHczVqeW5hUGJoZWxTSnFlc2NVSW5NWk5Od05HbGJ1ZzNnUzFMeTN2WU84UnJaeVRMcHpJRkdSWm8?oc=5",
-          "source": "The Thomas B. Fordham Institute",
-          "published": "2026-10-16T23:22:09+08:00",
-          "summary": "Artificial intelligence should help us become more human The Thomas B. Fordham Institute",
-          "summary_zh": ""
-        },
-        {
-          "title": "Their View: Too much artificial, too little intelligence",
-          "title_zh": "他们的观点：人工太多，智能太少",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ01WZk5SZkF2SkpFMlNlUm9OQ1NzcXQyejg2LXpGd19pM2UyeTYxMWxMTzVjdjktTmNjQ3ZsNTdPWWhHNzhteWM0aDZkOUtGV1NUNkZCTkMweFl1SFczeHFNN2tMRmZMX2hrNWlVYnF4VVVUemhfRzlKRmszdkl6SmhaYzd4Sm52RHVNOS1wSktYczFXQXozWTZDcFpMTnc?oc=5",
-          "source": "Sidney Daily News",
-          "published": "2026-10-17T02:00:00+08:00",
-          "summary": "Their View: Too much artificial, too little intelligence Sidney Daily News",
+          "title": "Anything not tied to artificial intelligence took off this week",
+          "title_zh": "与人工智能无关的任何事物本周都会起飞",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajNiU2dpTDU5VnpVTmlTbFA5bk45QVJvUnJNWlFpcWZxUHJYdy1fVlYwZ0dwZ0xQaFZvWDY2UlliUE1HaGdoQ0Q0bWpmcE9jZnlEUS11Y3VsY0JQUmhxeU1RWG5zVHYwNDY0WTlha2wwdlBkRWtyUGxwZFdXNmtUV05sejB1dFhQOUx1VUZXRnFvYktwano5QWtZMXg4OVNVZHc?oc=5",
+          "source": "CNBC",
+          "published": "2026-10-17T00:38:51+08:00",
+          "summary": "Anything not tied to artificial intelligence took off this week CNBC",
           "summary_zh": ""
         },
         {
@@ -270,12 +252,30 @@
           "summary_zh": ""
         },
         {
-          "title": "Artificial intelligence for life-cycle-aware sustainable materials discovery",
-          "title_zh": "人工智能用于生命周期感知的可持续材料发现",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vVHdtU29sd1FMbVJMRFBNclhrTlZYZlJfX2JnS2RGc29vUmF2NGs2TGlFVWtDRUdMTEVRaWMxakVMWkY4aTRiWkhVWC03MldoZVdndm9iNlFzbXNUQk5Z?oc=5",
-          "source": "Nature",
-          "published": "2026-10-16T18:14:54+08:00",
-          "summary": "Artificial intelligence for life-cycle-aware sustainable materials discovery Nature",
+          "title": "Millions of dollars spent on AI-generated political ads as midterms approach",
+          "title_zh": "随着中期选举的临近，人工智能生成的政治广告花费了数百万美元",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV3VBRGNDS29wdkhIVlJzUHlwVE5MLS1Wbk5TV01lV25nN1pLX1RWRFZGRmcyNEpRdUhBcHBBQ2EwVGppbnhkWlhKUEZtZVVvM3cxZjZHY2MyaEhTeWRKVlpMWEhUZlF0cmdDTmdMVF8yWk45bFFvRmRQOVJFOTJhZ241cGFLck5FMzB0cEE4VVlKMjZKeWdDVFFtMk9PdzdtZ1R4d1FTQWNmZ1dHZ2kwbUhKWmRvZEcxV3JyVTh0dG02bXpmZWFuUzNMbi1XX05UWGtrN1UwOHN4TFZnWDRlRzJEUWNwaHhUcENF?oc=5",
+          "source": "WCIV",
+          "published": "2026-10-17T11:03:41+08:00",
+          "summary": "Millions of dollars spent on AI-generated political ads as midterms approach WCIV",
+          "summary_zh": ""
+        },
+        {
+          "title": "New technique uses artificial intelligence to fight breast cancer",
+          "title_zh": "新技术利用人工智能对抗乳腺癌",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFgzVjhuLWljNHBkNy1WTkt1c2F0enZmTVp4QUZ2S3pQVm1lYUFwRFVxU01TeU1xR0lfQnZFTk4yYUlBTnhMeWFsQXFNNmdPTGRjc3E3VmtVMUZCcDlXUmVBdVdMeHFmZS1JUkVSUVFrUUE0dWlUckphNjI3ZE9uVEtDSWxpN1A5czUxR2NlVE1DblRtRlV1M0FEODRuakFWa0Rua3dtcw?oc=5",
+          "source": "CBS News",
+          "published": "2026-10-17T05:43:00+08:00",
+          "summary": "New technique uses artificial intelligence to fight breast cancer CBS News",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial intelligence should help us become more human",
+          "title_zh": "人工智能应该帮助我们变得更加人性化",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGE5VzNJMW1ySl9aR0VRRFZXTDd3WUkxSEYydUh6RmVCbmNMSkdHRnl2NDhNU0FZS1l0YlNwUkw0a0tMbEdnWmJZQkdtX1hZdTFyR0FOXzJueko0ZkVtMmlsMlJleDFLaTR6b0kzOElHczVqeW5hUGJoZWxTSnFlc2NVSW5NWk5Od05HbGJ1ZzNnUzFMeTN2WU84UnJaeVRMcHpJRkdSWm8?oc=5",
+          "source": "The Thomas B. Fordham Institute",
+          "published": "2026-10-16T23:22:09+08:00",
+          "summary": "Artificial intelligence should help us become more human The Thomas B. Fordham Institute",
           "summary_zh": ""
         }
       ]
