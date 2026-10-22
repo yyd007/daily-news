@@ -1,288 +1,7 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "morning": {
-    "generated_at": "2026-10-22T14:32:10.381123+08:00",
-    "sections": {
-      "worldwide": [
-        {
-          "title": "Live Updates: U.S. reducing troop footprint in Middle East, sources say, as indirect talks on ceasefire proposal with Iran continue",
-          "title_zh": "实时更新：消息人士称，随着与伊朗就停火提案的间接谈判继续进行，美国减少了在中东的驻军足迹",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDJacGlyUkJSMmZfSXF5dlBwLU5PRXdsQnZiMFRyRmJTeVU3dHZnQlF6WDVRQ0pjYlFFamxjV3dXU0E4SmZ0SkRUMW1uLVh6cE05SDBLTEhlTnI3T3dwQXNWbFQ3TzFaZ1lZY0RNeVlNSW8zaDN6aDh1NWg2ZTNvTV9OM0xYQQ?oc=5",
-          "source": "CBS News",
-          "published": "2026-10-22T07:48:00+08:00",
-          "summary": "Live Updates: U.S. reducing troop footprint in Middle East, sources say, as indirect talks on ceasefire proposal with Iran continue CBS News US pulls personnel from Saudi Arabia as kingdom comes under Houthi fire Fox News US Orders Staff Departures From Saudi Arabia as...",
-          "summary_zh": ""
-        },
-        {
-          "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
-          "title_zh": "沙特阿拉伯法赫德国王机场遇袭，造成 1 人死亡、8 人受伤",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMktOQVdUcmhmWlhhcHVNQ1laMzRELXBuXzhLMHFqNHdLdEE5TVdmbDR0eXJlT3ZwVjgtQi1KVXNWWm9ReHhsNjhER0phWmxadWdDZDRfWk1xdGNOSWNkUDRSSW1fMC1RNkhCbUJxRTlZTUFoUkYtUGt1Z0tkalVHVWFXSks0N3llZ1g1ZXJWUXpDN2l3MjJFVzlhZVVROWwybnlYMkZWVkdkYkFxTHlGaUQ2Z9IBuAFBVV95cUxObmo4ZHczZ2Fza2VqLS1NUHoxem5hcHVTUXloZnBSeHo5Tk9LUUoxMVpRVGNLYURhanlfb09qcnhRMmtkT3N6bEpObHZwaTJhY0xCWW5oMjI0YWpRNUFnX1VaTkFmb3c4YTUzamdzZUxMVWZ2Yk9oVk1sYmZ1TkdJMXpjQUxFcGFEa0lpVHF4SGdWa0Y0eG9rUG1MeHVKY3VLM2hkUHpPZWJsR0haMUQ5UDhOVmRNcFFE?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-10-22T08:31:08+08:00",
-          "summary": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport Al Jazeera One Person Killed and 8 Injured in Airport Attack in Saudi Arabia WSJ Three Killed in Attacks on Aramco Oil Field, Saudi Airport Bloomberg.com Saudi civil aviation says one killed, eight...",
-          "summary_zh": ""
-        },
-        {
-          "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
-          "title_zh": "朝鲜表示将恢复跨境宣传广播进入韩国",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWdMcXlGTHpkM1pJUzJvYUpMWVFvV1d1T2lzUC1BdmJKR0l3alFvdzhWVDdHczJOalN3Z3l2SkV2bm1jb0JySlc0ZWtfWEU2azZwTXZXRE5WU1BLVEZjQVhFSV91ZEhuN01GMktOTVYyMUZtWU11UDVtZDVGS054aHV5Yk9KNEhKOTZBdVlXUWpHeXlDdXVDT2xKLUowVmo4UHJiMA?oc=5",
-          "source": "AP News",
-          "published": "2026-10-22T10:20:00+08:00",
-          "summary": "North Korea says it will resume propaganda broadcasts across border into South Korea AP News See more headlines & perspectives on Google News",
-          "summary_zh": ""
-        },
-        {
-          "title": "See Super Typhoon Champi’s giant eye as it swirls across the Pacific",
-          "title_zh": "观看超级台风“占比”在太平洋上盘旋时的巨大眼睛",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVBnSWpwbGIwSlgyVVh0YWlNenhrSDBtQ1AtSS1Qck1ZN2RORTZBcFVFOFFmVFJhV096MnA0ei00dE5FYkdOX0dVR3dwWEhEMEtGalVMZnRHUGRRODc5UmtKMDRycFhuc1ROSFgxM2pjQ2RkZEtlSGhvSHd6Vm5rYUZLRTFNZkFfQzJZbHh0YnpEZVM3d0NQVjQzVHlWa3A0UktROGVqMGZCeFVPV3lSQg?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-10-22T07:35:00+08:00",
-          "summary": "See Super Typhoon Champi’s giant eye as it swirls across the Pacific The Washington Post Taiwan issues land warning as Typhoon Champi approaches Taipei Times Super Typhoon Champi becomes one of 2026’s strongest storms as it heads toward Taiwan and eastern China Yahoo Super...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Why Palestinians Hope Israelis Will Oust Netanyahu in Pivotal Election",
-          "title_zh": "为什么巴勒斯坦人希望以色列人在关键选举中推翻内塔尼亚胡",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW9uREM3YVpDM1BIdThnV1NXR3dNWHViUEprRHN6ZmJmUVNMcWt0TllLb2dST3lzVUxfY0c4Z09wZ3VOc0xxZElsRXFLWFBkQmFzRWo4QWVDYmFzejlGUmwxNTBZbnk4R3l6VXE4bXRQcjlwT0g0eDVLMFVNVmVGQ2ZpSVM4WE16V2d0TjU5bkstY252WkEwTXN6cFY5ZHJq?oc=5",
-          "source": "The New York Times",
-          "published": "2026-10-22T13:02:00+08:00",
-          "summary": "Why Palestinians Hope Israelis Will Oust Netanyahu in Pivotal Election The New York Times Opinion | Palestinian Voters Could Determine Israel’s Future The New York Times Israel's election may change its leader, but not Iran war policy Reuters After three disastrous years,...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Pope Leo's tests show he needs no further treatment for lung cancer, his doctors say",
-          "title_zh": "教皇利奥的医生说，他的检查显示他不需要进一步治疗肺癌",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVJiNDhaN0RWUHhKSjg4bko5dGpIamw3M0hOS1FRMHNkVzdxZUtjOE4xRnBLZmM2S1VCMXFMWU5hVDVvelZPbWM5VERDbkZwWDhIajVfcHE1LXBGaHZ5Z1RoLXVEall1WTZXcWJmdWlZS0V5ZTVVR1ZTNXB3SFV1RWVGRlowb0pqLWxEQ1hHZlZlYzliRWhtbF9YemdxTlVYRG83ZG4xcG9PbWQ1dVN1MFBHRWF0azlTZk5EZw?oc=5",
-          "source": "PBS",
-          "published": "2026-10-22T04:44:10+08:00",
-          "summary": "Pope Leo's tests show he needs no further treatment for lung cancer, his doctors say PBS Pope Leo needs no further lung cancer treatment, Vatican says CNN Pope Leo XIV's doctors confirm 'no further treatment is necessary' Vatican News Pope Leo takes to popemobile for first...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Dusky shark that became a tourist draw while trapped in a South Korean canal finally swims free",
-          "title_zh": "被困在韩国运河中的灰鲨终于自由游动",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWcyb3BTdkhoSy1xYy1hU0xpUllHU2ZBbWMyUTYyYkJQUi0xQ0wyN1hJVFZSckxqRFYwOW1RQk1VSUgtMkdJbjJJaFNQaTR0VDJ6TlktcEJvVFJWUFlTMUNrenZaTkJqNzQ2TnBTQzc5cEdzVmVvaWVaQU5mMXlTX0FvQms3NzIzaVNhN3ZmaFNvc1dBaWc?oc=5",
-          "source": "AP News",
-          "published": "2026-10-22T08:55:00+08:00",
-          "summary": "Dusky shark that became a tourist draw while trapped in a South Korean canal finally swims free AP News South Korea: Famed shark Bukangi returns to canal after failed rescue BBC South Korean officials free a shark trapped for a month in Busan canal NBC News Shark Returns to...",
-          "summary_zh": ""
-        },
-        {
-          "title": "'Drill, Andy Drill!' and a Budget for 'bloody-minded entrepreneurs'",
-          "title_zh": "“钻头，安迪钻头！”以及针对“热血企业家”的预算",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZMFhIQ3BQblFQUlR5UGQ1UDhJR01iTzlEdExQaG02aHQ2VGxHNERSa1ZVTjNpNkpsNmp1Mm8yakVXM0JybWppUlhGUkZoZGhwdEtENU9xdy1KRDQ?oc=5",
-          "source": "BBC",
-          "published": "2026-10-22T08:18:52+08:00",
-          "summary": "'Drill, Andy Drill!' and a Budget for 'bloody-minded entrepreneurs' BBC Energy secretary leaning towards rejecting Rosebank oilfield The Guardian Scotland's papers: Jackdaw approved despite 'climate vandalism' claim BBC Donald Trump Urges UK to Go 'Full Blast' on North Sea...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Europe’s far right seizes on protest violence to push authoritarian anti-immigration agenda",
-          "title_zh": "欧洲极右翼利用抗议暴力推动威权反移民议程",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHBJUWp4Zy14eDJKX0ltTXp5MTdUTmIyMnVXVFV0eTM0NURIMHp3VlRiOEo3RnlPZFMtSkk3T190MVkyM1NmV1pOQXlZc2x1azUyTHltQTFCeTZDaTZCNjhELWkxVWhqN0hEaTEyZUJ5ZlBOaGhYcjdEOXkyV3puUENDVlVMRDZoenotNEVJRzBSc0VlTS1VSXRhYkZNUUNCamc?oc=5",
-          "source": "The Guardian",
-          "published": "2026-10-22T00:11:00+08:00",
-          "summary": "Europe’s far right seizes on protest violence to push authoritarian anti-immigration agenda The Guardian What’s Behind the Protests in France and What Happens Next WSJ What Travelers Need to Know About the Paris Protests and the Wave of Demonstrations in Europe AFAR Media...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Australian lawmaker loses both legs in vehicle attack as suspect appears in court",
-          "title_zh": "澳大利亚议员在车辆袭击中失去双腿，嫌疑人出庭",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFd1U05zQldEVDNrVWFidVBLTFpHdV8zdFNBOGVYNkRmMkNMYlZYUzdJWkdQanRET3pfWlkySkc0ZUQxd1JnTnFtS1gtUDRpa1RXWGJCMWNaaWdXRXZzZlh0VmZieUhaSEwwcXdoMGhaZThiaXJFelZqRVY3S1FZTWlzOGh1WnR6YnhGcWoxYWRPOHB3WHBzdDliTmdURlRXaTNJaS1oS1dhUUhRNXFycXNGRHN4Zw?oc=5",
-          "source": "NBC News",
-          "published": "2026-10-21T11:31:00+08:00",
-          "summary": "Australian lawmaker loses both legs in vehicle attack as suspect appears in court NBC News 'Targeted' attack on much-loved MP leaves Australian town heartbroken BBC Australian politician who was intentionally hit by car loses both her legs CBS News Australian Politicians Were...",
-          "summary_zh": ""
-        }
-      ],
-      "china": [
-        {
-          "title": "受权发布丨习近平：在纪念中国工农红军长征胜利90周年大会上的讲话",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSWVpakdnd015MnhfWFJUMkF0cncxSUpuXy1NTFdnTHYxQUIzajJKMkxHQk9zcGplR2h0SFJ4RG85dk14OTQ3aktKN2pOSnZ1Qms0cXZURVJzZVU3a1FoOEhqcEZSaFpoX3BJblcxWVFDdkYwODItc1lFcnNHUGZiZUh6UQ?oc=5",
-          "source": "新华网",
-          "published": "2026-10-22T14:01:10+08:00",
-          "summary": "受权发布丨习近平：在纪念中国工农红军长征胜利90周年大会上的讲话 新华网 【央视快评】不忘初心，走好新的长征路 新浪新闻_手机新浪网 从江西出发，这条路串起中国的红色山河 凤凰网 纪念中国工农红军长征胜利90周年丨那只未曾松开的手 新华网 文汇报评论员文章 | 我们的征途，也在万水千山 观察者网",
-          "summary_zh": ""
-        },
-        {
-          "title": "早参｜广州牵头研制的“五羊星座”先导A星成功发射；2026内容创作者嘉年华23日开启",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1JDYU90cDlDSlJNYVBUVzJmeVdOZTZiUGVwdEpLMm1wcmI2R3lQdklwSndoYUpBelpISWVNY1JJcmJXREEzTmpMemVEbjRfMXZUUHQyTElLZjI3RDl6eVhXS1BoSHlsUF9QamdvYVVuaktJWmRQZWd1anNQeUpZdlhibjF4cEF3cEE?oc=5",
-          "source": "广州日报新花城",
-          "published": "2026-10-22T07:50:51+08:00",
-          "summary": "早参｜广州牵头研制的“五羊星座”先导A星成功发射；2026内容创作者嘉年华23日开启 广州日报新花城 “陆地指挥、海上发射” 新模式即将解锁揭秘山东海商发日照指控中心_手机新浪网 finance.sina.com.cn 谷神星一号海射型遥八运载火箭在日照附近海域发射成功！ 凤凰网山东 五羊星座首发星发射 未来将具备30分钟级灾害应急响应能力 上海热线 广大一号/西光肆号01星成功发射 科学网—新闻",
-          "summary_zh": ""
-        },
-        {
-          "title": "当法国人将愤怒砸向奢侈品橱窗",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1QW9hOFBqaVROc1llVnpNX3g1OHg2N215bkN5Q0FvQXVVR05leTVQVmpiZTNVRW54S3Y0RDRmQWZUUU95aEN3UGdTRG5vUW9NTlFPdDFXUzRod1MtWWNWWlZINno2YnVLb2M0SkMxRnpBb3hTelhRcDNB?oc=5",
-          "source": "纽约时报中文网",
-          "published": "2026-10-22T11:57:51+08:00",
-          "summary": "当法国人将愤怒砸向奢侈品橱窗 纽约时报中文网 法国暴动：各界对谁该负责与该汲取的教训陷入分歧 BBC 环球网：马克龙点名抨击特朗普 finance.sina.com.cn 街头在燃烧，“总统在舞蹈” 凤凰网 法国民众谈骚乱：不认同打砸抢 情绪与秩序的碰撞 中华网",
-          "summary_zh": ""
-        },
-        {
-          "title": "李强结束出访回到北京",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Kdy1xWm4wVVFkSTBDNmw4VzdEVEVmWk9seEpWRUlIaEg4UlM5TDQxNUZNa0RPVWx1YlR4Z3FFc2EtbjZJcWd0Snlqc0hnTGxPb29DMGRhVTdQYjBOZDc2ZXBYVVRQdw?oc=5",
-          "source": "东方财富",
-          "published": "2026-10-22T08:10:29+08:00",
-          "summary": "李强结束出访回到北京 东方财富 李强会见俄罗斯总统普京 人民日报 李强赴圣彼得堡举行中俄总理第三十一次定期会晤 finance.sina.com.cn 中俄总理第三十一次定期会晤联合公报（全文） ThePaper.cn 李强会见乌兹别克斯坦总统米尔济约耶夫 搜狐",
-          "summary_zh": ""
-        },
-        {
-          "title": "韩国国防部：为避免意外冲突朝鲜必须回到对话桌前--国际",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Kckp3bkZaeVk2cmdhSXFmNWlhTkE0RndsWkZoR0lDa2FhclpzODJWU1VLakY4MnB4ZzNfQmRKSDFlZE4tSE1SVTNpOW5CbWlUbTBQSUFOZnA4MTRQTlBWTFpBOW01WlN4N28xWQ?oc=5",
-          "source": "人民网",
-          "published": "2026-10-22T14:10:00+08:00",
-          "summary": "韩国国防部：为避免意外冲突朝鲜必须回到对话桌前--国际 人民网 韩国国防部：为避免意外冲突 朝鲜必须回到对话桌前 手机新浪网 金与正：再强词夺理，韩国就会面临“最凄惨”事态 凤凰网 金与正督战朝韩“边境要塞化”，李在明被“说不清的边界”难住 view.inews.qq.com 金与正发表谈话 搜狐",
-          "summary_zh": ""
-        },
-        {
-          "title": "平陆运河过货量稳步攀升",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZVlKRkUzZFBxY1dvVXplODFTTURQWkwwNFhiS1V5REJvT1JHWVVPX1Jtd2FFNUVEY0syRkFlM1JrVVFUbkJCby0wX2lBNzNvbkN3NkxZTEVmSDllR2JzSGpXSzhpVU9MQnlnUjNvNWMwSWxPSGsyYm1FWWxfU09yTzdn?oc=5",
-          "source": "新华社广西分社",
-          "published": "2026-10-22T09:08:29+08:00",
-          "summary": "平陆运河过货量稳步攀升 新华社广西分社 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "国家防总、应急管理部针对沪浙闽启动防汛防台风四级应急响应",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RRzhCQWFmLTVPX21DYVpvdjhrU3pQNTVwYmJ4STNuWVZhZzJlOVpwQ1dvVkZWMldVbHRIUUxVdUtDVFdqVVpsRnFnc3g5aHM?oc=5",
-          "source": "新蓝网",
-          "published": "2026-10-22T09:16:00+08:00",
-          "summary": "国家防总、应急管理部针对沪浙闽启动防汛防台风四级应急响应 新蓝网 台风“蔷琵” 最新路径！大雨暴雨，即将抵达福建！ finance.sina.com.cn 全面应对台风“蔷琵”，蒋万安宣布暂停一切竞选活动 凤凰网 超强台风“蔷琵”逼近，浙江启动防台风四级应急响应 观察者网 两部门派工作组赴浙江协助指导防汛防台风工作 新华网",
-          "summary_zh": ""
-        },
-        {
-          "title": "王毅会见吉布提外长奥马尔",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVVdBc0ZDTXhVQ0VyRnhleHVNU0sxM3RSV2g2eEJTc0VZUndVMl9Vak12WHpGeXpZQWNRRDVrVlBxN3ZWMFZxZGpVSUd0ZHM2TzVzdEZwZkhOZ0FYSHNfX3F3N21PLVlhVEhIczJ6MFNURW5wTW9TWmtKUDlKaDA4VUt1ZzJoeWFaTFE?oc=5",
-          "source": "中国评论",
-          "published": "2026-10-22T09:41:22+08:00",
-          "summary": "王毅会见吉布提外长奥马尔 中国评论 王毅：中方愿同吉布提等各国一道，加强沟通合作，致力于缓局降温 观察者网 中华人民共和国和吉布提共和国外交部长关于维护非洲之角和平稳定及红海和亚丁湾航道安全的联合新闻公报 人民日报 事情正在起变化，红海乱局中，北京迎来一位特殊的客人 搜狐网 中吉强调维护红海航行自由 吁域外大国避免诉诸武力 联合早报",
-          "summary_zh": ""
-        },
-        {
-          "title": "踏访红色旧址感悟长征精神，思政小课堂对接社会大课堂",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qdUlaZ0FSMVNvX0d1bTJVdDZFT3pJRUkwOHJuMVQxbmM5S3VJMHc1N05obDEtWklfU3ZYYXF3T2VrSXhNVUZxWUtxR2NiSC1BZ0FfRzRRMWI0UQ?oc=5",
-          "source": "上观新闻",
-          "published": "2026-10-22T10:40:00+08:00",
-          "summary": "踏访红色旧址感悟长征精神，思政小课堂对接社会大课堂 上观新闻 纪念红军长征胜利90周年专场讲座走进哈尔滨学院 finance.sina.com.cn 纪念长征胜利90周年|武汉学院用一堂沉浸式思政课带师生“重走”长征路 中华网 到延安去，用青春作答 凤凰网 红色课堂薪火传（赓续长征精神 奋进复兴征程·记者再走长征路） 中国共产党新闻网",
-          "summary_zh": ""
-        },
-        {
-          "title": "我国已共建29条国际绿色航运走廊",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRXUzdHJqczRibThZWktac0tXUUdBeGlSalpXTTdvNm44NVB4N2lpZmZ2dFRZWjNWRzVNakJmWWwydnNpd0RqbHM1bDMxaXJoVDFqWVNjcjFpRzlEQ0FvS05GOTRMU2YzRENYQ2hTbjJtMDlLSXc2eFVqQ0RFYm8?oc=5",
-          "source": "中华人民共和国交通运输部",
-          "published": "2026-10-22T08:00:00+08:00",
-          "summary": "我国已共建29条国际绿色航运走廊 中华人民共和国交通运输部 上海发布国际航空枢纽规划：“第三机场”2035年建成 财新 全球航运巨头齐聚上海： 都在适应“不太安稳”的世界 finance.sina.com.cn 中国第一个“三机场”城市，要来了 凤凰网 上海国际航空枢纽战略规划发布 提出2035年建成南通新机场 中国青年网",
-          "summary_zh": ""
-        }
-      ],
-      "ai": [
-        {
-          "title": "Cognitive Task Substitution, Cognitive Offloading, and Behavioral Dependency on Artificial Intelligence-Assisted Technologies: A Scoping Review",
-          "title_zh": "人工智能辅助技术的认知任务替代、认知卸载和行为依赖：范围界定审查",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVndGOWlsZnJTSXZsNkllUUpIQ08yaFBRSmdyV2tGazU2X0Rvc3VMZDVKa1BfOUdTaVVNUmVKSlptU21nSTZERm03dktvUTlrQl8ydFhKSV9qSXlGaTh1ams5eXA3ampzOUJ1MFJaeENFeFFNZ3Y4UjVQQzFVNXU5emRmeTlCZ3lrX0tYbTVWcU9hSDY4Q09MMHZ3TkhNUHB0VTEwM3l5TkNmV2gtM1RWZDZHQ0xYQ2ZJVDR6Z1JVSDVieWRsZ0FTcTBUYTNoSGU3eEpCamRhZm1ycURmVnE0OHhSRjZrZExVdTVOVlY1SDNQZjJvYWhSaUVHSGZCY3BwZW5NWkFEcXU5b0U?oc=5",
-          "source": "The Cureus Journal of Medical Science",
-          "published": "2026-10-22T10:46:33+08:00",
-          "summary": "Cognitive Task Substitution, Cognitive Offloading, and Behavioral Dependency on Artificial Intelligence-Assisted Technologies: A Scoping Review The Cureus Journal of Medical Science",
-          "summary_zh": ""
-        },
-        {
-          "title": "Why agencies must strengthen the data foundation before scaling AI",
-          "title_zh": "为什么机构在扩展人工智能之前必须加强数据基础",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2dSdG5RWU0wV29MeUxxVG5PbVFrZzd0OC1Qeno0Y0tiSVNBa3ZRc0hTbWpWR1d6TmxFUXdfaWZsa0hiYUxEbGowcUhHMm5QT0tiMHJxUmxtcHFXVUlTdk1YMlY2V3FqZWNkdU56d1ltTlFGaU1EcnYyZE95ZUZMSVY5SnNpbGkzczlsR1NiVkFPdVpweENib3c5V2I3T0pwNnRNMFQ1eVlmam9LUG5jS2lvd2w4dnZULV9XcXdJX2Z0ek00ZGkzM1h3?oc=5",
-          "source": "Federal News Network",
-          "published": "2026-10-22T12:25:06+08:00",
-          "summary": "Why agencies must strengthen the data foundation before scaling AI Federal News Network",
-          "summary_zh": ""
-        },
-        {
-          "title": "UK Taxman to Tackle Rogue Advice From Artificial Intelligence",
-          "title_zh": "英国税务员将处理人工智能的流氓建议",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnFiMDZiWjJyREU3d0w4N2d0Q2xNaXJ5c3ZuVVgyeDNfMkJMbldBc2JRNm9pTzA5TTB4RFp1bGpiWVNuT2tORHBlOHFGRkVTUnRFQUtuUzQzd1gzckhkSTBNVG1TZjh6bG5odFg1b0xidTdfbDQzU3Q1Q1cxZTBUWjV5LVAtYW5HV0xiaDBqWVlTZ0lGaHBEWS1iN1lwUjBzM2h4THpLYVJHS3FHd3B5aG53?oc=5",
-          "source": "Bloomberg.com",
-          "published": "2026-10-22T12:00:00+08:00",
-          "summary": "UK Taxman to Tackle Rogue Advice From Artificial Intelligence Bloomberg.com",
-          "summary_zh": ""
-        },
-        {
-          "title": "Penn Carey Law offers new certificate focused on artificial intelligence and law",
-          "title_zh": "宾夕法尼亚凯里法学院提供专注于人工智能和法律的新证书",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa19tZk4zRXk5TWUtV1doWTRsUlpuTHFBWmtPdVhSdjZ3UW9xTnFGcG5GV3J4bmpCejZMUkxBaDBSdk5jZzY5WXFRV21RZkZENEo0T2RSQnNiMUY3ZDdIaWVQMEQ3aW1sTnBubzlQR1VlczhVQjFTQWxJZE4tcG9TWEhzRFFHVU8tUU1JTEVIWnJFN2R4enMzX2JDQ3lWMV80NG1NamtZWG15SmlG?oc=5",
-          "source": "National Jurist",
-          "published": "2026-10-22T04:41:43+08:00",
-          "summary": "Penn Carey Law offers new certificate focused on artificial intelligence and law National Jurist",
-          "summary_zh": ""
-        },
-        {
-          "title": "AI-Generated Evidence in Drug Discovery: Reliability, Legal Risk & FDA Compliance",
-          "title_zh": "人工智能生成的药物发现证据：可靠性、法律风险和 FDA 合规性",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPXzNkV2c5dk43d1d5alhkOW9BbkJyY2h1VHNEd283dVJZdEc5dGhqbkpjNU1jUHpjXzZDRk5PTndtUmtUZ0hIVWxuRmlLMzN5OGczVlB4b1dWZDloMkV2eWc5ZEJVRkRvNkZ3MXYyOC1QMFRqTWJzTUZkVUl6cHJ1VVVyMk9TZ0xDOGs5eGRMWFVCWFZHUF9TLWJfMnhSbGNrSVVyWWJicGtNT3BvQmRJYlFGT1pkTVJuQWlITUg5MHRKMlRtREprc2xBTEZ2Wno3NU5yQlhYZGNrd3I3bzFlY2NhQWZtazhrWW1nbktxTlNDakE?oc=5",
-          "source": "Crowell & Moring LLP",
-          "published": "2026-10-22T07:47:03+08:00",
-          "summary": "AI-Generated Evidence in Drug Discovery: Reliability, Legal Risk & FDA Compliance Crowell & Moring LLP",
-          "summary_zh": ""
-        },
-        {
-          "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be the Biggest Winner of 2027",
-          "title_zh": "预测：这只人工智能 (AI) 股票将成为 2027 年最大赢家",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY25DZ0FlNTJMTFBwRkNKV2p1Skg2dFN1djd2ejlTOTE1U1RraXhadzV0NFotcXlLTlhhRXpiWGRwR1otaTAtNWtNY3JxN0lQa2NEc0RaMWxFb2xXV0gwbS1VdmJWSU1pc2ZaNlZuMEMwTmE1ZW12RFlldTEtZ1lZSWpTbVdyTDdNcGNSTW9mdV8xY2tHLUFlX2tMNDZwTEtSb1M3ZjcyMlh2ZnBp?oc=5",
-          "source": "Yahoo Finance",
-          "published": "2026-10-22T05:36:00+08:00",
-          "summary": "Prediction: This Artificial Intelligence (AI) Stock Will Be the Biggest Winner of 2027 Yahoo Finance",
-          "summary_zh": ""
-        },
-        {
-          "title": "HUDS Expands Artificial Intelligence System to Reduce Food Waste",
-          "title_zh": "HUDS 扩展人工智能系统以减少食物浪费",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SRm9GejN3NzU3WlZDVFRJTmJETzh6UFBaU3dOSkF6UzBQMkVUOVdqQlozYlhXcXlvdlptVm1NbEJaUWdOcF9ERXRyNVFQMkhjR1ZacTJJdG1fY3NXN0FwT19fV2lwVXVFSTFyenFQcjVURG16Nnc?oc=5",
-          "source": "The Harvard Crimson",
-          "published": "2026-10-22T02:49:58+08:00",
-          "summary": "HUDS Expands Artificial Intelligence System to Reduce Food Waste The Harvard Crimson",
-          "summary_zh": ""
-        },
-        {
-          "title": "Adaptive agentic intelligence framework using Strands Agents",
-          "title_zh": "使用 Strands Agent 的自适应代理智能框架",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSU4ydXowNTExLWRQTnZHNzh0dnprVUlKampMaWRkdWtxSl8xcjdsZVpaM3VPR3ZENEhyZE0zQVZvcGtYQVRrLXpKRW5OMml4VUU3UGVmQ0ZFMFRWd3Q0YW5UN1RqOTFpTUpYTFRQYll6b1RvdkxDdnEzVEt4NWJZZ0FCdmVQay1nMW5FMGZKMTV4dFB2WVpOQ19VMlJKVUxaQU0xal82cjVQOEE?oc=5",
-          "source": "Amazon Web Services (AWS)",
-          "published": "2026-10-22T05:23:26+08:00",
-          "summary": "Adaptive agentic intelligence framework using Strands Agents Amazon Web Services (AWS)",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial Intelligence In The Hearing Room: How AI Use Is Reshaping Arbitration Practice",
-          "title_zh": "听证室中的人工智能：人工智能的使用如何重塑仲裁实践",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1A5ZHRlT2tTZ2FUaEJyMEhGTl9zeFdQRGtDdENrTzJ2OHVDbzN4ZlV2c01zbWZ6Z2hSY1FoUFdpMG1KWW9qcC1uaTdub296VGpDQmxEdFFxaUFaZHpvWkpOeG4tMGR2bENMdkU1Szg3MVI0NlpkS19VNm5FMW0tMUIybnUzX3k3?oc=5",
-          "source": "JD Supra",
-          "published": "2026-10-22T01:02:46+08:00",
-          "summary": "Artificial Intelligence In The Hearing Room: How AI Use Is Reshaping Arbitration Practice JD Supra",
-          "summary_zh": ""
-        },
-        {
-          "title": "How artificial intelligence is helping doctors and patients fight breast cancer",
-          "title_zh": "人工智能如何帮助医生和患者对抗乳腺癌",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkNteXlvZ2J3WXB6YVA1OW1uenN6ajhrNzl0VUlZb2hsUDdJLW1NLW9Sbk1RRG93ZnJxVHlSelFXQnVfRFFzTjdsMC0tV0JzaEVDcjg4SkpoQmZ3RDhqamZzeFdQWjJrQzRZbk1wWGRpbWtMZXBSWjBTaGVHemxfSnlOLTFMeE9LeUNHMHZ4cXNaMTRnOUxHNlhwSkUycjM1QTE4eHY3UXU4Ylp6ak1oWVEySS16aDFPNzRvOFpobHM?oc=5",
-          "source": "CBS News",
-          "published": "2026-10-22T07:43:00+08:00",
-          "summary": "How artificial intelligence is helping doctors and patients fight breast cancer CBS News",
-          "summary_zh": ""
-        }
-      ]
-    }
-  },
-  "evening": {
-    "generated_at": "2026-10-22T23:51:24.016150+08:00",
+    "generated_at": "2026-10-23T00:00:33.412913+08:00",
     "sections": {
       "worldwide": [
         {
@@ -291,7 +10,7 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wRm1zVFc5bzlzdEEtSk52azFSdVpFNF9IaC1xeXFFR0Fqb0xDMHBlSWR0bmdmRExEdmVhbDJuZVFXdy1TS0Y0b1I4dWVzblh3bVdUc2s2ZnlvWDg?oc=5",
           "source": "BBC",
           "published": "2026-10-22T21:02:14+08:00",
-          "summary": "French weekend protests to be limited to union demos only, says Macron BBC Is Paris Burning? The American Prospect France's Macron tightens curbs on protests, blaming hard left for unrest Reuters What We Saw at Fast-Track Trials of Riot Suspects in France The New York Times...",
+          "summary": "French weekend protests to be limited to union demos only, says Macron BBC Is Paris Burning? The American Prospect France's Macron tightens curbs on protests, blaming hard left for unrest Reuters France's riot chaos fuels Farage's warning that mass immigration failures could...",
           "summary_zh": ""
         },
         {
@@ -304,35 +23,17 @@
           "summary_zh": ""
         },
         {
-          "title": "Serbian Election Underscores the Region’s Long Political Limbo",
-          "title_zh": "塞尔维亚选举突显该地区长期政治僵局",
+          "title": "In Serbia’s Election, Identity Politics Looks to Be Winning Again",
+          "title_zh": "在塞尔维亚选举中，身份政治似乎再次获胜",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVER1akczLW1RQzRXMHZPeFplaEtfcm9tanZaQk1oaTFPYnhqT2xpX0QzclpHU1gzMFNXbzQ2MFRvSkgyZExHLW5Zd2s5NlBHMGYyYXhLN0NNSE5yTy1vbk9rU002S0FtZUE1dk5sYzRWWFBKU08tWlNJN1pUd3Njal9pdFJLZGpaYTk2bnBVYUxXUXFH?oc=5",
           "source": "The New York Times",
           "published": "2026-10-22T17:01:54+08:00",
-          "summary": "Serbian Election Underscores the Region’s Long Political Limbo The New York Times Something Astonishing Is Happening in My Country. The World Should Take Note. The New York Times From the streets to the ballot box: Serbia’s students hope for election win Al Jazeera Why...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Critical PHP Core Security Flaws Affect Websites, Including WordPress",
-          "title_zh": "PHP 核心安全漏洞影响包括 WordPress 在内的网站",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmdXSFFJOXpBMTJBeGsza1BsVlJ4bzZwbzlsWi13NlhNREFlRFMzWmhvQnZ5YmxhOWd0c2ViSm1ETXBRakx1RFdBaGdvTWM3NmNrcDViU3BiajlWYktjSkx5X1RMQVE3UlJuNGxka0pINVNYeWdUSjdxRjltb1JaQjJrODRsSnZIdUdkdWoxMldjV3VyYUFZT2JMcmlYOVVrb3NIejNDMDZZNGV1YjJVMjh3?oc=5",
-          "source": "Search Engine Journal",
-          "published": "2026-10-22T18:12:02+08:00",
-          "summary": "Critical PHP Core Security Flaws Affect Websites, Including WordPress Search Engine Journal PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet wiz.io What to know about the PHP bug affecting 70% of the world's websites CBS News Websites shut...",
-          "summary_zh": ""
-        },
-        {
-          "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
-          "title_zh": "朝鲜表示将恢复跨境宣传广播进入韩国",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHdKQXpkTk0xc09TQ1AzMHFSTnJqVXNPazcyanhkX3lyWUNoUzFRMm5mVkJjdjBhME9aVG5XeDh5UGdpUDVCLWN0eHA5YkxSSFltZXVfS0NINGhLWGN5MXFoM0lKMG4zT3JabEV3TTRMbjh1NEN5RE9qaDVtc3czdFRn?oc=5",
-          "source": "NPR",
-          "published": "2026-10-22T14:36:07+08:00",
-          "summary": "North Korea says it will resume propaganda broadcasts across border into South Korea NPR North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days Reuters Tension along Korean border fuels concern as Kim Jong Un's sister issues \"not a...",
+          "summary": "In Serbia’s Election, Identity Politics Looks to Be Winning Again The New York Times Something Astonishing Is Happening in My Country. The World Should Take Note. The New York Times From the streets to the ballot box: Serbia’s students hope for election win Al Jazeera Why...",
           "summary_zh": ""
         },
         {
           "title": "Ukrainian troops infiltrate Russian rear through gas pipelines near Kupiansk, Khartiia says",
-          "title_zh": "哈蒂亚称，乌克兰军队通过库皮扬斯克附近的天然气管道渗透到俄罗斯后方",
+          "title_zh": "哈蒂亚称，乌克兰军队通过库皮安斯克附近的天然气管道渗透到俄罗斯后方",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNenhTZVhEWWZOanBaNEQ4ckd6c1dQQ1RDSU5henRlX1p1RnFtVTNBVmlPUWUya1IyMTBuUGpxYTQxaFZjTFNrZmVsZWtySmI2dlJyOVNrS2Z4S3prYkFWT0VSS0NLOXlwbjduYzBheW94LXNuX0xUcmF6QmdfMXl0WTFpYUhQRVZoXzNfa2RSLS02ZFc2Q1p6RUlzX2szNndGcldIdVp5WlBERzRKMkNnemdidHB3enlmZ05j?oc=5",
           "source": "The Kyiv Independent",
           "published": "2026-10-22T16:42:28+08:00",
@@ -358,12 +59,30 @@
           "summary_zh": ""
         },
         {
-          "title": "Attack on Saudi Arabia’s King Fahd airport kills two people",
-          "title_zh": "沙特阿拉伯法赫德国王机场遇袭造成两人死亡",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMktOQVdUcmhmWlhhcHVNQ1laMzRELXBuXzhLMHFqNHdLdEE5TVdmbDR0eXJlT3ZwVjgtQi1KVXNWWm9ReHhsNjhER0phWmxadWdDZDRfWk1xdGNOSWNkUDRSSW1fMC1RNkhCbUJxRTlZTUFoUkYtUGt1Z0tkalVHVWFXSks0N3llZ1g1ZXJWUXpDN2l3MjJFVzlhZVVROWwybnlYMkZWVkdkYkFxTHlGaUQ2Z9IBuAFBVV95cUxObmo4ZHczZ2Fza2VqLS1NUHoxem5hcHVTUXloZnBSeHo5Tk9LUUoxMVpRVGNLYURhanlfb09qcnhRMmtkT3N6bEpObHZwaTJhY0xCWW5oMjI0YWpRNUFnX1VaTkFmb3c4YTUzamdzZUxMVWZ2Yk9oVk1sYmZ1TkdJMXpjQUxFcGFEa0lpVHF4SGdWa0Y0eG9rUG1MeHVKY3VLM2hkUHpPZWJsR0haMUQ5UDhOVmRNcFFE?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-10-22T17:00:14+08:00",
-          "summary": "Attack on Saudi Arabia’s King Fahd airport kills two people Al Jazeera One Person Killed and 8 Injured in Airport Attack in Saudi Arabia WSJ Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave The New York Times Three Killed in Attacks on Aramco Oil...",
+          "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+          "title_zh": "来自巴西和阿根廷边境的问候，那里的瀑布正以接近创纪录的速度流动",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkpvY1FJdFpOZ3BvYTJseFc4bGVDaEMzWndmR2RVSlk0bVRYaWxFU1Byb3M3RHgzTXg1akNPS1Y2cUpISGVqdmhHbkZkdlBSU0ROdUp1d3NJX0hEUjJuNTJ3TzhDRWZuZVpDTzZCTUFGcXZrTjVxZWN3UHdMQXprNmRqT3RwRmxwdXRFZ2otbDdPQVJHQm1MUElBak9Odw?oc=5",
+          "source": "NPR",
+          "published": "2026-10-22T21:50:55+08:00",
+          "summary": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates NPR See more headlines & perspectives on Google News",
+          "summary_zh": ""
+        },
+        {
+          "title": "Australian TV reporter rescues man from sinking car during floods",
+          "title_zh": "澳大利亚电视台记者在洪水中从沉没的汽车中救出一名男子",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGdzeDZIcFF6aEN0cy1xTWo4T0tXWkI2RHg4UFFDQlM4WFFyMGJSVXpiazI2aklQdjd0OTVDVVVZUFp1bjlnSGZaY0EzMk5WYkthRWdsU3RUdW80dHZHUzV0VDBVck1zTE9remduZTMyV1M2NHZZZ0N0M3VjV0lTNm1TYXczMU1FcUd2ZnBXZnFhTTNjZkFDTExWQUNhMkdYeEFLamxHbWNQWTU3anFwc1pLV2FLclhw?oc=5",
+          "source": "Reuters",
+          "published": "2026-10-22T10:36:00+08:00",
+          "summary": "Australian TV reporter rescues man from sinking car during floods Reuters TV Reporter Saves Man from Truck Sinking in Floodwater by Dragging Him from Vehicle Moments Before It Vanishes People.com Australian TV Reporter Rescues Man Trapped In SUV From Rising Floodwaters On-Air...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Medical tests show Pope Leo requires no further treatment for lung cancer",
+          "title_zh": "医学检查显示教皇利奥不需要进一步治疗肺癌",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnpuZlhzVmU0MEYybUFvMWxXeXdVVF9QRVJSdDd5MEV1eFN5dUQ5SXFUVEJ5TlZvSmlmLTZzbGNPT3YxNmZGRUQtc29ud3E4UHdSbTRGbS1iYXZIajVuSWhJVFRKcjdNT2ZmaGxXVDhEWlk4VFlHTG51ZGZXcUVPeHIwTV9SOUp3WUEwQm1uUjNvY3NnSlY2UlAtYzkzSTRMYUVXQ2FRZkJ0eE9CWjhPb0gxMUs4TkxBS2c?oc=5",
+          "source": "The Washington Post",
+          "published": "2026-10-22T12:18:24+08:00",
+          "summary": "Medical tests show Pope Leo requires no further treatment for lung cancer The Washington Post Pope Needs No Further Treatment for Lung Cancer, Doctors Say The New York Times Pope Leo needs no further lung cancer treatment, Vatican says CNN Pope Leo takes to popemobile for...",
           "summary_zh": ""
         },
         {
@@ -383,7 +102,7 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wX2NFUm1uYXlacmxpX3RTUkJsZk1RQnN0Wk8zeVJ2cFNXVEJ4MC1odUVJWWtHTGNLd1dzSk43eWVUVG9fRHJDVEFZejBvSGx6UC1hY2s1dHZMamlnTzlEaEJwSHNZRExHdk5Zd21ZeDJHdw?oc=5",
           "source": "福建省人民政府",
           "published": "2026-10-22T19:08:00+08:00",
-          "summary": "习近平：在纪念中国工农红军长征胜利90周年大会上的讲话 福建省人民政府 第一观察丨党和人民军队铿锵前进的制胜之道 新华网 神舟二十三号航天员乘组向长征精神致敬 finance.sina.com.cn 致 敬伟 大的胜 利！ 中国青年网 人民日报评论员：在新的长征路上奋力创造新的辉煌 ThePaper.cn",
+          "summary": "习近平：在纪念中国工农红军长征胜利90周年大会上的讲话 福建省人民政府 对话马克·力文：90年后，长征精神何以跨越国界与时间 观察者网 第一观察丨党和人民军队铿锵前进的制胜之道 新华网 天天学习｜历史长卷里的“红飘带” 央视网 致 敬伟 大的胜 利！ 中国青年网",
           "summary_zh": ""
         },
         {
@@ -401,7 +120,7 @@
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TUFBVYk5UVDFZTE1kU3pCLVdtN09QWDE5Vmc2NndkSGJLWE5jcWp3dWR5d3M1djlEQXdtWTdxSml3VG9iVFM4U0pKXzcxVVFYeDF1UVM2d2JJbVpzODJYSXpuY2h3N18tQkRiZk8zdi1TOUs2?oc=5",
           "source": "风闻",
           "published": "2026-10-22T18:58:41+08:00",
-          "summary": "中国外交部：中俄保持紧密协作是变乱交织的世界中难能可贵的稳定力量 风闻 李强会见俄罗斯总统普京 人民日报 李强赴圣彼得堡举行中俄总理第三十一次定期会晤 新浪财经 中俄总理第三十一次定期会晤联合公报（全文） ThePaper.cn 李强会见乌兹别克斯坦总统米尔济约耶夫 搜狐",
+          "summary": "中国外交部：中俄保持紧密协作是变乱交织的世界中难能可贵的稳定力量 风闻 李强会见俄罗斯总统普京 人民日报 外交部介绍中俄总理第三十一次定期会晤情况 手机新浪网 中俄总理第三十一次定期会晤联合公报（全文） ThePaper.cn 外交部：台湾问题上没有“灰色地带”｜外交部记者会实录（2026.10.22） 搜狐",
           "summary_zh": ""
         },
         {
@@ -432,6 +151,15 @@
           "summary_zh": ""
         },
         {
+          "title": "迎战台风“蔷琵”，金山多支应急救援力量前置部署",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QSmNqWGg4ZTJrc2VxUGFVT0tJaVZONWJ2c2Z3czdhX1hXTzU4RzZQT2oxRlpULVJCUmtxYzJaenRBaGdTQk9zV0QtcWNWRjN2aENOd3BYaFB0UQ?oc=5",
+          "source": "上观新闻",
+          "published": "2026-10-22T14:50:00+08:00",
+          "summary": "迎战台风“蔷琵”，金山多支应急救援力量前置部署 上观新闻 “蔷琵”已维持超强台风级别超过100小时！福建将出现较强降雨！最新通知：部分景区关闭、停航停运 新浪财经 今年以来30个台风生成、7个登陆我国，台风真的专挑周末来吗？ ThePaper.cn “蔷琵”将于23日夜间进入东海南部海域 东海大部和华东沿海将有持续大风灾害风险 中国青年网 海浪橙色警报：浙江南部、福建近岸海域将出现4到5米的巨浪 央视网",
+          "summary_zh": ""
+        },
+        {
           "title": "赵乐际主持召开十四届全国人大常委会第七十四次委员长会议决定十四届全国人大常委会第二十五次会议11月2日至6日在京举行",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN1llbUlaNE1IVElaTEI3aFhTMmM1OU0zR3B0dTFYUVF3Q21FSTc4czlSLTZmczNaaldGSWRQTU1wTEhZYWVwTU5GNUF4WEd4RzE3Z1BYeVY4R3E5aGd0QWlfQmdWU3MtMW9mZWJlWG9jaWU2WlQ5QmFseVVJN3A1d2QtM3pBLXR6SlBFeUJn?oc=5",
@@ -450,21 +178,12 @@
           "summary_zh": ""
         },
         {
-          "title": "水利部对4省份启动洪水防御Ⅳ级应急响应",
+          "title": "我国已共建29条国际绿色航运走廊",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ra0FxTGV5RTZ2bDhkOEdveWpINlFJYkRwYldVS2RqOEtNOExwNndKUkNpeVhkV3RrRHF3ZWZKNENnSVNRdG1yajZMM2Z0bVJkX1ZQN2ZiQnBmV2FwcTgzSQ?oc=5",
-          "source": "ThePaper.cn",
-          "published": "2026-10-22T20:55:00+08:00",
-          "summary": "水利部对4省份启动洪水防御Ⅳ级应急响应 ThePaper.cn “蔷琵”已维持超强台风级别超过100小时！福建将出现较强降雨！最新通知：部分景区关闭、停航停运 新浪财经 今年以来30个台风生成、7个登陆我国，台风真的专挑周末来吗？ ThePaper.cn “蔷琵”将于23日夜间进入东海南部海域 东海大部和华东沿海将有持续大风灾害风险 中国青年网 海浪橙色警报：浙江南部、福建近岸海域将出现4到5米的巨浪 央视网",
-          "summary_zh": ""
-        },
-        {
-          "title": "【智库声音】澎湃新闻| 唐昭沛等：上海如何建设国际航运绿色燃料枢纽_上观新闻",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CZHJOS2VicHhCSHFFNEdzYk50NnB2REl1NDFTVC1xcmlXRzhDOWlBWGU0cFBiRGQzdFJoVWR2b29JMkIyOGd0SGhfUjhSSWZIM3Nua0VYclg?oc=5",
-          "source": "上观新闻",
-          "published": "2026-10-22T21:02:29+08:00",
-          "summary": "【智库声音】澎湃新闻| 唐昭沛等：上海如何建设国际航运绿色燃料枢纽_上观新闻 上观新闻 上海发布国际航空枢纽规划：“第三机场”2035年建成 财新 中国第一个“三机场”城市，要来了 凤凰网 【聚焦北外滩】东方网：他们为什么在上海说起同一件事？ 新浪财经 2026北外滩国际航运论坛在上海开幕，发布成果超90项 人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRXUzdHJqczRibThZWktac0tXUUdBeGlSalpXTTdvNm44NVB4N2lpZmZ2dFRZWjNWRzVNakJmWWwydnNpd0RqbHM1bDMxaXJoVDFqWVNjcjFpRzlEQ0FvS05GOTRMU2YzRENYQ2hTbjJtMDlLSXc2eFVqQ0RFYm8?oc=5",
+          "source": "中华人民共和国交通运输部",
+          "published": "2026-10-22T08:00:00+08:00",
+          "summary": "我国已共建29条国际绿色航运走廊 中华人民共和国交通运输部 上海发布国际航空枢纽规划：“第三机场”2035年建成 财新 【聚焦北外滩】《上海港-汉堡港绿色航运走廊发展目标和路线图》《上海港-墨尔本港绿色航运走廊实施计划纲要》发布 新浪财经 中国第一个“三机场”城市，要来了 凤凰网 共促全球航运韧性发展 2026北外滩国际航运论坛将开幕 搜狐网",
           "summary_zh": ""
         }
       ],
@@ -519,7 +238,7 @@
           "title_zh": "OpenAI 敦促 Newsom 通过额外的保障措施加强加州的人工智能安全法",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOekYxQzAtenA3SFBNODVpelA4dENGdEdBbUJHNVNOd0xRR3NOdnZLbWotYmFMdGZrd0I1TVdfS2l3X0gyOTk5aXJrcHNxSlZSRHdMM2g5Q1VhaXZ2a2NFM1kwN1E3X3pieHFhckhnMnRYMlMyZjlEdmpXR3BTZm93a1paZks1QlhOdGxuY1Rkb0hNYkRZZDZlQXIzeFlfSmdQSFotdTRuUTdnTXhuYU9n?oc=5",
           "source": "StateScoop",
-          "published": "2026-10-22T23:43:56+08:00",
+          "published": "2026-10-22T23:43:54+08:00",
           "summary": "OpenAI urges Newsom to strengthen California’s AI safety law with additional safeguards StateScoop",
           "summary_zh": ""
         },
@@ -542,15 +261,6 @@
           "summary_zh": ""
         },
         {
-          "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
-          "title_zh": "人工智能。其危险蕴藏在中期选举中",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1dkcFhzRDJhakxUNEd2MFg3amZxc3p2Wjd2VnRRRllFSGdDQWpjY21LQVpyZFhLdC0yOVVxVmFvMnZjNlNBTE1ZdDVvUUptNXI5bzh4M2Y1djVjNzdRNUd5WnNXVkdLc0VzZ2ZPbjdqdUU3YnMzUllqMm9jYUJxc1ptcVdhUTZwOGtyWg?oc=5",
-          "source": "The New York Times",
-          "published": "2026-10-22T22:34:09+08:00",
-          "summary": "A.I. and Its Dangers Are Embedded In the Midterm Elections The New York Times",
-          "summary_zh": ""
-        },
-        {
           "title": "The biggest wealth giveaway in modern history aims to transform the world",
           "title_zh": "现代史上最大的财富捐赠旨在改变世界",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTjdJeGY2WFh6cFJhaHZvRUNDVHlaSV9MNEFqVDdMeW9La2xVRldWaE1UcWVadkNaVVcyTmp6b0tIaDEwVm9NN1p1dVU3SzdMNHVzdThHbkg4a0Q5YU5yZmZ2SVY5QkxOUW03bjQ1VEhMdmVsdC02S0d1RjRBQ0Q4b3oxNlZ3VV9Pc01Vb1hrQ0VKUmRLMWF0MEZKeERFbnVXWXMzV1VrUGtwVTY2WW92Mmdn?oc=5",
@@ -558,8 +268,18 @@
           "published": "2026-10-22T23:46:34+08:00",
           "summary": "The biggest wealth giveaway in modern history aims to transform the world The Washington Post",
           "summary_zh": ""
+        },
+        {
+          "title": "Enterprises don’t need artificial general intelligence. They need artificial specific intelligence",
+          "title_zh": "企业不需要通用人工智能。他们需要人工智能",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVXc3OUZnX2NiVlBZNFlwUWJNTFlIZWgzT253VVVjYkIydDJZR25nQTRQa3BkYnc3eUQtTlFQS3RrVzJ4M1dDYUMxaW1RS0JJMjlrYVBXZ2xYbkp5UGZRei1DNVZhRFNtamV5VWNhd2Y3bWZkYk1sX1ZDZkdrcjVzMGlpOUplLUo5cWxYdlF3X1V4LWl5WVlPR0ZjOGluZEo3Tk5PbUFHOGNaaEpEOXJUdGUyNXc5b2hxX01kXzduWHZubWZfZUt2dmN0U1JHZlljdS1z?oc=5",
+          "source": "CIO",
+          "published": "2026-10-22T19:03:36+08:00",
+          "summary": "Enterprises don’t need artificial general intelligence. They need artificial specific intelligence CIO",
+          "summary_zh": ""
         }
       ]
     }
-  }
+  },
+  "evening": null
 }
