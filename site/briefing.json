@@ -1,227 +1,263 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "morning": {
-    "generated_at": "2026-10-28T15:18:15.254357+08:00",
+    "generated_at": "2026-10-29T01:07:03.451616+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "Israelis await final election results as Netanyahu remains far from defeated",
-          "title_zh": "以色列人等待最终选举结果，内塔尼亚胡还远未被击败",
+          "title": "At least 68 people dead in Spain's second major train crash this year",
+          "title_zh": "西班牙今年第二起重大火车事故 造成至少68人死亡",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
+          "source": "Reuters",
+          "published": "2026-10-29T00:47:22+08:00",
+          "summary": "At least 68 people dead in Spain's second major train crash this year Reuters Spain train crash kills at least 68 as witnesses describe devastating scenes CNN More than 60 killed after two high-speed trains collide near Toledo in Spain - as it happened Reuters Wednesday's...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties",
+          "title_zh": "内塔尼亚胡的竞争对手考虑与阿拉伯政党联手，以色列人等待最终选举结果",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkhkVlMyeHNjUXZ4YXlWMVNFVXZMWkwzRW9qQUlxWkhVZHJiTlhRLTFIbjJzOUVDOE1QQ09acFBOM0xPOUstY1NMVXV5RlYzaVl5cVhvVE9MZ3lpQk44RFhfSjR2eEVFYm1RekhzVzBFMVI0TWxjM2Znbi1rSkhxVndVenhQdWpJdGgtNG1LQTh2dUdWbmQ4SEwwWmtvMEVEcGh2SUljSkpBYWloNnVmcWhiOTVzTFl5dEE?oc=5",
           "source": "AP News",
-          "published": "2026-10-28T14:52:00+08:00",
-          "summary": "Israelis await final election results as Netanyahu remains far from defeated AP News Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote Reuters Israel’s voters deny Binyamin Netanyahu a majority The Economist Exit polls suggest no clear winner in...",
+          "published": "2026-10-29T00:44:00+08:00",
+          "summary": "Israelis await final election results as Netanyahu rivals weigh joining forces with Arab parties AP News Israel Election Results Live Updates: Exit Polls Show No Clear Winner The New York Times Likud claims election ‘stolen’ by Arab parties, demands investigation into alleged...",
           "summary_zh": ""
         },
         {
-          "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
-          "title_zh": "克里斯·梅森：预算需要在某种程度上兑现总理的承诺",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TeHRCRVJyM3RLcjVaRjdqVnhVaWp2NURUWlpCcTZlQjh0cWNEUGRxME5wRHlsSFlLTXpORFhfNUw1UXlPdHppcW1XYnVra1JpZVFLMElIRGN2WmM?oc=5",
-          "source": "BBC",
-          "published": "2026-10-28T06:30:09+08:00",
-          "summary": "Chris Mason: Budget needs to go some way towards delivering PM's promises BBC Wednesday briefing: We asked you - what do you want from the Burnham government’s first budget? The Guardian Healey seeks to steer UK through 'difficult moment' with low-key budget Reuters Healey...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says",
-          "title_zh": "联合国核事务负责人表示，伊朗尚未尝试修复在美国袭击中受损的核设施",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05MNG55Umh0cXBoZVlpeTVHTWdjZjhMb0hCS21LMmRiOU9ZWEhITjVYZEJBNXF6ejRwbDBBbThpMlNORGxacUV3T2s0VHp0YTV5UVdqRmpid09VNFg3RE1yT19SMmxhZk5ZNUtRcmdHQ3pFLUp5V01pdmVmcE9mdkhReFB0bmFoNGxqUEhCOVQxNlFITXByR2NUaGdsd0k?oc=5",
-          "source": "AP News",
-          "published": "2026-10-28T11:18:27+08:00",
-          "summary": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says AP News Security Council, 10253rd Meeting (AM) Iran/Non-proliferation UN Meetings Coverage and Press Releases Nuclear Inspectors See No Evidence Iran Fixed Bombed Sites Bloomberg...",
-          "summary_zh": ""
-        },
-        {
-          "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-          "title_zh": "金在加勒比之旅开始时承认“过去的痛苦”",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZYXowQXp1OElaVTdJajJmZ21xcmNXWXNqck56TXJyNFZqNHRLTTVhRXVLZTQwc0J3cThWTGladmo3X0FfQzIySEF3dXdNbTljTkkta0VJR0o5VkU?oc=5",
-          "source": "BBC",
-          "published": "2026-10-28T12:32:36+08:00",
-          "summary": "King acknowledges 'suffering of the past' as Caribbean tour begins BBC King Charles to discuss legacy of slavery with Commonwealth leaders at summit The Guardian King Charles says Commonwealth to confront slavery's injustices, as calls for reparations grow Reuters King...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Putin call pits Finland and Norway against Denmark and Sweden",
-          "title_zh": "普京呼吁芬兰和挪威对阵丹麦和瑞典",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUDVhdlNGeTV4dDVxVXRfdF80N2Q3cFVQd3FWeFFNczNQV1VQUVZVeTVyME5VSktUX0pIQmxmZG5vb2lSX1lROW04TTEyQWtSelF4cm81d1psNWNsOVBHSW1sQU1IQzFjT3J1a0xfSjJQTFZBTmhRVkFEem9sVFpTeHRJTXZUWVlwRzloMEwwek54bTlWTGVUUDh4Nk45dw?oc=5",
-          "source": "Euronews.com",
-          "published": "2026-10-28T00:20:39+08:00",
-          "summary": "Putin call pits Finland and Norway against Denmark and Sweden Euronews.com Russian Offensive Campaign Assessment, October 27, 2026 Institute for the Study of War Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans Reuters Norway and Finland...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Pope says ‘there is no such thing as a holy war’ in message to religious leaders",
-          "title_zh": "教宗在致宗教领袖的讯息中表示“不存在圣战”",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTFmMnNzZmVXS3VnMFQ5WHdOT1VmU090cUpfU3c0SE9TaWhzbE5HYUVZQ2VKaXZ6T0RmMXk4SE1YZG5rNDBac1A1WEswT0JLR01lTTJ6WU5jb00tRnN4cU5NRHBtNHZ1RzVpd2gyUkVXNzdVZnlGcnFoWUhTS1F1NkVXYjBmdHFwdUxVbllyNzdKWkhMbTFmdnVST0hZeEYwalhIb1NaWW5ZRC1P?oc=5",
-          "source": "AP News",
-          "published": "2026-10-28T04:07:00+08:00",
-          "summary": "Pope says ‘there is no such thing as a holy war’ in message to religious leaders AP News Pope to Assisi Peace Meeting: 'May we be unarmed instruments of God's peace' Vatican News ‘There is no such thing as a holy war’: Pope Leo marks 40 years of Assisi peace meeting EWTN News...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Serbia's populist strongman Vucic outplayed all his opponents. Then the students came",
-          "title_zh": "塞尔维亚的民粹主义强人武契奇击败了所有对手。然后同学们来了",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR1hVRmVSNU4tb2lqcC1wU1QtSTh4cG1FenZGWThCa3RCZWtvUmpvYVB4WmxTNXJHMWRYeVFMeEI4NXBUVmJpX0VlblVSNWFFcjZzWGEtTkFaaFVYaGl3TEZFSHVLVlpubVMtRW9lWmNSWVhJUGs5YXpDMV9JdkUtMTVRS1N6eUxKRVAwRDJrTW1zSWhScjE5bllscXdEY3BnVmx6RWN2dEV2UDNJTEpWNGF3UUxxeWVqTmfSAb8BQVVfeXFMT0lpMy1UX1ZBbEdvaGFZYzhWOHNiTzVGZDZQMEtfZ1puUnlGTk5aWFFNMVNURkwtbTRLUGQ3Qkh1QWJNTHVSZU0wT2NFZWo4NXBDalF0SFJkUkE0TnpXOWRtcWpHLVVOMkpPa2dzMUtRalY2ckpKR3U5M1ByV2FjbjJZa2dqS1NsOW5WMGZ4b0JOZW9JdDhvSzBLWGRDdVdHMDhrbTJFNFV4OHhiR3lZbjB6bVpQWjk0bHFONjFjazQ?oc=5",
-          "source": "PBS",
-          "published": "2026-10-26T21:52:04+08:00",
-          "summary": "Serbia's populist strongman Vucic outplayed all his opponents. Then the students came PBS Serbian Students, Victorious and Leaderless, Go After the Media The New York Times Serbian opposition landslide exposes cost of EU’s bet on ousted Vučić POLITICO.eu Explainer: Serbia's...",
-          "summary_zh": ""
-        },
-        {
-          "title": "U.K. charges 2 men arrested over alleged Iran-linked terror plot against RAF Fairford air base used by U.S.",
-          "title_zh": "英国指控两名男子因涉嫌与伊朗有关的针对美国使用的皇家空军费尔福德空军基地的恐怖阴谋而被捕",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0dQUDhlWDhqSEQyU2VkMFBiQjFTMTM3ZFVKcUFSWUR5cXFBa09ORlRZUGFWelJ3SnZYTkFPc3BhaEtPeXZ2cW4tUzBmYUR1N3UyNXhFTmc5NUZLSk9MYldLOE1ZYndLdnc0UVNmWHcwd0tGYk16OWEtMS1vdjVNM05qaENNZkZyc05Md044aE80STRTZlZjckRB?oc=5",
+          "title": "Live Updates: Iran rejects \"unacceptable\" ideas as Qatari mediators say they presented new draft deal to Tehran",
+          "title_zh": "实时更新：伊朗拒绝“不可接受”的想法，卡塔尔调解员称他们向德黑兰提出了新的协议草案",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaldzakpwdnNPdVBvcUw2WmlXOGFPU0hSaktBa0RtLUFscVVkZGV1QmtNbDZXQks3UGVQNWlxTmQ1VFJqNUlCT2tZeHpMTGxOemgxN1J2M3JJWTJnUTFZUURrNEpjTGJ2Q1JoMmVPVUVkSE1Qb0NIRlhqMWFVbFpmVlhtXzBsa1o5UlctX2U0Y18yemFBWUROQmNWV2g?oc=5",
           "source": "CBS News",
-          "published": "2026-10-27T18:51:50+08:00",
-          "summary": "U.K. charges 2 men arrested over alleged Iran-linked terror plot against RAF Fairford air base used by U.S. CBS News Two British men charged with helping Iran over Fairford airbase incident CNN Overseas Handler Linked to Iran Behind Foiled RAF Air Base Attack WSJ 2 men...",
+          "published": "2026-10-29T00:13:00+08:00",
+          "summary": "Live Updates: Iran rejects \"unacceptable\" ideas as Qatari mediators say they presented new draft deal to Tehran CBS News Iran sees only unacceptable ideas in latest mediation to end war, official says Reuters US reportedly warns Gulf nations to prepare for possible Iran...",
           "summary_zh": ""
         },
         {
-          "title": "Lina Attalah in custody after court issues LE3 mn fine, orders Mada Masr’s closure",
-          "title_zh": "法院开出 300 万埃及镑罚款并下令关闭 Mada Masr，Lina Attalah 被拘留",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlFmUW1Ca1A4RDVSTFRXdm1nMFRHNzN4OVJHRk9YSEoxZjF5MmlqX1ozc1I0X1FNejlZbVk4QTRxRmhoaEh2cG1jbVFWMUVSVGFhQkQ4YzM3VW94YWRvYWRBbnlRNHFMQXBpalVQRXYyX2dSZ2NXZnFqTHN3STZMZ1hLdldzREV4Um81VWJjM1BVZjNPQnNKeDhJcHh5Y0tDcjN5czhYbk1oSTh4YVlobDJHTUdmX0drRUtJYm9SYVRVTENpaXc?oc=5",
-          "source": "مدى مصر",
-          "published": "2026-10-27T19:26:27+08:00",
-          "summary": "Lina Attalah in custody after court issues LE3 mn fine, orders Mada Masr’s closure مدى مصر Egypt court fines journalist Lina Attalah and orders news site's closure BBC Egypt’s crackdown on press draws criticism on Capitol Hill The Washington Post Egyptian Court Orders News...",
+          "title": "A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs",
+          "title_zh": "在能源成本不断上涨的时期，英国的预算具有“喘息空间”",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVzNEMUZVaDJlZW9WTkxYLUZhOUp3M0Y1SE4xSXpjR1RWT3k2Q2Y0VTAwMkNieUZCaVV5cWlYRU1wb1hFSWFYdVF6UVVMVW10cDU3LS00LXd1dXRVWmYxNVpTamlvZC04azF3X1NCWi1QZ2ZWaUZkOU1jRG56NzRha1Vn?oc=5",
+          "source": "The New York Times",
+          "published": "2026-10-29T00:40:52+08:00",
+          "summary": "A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs The New York Times Budget 2026 live: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards The Guardian The revolution deferred New Statesman UK's Healey...",
           "summary_zh": ""
         },
         {
-          "title": "Thousands rally outside Portugal's parliament over housing crisis, police operations",
-          "title_zh": "数千人在葡萄牙议会外集会抗议住房危机和警察行动",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVVMNDA5ellNRWdhT0pZeklKSC14Ulo1cUtpR2ZtbzVsSDZVc0VvaE9GNDZBaWVaTmxOaWpRb0k2cWZCU3BzblA3TEZ2ZXcyM0dzWWhPRm82T01XZjlMb19jWlpwdi10dXFNREYwQ3RrdEJIQTVpemFralRvekZRZE9FRTdLZHpob1N3aGpFOGVkMHp6SW5qVnIzU0JMc2d5MVRpM2VjR0tYd09SYWJXWnRjY3EzS183elNWeg?oc=5",
+          "title": "Houthis strike Yemen's Aden airport after evacuation warning",
+          "title_zh": "胡塞武装在疏散警告后袭击也门亚丁机场",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
           "source": "Reuters",
-          "published": "2026-10-28T06:49:00+08:00",
-          "summary": "Thousands rally outside Portugal's parliament over housing crisis, police operations Reuters Thousands of Portuguese gather outside Parliament as housing protests swell AP News Portuguese police clear Lisbon housing protest camp, arrest 25 Al Jazeera Portugal: Lisbon housing...",
+          "published": "2026-10-28T21:28:31+08:00",
+          "summary": "Houthis strike Yemen's Aden airport after evacuation warning Reuters Iran war live: Yemen gov’t condemns Houthi missile attacks on Aden airport Al Jazeera Houthis fire missile at Yemen’s Aden airport for 2nd time today, police source says The Times of Israel Yemen accuses...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Merz invites Japan to back trade alliance as China asks Germany to be 'rational'",
+          "title_zh": "默茨邀请日本支持贸易联盟，中国要求德国保持“理性”",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTJSV296X1JIblZreVlzNk5SRzZqYkhwSXpaX3cyT1RuX3NUeGtlQUo1YkFxRy1KMkJXNS1iRFhHRVkzSzBuT2FUanRGMlNnWmEtc3Jmb3A1NDV6aWI5V1NhMXVvYm5jcGl5aXVUWTE4SG1veHRQWXQyWnJlTTFXVDFFNVlNOFZ6RUkyekVzQzVQZWpwNGhxck5Ra0FYVTI1MUw3QUJvNmlwNVAtSEI1QjhrZTA4VGpD?oc=5",
+          "source": "Reuters",
+          "published": "2026-10-28T20:10:02+08:00",
+          "summary": "Merz invites Japan to back trade alliance as China asks Germany to be 'rational' Reuters Takaichi and Merz pledge to boost economic security and tech cooperation The Japan Times Germany Weighs Role in GCAP Fighter Jet Program, Says Merz on Japan Visit U.S. News & World Report...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Italian judge frees protest suspect, prompting Meloni fury",
+          "title_zh": "意大利法官释放抗议嫌疑人，引发梅洛尼愤怒",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPak1XQ3I5Y25ZUUdWTlFEbnJYcTFNRFgxTmYzRXJzVFhkYzNpdHk1NUVyMzlVTzlLOGxhX0Z1QlFMNW45MEFQNlRfS3lEenZtUllHMDQtMnRWZy1oY3NHQXVxYmh6UzA0ZUluSXR2bE51RFFzeF9mUXZPR0JpY2ttdWkyRktiNktZb3ZSb3E1d0dLSkVOSkxKSGc0VDNWX25yNm41WFVyaDl3N1hwYmJKeGk5dGY?oc=5",
+          "source": "Reuters",
+          "published": "2026-10-28T23:30:20+08:00",
+          "summary": "Italian judge frees protest suspect, prompting Meloni fury Reuters Italian police discover chat groups linked to Milan riots Euronews.com Italy riots suspect arrested www.israelhayom.com Prosecutors accuse Siher of terrorism, but the evidence is extremely flimsy. Il Foglio...",
+          "summary_zh": ""
+        },
+        {
+          "title": "China’s former vice-premier Liu Yandong dies at age 80",
+          "title_zh": "中国前副总理刘延东去世，享年80岁",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTHhvQkhka05Fb3FCT0JvcjQ3WkhGeWwtcS0zaVlTNjFHdjFSOC1nRThzdV9UR3YxbDBxUy1SWU9UQlNrRDh4Mk8wYTVwWmd6bHpxN3VnZDZ0M3hqTTNWb00xaFo0alZ6NHk4eGRNUjM3NGRfVGlhdUxSRlBrVDhSZ2FIUkxrOTk5Y1Y4Xzlnb2FETDRieWJ0cDdXMFpzS0NnanhWTmJpNWJRSjVw0gGsAUFVX3lxTFBQTmVrS2RWX3VxMzh1STVNSzVnMjNySnRCSXJVMXVDdHk3eUxpTzF5NVlYVlZ1bzNVcXBNbU53MW8wc0Y2WFE2YU1Ud3BqNFFuaFlVVktEMFhOODlYaDY5NG5aN200SlIxRGRCWGZGSHB2Z3E1VDhSWWhhNDh5WHJMeGxvSTFfNkdvd2VzV0dCNWp4QUdWRDB1aTdHX0YzUzlxZEJ6S0ZhWHpnV1g?oc=5",
+          "source": "South China Morning Post",
+          "published": "2026-10-28T18:09:38+08:00",
+          "summary": "China’s former vice-premier Liu Yandong dies at age 80 South China Morning Post China’s former Vice Premier Liu Yandong, ex-Politburo member, dies at 80 India Today Former Vice Premier of China Liu Yandong passes away at age 81 in Beijing Plataforma Media Former Chinese vice...",
+          "summary_zh": ""
+        },
+        {
+          "title": "The banker, the basketball star, the cardiologist and the chemist: meet Serbia's potential new leaders",
+          "title_zh": "银行家、篮球明星、心脏病专家和化学家：会见塞尔维亚潜在的新领导人",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFZyZkFCWm1xNUhablhhMUdOY3B2R2xBUmhGYWNMd09SUUxuXzVLaFVhLVBvOEl3aXJIUWxEdVlfaE9xMk9MX2lsS1VocjB1TnlRazdzRG50MWhMX1dzbUtoS2dBTjk1NWhEd003MVg3bkk5N1RRT2QtaVFWMk1NYXU1QldsRDVtUGZZSF9jYmo3ek5WYWJFdllmUzZoeDUxUHJqekVJd2UxR1FWNi15U0JfcjBEYjhRYzJxNA?oc=5",
+          "source": "Reuters",
+          "published": "2026-10-28T20:08:25+08:00",
+          "summary": "The banker, the basketball star, the cardiologist and the chemist: meet Serbia's potential new leaders Reuters In Serbia, a new type of democracy is taking hold, and Europe is watching closely The Guardian Serbian Students, Victorious and Leaderless, Go After the Media The...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Egyptian Court Delivers a Big Blow to Independent Media",
+          "title_zh": "埃及法院对独立媒体造成沉重打击",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2M0a2M4R3VFV0Vsa0xCZHU1eXpiLVFlN2ZoamxkdmM1UUNLQ19reE16R2J3akk5eHpENGFZYlFPbUtWSGpZZUM3R0ljN3htYl9NNzVpUzNPTkc1Y0lFTDhhX0tCSFpuUUEycEJfWjBwM0xBNEFhMUNPZWFwdHRwanVmRzEzMHVFdmNLWERyRHpWSTlia1NNZ1ZJZE0?oc=5",
+          "source": "Newser",
+          "published": "2026-10-28T21:01:00+08:00",
+          "summary": "Egyptian Court Delivers a Big Blow to Independent Media Newser Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown The New York Times Court orders closure of one of Egypt’s last independent media outlets NBC News Egypt fines prominent editor Lina Attalah and...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "中共召开五中全会：“从严治党”背后的权力布局与政治刚需",
+          "title": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWpnUlY1dkwxcXdIRmxvN0lXMm9ZaVc4a1J5MHp0bTdlM3BGWVFia1BSdVJwVVVnNld5Z1NFM2dHYWpxNFY3Mm9GRGlmU0ZscXpId29TdjE0Vjk0YWxzN1Jlc19rUUdyUzNNZ3JocHJZdDdIUVM0UTMtTEZUemx2MlZ0MDZ2dUx4MUVoRnZ4MzFKRzcyWFZCNS1JLS1zclFHNWfSAaQBQVVfeXFMTWpvN255MmdrckoxX09BZUlZTldodDgtWVhUSWhtMThfeHRvdl9rZUx0N2hiRDhHbTJncWJ3UkxzcnJNN3MxMi1rR29ZeVhZaEx4TEJUOVJlWExGNThjZlNfRzNMc19sc0pCTmdXdERUNS1nMXZLVnN6VER5TENzV1V6b3E4eFRfYkJaT2tRVWhST3NRdHNiT3dGY2xEc1NqRGhkMms?oc=5",
-          "source": "美国之音",
-          "published": "2026-10-28T06:28:27+08:00",
-          "summary": "中共召开五中全会：“从严治党”背后的权力布局与政治刚需 美国之音 “我将无我，不负人民”的时代答卷 人民日报 不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三 新华网 【持之以恒推进全面从严治党】以优良作风厚植党的执政根基 光明网 国际纵横 - 专访王军涛谈中共二十届五中全会的看点 RFI",
-          "summary_zh": ""
-        },
-        {
-          "title": "习近平致电祝贺卢拉当选连任巴西总统",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHMENMWUlSb0I4d21fWlRnaVQ2RHlXd2tmZFI0cHJFdjMxcV9hZWZsWlllaTltSnBDMzNRMmFHNzl4emE2Y1RPTlNkNjhBRVRSbVp0RkJLMENvUW1hS25IRUxQUkZFbHRVd1E?oc=5",
-          "source": "中国共产党新闻网",
-          "published": "2026-10-28T08:41:00+08:00",
-          "summary": "习近平致电祝贺卢拉当选连任巴西总统 中国共产党新闻网 “卢拉军团”的WhatsApp聊天群如何扭转巴西选情 BBC 两岸圆桌派｜从巴西到塞尔维亚：两场选举，多种焦虑，一个美国因素 观察者网 国际观察丨胜选后，卢拉将如何开启第四任期--国际 人民网 卢拉绝地翻盘 为全球南方协同合作提供战略支点 中国青年网",
-          "summary_zh": ""
-        },
-        {
-          "title": "为加强新时代党的建设提供学理支撑",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0cURlLWozOXZlOWJDQmRqZml6TTFIeDZDT0htZ05GWUpfcVpfMTlyeHVNbW1ZYWFqM0hwMGNCY251cVBwaGQzX2o2elc4OGxSaEliMl8tWFNjRVpUQnMtcEEwWUNQbXZKNjd1Yw?oc=5",
-          "source": "中国社会科学网",
-          "published": "2026-10-28T09:32:09+08:00",
-          "summary": "为加强新时代党的建设提供学理支撑 中国社会科学网 焦点访谈丨理论品格固根基——思想的力量 新浪新闻_手机新浪网 坚持党的全面领导，不断提高党的长期执政能力 中国经济网 如何构建新时代党的建设科学体系？专家划重点 中国网新闻中心 中央党史和文献研究院院长 围绕“深入学习贯彻习近平党建思想” 为全区干部和在怀科研院所、高校、科技领军企业负责同志作报告 北京市人民政府门户网站",
-          "summary_zh": ""
-        },
-        {
-          "title": "小博索纳罗已“流亡”美国 逃避司法调查引发争议",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YaHZnQlIyekZsWGxWVDhxaVRyZTFqa01fWnNmd0g1ZjRVNWwyU21hWndsY21GMlc2bm1CXzBmRnJobExYN1V2SDRqZHNHZVFGejVuS3VfN29JdUNXWTVyRnpReEdydEQzRV9UeFN6N18?oc=5",
-          "source": "中华网",
-          "published": "2026-10-28T09:42:35+08:00",
-          "summary": "小博索纳罗已“流亡”美国 逃避司法调查引发争议 中华网 查无此人，人已在美国 凤凰网 巴西总统卢拉：弗拉维奥·博索纳罗败选后逃离巴西“可耻” 新浪新闻_手机新浪网 巴西自由党众议员称弗拉维奥·博索纳罗已前往美国 上海热线 巴西联邦最高法院要求调查博索纳罗涉嫌接受外国资金 央视网",
-          "summary_zh": ""
-        },
-        {
-          "title": "以色列议会选举投票率达77.7% 创27年来新高",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KaTJvOUhpcnA1eUNpMGZDaXJ5X214WkkwbGV3TXNiOEQ0NmNkbklwZDFYNks4dnNXeTNoSkV5ZmZrNjZxV29uQkhMS0NUT0ZFLTk0dGxDWElwajZjclQtU0VScDR2dw?oc=5",
-          "source": "东方财富",
-          "published": "2026-10-28T08:16:08+08:00",
-          "summary": "以色列议会选举投票率达77.7% 创27年来新高 东方财富 以色列议会选举投票率达77.7% 创1999年以来新高 新浪新闻_手机新浪网 出口民调显示内塔尼亚胡阵营未获议会多数席位 凤凰网 内塔尼亚胡执政19年面临“全民公投”，结果牵动美伊博弈与地区局势 两强相持选情胶着 中华网 两场选举后，美以伊“冷和平”会否被战火取代？ ThePaper.cn",
-          "summary_zh": ""
-        },
-        {
-          "title": "特朗普称美国已经击败伊朗 伊朗高官回应威胁分量不大",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDT0FNNjdxZWFFNnVibXVfMXhJc0lHSDZHaXBLZHQ2dUdsVzdISjU2RG15enB6X0NLSURuNjJCNW8yc1lRSHpNYjd4V0plRE9OSWZkRWY1SzdlME4zb0g0X2daRVdzYmJBVnRIVzRsV2g?oc=5",
-          "source": "中华网",
-          "published": "2026-10-28T12:31:30+08:00",
-          "summary": "特朗普称美国已经击败伊朗 伊朗高官回应威胁分量不大 中华网 伊朗最高领袖会见高官 讨论管控霍尔木兹海峡等问题 finance.sina.com.cn 伊朗议长曝穆杰塔巴健康状态 凤凰网 美以伊局势：伊朗最高领袖声明，提到了“结束战争”；特朗普称美国已经击败伊朗；以色列大选，以军全员取消休假进入战备 ThePaper.cn 伊朗最高领袖会见最高安全官员 强调落实伊方需求以期结束战争 中国日报网",
-          "summary_zh": ""
-        },
-        {
-          "title": "岛内多党派团体举办台湾光复纪念活动 国台办：发出了台湾同胞的正义之声",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzckJ4V2o4bExiNjZXZk5pWEVtQ1NabzBFcC1zbzJyR1VVbUFFWkk1aEd1M3JWQVp4LTlpNHc1akU3TFkzb2o5MUlGME9WOW5oRVZvbF9idG5BUWNpS3BOb0NoM01WdTBm?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-10-28T11:01:06+08:00",
-          "summary": "岛内多党派团体举办台湾光复纪念活动 国台办：发出了台湾同胞的正义之声 中国新闻网 中国官媒光复节发布台湾高清卫星影像 顾立雄指认知作战 RFI 台湾光复纪念日，全网跟着“吉林一号”看台湾；高清大图背后，是中国商业航天的“硬核”底气 China Daily 中国的卫星看看中国台湾的大好河山很正常 军网 纪念台湾光复81周年图片展在非洲多国举办 上海热线",
-          "summary_zh": ""
-        },
-        {
-          "title": "国台办回应蔡康永发文称“没有支持过‘台独’”",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVGhkeVJsdjh6YTUyd3lEbGFEdnZua2xMUjdPeVU4a2kwbXlfbDZqOW9jQkF4S2dBcG5mejlSZXk4a3pPdjFKeVBRNm41YmdyMHlhY1pnMUJxOHliV1ZpNHc3a1ZNXzBkOUdfTE9oSThqNlNYSi00TGpaVQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTW94VjZHVXFUVFl1NlY5d3JkQktxOFVrQWNFVXBXa2xIZTRfUWdOZFUtNkRicklUZWNmNFpmZVlad3RYaS1MZU5qdnIzSndUemp1Rjk3OWx5b1ZDY0IwTjhoS1RFLU5Ta29TVDJnaUFIbWNVeHNrUnZXTE9aTEJDczNtT2JxZVdPc1BBWUxn?oc=5",
           "source": "新华网",
-          "published": "2026-10-28T10:40:02+08:00",
-          "summary": "国台办回应蔡康永发文称“没有支持过‘台独’” 新华网 蔡康永深夜发文“没支持过台独”，国台办回应 观察者网 蔡康永日前在社交媒体发文称“没有支持过‘台独’”_新浪新闻 finance.sina.com.cn 蔡康永称“没有支持过台独”后出席蒋万安造势活动 两岸舆论仍未息 BBC 蔡康永骑墙说辞没人买账 公众不再买账 中华网",
+          "published": "2026-10-28T23:15:45+08:00",
+          "summary": "探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪 新华网 “我将无我，不负人民”的时代答卷 人民日报 微视频丨永远在路上- 中国日报网 China Daily 不断实现党的自我净化、自我完善、自我革新、自我提高——习近平党建思想引领新时代全面从严治党系列述评之三 央视网 【持之以恒推进全面从严治党】以优良作风厚植党的执政根基 光明网",
           "summary_zh": ""
         },
         {
-          "title": "国台办：祖国终将统一也必将统一的历史大势不可阻挡",
+          "title": "西班牙高铁追尾至少64人遇难，为何一年内两次大事故？",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BYzBOV0dvcWJXWnRHSnBrRjNQQXAyc2NfbS1IY1Y5bURDdV80V1BMS0RScGFQUHY1b08tOGxfQ1VteHBQYldhdWlBSi1IXzZ1ZmQ5N2FUenp6cXM?oc=5",
-          "source": "极目新闻",
-          "published": "2026-10-28T10:24:45+08:00",
-          "summary": "国台办：祖国终将统一也必将统一的历史大势不可阻挡 极目新闻 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWXk5U0RnZmdPYnp3UGxjNTlBcFByeHE3a3ZyNno3NjJsNHc0c29sVUlCRWJtYW4xeFYyeElYd1BfR0xJdEMyOS0yMmg5NHRHZkpjQlRRVUtVYXFWcW9Edk1qNktad01nSzBxVEFpYUZaUmQya2JLM0daY010Tk5yR1E4MzlLWUhFeTV0TXhRLVJ4VHZuNHM2eVBidHNQNlp0a0hxdjdjdkxKN2RoN19IVnFLVXFkZ3ZPVmktNEZEdnhZNjZKV3FUTnBoVGRQaGtrX2hlY09GamJhMGlyMEZpQWViSkd4ZHlZQWJTVzhXNmRMaDNOTkYtUndyQ2k3UUZLbUFIbzhXSERJV0laMVhqWVM0NzBRTG02VXZONDVyazV2UDhH0gGkAkFVX3lxTFBPOGdLVEV0M2lYQ2lmQWVTMVNaeEFHM2RnVzdqcl9WaWlDU2MtemVJQ01sYVE0MUxPLWdXVVpIWWpCZC14OEc0eS1lNW91RnY5cTB3RDdicXF3UkxnQ0JGOGVuTjJvZVg1SkhQdzl5djJscEJTTWhZTUNoT3dRSmxQS0VfODZiMWFiQl80Ui1teFdoNzdaU21aUzY2cGFITGpFdnZfVHpweWVZNGxpYmFWb0FnakhxY29mZ0dtQ3pycXpSc29Qdnd1NnlxSkVCRl9MWGNjczZteENGNDZXdU9pN2xtdmZOV2lmai1uZlNvYnRVMmhBcGNqa3lfZW9XbjMxRGtOUlJHRHpDbUdNX2RielYwWFE5MGtXem1fZVJ1b21WWUw?oc=5",
+          "source": "DW.com",
+          "published": "2026-10-29T00:25:13+08:00",
+          "summary": "西班牙高铁追尾至少64人遇难，为何一年内两次大事故？ DW.com 西班牙中部高铁相撞，至少64人死亡 美国之音 西班牙下月迎来提前大选，列车相撞事故或将影响选情 凤凰网 列车顶着红灯高速行驶25公里，已致68死的西班牙高铁追尾本可以避免吗？ ThePaper.cn 西班牙列车相撞事故最新调查：前车故障滞留 后车因调度失误追尾 搜狐网",
           "summary_zh": ""
         },
         {
-          "title": "青藏铁路受地震影响区段全面取消限速",
+          "title": "海格塞斯提议建立美国-东盟新防务框架，并重申美国对印太地区的承诺",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VUzl2UUdhMDVmZHpncWh2cVVNMzgydzhUeFk4d3NKTVBtdTdPM2hhNjAwaFlLZDFhTko0SGZqR1RGNVNtSS15MmhhRnRvUnFDOWlyNjMtWHpub1NnSGFqclFvblY1M3BuUWptemstaC0?oc=5",
-          "source": "央广网",
-          "published": "2026-10-28T09:18:45+08:00",
-          "summary": "青藏铁路受地震影响区段全面取消限速 央广网 特写：一个好人，一群好人 新华网 西藏那曲市巴青县发生3.2级地震，震源深度10千米 央视网 共产党员，最闪亮的名字（党旗在基层一线高高飘扬） 新浪新闻_手机新浪网 “谢谢你们，在这种时候还能上门服务” 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUk5enBZRXo3S3FWcjJvdkwwNnBkdHVaMkNUX1dMZEpsTnhvZU9nVWd4VjFXWmNhaU9BQndMUDB4VFFuVzB2V1V2UU9aWGl4OVJNWV93azlKRnZVYXd4eEg5WkFIRUZRY1pZRmhKYnlMQ2RIMTZOOThHQ3ZKalNVaGk5NlotNE9SM0JaUVhBREhIOVVLZ2txOS01TnZmRGlTU2VfY3N1Rm5rUdIBrAFBVV95cUxOTTNsaVZKUDU3QVdSX185MmtiSmU4WnM3YW5ScWZsMzMwb0dKVlZBb2xfWFNCM1BrV2k4cU85UEl4ZlhXNi1LdnVLLWppODlRRUVHX0RkMS1ZR3g0Z25ncmJsYmtvZUlDcUszeldPcUxsUjhGRmJtUFc5YzFwVXhiWnIxdXVmbkVmM3FBRDZGVVVkX1QyWGUwQ2ZfNWJLRDhreWVCbGhZc3BpeUst?oc=5",
+          "source": "美国之音",
+          "published": "2026-10-28T19:22:12+08:00",
+          "summary": "海格塞斯提议建立美国-东盟新防务框架，并重申美国对印太地区的承诺 美国之音 信号明确！中方降级出席会议，“责任完全在菲律宾” 凤凰网 中国驻菲律宾使馆国防武官将作为中方代表，出席东盟防长扩大会 新京报 东道主菲律宾上蹿下跳，中方降级出席会议，释放什么信号？ QQ News 美防长赫格塞思称美国谋求建立东盟防务合作框架 手机新浪网",
+          "summary_zh": ""
+        },
+        {
+          "title": "南京理工大学举办纪念中国工农红军长征胜利90周年专题辅导报告会",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GcUkyVUFENFdtcFFycDVvVXZKYUJIeVExTzhnRU1EdDk2MGl5Q0xkbVFYczhBUTVpY19aczBvWm1rSWZBTFZqcTU0SGFSQUl2NnJuVG9tX3JHNEE2MGpkeA?oc=5",
+          "source": "钟声网",
+          "published": "2026-10-28T18:27:49+08:00",
+          "summary": "南京理工大学举办纪念中国工农红军长征胜利90周年专题辅导报告会 钟声网 深深植根人民，走好新的长征路 北京市人民政府门户网站 【赓续长征精神 奋进复兴征程】中原大地续写时代答卷 finance.sina.com.cn 多国外交官感悟长征精神：世界需要这样的决心 中国日报网 让人们看到长征更读懂长征 光明网",
+          "summary_zh": ""
+        },
+        {
+          "title": "把习近平党建思想贯彻到从严管党治党实践中",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41YjZtbk1idVhMVkxlbEQ1Z3o3VmR4OGFKQXVOM3lVM3dURnB6OHRyNVZYUWFoa2dvWjBoX2JzcjA4M012SklpaF9xbHJrT1RjMFowc1dubHQtMmhhc2tFaVVoU3VLN0V4clRBa2pXcw?oc=5",
+          "source": "江苏宣传网",
+          "published": "2026-10-28T16:20:22+08:00",
+          "summary": "把习近平党建思想贯彻到从严管党治党实践中 江苏宣传网 焦点访谈丨理论品格固根基——思想的力量 新浪新闻_手机新浪网 党校微讲堂（第三季）第六讲：坚持用党的创新理论凝心铸魂 中国青年网 坚持党的全面领导，不断提高党的长期执政能力 中国经济网 如何构建新时代党的建设科学体系？专家划重点 中国网新闻中心",
+          "summary_zh": ""
+        },
+        {
+          "title": "西藏巴青震区安置一线：一群基层干部，守护牧区每一户",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Vb3NnUUtRaHA4TFNIMTZOd0RULTVEdmJ6UEhrUS1Fbm5Pbk5Mb2Z6N2xnYmNCeXNKLTVEcFlOZzBPRjNJRk1FREFmMzAyLXVPcFNRb3RSc2VWcmNzaTJ5MTlvVWtZblA4?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-10-28T22:00:58+08:00",
+          "summary": "西藏巴青震区安置一线：一群基层干部，守护牧区每一户 中国新闻网 共产党员，最闪亮的名字（党旗在基层一线高高飘扬） 人民日报 从“一个好人”到“一群好人”，震区升起暖心炊烟 光明网 板房“新居” 烟火渐起 中国日报网 西藏巴青县已完成3313栋建筑应急评估 人民日报",
+          "summary_zh": ""
+        },
+        {
+          "title": "重庆：力争2030年基本建成具有国际竞争力的先进制造业中心",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CWjRjRkJubEhKVFVzc2NVME96UlE0RURXZVZXbWNjQlNUOUI0aGpTU2duRWFLal8tTzZjMnc3ckQ3ZVZaSy1YRUE0SmxTWmh3WnVTeTlQOXF0bF9nT0hsMl96eUI1Wnh1?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-10-28T21:22:44+08:00",
+          "summary": "重庆：力争2030年基本建成具有国际竞争力的先进制造业中心 中国新闻网 重庆南岸：服务“两院一湾”建设 力争到“十五五”末GDP突破1600亿元 新华网重庆 助力国际消费中心城市建设 南岸用“三招”推动社零总额迈上千亿台阶 搜狐网 重庆经开区“十五五”将进一步提升对外开放能级 搜狐网 2030年，重庆将基本建成具有国际竞争力的先进制造业中心 七一网",
+          "summary_zh": ""
+        },
+        {
+          "title": "8位在韩中国人民志愿军烈士身份被确认",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHemtJWTB6dnE1UUtIa3ZMZ3pnUzRTbHh2N1RZT1ZCUVF4bGVtODdZMTlDQXlNaWgybVpBaWxuTWlGbGxZT3VaQ09HRlgzZDcwVHc?oc=5",
+          "source": "军网",
+          "published": "2026-10-28T12:56:04+08:00",
+          "summary": "8位在韩中国人民志愿军烈士身份被确认 军网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "云南立法保护铁路安全 纳入跨境协作内容",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56d1QtSjdVRGdKTTg1NS1tb3pwMmtHd3NXakxMMkZxeThtREJCZ0FYY3B6dmh5QlBmNmdWcEdVOGVPSl8zdWRHc3N4TWVkRkpwQmg3UHFqblRncE5ueHk3a1lFUVBBbWdZ?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-10-28T22:18:35+08:00",
+          "summary": "云南立法保护铁路安全 纳入跨境协作内容 中国新闻网",
+          "summary_zh": ""
+        },
+        {
+          "title": "博州：学深悟透凝聚奋进力量 立足岗位书写实干答卷",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdlU1LUFnV3NjQndZbmJnLXI2SVBmTmY5MWxrekRuZkgwVWpZRzZwc01nM1ZxRWVzdVdWaGJFRVpOaUpmS0NCODJaOElkV3BCcm5rclJZUDJ5MThWUjUtVFpKZ2FpZkZvQW5QNzV2blhoZnZJTzFhd253T0xOaUxCLU9tMA?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-10-28T18:51:53+08:00",
+          "summary": "博州：学深悟透凝聚奋进力量 立足岗位书写实干答卷 中国新闻网 中国共产党新疆维吾尔自治区第十一届委员会第一次全体会议举行 新华网 自治州召开全州干部大会 深入学习宣传贯彻自治区第十一次党代会精神 QQ News 团结奋进 以实干绘就玛纳斯发展新图景 中国新闻网 强基固本筑堡垒 党旗飘扬边疆一线——新时代新疆推进全面从严治党综述（上） https://www.aksxw.com/",
           "summary_zh": ""
         }
       ],
       "ai": [
         {
+          "title": "Artificial Intelligence is killing jobs but also creating new roles.",
+          "title_zh": "人工智能正在消灭就业机会，但也创造了新的角色。",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkh3VXFuVjA3cXRPb0Vjc0dVNEtSZlBZLVBoUVRsTHp4NzJvZ2dubUR0Q1I2Z29mdFlZQk9Pa1RiWGpBVE9zc2xGSS13N19FQk01YmlyNUMtVlVlQldhaDlHWHRBOW1KVnBEMFAxdm5YM2JEM0oySXhsMVY3SEZZdTFIRDZ3UXlIZmlZTkQ0NHdqS1JCR3JxcDRFZzIweWdLVkRjMVNSSUY?oc=5",
+          "source": "Gray TV",
+          "published": "2026-10-28T21:46:00+08:00",
+          "summary": "Artificial Intelligence is killing jobs but also creating new roles. Gray TV",
+          "summary_zh": ""
+        },
+        {
           "title": "Artificial intelligence use doubles in rural Nebraska, poll shows",
           "title_zh": "民意调查显示，内布拉斯加州农村地区的人工智能使用量翻了一番",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObU9RdUJMTFhST2ZiVG44ajZLYTcwejBXLV81MC14VHkyT0JKSzczeElCRWthVC1mRXhZdnQ3VEdaOE5pSFBFd3hvSERVamFic0pFU0x4ZHpnOGVQWHdaQ2JscHVtcnc1cUJTRUlPNjlDa0hlTURaM0xOUEhCZ2lzbGowYmtPQldkZjFXYkNFOHUxX2pnYzY1NA?oc=5",
           "source": "Nebraska Today",
-          "published": "2026-10-28T13:05:30+08:00",
+          "published": "2026-10-28T14:23:40+08:00",
           "summary": "Artificial intelligence use doubles in rural Nebraska, poll shows Nebraska Today",
           "summary_zh": ""
         },
         {
-          "title": "Trump says he will ban term artificial intelligence",
-          "title_zh": "特朗普称他将禁止“人工智能”一词",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5",
+          "title": "China's new export curbs draw a line around its AI crown jewels",
+          "title_zh": "中国新的出口限制对其人工智能皇冠上的宝石划出了界限",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5",
           "source": "Reuters",
-          "published": "2026-10-28T00:26:16+08:00",
-          "summary": "Trump says he will ban term artificial intelligence Reuters",
+          "published": "2026-10-28T20:20:14+08:00",
+          "summary": "China's new export curbs draw a line around its AI crown jewels Reuters",
           "summary_zh": ""
         },
         {
-          "title": "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’",
-          "title_zh": "特朗普表示，他将禁止“人工智能”一词，以推动“超级智能”的最新发展",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3BBOFRzNmhiVi10YzJyUVAwWXdVUlRzOHg3bi0yZENqUWk0VzFxUFFMV2NFWUxtdEhyb1pNaTdLcU9RbWU0TDVBUXBHdnN5emZ4SzdVck8zUE5mbnNwbkdqV2VzTHY1cHdBWjlWUmppbDZyMWk0T3FLOUNKR0hwQmIyWlJ5ZlRFbUM4dFJrVGRnb1d4T2tqNUNXUjZUZzQ?oc=5",
-          "source": "Forbes",
-          "published": "2026-10-28T01:38:12+08:00",
-          "summary": "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’ Forbes",
+          "title": "AI Doesn’t Have To Be an Empire. It Can Be a Bicycle.",
+          "title_zh": "人工智能不一定是一个帝国。它可以是一辆自行车。",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWV4Sk1SbHZZazlzTFZsZkx0N1lyeFdnODdLbGFQNnpucGtTZnVNNmFYYi0tWnM3Y3JDaFpDX3RzN2MtaWhYeUhvcDVqMGExX3JDTDhtMTR1ZGJKbndjc0gzaEw2WFdDSFlRdjN4NXU1cVlxZ2dwVXc2Q09XeGlJN2JwWl84YmM?oc=5",
+          "source": "Colby News",
+          "published": "2026-10-28T22:27:05+08:00",
+          "summary": "AI Doesn’t Have To Be an Empire. It Can Be a Bicycle. Colby News",
           "summary_zh": ""
         },
         {
-          "title": "Senate Assembly discusses student, faculty policies and artificial intelligence",
-          "title_zh": "参议院会议讨论学生、教师政策和人工智能",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjdpX0JEd2RzeWtVclpRQmtIOHRXZWhxWlpzRkJiRnB5TkhmZUI4RmJvc0I3TXFoMFNEa3NqOWdRdm5aa2FPMS1GVU9nUks0MWFZLTVRY3ZJLUJHY1FsQXNPcEJBSldxSFpWYUNOeGVOUlBYZDR4NTd6RlBvVTN3U2h5T0g3bkwya0lKdlZyRHhsWEZHYW9nQVZVZmRWeTJZQ3ZyRndiYkNiMjFTVGpwVzJZckVCbTZYZkpIeFRrQ3hDdw?oc=5",
-          "source": "The Michigan Daily",
-          "published": "2026-10-28T13:16:38+08:00",
-          "summary": "Senate Assembly discusses student, faculty policies and artificial intelligence The Michigan Daily",
+          "title": "Pres. Trump plans to ban the term 'artificial intelligence.' Here's what he wants to use instead",
+          "title_zh": "新闻。特朗普计划禁止“人工智能”一词。这是他想用的",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQU8zZWRFMGJNNmgycWVFaW83U29pam8tOEFCaXlhdG05dllCRGxuLVdtVlFuc25CVXZYTm1MdUw0c1dQbmdGS3BkRHlwWm9Oa2szTll5Y0R3SEU1OE8zZlU1Uzg0bDhyLTRZRjRJOGdXS2FWVkhYbHhlTHBjWmNKVU9ZeTU3MnpEUExKS3pXbFdDX2hBdDlKanNJZGxSUlBGQV9GU0JER1lyMEhKRkprWUh6ZmF0bXpmdEZldQ?oc=5",
+          "source": "WSMV",
+          "published": "2026-10-28T21:22:00+08:00",
+          "summary": "Pres. Trump plans to ban the term 'artificial intelligence.' Here's what he wants to use instead WSMV",
+          "summary_zh": ""
+        },
+        {
+          "title": "Settlement and Governance Behind the AI Frontier",
+          "title_zh": "AI前沿背后的结算与治理",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WRGNRWXpENVVfM3RsLUlnNWVBN0VEdXpnQXdESTlwbWR3ZkcweFE0cG9JWmJCZEVWSkpnejZVc1M4Q1pfUElNVUFXT1VPYjlCeUg4SnFqc3J1cm1UVVZhbjlsaw?oc=5",
+          "source": "RAND",
+          "published": "2026-10-28T20:37:12+08:00",
+          "summary": "Settlement and Governance Behind the AI Frontier RAND",
+          "summary_zh": ""
+        },
+        {
+          "title": "The Next Major M&A Opportunity in Central America: Energy, Artificial Intelligence and Digital Infrastructure",
+          "title_zh": "中美洲的下一个主要并购机会：能源、人工智能和数字基础设施",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1NiUXdzb0Yyek5Gemp6UG5xbUE5X2lnanFKOHVYSmxheEowZnViUTJTaFhPYXdHcG1PM0l3TS1BdjI0d0FPc0w5STJOTlBmcHJZVDdmTGxUVG9nWlc3cnNfVGxVY05QV2VDeG1teEc5RUl2MHI0UGY5ZkFuc1ZUa1RmMVpSeGp6enZFTjhHWURKSnNuNWhhZHBkN3BiNGVGdDJULWNYTHZ6dUZMS1dsWEh3OUE?oc=5",
+          "source": "Dentons",
+          "published": "2026-10-28T23:23:52+08:00",
+          "summary": "The Next Major M&A Opportunity in Central America: Energy, Artificial Intelligence and Digital Infrastructure Dentons",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial Intelligence and the Things That Matter Most",
+          "title_zh": "人工智能和最重要的事情",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVhLa051RWlnYVJYWlZTeUxwRUhYUVQtcnU4YkhZZm5mcXIzcXN1X0hCNk5kMWxJS3NnUVctalBaVENaWkR5RWtqb0dTVVJadHkxakV0cXFNQkpzWEJrQzlUZ2ktbG9TdG1URUlJVWoyNk05aDgtcHNVNmNFdXJRTnh2Y0xCYjQ?oc=5",
+          "source": "Good News Magazine",
+          "published": "2026-10-28T21:19:18+08:00",
+          "summary": "Artificial Intelligence and the Things That Matter Most Good News Magazine",
           "summary_zh": ""
         },
         {
@@ -234,48 +270,12 @@
           "summary_zh": ""
         },
         {
-          "title": "Local high school students learn about artificial intelligence during Rotary Club World Affairs Conference",
-          "title_zh": "当地高中生在扶轮社世界事务会议上了解人工智能",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM1VuUXFiMTYxODRsVkhwOHc5ZGdPZTY2ZmJ3emdsbEdpMG9XY0RrYW1sWVAxRkEyTnJhQ19EWTlRMzZkRUx1NmhaMmxILURTN3lhOUV5WXRJQm83NVF5ZWJGNUc3MFplTFZMYVJLVi1kRnNUMjd1UmpsRnVSOWFkLVZtdno4WkJJZmhDdENYUi1RREdDcnF5cFNOMlQyQVY2emJJZ1NxYmRqOGppMHFieVdTTFJTclRNcDBBek1mTjFsUzI3MllTUGdZc1lwQk9pNXVELUF3ZEJJOV9GV2Rj?oc=5",
-          "source": "WPTA | 21Alive | Fort Wayne, IN",
-          "published": "2026-10-28T09:04:00+08:00",
-          "summary": "Local high school students learn about artificial intelligence during Rotary Club World Affairs Conference WPTA | 21Alive | Fort Wayne, IN",
-          "summary_zh": ""
-        },
-        {
           "title": "Artificial Intelligence should be nowhere near art",
           "title_zh": "人工智能不应该接近艺术",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONHpzWjZzRFVCeFVieWFwVUMzeXZfYnFJMWQ2N0QzMTVHdFpibGpxRnBPejZkVHZFNW9sdkp1QW5kX05sektPVkJHeXpQQ1ZQbWNtdlFZT25Pay1BU0tadzZCQWhHdmw5c1Bra0tBVUFIejQxZjdUenZ3TlRUeS1NeENlTkhZd05rLW16WFIteUdJV09kdWsxY2c0VnlPVXc?oc=5",
           "source": "The Hofstra Chronicle",
-          "published": "2026-10-28T14:23:40+08:00",
+          "published": "2026-10-28T16:04:56+08:00",
           "summary": "Artificial Intelligence should be nowhere near art The Hofstra Chronicle",
-          "summary_zh": ""
-        },
-        {
-          "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
-          "title_zh": "特朗普希望禁止使用“人工智能”和“AI”一词",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5",
-          "source": "Variety",
-          "published": "2026-10-28T03:43:00+08:00",
-          "summary": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI' Variety",
-          "summary_zh": ""
-        },
-        {
-          "title": "Trump says he will ban the term artificial intelligence",
-          "title_zh": "特朗普表示他将禁止“人工智能”一词",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWdCemlqWmdjRWJ3TlVwdVVxQU1Jei1IM2ZMZERVMHBwcUZKdnY4OVhBeFhmV1pSNE9NU29nck5rMWdXbXgzRFVaV0ZHZlBjOUdRTjhGY1VQNFJFUTBRdkpnaVVJQnZZYnRJM1NPbTR1RWtSbVUtSDlHWUtsNVUxaFJhU3FKWkRsZ1BpUzRSeE1waGZrclRj0gGcAUFVX3lxTE9DUHZBbUFob0lyNnJQZjhBZzVrWFYxU2NmQVhDOWFmb2xTMU5JTnpIS3FwejdpdnZmUU5kUDBtaVRkb3h1NkszSVo4by1oRjVtdDlfNklZRFRsRUpjVFJCelhudTRSTnAtSm9OT3UwX2ZMRFpqUE02NExrbEZTeWVsNG0wV0pYVjdnUkxTUFVoYVZfWm0zdGs0RXdlMQ?oc=5",
-          "source": "The Hill",
-          "published": "2026-10-28T03:33:00+08:00",
-          "summary": "Trump says he will ban the term artificial intelligence The Hill",
-          "summary_zh": ""
-        },
-        {
-          "title": "Collaborative Collision: FSU researchers explore the future of artificial intelligence",
-          "title_zh": "协作碰撞：佛罗里达州立大学研究人员探索人工智能的未来",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdzlBdmhsTHVOSlZBbmpqZE5UeUZySUxLMFZYdzRkR2JBc3ZyUnRXM19fRTFkNWJhYk9VUzl2RkplWWpERGpTMjFaQVV1VFA1aHd5U1BPSFNqZk1xdWtIckRXMzFZV0lYU2ZRazRwUHJiVk93eXE1akhUOEpONHctaEhtVk1wVVpQY0hlMzBCZ0E5RG1ERTQ0MUpUc0hQVVI5N0haWVlHV0tsTm5QOUk5MFk2UjdIdjJVMWkteWlMdTB2cm9WRUZzSVhIZ0RIWXEtYkhFLXdn?oc=5",
-          "source": "Florida State University News",
-          "published": "2026-10-27T23:36:50+08:00",
-          "summary": "Collaborative Collision: FSU researchers explore the future of artificial intelligence Florida State University News",
           "summary_zh": ""
         }
       ]
