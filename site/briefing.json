@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
   "morning": {
-    "generated_at": "2026-10-30T01:23:14.153760+08:00",
+    "generated_at": "2026-10-30T01:31:19.247244+08:00",
     "sections": {
       "worldwide": [
         {
@@ -14,12 +14,12 @@
           "summary_zh": ""
         },
         {
-          "title": "Christine Lagarde to Step Down as President of European Central Bank",
-          "title_zh": "克里斯蒂娜·拉加德将辞去欧洲央行行长职务",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlNTZHA1c0ZVYjVybG1UOVAzU09UdjAydEpmOHgtWmZfWlFDNlpGSjNqWEFyamxqb1V4Rm5fcmhnc0FIUVprMzRoWnp2eGxJaEZrbHlDNUpmRDlIblBrZXRaNDhsZFB0Nl9naElYMHdBa2VtdmJ0bTY2MGFsV0pVT2pGaGY?oc=5",
-          "source": "The New York Times",
-          "published": "2026-10-29T22:43:31+08:00",
-          "summary": "Christine Lagarde to Step Down as President of European Central Bank The New York Times European Central Bank President Lagarde resigns after months of speculation CNN European Central Bank President Lagarde to step down early Al Jazeera European Central Bank head resigns,...",
+          "title": "European Central Bank head resigns, allowing search for successor to begin before French election",
+          "title_zh": "欧洲央行行长辞职，允许在法国大选前开始寻找继任者",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0t1M2lJYVRDeHhmSWRYc01ONFJxdlNybDhYZWpzNzJBdFd6OGJ0TEh2SkdwTndiRzVsM3B5eERhaG10eng3MDZzM0JpMko2dnFiQkZSc0tNVXppX0xyck5wNmxQMV9LcmJuOEQ3cFpveldnRlRkcHh2MFkwRjVOU0JYTjdIV0JQTHVBYmo0ZkNyUQ?oc=5",
+          "source": "AP News",
+          "published": "2026-10-29T21:36:00+08:00",
+          "summary": "European Central Bank head resigns, allowing search for successor to begin before French election AP News ECB's Lagarde steps down, saying she can't remain neutral on world events Reuters European Central Bank President Lagarde to step down early Al Jazeera European Central...",
           "summary_zh": ""
         },
         {
@@ -28,25 +28,16 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1Q3Q4TUV6Z1c5OGNLZnMxWHhrTFN1UG9GVXBJby15Y1k5UlhNbHU5WXVuRWQ1WGZBclVUV29kVWVxeFd2bnVwci1kZFVQaFZBVExhUEFZRm4wNG8?oc=5",
           "source": "BBC",
           "published": "2026-10-29T22:08:23+08:00",
-          "summary": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain BBC Spain Crash Investigators Focus on Train Traffic Controllers’ Role The New York Times Florida Firefighter Survives Deadly Train Crash in Spain, Then Rushes to Help Others TODAY.com Spanish...",
+          "summary": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain BBC What caused the deadly train crash in Spain? What we know so far CNN Spain begins three days of mourning after 74 killed in train crash The Times Spanish train crash death toll rises to 69...",
           "summary_zh": ""
         },
         {
-          "title": "China’s Xi Demands More Loyalty as Purges Trim Party Elite",
-          "title_zh": "中国习近平要求更多忠诚，清洗党内精英",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnZ1U19KeTR0VTNBM1Azb1l2eGUyVERuazdtYUVlcm1tZlJDT3pFRWd4dXVpbXdqSjcyTnB6aUNxZ2dxUV9nRjhkMXhaUFlFek1RQk0wYUE3RmpwdGVjSTBxMHZDMExpUFBJLVlOeVlaWk5HbnlJb1pkMjNtYzhueXl3dTVSYU1BampmeWR1c0paMDhLMW5tdHhqb21oNFE?oc=5",
-          "source": "WSJ",
-          "published": "2026-10-29T22:56:28+08:00",
-          "summary": "China’s Xi Demands More Loyalty as Purges Trim Party Elite WSJ China leaders demand more loyalty and more initiative DW.com China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens The New York Times It can be lonely at the top. And that’s just how China’s leader likes...",
-          "summary_zh": ""
-        },
-        {
-          "title": "A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 3",
-          "title_zh": "土耳其卡帕多西亚旅游区发生岩层崩塌，造成至少 3 人死亡",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZEtoRk9WWk5vNENWYWIyRkRIcjdhdk1KSUpQQmE3cEM0cjhuaWg1ZTNnM1RKa2lvWEFjUnFVUTh0eGVvVGhXNDBtaGZDbUcwSUhjQ1RaYkxsX195YkJtRS1ZLWlTX00temx3N1RKZlUwT1Z2Q3laZ18wM2FPZTQ5RlhIWDJLdw?oc=5",
-          "source": "CNN",
-          "published": "2026-10-30T00:12:01+08:00",
-          "summary": "A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 3 CNN 3 dead in Turkey’s popular tourist region after volcanic rock collapse: ‘We are deeply saddened’ AL.com Rock collapse kills two in Turkey's Cappadocia, local media reports BBC Fairy chimney...",
+          "title": "China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens",
+          "title_zh": "随着习近平清洗的深入，中国确认驱逐33名官员",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMUNkZlJBRi1Jel9SamxqX2dmTkpnell6NEd5NG92V0xJMGxqclpwNVBhXy1qN0FhSnE5aVFGcjRla0U1a1JzUlpVRlNtWFRmaHBqd1AtV2s2TGJHVkhYSkFqdWdYanQxZFR4NFh6ZVgxNURHbDBILWl0V2N1b05RYXE3ZG5TUQ?oc=5",
+          "source": "The New York Times",
+          "published": "2026-10-29T20:49:05+08:00",
+          "summary": "China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens The New York Times China’s Xi Demands More Loyalty as Purges Trim Party Elite WSJ It can be lonely at the top. And that’s just how China’s leader likes it CNN Record number of purges as Xi emphasises 'party...",
           "summary_zh": ""
         },
         {
@@ -56,6 +47,24 @@
           "source": "Al Jazeera",
           "published": "2026-10-29T22:45:34+08:00",
           "summary": "At least 13 people killed in Russian attack on Dnipro train station Al Jazeera Russia strikes Dnipro train station in central Ukraine, killing 14 CNN Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope CBS News Russian...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Fairy chimney rockfall kills two at Turkey's Cappadocia tourist attraction after heavy rain",
+          "title_zh": "土耳其卡帕多西亚旅游景点暴雨后仙女烟囱落石造成两人死亡",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGhRN204Yk1ya0hnbnBjX0E3NWxtUmRpWEJBcngyT09MSFZDZWxIU2VldDdlVWw3Nk9TM2FpRVl6YmlMM2VXS1plMXFrQk04dlk5SUh5dGQ1X1FGRGZvcTBFakE4NmtwUFdOdllkM0pJcmFTQ0E4S1hlUEZRbTZCX2E1WGZCdU1lejN5Y3VFR1R1eXdTZDRqSVozS0RwOWxYVi05XzZmSmhlRW1Vd01NcjFSUlFlYjd0SXpNZ1cxaGVfZzE2eDRjRUxpckg0dw?oc=5",
+          "source": "Reuters",
+          "published": "2026-10-29T22:35:59+08:00",
+          "summary": "Fairy chimney rockfall kills two at Turkey's Cappadocia tourist attraction after heavy rain Reuters A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 3 CNN 3 dead in Turkey’s popular tourist region after volcanic rock collapse: ‘We are deeply...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Met refers itself to police watchdog over handling of Markle letter",
+          "title_zh": "大都会将马克尔信件的处理归咎于警方监督机构",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbExRaTZYOUNQX2V0dFNZd2MwOGNPMk16MTFtcGtCM2hxNDA0b0JwU2F6TDdTd2tWSktqZDczcTRBOXA3eGM1NzdKREkzMTdOQ1hnSThyclNkay1pQ0IxdG52X3RPeTFVX01UWlp1X0FMLUlNTlJRZmk1MWRaQVZCWjhJREJwaDdZZGsyZ25uVFFfRDNTUUE?oc=5",
+          "source": "The Times",
+          "published": "2026-10-30T00:25:00+08:00",
+          "summary": "Met refers itself to police watchdog over handling of Markle letter The Times Philippine police obtain warrant to search Thomas Markle's devices BBC Buckingham Palace 'blindsided' by Thomas Markle allegations as Harry, Meghan face new family turmoil: expert Fox News Harry &...",
           "summary_zh": ""
         },
         {
@@ -73,7 +82,7 @@
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXZ4NzVHamREU182WllDcmo5QjVDMWRoWkltMW85QmpuTzFFbFdsakhPa2dqdXZxanZpREMtdzE5dDVqakREUmRaVnZUXzB2WVNEdUdLbnFtLTlXSjRUc1VleXlMYmVJWXpyMWlVazNFZmp2dVBwRUJmbUhhbWQtWmRJTGFxc3JkQXlRTmoxdkpVaEItM0NYSFRlWW1RRG1sNVE4SXpVcmVSbWlQaTBwWTBuYUtSZ3VuNG1pQjJIaGZ5S05YV1FRaUF4ZGNieFRHOVNhZ3poeENWM05OY1ZHenBzc0ZXQdIB6wFBVV95cUxQMmpqUXFVTGN1UmhhVHQwRlJUd0g0eVFERFBLWVBIb05qZk5abk1MUkVQVGlmaDMwQWRIenQycEFkM2JfYTBsdXFfRFFYcWRib3o5M3dwVXNNTTBEckZTb2dYS0NfZkxralI2cFVQTndJZFZRWkxPaTlnblhEVmdNNzJIVkxkS0lRQjMtMmJhdC0tU1l5Zk5oYVl4UV83aUE0QzVZdmo0WUl6WUVCM2I1WEtkMFB4ajBmU2tnOHZGUGpsX2p4UVZWUUJKMGVtYmtKX25LYTlFUXZVY21qQVdQYWZsQkpKcG9jazQ0?oc=5",
           "source": "The Times of India",
           "published": "2026-10-29T19:18:00+08:00",
-          "summary": "Chaos on camera: Armenia MPs trade blows as parliament erupts into mass brawl The Times of India We are dealing with a special operation by Aliyev’s OMON in the Armenian Parliament: Zurabyan Aysor.am Mass Brawl Erupts in Parliament While Pashinyan Declares Independence...",
+          "summary": "Chaos on camera: Armenia MPs trade blows as parliament erupts into mass brawl The Times of India Armenian PM Praises Loyalists After Parliament Brawl Ազատություն Ռադիոկայան It is necessary to help this man leave the post of Prime Minister as soon as possible: Tandilyan on...",
           "summary_zh": ""
         },
         {
@@ -84,15 +93,6 @@
           "published": "2026-10-29T17:52:00+08:00",
           "summary": "North Korea fires missile barrage toward the sea as tensions with South rise AP News North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says NBC News North Korea reportedly launches ballistic missiles | NHK WORLD-JAPAN News NHKニュース North Korea...",
           "summary_zh": ""
-        },
-        {
-          "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-          "title_zh": "智库警告称，随着生活水平下降，未来“痛苦”的几年",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05dGJhbzZWX0F3SFg4dzFWb3ZOSTlPWW1GUnJjM1BVTmNDOWp3REZOWGRPdTVqclliZ096aVZoWUZaLVl3Ny1CSWtGbUFITTJpQ1g4Z04tX3pfV1k?oc=5",
-          "source": "BBC",
-          "published": "2026-10-29T21:19:24+08:00",
-          "summary": "'Painful' years ahead, think tanks warn, as living standards set to fall BBC Downbeat UK Forecasts Raise Chance of Upside Surprise for Healey Bloomberg.com UK faces worst decade for household incomes, IFS think tank says, as it warns debt and growth problems remain BBC Healey...",
-          "summary_zh": ""
         }
       ],
       "china": [
@@ -102,7 +102,7 @@
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jYkQ5b3Y1UGRmX2V3c1VoaW1vel9iVElRSXpLOGMxMWpOXzBYUnRreTBIOVh5dHk0VXV4Z1VpY2xKeGMycnNYenlKRk5lSDlJWjMweldJSndZbW9xSGlFdFVsUURrNVnSAWxBVV95cUxOR1NIV3NWU1NVNGFyeG9IYktvdEprdEFLRHBuNGotaUpKelZkSlVzZFZvS09kajF5OU1qZngzRl9JSmNtYjVsUWVMeVU3RFpudGg0ZmVSanRQMUVrLXdlckhWVGR0LVBCbUczdlg?oc=5",
           "source": "BBC",
           "published": "2026-10-29T21:09:33+08:00",
-          "summary": "中共五中全会闭幕：出席委员较本届初减少四分之一 张升民罕见增选入政治局 BBC 受权发布丨中国共产党第二十届中央委员会第五次全体会议公报 新华网 探寻“中国之治”的成功密码——新时代全面从严治党为世界政党建设带来深刻启迪 新华网 五中全会闭幕 未见安排习近平接班人迹象 DW.com 中共五中全会落幕 开除党籍人数创改革开放以来新高 美国之音",
+          "summary": "中共五中全会闭幕：出席委员较本届初减少四分之一 张升民罕见增选入政治局 BBC 受权发布丨中国共产党第二十届中央委员会第五次全体会议公报 新华网 永葆清醒坚定，不断开创新时代管党治党、兴党强党新局面——与会同志谈贯彻落实党的二十届五中全会精神 ThePaper.cn 中共五中全会落幕 开除党籍人数创改革开放以来新高 美国之音 “我将无我，不负人民”的时代答卷 中国日报网",
           "summary_zh": ""
         },
         {
@@ -133,6 +133,15 @@
           "summary_zh": ""
         },
         {
+          "title": "这些地方将有大暴雪、特大暴雪 新一轮冷空气来袭",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pZWxTc3pWcS1SazVVYlNNaVdPZ1pZMGN3ZkVyWkVxbjBjT3RPT1NtM0lvcTBHTTBscU1lc3JDM2JnR19UTDFjblJ0bUVTUkFSR2VOQWFNbmo4Y3F0cmxORzA5VmZsWmpwQW1YX2hvLXM?oc=5",
+          "source": "中华网",
+          "published": "2026-10-29T19:43:07+08:00",
+          "summary": "这些地方将有大暴雪、特大暴雪 新一轮冷空气来袭 中华网 特大暴雪！暴雨！新一轮冷空气将登场 中国青年网 全国加被子地图登场 看你家盖多厚被子入眠 中国网 新的冷空气已经安排上了 周末气温将降 中华网 下一波冷空气，有消息了！ 搜狐网",
+          "summary_zh": ""
+        },
+        {
           "title": "国防部：弘扬伟大长征精神 加快把人民军队建成世界一流军队",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96LVdUUk9GX183VmV6RWhOTEVlVXYtVlhTd0tjR0xCcUdYM0plS09CREZhbG1xa3hYQjg3d2c3TVhJRGp4VXFsM19PSUg2cjBsWHlpQlZYSVA?oc=5",
@@ -142,12 +151,12 @@
           "summary_zh": ""
         },
         {
-          "title": "这些地方将有大暴雪、特大暴雪 新一轮冷空气来袭",
+          "title": "天津开展巾帼宣讲员风采展示活动 讲好巾帼建功奋斗故事",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pZWxTc3pWcS1SazVVYlNNaVdPZ1pZMGN3ZkVyWkVxbjBjT3RPT1NtM0lvcTBHTTBscU1lc3JDM2JnR19UTDFjblJ0bUVTUkFSR2VOQWFNbmo4Y3F0cmxORzA5VmZsWmpwQW1YX2hvLXM?oc=5",
-          "source": "中华网",
-          "published": "2026-10-29T19:43:07+08:00",
-          "summary": "这些地方将有大暴雪、特大暴雪 新一轮冷空气来袭 中华网 特大暴雪！暴雨！新一轮冷空气将登场 中国青年网 全国加被子地图登场 看你家盖多厚被子入眠 中国网 新的冷空气已经安排上了 周末气温将降 中华网 下一波冷空气，有消息了！ 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aa0lrWUZfS0stZHczVFRIYV9rSEdjWnhWbTJrcFowY0FXbFF4OUhadkFSNldNOE04QTU4ZjhHX1pNMF9rN2xFMmpBWGZBaHdMSlNyRVdXdmZERllENGhaZ2tWSmZ6enFL?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-10-29T23:34:19+08:00",
+          "summary": "天津开展巾帼宣讲员风采展示活动 讲好巾帼建功奋斗故事 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
@@ -160,30 +169,21 @@
           "summary_zh": ""
         },
         {
+          "title": "重庆彭水“十五五”谋文旅发展蓝图：品山水、宿苗乡、盼再来",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEWWdsaEtic3VGMVVOU2xQeFNDNkItMDBWYmhqZUtlLXJyMUI5ZE5fdkVnMkhqY2g0TDFlcHc5cFlkYzVGTllqaFpSWWZaSnJ6c2ZUcFlrTDNwRS1ORUEyeHRmMUNoWWow?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-10-29T23:01:28+08:00",
+          "summary": "重庆彭水“十五五”谋文旅发展蓝图：品山水、宿苗乡、盼再来 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
           "title": "青海省第八座民用运输机场投产校飞成功",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xVGdJUG9lZnVaVzlwXzAtQUdTcTB5Y2xmbUxuVWNJRmI1TkRpTV9LYjhvNEdZeUl1SDFRUWZUVlY0Z1AwWWQ3Q0tvVUdIZnJVdlYzY3R3dEFja2w0R2ZBclVOMXVpcE5y?oc=5",
           "source": "中国新闻网",
           "published": "2026-10-29T22:49:47+08:00",
           "summary": "青海省第八座民用运输机场投产校飞成功 中国新闻网",
-          "summary_zh": ""
-        },
-        {
-          "title": "北京警方全面启动彩叶观赏季安保工作_警务报道",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xVlZMdXk4MW0wekIwVm5YZGVRb1JYeC01QXU5dXZCbC0xWjNVZ1hPVEdsZ0lMUXBWQUJxLVMzTWtEYmRvbXgyOGkzOGJSSTlubkU5ZGg0Y1JxNElRUnVTWGl3NmhnUTJDZVo5TmxzT2tGMXBG?oc=5",
-          "source": "北京市公安局",
-          "published": "2026-10-29T20:09:15+08:00",
-          "summary": "北京警方全面启动彩叶观赏季安保工作_警务报道 北京市公安局 京城赏红正当时 北京市人民政府门户网站 从“当天往返”到“多住一晚”，京郊赏秋游抢滩过夜经济 finance.sina.com.cn 错峰绿色出游 北京公交发布赏红叶出行攻略 人民网 北京有了新的打开方式→ 搜狐网",
-          "summary_zh": ""
-        },
-        {
-          "title": "西藏自治区交通运输厅针对巴青7.0级地震已排查公路29353公里",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13azJUVkliU1dHSFhSWEFWRnpabFBVYUtsMG9SSFVIWjR6WFB2aU9SSkJVM3BTWFNLNURQUUM1N1JxNWNqNHdVV21EdXkxbWx1czdFTWRTYklSRHBmYUNMdHFzb2lwdFNMQmJyX1BDdGhsbUJ0Vlk3NWJleGw?oc=5",
-          "source": "中国日报网",
-          "published": "2026-10-29T19:24:26+08:00",
-          "summary": "西藏自治区交通运输厅针对巴青7.0级地震已排查公路29353公里 中国日报网 向险而行，护群众平安（在现场） 人民日报 西藏那曲市巴青县7.0级地震｜建筑应急评估、安置保障等工作有序进行 光明网 共产党员，最闪亮的名字（党旗在基层一线高高飘扬） 新浪新闻_手机新浪网 板房“新居” 烟火渐起 中国日报网",
           "summary_zh": ""
         }
       ],
