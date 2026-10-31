@@ -1,200 +1,263 @@
 {
   "date": "2026-10-31",
   "morning": {
-    "generated_at": "2026-10-31T01:08:28.122847+08:00",
+    "generated_at": "2026-10-31T14:52:59.684145+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-          "title_zh": "西班牙交通部长表示不会因高铁灾难而辞职",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ObF9kR1luX05CcDkxYjVSclhLWmJsYmNzQm1Zbi1Vb0IyTFRJZENrWVVtTkxzMUxqWjV4b1dKVXhrbmd3MlQ0Z1A1S0Z3cWVEdEp0U1dVYUZfelE?oc=5",
+          "title": "Burnham 'open' to calls for slavery apology but not reparations",
+          "title_zh": "伯纳姆“开放”呼吁就奴隶制道歉但不赔偿",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qSlVjRTlfczZDQW4ycWlJdi1UdmxFd1E4WU1TajdEcnBEd2N4WlIxOEgyd1lhS29zODBXd3RDRU9KQTlOMnAwN2VOWU1SZ0lXWlJDV0FJbXVsR0k?oc=5",
           "source": "BBC",
-          "published": "2026-10-30T23:03:39+08:00",
-          "summary": "Spain transport minister says he won't resign over high-speed rail disaster BBC Why Does Spain Keep Having Deadly Rail Accidents? WSJ Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says The New York Times Death toll climbs to at least 69 as Spanish...",
+          "published": "2026-10-31T11:12:08+08:00",
+          "summary": "Burnham 'open' to calls for slavery apology but not reparations BBC Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery The New York Times British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The...",
           "summary_zh": ""
         },
         {
-          "title": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down",
-          "title_zh": "极其独立的俄罗斯新闻媒体《新报》表示将关闭",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0Q5RURsVzItYV9iNENhcmg5c3p2V3ZqN3B1dnhGUDZWRzk3RkxoU1VGOENsaERjVzBHamVEdmxwQmpNNkFsQ1BEdmVjREJ1RG1SeExfVVg2QW5obGR1NkREdjVMV3ZKZXRrOHpGM3QtNnBTRDM5UlhXNGJBSjJObU50QUEzRUNhUmhR?oc=5",
-          "source": "The New York Times",
-          "published": "2026-10-30T22:12:50+08:00",
-          "summary": "Novaya Gazeta, Fiercely Independent Russian News Outlet, Says It Will Shut Down The New York Times Russian society being ‘systematically crushed’ says Novaya Gazeta as newspaper announces closure The Guardian The Kremlin is shutting down Russia’s last free newspaper The...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Netanyahu bloc short of majority as Arab parties secure record seats",
-          "title_zh": "阿拉伯政党获得创纪录席位，内塔尼亚胡集团未能获得多数席位",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVJjNG9sVVR3dTdQVjEyZlhvZkVjbzNYc0VISXBRRmtqUkk3dU5WbVVfQmJjMXVjQkx6THVsWmlOS0UwUks5VjJGa1ZhU0w4STI4QjhJdnRCSGVjRUtCT19MTTZ0V1IxSmdiRVQyMVphY21YdDlnN3Z5bmd5VzdqU0Nxd2JVZEVoRVB6Q3RVYkE4RXF4QTNrdk5aTnJSQnlaZ0NaVG53VzN3c0hhVmFXbUZ6UQ?oc=5",
-          "source": "Euronews",
-          "published": "2026-10-30T15:31:44+08:00",
-          "summary": "Netanyahu bloc short of majority as Arab parties secure record seats Euronews Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties Reuters Israel's election results are in. Here's what could happen next PBS Israel Election Count Completed: These Are...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Iran hits Hormuz tanker with limpet mines in apparent tactical shift",
-          "title_zh": "伊朗用帽贝地雷袭击霍尔木兹油轮，战术发生明显转变",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlhMalhPNXJQMlROUmlua3ZEaEZUZGplWTdKWjdud010OWFwRTJhQU55bDA0U0VodGtpTUJ6aWYxZFRsYWtlRVp0dUt0UXRHamhoaW5mQUVaemRNNDhsUG9SaHRtaTJrSl9HTkhZTVBBYXlDNjhBcy10cmxYVmdJSVp2TUY?oc=5",
-          "source": "Financial Times",
-          "published": "2026-10-30T20:01:05+08:00",
-          "summary": "Iran hits Hormuz tanker with limpet mines in apparent tactical shift Financial Times Iran war live: Multiple tankers and drone reported struck around Hormuz Al Jazeera Rare Speedboat Attack in Hormuz Ignites Tanker’s Engine Room Bloomberg.com Tanker in Strait of Hormuz hit by...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
-          "title_zh": "消息人士称，五角大楼要求欧洲人冷静对待俄罗斯的言论",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczVvRHdRLVZ5aFBrOEx4aWc1X25vb3JrdXZDOWlSMFdjcURwQlQ2QnNhNHFLcy00ZVVSSkM2UkZybF9tVVc0MnNESHBzUjlUM0NqYnl4S3p2ZmgyOEJSOER1SHU0X2V6SWFYX3hsTjNWTWxqVEczWi02Tmctd3RRak1rd194Nm1JZ21IYXpOTFQwdHpWejJfaUxJM09rRWhXUlNMM1RiU1RrbWRoR3B4Z3dGWV80NDh3alNzczVqSy0?oc=5",
-          "source": "Defense News",
-          "published": "2026-10-30T18:48:59+08:00",
-          "summary": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say Defense News EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say Reuters ‘Don't make noise’: Pentagon tells European allies to tone down Russia rhetoric TVP World ‘I Won’t...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Italy’s PM deploys troops as nation faces widespread strikes and port blockades",
-          "title_zh": "意大利面临大范围罢工和港口封锁，总理部署军队",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktMNk1PczNlWkRoaXpNVG9BMHlCNlhGbml2VXZCRVppQWxMeUhyUWJWbFp3TGpoUS1wYl9qZnhfRFVWZF93QVZWZG1KRFlXTEpCQ0NEWjlJSlZPTXZLRGlvRVFaRWN0ZkVrejZ1eTE4OVhfUW03RWc5YU9ZZTdDWFVSZnNTaVRSVnVCMEhHMURUTVliVHFSbU96RHQxVzE0SExjeGlDdWQyWlRIQXFLRnJ5RktTdw?oc=5",
+          "title": "Binance says user funds are safe after thieves make off with billions in largest-ever crypto hack",
+          "title_zh": "币安表示，在有史以来最大规模的加密货币黑客攻击中，窃贼盗走了数十亿美元，用户资金是安全的",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYlpKVXRGc1RtdzlUZXBLNzFtUGM2eS1zRE9BVW5ZaEZ5cklBa05NSXo3VUhuSjZjSUlVekdkRkFUM01jbkVzSU84Q2hRMWowckpKUjg3cHh1d0d3SGplWnpIeWpwdmJrS1laVHRBRlg4U1ZvN0JqVndyNmlNNTFsUEQtd0dyNDZhc2tfdlNMSVZFZVlLWXlla1Y4OGZIMklFUWhn?oc=5",
           "source": "NBC News",
-          "published": "2026-10-30T18:39:23+08:00",
-          "summary": "Italy’s PM deploys troops as nation faces widespread strikes and port blockades NBC News Major anti-government protests sweep across Italy CNN When Italian Protesters Stormed the Colosseum The Free Press Italy tightens security as students, unions launch nationwide protests...",
+          "published": "2026-10-31T05:36:24+08:00",
+          "summary": "Binance says user funds are safe after thieves make off with billions in largest-ever crypto hack NBC News Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era The New York Times BTC news: Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El...",
           "summary_zh": ""
         },
         {
-          "title": "Australian mushroom murderer Erin Patterson loses appeal bid",
-          "title_zh": "澳大利亚蘑菇杀手艾琳·帕特森（ Erin Patterson ）失去上诉竞标",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemRubmJGc2R6TGc1U0FodmNUWFM3aGlaTkI1dDFlTFpCdFljV0xHNXZ4TlhrQjZVV1k1aVRZdkxaa1pZRHRDa1lDZ2praU5CMTJwS09kMXNMbUpjUW5EOGtuckZWV2ZUNVkxMDk1dzBraVY2clJKNGM5OVlQMzllaUctTEJWUWI3MFNwakJvWEFYd1lqXy01bDZxeFZoM21Ib0RyVHNCVjgwakhmSWdEVDlYV0cyZw?oc=5",
-          "source": "Reuters",
-          "published": "2026-10-30T07:24:00+08:00",
-          "summary": "Australian mushroom murderer Erin Patterson loses appeal bid Reuters Mushroom killer to be jailed for life after appeals court finds sentence too light CNN Erin Patterson’s Mushroom Murder Case Takes Devastating Final Turn Yahoo Australian court orders Erin Patterson never to...",
+          "title": "Real estate CEO and family shot, attacked with hammer by masked intruders in home invasion robbery",
+          "title_zh": "入室抢劫中，房地产首席执行官和家人被蒙面入侵者枪杀并用锤子袭击",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPREJ1R0t0QUgxNDJOSnVrVVdjMlF6WEZNNmZmSkNUZG5zeHY5ekU1QkRvV0w3Qk1Dd1VsemRmekNwVWxrNlUzVFBmeGVYTW1zZ3FDTkV4VmhIbmhqVVloRV9WYzllZlRhQlNMSFAwdUlQb3BZVUVRYUNWc2tBUzV0anN6N2tya3hJX0dlYkY2QTdtZV9oZUVtdmN1U1pUTEFNa3JPYWgyX1p1ZWkxSVREd1RUYmJ5NWNwWGxzS19YSFhzTmZIcEHSAcsBQVVfeXFMTjJDcTBCN2luRzBEVy1tZEJ6Y0QzczRGSmZUQlFyb0taRHZIZ2RrR2R4WHFPQndGSzZpSWx5Yzk1dzZ0aDN3dGNPREViMWVxOUJKQUNFT19oZnFDWFFlZHl6RWhEaEZwQkpsbnZRVDlrS1RuVmQ3blMzR3FWWDdDSk9SWWIwR2VSSGNOb0R2ak02X3pMdlItLXpHWWdETFVKZnY3RHp6ZUNOd1BNME9TTTVSQlhkSjNObkZUNFdlUUhmQS1Mbl96TFhoOUk?oc=5",
+          "source": "Fox Business",
+          "published": "2026-10-31T08:03:00+08:00",
+          "summary": "Real estate CEO and family shot, attacked with hammer by masked intruders in home invasion robbery Fox Business Victim of violent Bridle Path home invasion speaks out, says family is 'traumatized' CBC Manhunt under way after Toronto CEO and family violently attacked in home...",
           "summary_zh": ""
         },
         {
-          "title": "Iran War Updates: Trump says war \"going to end soon\" as Qatar pushes for a U.S.-Iran deal",
-          "title_zh": "伊朗战争最新消息：特朗普表示，随着卡塔尔推动美伊协议，战争“很快就会结束”",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOU84MUlJV2w4ZEtpaS1ndkJieWpObTZJUzloRl8yUV9DSE54RFkyTklLUm1RSzVwUVNzMWQtNWRMc0RpLTZJQVRieS1qbVNLRGpRbnpYa3NxLUczeDdYdzBQUEtJTVg0NUlEbHZOaGJfQ2plTHFvTmZ0d2ZkMFo2aXNGWXY4SzNVRncxYUMwWVk?oc=5",
-          "source": "CBS News",
-          "published": "2026-10-30T20:31:00+08:00",
-          "summary": "Iran War Updates: Trump says war \"going to end soon\" as Qatar pushes for a U.S.-Iran deal CBS News Qatari mediators return to Tehran to push for US-Iran deal, official says Reuters Qatar pushes for U.S.-Iran deal under shadow of Trump's threats Yahoo Qatari negotiators return...",
+          "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+          "title_zh": "由于欧洲人拒绝与拉夫罗夫站在一起，G20放弃合影",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGNaZzRWSTJvYl9ad1drWldtbzFGOGRJOFBjVEdEODBIRVlSMGRtbmlmeEVqQ24zYWptNmU3TVZSTklPaUVPRWd4QmMwYVU2WGN6aTZESjVKVzdSVnFmb3RiUHFSU045VEVpc1g3ZXNGc2VWa0NLYzFDaVZBTVpRNzJwNGRYbVRXQ2ZQNkpESlV1RmlyWDd0anh2bjRxX2VSUkZoTTZYSdIBrAFBVV95cUxOZU1xa0wwcmlKX19CamoyNE0xUU82ZERWRnhLa1RzQWFhMy1yNWZfUkp4OUZMUzVRRzI2WE1YSGVaUTlRVXNnYmpNV2dhSE9ya1RSR0NKM1hLVHk3TllrdDRUM2JSekM4OTc0OVNiMHlDYlE1UTQ3LThfVjNMT0VTenJkeVdRV21lalpwVjVyZkJwYWk5OGlFS1F1bHZfYm1xSGt0NmtDWmQ2Yi1z?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-10-31T04:44:52+08:00",
+          "summary": "G20 drops group photo as Europeans refuse to stand with Lavrov Al Jazeera US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia The Guardian Distaste for Lavrov Forces U.S. to Cancel G20 Photo Session in Atlanta The New York Times G20...",
           "summary_zh": ""
         },
         {
-          "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
-          "title_zh": "苏格兰警方对安德鲁·巴尔莫勒尔和爱泼斯坦·巴尔莫勒尔的访问进行“积极调查”",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtdzlfblZtc1N6Y2J4MXVKZHNWNl9pTlVGQUJzblNPNEJpdERWSmlNMmljbU9pcDM3VVV0QTdfalBnS1AtSWl2ZjRiUVV2ZTZxSW1uM1VmLWlPeEk?oc=5",
+          "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+          "title_zh": "官员称交通管制失误导致西班牙致命火车相撞事故",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONG9IMk5FWFBRU05QQmxucGZiTC1ZZng4X2pmTTU2M2ZZWXl3RW0zdVlKMnJEQkxQSEI1emZXSHYyM1loWXJDMWk1UjJKbS13UnhvbUUyY09sX0RuZXhPYUx5Ulg2NVRBMXJRcHkzYUtQWDl0RVYwS1lINk5tNEZKWk52MzU1X2dj?oc=5",
+          "source": "The New York Times",
+          "published": "2026-10-31T07:27:46+08:00",
+          "summary": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says The New York Times Spain train disaster clouds Sánchez chances of re-election BBC On board a Spanish high-speed train in the aftermath of the system's latest catastrophe ClickOnDetroit | WDIV Local 4...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Difficult negotiations lie ahead in Israel after Netanyahu's bloc lost its parliamentary majority",
+          "title_zh": "内塔尼亚胡集团失去议会多数席位后，以色列面临艰难的谈判",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZjA2TkRFc3BfREc4Tno4OHptdENmSXl3ajY4Y1JTWnhnd2Z6ZE52cHU2YTBYS1RTb1FtZ3hnWVoxT1daUFhXUW5hSGN3TUlQMWRUNUxOMXBZNXE0dktSZS0yZVJKVU15VlNwakYzWUlkSDVOMzRDOWlBUmVOcFNuTUk0MUp1SVpVcFBDQkhVdjRrMVNzd2lnbGZFVmRVT296ODVHR1VPci1mdjVVQzIxODJ4bXNTcktIbWF1d0Y4Vk11d1MyWVFVeVlVd9IB0AFBVV95cUxQNDYwYVdwTU5pYnVtQUgwSXNPYkE1Q2FrQzgzdHMxMnZlMzhlSlVkb285NmVpMXdtQUN3NWQ0SGdwZWZ0S0lfZDUwTGhrSktCMVNkYW9rWVhwQ1BhZHhMYWc5UENhMUhoSmRlZWpNUC1iS2twZXprTTdmS0ZscmZBdU5ZN0hkZFVEc3N1cHVJWEhtcFZPQ0pmeUt6T2h2ZlNxTUF4MGxFQU1rcXI2bnRhRDBuZ0FYMjZxNHlaNGlqZHVfR1dETjlsLUhqZHdLcWlL?oc=5",
+          "source": "PBS",
+          "published": "2026-10-30T23:23:07+08:00",
+          "summary": "Difficult negotiations lie ahead in Israel after Netanyahu's bloc lost its parliamentary majority PBS Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties Reuters Israel election deadlock: Direct PM vote back on the table The Jerusalem Post Israel’s...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+          "title_zh": "伊朗称4艘油轮在霍尔木兹海峡触雷并起火，以及其他中东新闻",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+          "source": "AP News",
+          "published": "2026-10-31T05:10:00+08:00",
+          "summary": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news AP News Iran war live: Tehran warns of earth-shattering blow; drones target Riyadh Al Jazeera India news: Oil tanker carrying 27 Indians attacked with limpet mines in Strait of Hormuz...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Chaos at Poland's constitutional court as government-backed judges seek to oust chief justice",
+          "title_zh": "政府支持的法官寻求罢免首席大法官，波兰宪法法院陷入混乱",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzJPZExnYzBxaFlrZ2NWS1BidVN0bTRyQkJ2eGFQaWVyN0dYbEltMTBhR0lSd3JZZi1iaHZuSkxVVzV4NVd0Vnc0WkxBQmVkWWJ0M1BVeVVKYk96eHlDalUtdjJtRy16MEZhMkR3NkphbXRab2JTUkF0Rm1LeEx5clBPa0s3a3lVTnRQNTZ0MFdpNzJMLUdCaE9nS0VvM3VmaFo4aUxjTm5EMmJnQlFQbkpWbEhIY1o0Ymp4LW95c3FzRmE3VHNZQnM1X0k?oc=5",
+          "source": "Notes From Poland",
+          "published": "2026-10-31T04:55:24+08:00",
+          "summary": "Chaos at Poland's constitutional court as government-backed judges seek to oust chief justice Notes From Poland Polish president turns plane around to return home as court chief’s suspension sparks protest CNN Police secure Poland’s Constitutional Tribunal as protests erupt...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+          "title_zh": "俄罗斯著名报纸在当局压力下关闭",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPaXZMZHdmQS1UYWZNVEdNRkppS2paM2dFbDA4dEVQR3BmVDRXT2xEVHpoZlhYdU1TMjZybWN3bGplektubVFHck9VMWxaZGQ4V2xNMHIxUDY3M0k?oc=5",
           "source": "BBC",
-          "published": "2026-10-30T19:55:58+08:00",
-          "summary": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits BBC Police Scotland investigate Jeffrey Epstein and Ghislaine Maxwell’s visit to Balmoral The Guardian Police probe Jeffrey Epstein’s time spent at Balmoral with Andrew Mountbatten-Windsor...",
+          "published": "2026-10-31T04:41:51+08:00",
+          "summary": "Prominent Russian newspaper shuts down under pressure from authorities BBC ‘They killed us’: Russia’s last independent newspaper falls silent amid pressure from Kremlin CNN Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’ The New York Times Russian...",
           "summary_zh": ""
         },
         {
-          "title": "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti",
-          "title_zh": "独家新闻：特朗普祝福萨尔瓦多强人向海地增兵",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44d2V2MWRJRXdsejMxTEtwUzlROExPanBIYjFGekZOcUctTkZDQlYxYk9HdjZuS3hXdDZFb3BZT01ncVdPZUZOTkdNY1NhNzBJZ2NKUjdBVWRxclJwOFdnOEM4UXB4ZnUyRWZfOHhkY1E?oc=5",
-          "source": "Axios",
-          "published": "2026-10-30T17:25:47+08:00",
-          "summary": "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti Axios Bukele's gang offensive goes abroad as El Salvador rushes troops to Haiti Reuters Analysis: El Salvador’s Nayib Bukele adds a wildcard to Haiti’s fractured security landscape CNN As Salvadoran troops...",
+          "title": "Western Sahara: Vote on a Draft Resolution Renewing MINURSO’s Mandate : What's In Blue",
+          "title_zh": "西撒哈拉：就延长西撒特派团任务期限的决议草案进行投票：蓝色是什么",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYVBudUxoYXZOQXBCcW15cDFneDBKMlF2aU12NExfZGlzaG1aS1J5RkdYdjdMVkNiMUVrVXRVVUhDaFNqM3VXei1OYzZTZ05JdU9wbEdDcEp4Y09HS29UR1pfTjFsVGJ4ODI1eDI2V29zc2kyQ1B1VE5zdHNvRGVEUEFtX0N4OEZUR1ZGMXZmQXYwVGFnUzNMWDdwYWZSUjl4RlV1QWM4bmJSZmdsMFlLaEoyZ0N6OS02X0tZT1c4SDFjc3JSVGpoaWEtcw?oc=5",
+          "source": "Security Council Report",
+          "published": "2026-10-31T02:32:40+08:00",
+          "summary": "Western Sahara: Vote on a Draft Resolution Renewing MINURSO’s Mandate : What's In Blue Security Council Report Russia, US veto rival UN Western Sahara resolutions, leaving peacekeeping mission in limbo Reuters BREAKING: Morocco declares end of MINURSO, says UN Sahara...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "中共五中全会“空椅子”背后：常态化高压反腐如何改变中国官场？",
+          "title": "首医师生热议党的二十届五中全会精神-首医要闻",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16TllOeDB6cjhNcGM5NDRkZzVrc3A1aWJsYlUtM0ZQSmpMQm5PTDhKWFFBZFR4RjZER2dFc2VVQ3l6b1I0UE10OVNaQVQ2LWhQd1pCYnRJdmswU3FtSHdVZUdLb2I1NHPSAWxBVV95cUxPcUZFUjBuLVE0a205Uzcxd0RxOU5jVmo3d281UTlDdkpscEFVdlVmaXhjZHdnQzVKOEhKN3R2WS15OUgyQkdjLXFVdUhiclJsYWZoa2tsOGJqTHA2N2JzSHdDeXktUlVKNnNHSWc?oc=5",
-          "source": "BBC",
-          "published": "2026-10-30T21:39:34+08:00",
-          "summary": "中共五中全会“空椅子”背后：常态化高压反腐如何改变中国官场？ BBC 央视快评丨不断开创新时代管党治党、兴党强党新局面 新浪网 中共中央召开党外人士座谈会 习近平主持并发表重要讲话 北京市人民政府门户网站 权威解读五中全会精神，这场发布会信息量很大 凤凰网 中共五中全会落幕 开除党籍人数创改革开放以来新高 美国之音",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84Y2EzdE1YU2Rpd2w5YkRERFZiY1lwZWZFaXdNcWg3RnVLcHIyTE1PMFN3R2dxcmVidUFPRGFZd3d3eDYyOFphZlZaTUUtMmNIdUR4QTMya2NpRFpYZ1AyejdIWllKcnZ2VmlNTFZheEYwdUlEMGNrSEtWQXc?oc=5",
+          "source": "首都医科大学",
+          "published": "2026-10-31T14:26:59+08:00",
+          "summary": "首医师生热议党的二十届五中全会精神-首医要闻 首都医科大学 中共五中全会“空椅子”背后：常态化高压反腐如何改变中国官场？ BBC 时政微观察丨关键在全面从严治党 央视网 李强主持召开国务院党组会议学习贯彻习近平总书记在党的二十届五中全会上的重要讲话和全会精神丁薛祥出席 新华网 浙江宣传 | 依然是志向不改，依然是信念不衰 浙江新闻",
           "summary_zh": ""
         },
         {
-          "title": "习近平会见瑞士联邦主席帕姆兰",
+          "title": "我军首型舰载察打一体隐身无人机在四川舰成功起降",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56OGRWTW5SUENSbDdubHJoUGh0cU90N2xaZVVLdjVLbndXZWE2cnd5Y3lEcFZxZUxTR3RqUnhJTUJFWXZQUXhWYTF2V3hhX29uU1RGWFFQckQxOEtRaktIM3pLWTVLOFUxRW13WGpIQzRjeTF1ckM1enpnZ2RoakE?oc=5",
-          "source": "新华网",
-          "published": "2026-10-30T20:29:58+08:00",
-          "summary": "习近平会见瑞士联邦主席帕姆兰 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRZFFNaExHdE81bDk3bzNnX011X2NJeDZHakZUZlJBQ0laSVRVYkRVeFNwUnctRzdXZW4yb1A4QmJDNGdkZmtiZGpKRFl2aC1sS1NxemdtLVF6SWd5WW8wN0JMcHRQSU1ZUVE?oc=5",
+          "source": "中国共产党新闻网",
+          "published": "2026-10-31T08:19:00+08:00",
+          "summary": "我军首型舰载察打一体隐身无人机在四川舰成功起降 中国共产党新闻网 原创 |没想到吧？中国军力已经这么强了！ 风闻 “攻击-21”上四川舰，带来哪些关键优势？ ThePaper.cn 多个领域捷报频传！本周我国硬核成果持续上新 finance.sina.com.cn 专家：076型两栖攻击舰将成为全球首款弹射型无人机航母 凤凰网",
           "summary_zh": ""
         },
         {
-          "title": "李强会见德国总统",
+          "title": "习近平同德国总统施泰因迈尔会谈",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yVGlyYThRQVFjclpURENRNzRLZW9EOTNHU3hsMnppRWpobVZzaFJGODZ1S1FBNUt6bXVqOU9GMktIR01VVWRmdkVMZlNjVUpZV0VnRU8zMjNmWHF0Z2UwOQ?oc=5",
-          "source": "四川在线",
-          "published": "2026-10-30T21:16:29+08:00",
-          "summary": "李强会见德国总统 四川在线 德国总统施泰因迈尔：对中国的发展成就深为钦佩 新华网 习近平同德国总统施泰因迈尔会谈 中国日报网 超话车｜深耕中国40多年，大众告诉世界什么 finance.sina.com.cn 德国总统和北大校长打乒乓球 观察者网",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05c2Zob3l4YU9ONzZlMVlIT0N2Y0ZBSHJBcFFFdmdGVm9Wc0ZPMnNtQk9MdjY5cWQyMm9GVDVNRzNIN3I0N2ZHaUZWWXlDLXdXV0VnTVplTnFXMmM5bVdCVEg3Z0tMQ21SOURlcUQ4VQ?oc=5",
+          "source": "中国网",
+          "published": "2026-10-31T10:06:00+08:00",
+          "summary": "习近平同德国总统施泰因迈尔会谈 中国网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "海南自贸港再迎政策支持 16条举措助力发展→",
+          "title": "拓展新兴领域合作 中瑞自贸协定升级带来多重便利",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDLW05NjNjYWlJTmdNTHdjWnVpcFZVcjUtdFo2eTRIamlRcW93SXg4Um5rWkZIc0ZndFRUaDZ6aVpKSWFoN1BFR005N1FMU055M2lhaGpfdlVTanlnRWZIUEg1VnM4bV8xRzZKTDA2eDJCZVNuQmpHUw?oc=5",
-          "source": "央视网",
-          "published": "2026-10-30T10:57:00+08:00",
-          "summary": "海南自贸港再迎政策支持 16条举措助力发展→ 央视网 四部门：进一步提高海南自由贸易港贸易自由化便利化水平 中国日报网 一周碳要闻：南方电力市场转正，绿电跨省提速（碳报第218期） 新京报 新华财经早报：10月30日 搜狐网 封关之后的海南，贸易便利化开始啃“硬骨头” finance.sina.com.cn",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11OTQ3ZG1mTWpYTExRVUhTYzFsaTlPS3psRzMxUE1SeVlKTEZUUXhka0F6Wl9qRTlYYTVvaHV1cjZwa1dtWTFnSG1LTUprUlk3SDRFMHZEQ3JDNXRNX3QwclpGRk45cHZLMzdV?oc=5",
+          "source": "新华报业网",
+          "published": "2026-10-31T11:28:00+08:00",
+          "summary": "拓展新兴领域合作 中瑞自贸协定升级带来多重便利 新华报业网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "新生对大体老师头骨标本进行摆拍并在朋友圈发布 校方：给予处分",
+          "title": "习近平党建思想写入全会部署 作为党建根本指引",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZTJmWFhWTjRXRHBsS0E4UjBCXzVXM2g5Tm1jYzVlUEtsSktfSDBQdGZIZ1FfUVZrU29LSTQwVFRiam42NnZzZGxRRUpoaWJ4aTE1ZXNSVFFpdmNqN2NtelVJUUs?oc=5",
-          "source": "新京报",
-          "published": "2026-10-30T11:40:15+08:00",
-          "summary": "新生对大体老师头骨标本进行摆拍并在朋友圈发布 校方：给予处分 新京报 摆拍大体老师头骨标本，批评教育、取消评优就够了吗？ 凤凰网 玩弄“大体老师”，不能止于“处分学生” | 新京报快评 新浪网 一新生在解剖课后，摆拍大体老师头骨发朋友圈，校方通报 观察者网 马上评｜“死了骨头还要被我玩”，医学生的敬畏心去哪了 ThePaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52dkJiU3ctekhwd0o1WVR1RFlIWGxRNlpQZGF3eHltUksyZ0tkNkRMZnBqMHZOR1hmUjF4a1JQQzVjWnZWZlFMYzd1MTN4Z0JHUzhMRTVNV3ZZaWtk?oc=5",
+          "source": "清华大学",
+          "published": "2026-10-30T21:51:51+08:00",
+          "summary": "习近平党建思想写入全会部署 作为党建根本指引 清华大学 党校微讲堂（第三季）第九讲：坚持建设堪当民族复兴重任的高素质干部队伍 中国青年网 全面贯彻习近平党建思想 人民日报 焦点访谈丨根植实践续本源——思想的力量 新浪新闻_手机新浪网 解放军报评论员：深入学习贯彻习近平党建思想 ThePaper.cn",
           "summary_zh": ""
         },
         {
-          "title": "人类命运共同体理念再写入外空决议 连续十年获支持",
+          "title": "2026世界城市日｜别只看山水！张家界把变化藏进一街一巷的日常",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VY3AzRXhER0FGRHBzaVlYMDFrT1gzcnVKQkVocE9YYlNfNW5Jb1JoTG16dXlNaGpONjdRb1h4bGtENUU3cE1vdmQ2MEk1X28ySjlpLWZYMFRtcmdtVk1HSnlLRlVGXzhoWHFQaDhXVXE?oc=5",
-          "source": "中华网",
-          "published": "2026-10-30T19:05:47+08:00",
-          "summary": "人类命运共同体理念再写入外空决议 连续十年获支持 中华网 中方发布加强外空治理立场文件传递何种信号？ ThePaper.cn 中国发布加强外空治理的立场文件 提出十项主张 反对外空武器化和战场化 茉莉花新闻网 外交部：将同各方携手让外空发展成果更好惠及全人类 习近平外交思想和新时代中国外交 外交部：人类命运共同体理念连续第10年写入联大外空决议 中国新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10VzFhNzF3MDk3QXZPdmhiRnVTc1VEcU1CLVhJS290bkpRTjJQbVdMTTBNSFVtTE5CUk1kQlhmTDFxOGdnamFwUzd6OXRYeG84bWdsY2swNXpvNm9Nd3NzY2t3?oc=5",
+          "source": "湖南红网",
+          "published": "2026-10-31T10:00:02+08:00",
+          "summary": "2026世界城市日｜别只看山水！张家界把变化藏进一街一巷的日常 湖南红网 追光丨你运动的身影，是城市焕新的模样 新华网 美好城市 中国经济网 山水福州迎接世界城市日盛会 搜狐网 推广绿色建筑提升城市品质（国际视点） --国际 人民网",
           "summary_zh": ""
         },
         {
-          "title": "缴获毒品约1.2吨 中国联合印度尼西亚、马来西亚破获一起特大跨国制贩毒案",
+          "title": "第七届载人航天学术大会在京举办 800余位专家学者共话数智赋能载人航天高质量发展",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13ckJuc1lOTXpxc1VTLVdrTVAzQnM1c2lvekNveUJ6WGc5T3JOcTJINWJ0cHlWb014cVZOMWZiVVZNWlVqa1AwR1F6WkNvaFJJYngzMmxzNzQ0YlQ2ZWczNjFJR3M?oc=5",
-          "source": "新京报",
-          "published": "2026-10-30T20:00:00+08:00",
-          "summary": "缴获毒品约1.2吨 中国联合印度尼西亚、马来西亚破获一起特大跨国制贩毒案 新京报 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pbFdSVFlOaERlQ2t6RlVlUU5RV3hEaUl1SG9ybHBHZnJ0WmFjUU9iN2J0ejllZjd2dFlqeHFBWnI5ZGR6ZEVpalYyM1RvS2JyZl9EZDJhQ1Q4M05rM0FrTk92ajRMdWM?oc=5",
+          "source": "中国载人航天官方网站",
+          "published": "2026-10-31T12:15:08+08:00",
+          "summary": "第七届载人航天学术大会在京举办 800余位专家学者共话数智赋能载人航天高质量发展 中国载人航天官方网站 中国首次载人登月任务乘组计划由三人组成，两人着陆月球表面 凤凰网 第七届载人航天学术大会在京开幕 搜狐网 我国首次载人登月乘组计划三人组成：两人将在月球着陆 手机新浪网 梦舟载人飞船和揽月着陆器将首次飞行 载人登月任务最新进展→ 中国新闻网",
           "summary_zh": ""
         },
         {
-          "title": "云南推动“戎光”入史志",
+          "title": "纪念中国工农红军长征胜利90周年文物联展开幕",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XMzF4VzJBLURMdzcyRWx6YTFDbEE1aWczYUIzWlZCQWlGWGpQSU5zNEpkaVp1UF81OF9ZczBDMmhtbXM4Z2x0WkdhV1djMkI0Y1lMVE1wTDJyQUdhZjdvMTFkSWZvd2Jy?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-10-30T21:43:02+08:00",
-          "summary": "云南推动“戎光”入史志 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96THZVZTNDS0hUY0dycHRTQjNoMlJEM0JkdFhvYXJMSnBRU2tyM1pzVWRfek1xTDNwWDNQYXgxbkJjWGVSMEhNWkNua3l0T3BMMkxPVEdxQk1ieE42UjAzU2JydUY1WGF5ODM4?oc=5",
+          "source": "中国共产党新闻网",
+          "published": "2026-10-31T08:19:00+08:00",
+          "summary": "纪念中国工农红军长征胜利90周年文物联展开幕 中国共产党新闻网 【青春华章·长征路上山河新】红色老区走出绿色发展之路 中国日报网 纪念中国工农红军长征胜利90周年文物联展在国博开幕 中国网 长征路上学党史丨长征落脚点上的“守护者”：让红色记忆历久弥新 凤凰网 信阳师范大学开展“再出发：走好新的长征路”沉浸式党课 中国青年网",
           "summary_zh": ""
         },
         {
-          "title": "纪念中国工农红军长征胜利90周年文物联展在国博开幕",
+          "title": "持续驰援西藏那曲灾区，京东物流运输御寒物资支援一线过冬",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PVmJDenA0NEJUUy00dWEtbHMwcXV1R01XZEFIV2hwbHBGVFpRQkN1cVhtakVmTVIyM0JwRkdvOGxHZms4YXhyTXBDcGVvZkljdm1IWWVxTHQ5X202b3FuU2FWempSMXdG?oc=5",
-          "source": "人民网",
-          "published": "2026-10-30T17:54:00+08:00",
-          "summary": "纪念中国工农红军长征胜利90周年文物联展在国博开幕 人民网 从“半条被子”到振兴路子（乡村一线） 新浪新闻_手机新浪网 红星照耀中国｜不灭的薪火——他们在南国烽烟举红旗 凤凰网 “长征星火照东城”主题展览在北京开幕 搜狐网 “纪念中国工农红军长征胜利90周年文物联展”在北京开幕 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2UjN4RS1jcFhsQ0R1al9SZmhUa19mbXRYRXhEeXJ4VUdEVEFrTHN6aGo1TG1sN21uMXgyT1N3MGExdkdJV3VfUHA5blQ?oc=5",
+          "source": "IT之家",
+          "published": "2026-10-31T09:37:21+08:00",
+          "summary": "持续驰援西藏那曲灾区，京东物流运输御寒物资支援一线过冬 IT之家 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "沈阳：陆续开启供暖",
+          "title": "武汉市中心医院后湖院区迎来“双地铁”",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUE4c05FeGsxSk5BSGJkcmstSHo0aDhIUlFVaDhZZE9seWtCRTc3czRCVWFXYkNpYTdRTF9QVDE0SmN5Yl9la1RfLUZreENNUUcxelItZ3JtREFlYnpoNkZGUFJWVHBnSkZOQTNIMXZoRGpMVHJXVDlrRUFwYTh6RXZCVUhCQQ?oc=5",
-          "source": "新华网",
-          "published": "2026-10-30T21:14:09+08:00",
-          "summary": "沈阳：陆续开启供暖 新华网 鱼台公用热力“冬病夏治”保障供热 finance.sina.com.cn 这件“关系民生的大事”，务必抓实抓好 搜狐网 新一轮冷空气将来袭！北方多地提前启动供暖 Jiemian.com 北方多地启动供暖让群众温暖过冬 多地提前开栓供热 中华网",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MUzh1d2QtVWJVVnlaUzBUaTVhZEI5S29GTktJZUFTTTk5djlyc3ZZMkFyOWxKbGczLXNwcVR1aEZ4NWlTMGNDYWpaVnhCdFRRNTF0MldR?oc=5",
+          "source": "搜狐网",
+          "published": "2026-10-31T09:39:33+08:00",
+          "summary": "武汉市中心医院后湖院区迎来“双地铁” 搜狐网 国内最长地铁环线！武汉地铁12号线全线开通 中国日报网 经济日报财经早餐【10月30日星期五】 ThePaper.cn 武汉轨道交通12号线将于10月29日全线贯通运营 凤凰网 这个中部省会，等来了一条亚洲最长地铁环线 风闻",
           "summary_zh": ""
         }
       ],
       "ai": [
         {
-          "title": "Why artificial intelligence can’t replace your financial planner",
-          "title_zh": "为什么人工智能无法取代您的财务规划师",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEZnZHBQY1FER3c2UlVMekJKYkZPN3VYcVZXaV9wVkEybmRlQl96UldxV3hFUUFTVHRRajlRM0w4bjZLc2E4d3M1TG45SWsxQkdvV2pHNlBhM3NiUHZvbm1pTS1CMUVNXzFyazdzbEJOVkpDcTBoVXNyUkRUQXhaVFhvM0dHbDFwRHB0MnJEZm8wZzNJRTNPYVhTTUMwNzg?oc=5",
-          "source": "The South Dakota Standard",
-          "published": "2026-10-30T18:50:07+08:00",
-          "summary": "Why artificial intelligence can’t replace your financial planner The South Dakota Standard",
+          "title": "Super Intelligence",
+          "title_zh": "超智能",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
+          "source": "NASA (.gov)",
+          "published": "2026-10-30T23:37:41+08:00",
+          "summary": "Super Intelligence NASA (.gov)",
+          "summary_zh": ""
+        },
+        {
+          "title": "Auburn Engineering artificial intelligence and aquaculture research projects part of $8.1 million statewide investment",
+          "title_zh": "奥本工程人工智能和水产养殖研究项目是全州 810 万美元投资的一部分",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjBhZWxpVmRCaTUtNjZMenJ5SFRDNS1QaWF2TmkxSjExdXBaNFk3NGdPVVltQ1VPd1RNMmRNMjdfSTVJRHFhQms3ZTdOb2ZuaERseVpadGowRHpjczczREd2NzExVFBWWTdyTmRsaXNWelpVcXBlc1ZJc1hlZXhWcFA4V202U0pEdmM2SFZzdG5BdW5ldS1YYWdvczg5Ui1RN3ZDNVlqWUF6V3g5UGNSNzloWDFwTWx1RXV0bFlDTzRwRzA3Rk5fNHU1SVM3eFRGUHBVVXVJYXo?oc=5",
+          "source": "Auburn University",
+          "published": "2026-10-31T05:22:30+08:00",
+          "summary": "Auburn Engineering artificial intelligence and aquaculture research projects part of $8.1 million statewide investment Auburn University",
+          "summary_zh": ""
+        },
+        {
+          "title": "Biosecurity and Artificial Intelligence—Risk, Myths, and Opportunities",
+          "title_zh": "生物安全和人工智能——风险、神话和机遇",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWdDZGRhaFpXTGhSb2IwM2Zyb1lUdW9Rdmw4TkstendpVTNmY1E3VTh6bU9BdTAydHMxY2xjZVVzb1pvUm1qSDZyTE1PQzhXSGdYekI0UnlLUVJJb3g3dENWR3hxQ3FyaDhiLUFHdjc5dHhmMzVabmRtOGtWTTRqOVZJN3RabFpPbnVKYUdQS2RhZUFTcy1lT2U1YWl3aGxKUmpraDdEUQ?oc=5",
+          "source": "Nixon Peabody",
+          "published": "2026-10-31T08:57:02+08:00",
+          "summary": "Biosecurity and Artificial Intelligence—Risk, Myths, and Opportunities Nixon Peabody",
+          "summary_zh": ""
+        },
+        {
+          "title": "Conversations on Central Banking: Macroeconomy in the Age of Artificial Intelligence",
+          "title_zh": "中央银行对话：人工智能时代的宏观经济",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVm1oSThFX2NDR1A1aFAzZDBwT1kwZWpnXzJHamNNVGNxcTZNZjBRckF6WTYtcWUyRGVELWtxLWhrOEhCdjZSVFc4dVFDamswMDdMd0lyN21GSTZacGw1dlRySjhUY3NxUFB3V3BnWkd6NGRVRXp3QjVoYW02aXUxLTJ4Tkd0QXNvZnc1Q05yYk1LSElGVDRpNlBlZFk2SXRYaGFWQ29EQjZFOEFZN2c3RXdjNA?oc=5",
+          "source": "Federal Reserve Bank of Cleveland",
+          "published": "2026-10-31T09:41:42+08:00",
+          "summary": "Conversations on Central Banking: Macroeconomy in the Age of Artificial Intelligence Federal Reserve Bank of Cleveland",
+          "summary_zh": ""
+        },
+        {
+          "title": "Sam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn't Own Computers",
+          "title_zh": "Sam Altman 绝对讨厌人们在家运行自己的人工智能模型，认为他们不应该拥有计算机",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkZ6TklhOVUtME5HbWptQ2lRZ093djBXay1aMVZqa1U2WFQ0RC1FcFl0TmVHNEoyRWVacVdseUJHajFvX3pSbFBCNjEyZU1TNjUxbkJITUdCS1cxenFzNVVCektvV0dvWC1ZZDZTOU9nRVVsZHNwWWVXTllEQXBndE16X1gxal9Nb05EajNScU0?oc=5",
+          "source": "Futurism",
+          "published": "2026-10-31T01:02:15+08:00",
+          "summary": "Sam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn't Own Computers Futurism",
+          "summary_zh": ""
+        },
+        {
+          "title": "Looking at the future of artificial intelligence in the workplace",
+          "title_zh": "展望人工智能在工作场所的未来",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeXdqOFNnU2RhYUN2eG9mb1dubVRjWDRMV2JxSDVqMDl3RVRJY280R05zc3djRjBnT252YUcteXVlN1l5VmhrWjRUNi1sWkpINWpjbndiSUMwSG9YdUJiX3RtMVR1a2E1VEdnZndqVHNhbWtodHIzN1BWWkJOakZ1TFNnV3pMSUlSNzF5OVNYR0xjZnlVcTkwX3VOdElRQXF4N3RoTjFtcGN5SUhvd1o3M0VfcHVEYkxCTTQ5ZXlmeEY3RnFwYlhhSGREQjllaXBOZ2l4UU1fTlR0RmFTZEl1aDJxNnRLaEIy?oc=5",
+          "source": "Local 3 News",
+          "published": "2026-10-31T04:35:00+08:00",
+          "summary": "Looking at the future of artificial intelligence in the workplace Local 3 News",
+          "summary_zh": ""
+        },
+        {
+          "title": "Purdue researchers explore how students engage with artificial intelligence in STEM classrooms",
+          "title_zh": "普渡大学研究人员探索学生如何在 STEM 课堂上接触人工智能",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOek1fSmNpTUZ0cklfSDRwbC1zQ050RlNWNmVzaXg1TC1ubjhYU2dwVk9rSTQ3Tnp0VE9KRWwwY0FpTFhrSkVOWXRuLUNaeHhrMDdGTjFPNl9VdWlrbU9UekxpSVJGU1FISDJDOTNNbEdzS2FjdkxqUzJwakRXaGhyNzA2NFlnRzRldmt5dUJDVlZoUldVSzJRcDBpamxkeXdFZXY0ZmhkdlJjUkFubHR2Zm94UHJmTnlINUI0bmhFVHdURkVC?oc=5",
+          "source": "Purdue Polytechnic",
+          "published": "2026-10-31T04:43:13+08:00",
+          "summary": "Purdue researchers explore how students engage with artificial intelligence in STEM classrooms Purdue Polytechnic",
+          "summary_zh": ""
+        },
+        {
+          "title": "TCAI’s Jai Jaisimha on artificial intelligence and mental health: How should AI be used?",
+          "title_zh": "TCAI 的 Jai Jaisimha 谈人工智能和心理健康：人工智能应该如何使用？",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3FNVFQ3YzV1Y3lLT2Ixc3hQNHU3UDBacEVZbTlzUnlkZHR3Nk1XQUg1ejQ3aXhXY282LUdZRzFFa3dGYS11SmJMcm90ZXMtRklrRXdPcjQzTFo2Z2lMZlZvX2ZxVWxTU2JqaWZZLWlGak90Uy1vclZ3NjloeEY4aEx6bzRCa2JKTXc?oc=5",
+          "source": "Transparency Coalition",
+          "published": "2026-10-31T04:31:14+08:00",
+          "summary": "TCAI’s Jai Jaisimha on artificial intelligence and mental health: How should AI be used? Transparency Coalition",
           "summary_zh": ""
         },
         {
@@ -202,7 +265,7 @@
           "title_zh": "人工智能与自学伦理",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUm1kNEJGdlRyLWYyTjIwcDJiZjhBSlRqVlFHd21YYjlhV2x2SzVrYXBWNHVPRjJUUWczUnVVazhIWWEwVlZ5X1dnYmw3b0FOWUVnZnU5OU1aNG12WmpCVGdWUndzT2hZQllFRHljQTFXbERyQTFncW1FY1RXeTJFeWRzbzd0NlhYcFZ1Nm5vRmQtUGlQUnc?oc=5",
           "source": "The CPA Journal",
-          "published": "2026-10-30T22:27:42+08:00",
+          "published": "2026-10-30T22:28:05+08:00",
           "summary": "Artificial Intelligence and the Ethics of Self-Study The CPA Journal",
           "summary_zh": ""
         },
@@ -213,69 +276,6 @@
           "source": "Literary Hub",
           "published": "2026-10-30T17:00:29+08:00",
           "summary": "Artificial Intelligence is a Horror Story Literary Hub",
-          "summary_zh": ""
-        },
-        {
-          "title": "Radiology, Mathematics, Artificial Intelligence And Human Understanding",
-          "title_zh": "放射学、数学、人工智能和人类理解",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHZqVmVXay0tUmE1Y3B3MVdtTDhfUndkcWhpZExaT1pybUVYLTkxZ05UQWNUZHI1YTJuR1Y3VjJoWDA3RmkxbFVYSjRzWkhDMktIN0o1Z1BLRVd5Q3hwN1BHclplc2dSNUx3VFZ2aE9UeExtRFVBb0IxRGZZWHcwTF9rX1NkN0ZCX2l6YV9zMTJpWVpoZVVxYXd2YzVQcEh6bWhvMnNpY0N0WGZXQmNmVDZfeFZMTnZCT3JTUw?oc=5",
-          "source": "Forbes",
-          "published": "2026-10-30T19:30:00+08:00",
-          "summary": "Radiology, Mathematics, Artificial Intelligence And Human Understanding Forbes",
-          "summary_zh": ""
-        },
-        {
-          "title": "Vatican hosts dialogue on AI and human dignity",
-          "title_zh": "梵蒂冈举办人工智能与人类尊严对话",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUhYYlNxeVYyNVNNVUV2U0hUSXlnZ0paSnFNVUZNWlVhQS02WnkwbTB6QWlRWl9SdUZOZnlFRHQxV1JHY2dOMUlGa1g3YkRKSlRWN21JQUxhUExWQWU4Qmg5VmkzV1hiTE43V21xM3Q3RGttUU5UVlA0QjhQLW40S1FUc25lcDh5eHBUV2d0YTdmVE8zZUlLaFU4YmxCVDR5YUJTWmZIOWNrQjV0a281TW9KNTFlUG91aDdWWnplT0RxVVk?oc=5",
-          "source": "Vatican News",
-          "published": "2026-10-30T23:05:08+08:00",
-          "summary": "Vatican hosts dialogue on AI and human dignity Vatican News",
-          "summary_zh": ""
-        },
-        {
-          "title": "Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia’s Growth)",
-          "title_zh": "在这只令人难以置信的人工智能 (AI) 股票飙升 144% 之前买入（提示：它将超过 Nvidia 的增长）",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEhOWDBSZkJ3R3VuSjZycG5ZQUZZemdOeWthWE4tR1R1Sjc4bnNQY1g4U2g0YnkwMndaQTNHYlZhVEFWZHRPQ0tTVmo0aV9ucHVwby15MnN4U1FQZVBBVk9QZXNhakJxMWZ6Y2pNTXR2bFpOY1ZKTWtTUFRlNnpRR003b3RYMU5SUDBkVmMwclc3dllhako5ZlNNSGVIdkJjb3VIeG0wNEk?oc=5",
-          "source": "Yahoo Finance",
-          "published": "2026-10-30T20:24:02+08:00",
-          "summary": "Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia’s Growth) Yahoo Finance",
-          "summary_zh": ""
-        },
-        {
-          "title": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning",
-          "title_zh": "评论：人工智能重塑美国战争可能只是一个开始",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkQ0Yk1sYXhtUVJUYmt6NzlmMTBMUmhURDNGbjVWTkctZF9wZ0dmZENrVUJhZHdpaWE5QVQyNDRRRTJWVjlDMzRhNER0eFQwRDIzeHpIN1d5OEhPT1RGUXZ5OE9NZ3pCREgzclV6VGFMMTNwc3R0bnVEUkpaRFRJSm8xU0FPYjdWbEZiTjVXN1ZwekJqcXd4emlndmZxMURwTTdpdFJwOFVLXzdxcXdwNXEzZmtTbnM?oc=5",
-          "source": "Reuters",
-          "published": "2026-10-30T17:11:13+08:00",
-          "summary": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning Reuters",
-          "summary_zh": ""
-        },
-        {
-          "title": "Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street",
-          "title_zh": "华尔街称，被低估的人工智能 (AI) 股票一年内可能飙升 255%",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUNBUXp5dkdJa2V0ZUpWdVpibDFtZExaZmM4VFd2dWdlWGJkU2RXQ1hBVEhWamh0OTJMSWVfZVZWQnFVcG1VNDlFYkU0R2FRQXZNem1sSVdFc3FxZ1pXOFpSUWczN0NfWHVRNzBsbmNKdVc0SVZLLWd2ZXNpd3hQaXBVQzRKS2M2SnRScjFyQjd3R0JsS1ZianpaREdZM3hEM3hXZ0pTVW9vX0xicWF5dGh1Wkh6Z3NqMmRHczczSEI2b19YbHNuVEs5ZFlmdzhCaFQwc19oN2t2V0p3YUZEVWhvbGM?oc=5",
-          "source": "The Motley Fool",
-          "published": "2026-10-30T21:53:13+08:00",
-          "summary": "Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street The Motley Fool",
-          "summary_zh": ""
-        },
-        {
-          "title": "Watch live: Stock market reacts amid concerns about artificial intelligence spending",
-          "title_zh": "观看直播：股市因对人工智能支出的担忧而做出反应",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTM3TmZacWdPWmppcV9qZnFRV00yaGpnNmk1NFhKczFQMk5oX1FPa1NWRnlFcW5pVURlVGxRaDRheWR1RUZ3bnVFOEk4d0JLRDR1eF95ZWZMd1Uya2UtQmdBNWJRdW92emtYTFZ2VmZpX1VkMXczdFQ3SmNWMEFmN0YtYTFYcnBKN2tnSExQMXR6ZHVwbzcxeDg2UDZqLUVGWEZvVHRDc21LcG9SanJOQUF4Rm5ITHFVYjdNVDRLNW9XTXpP?oc=5",
-          "source": "NBC News",
-          "published": "2026-10-30T22:12:07+08:00",
-          "summary": "Watch live: Stock market reacts amid concerns about artificial intelligence spending NBC News",
-          "summary_zh": ""
-        },
-        {
-          "title": "Amazon, Intel Earnings Add Fuel to Tech Selloff",
-          "title_zh": "亚马逊和英特尔的盈利加剧了科技股的抛售",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8?oc=5",
-          "source": "WSJ",
-          "published": "2026-10-30T22:14:00+08:00",
-          "summary": "Amazon, Intel Earnings Add Fuel to Tech Selloff WSJ",
           "summary_zh": ""
         }
       ]
