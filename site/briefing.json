@@ -1,16 +1,25 @@
 {
   "date": "2026-11-02",
   "morning": {
-    "generated_at": "2026-11-02T15:34:19.134063+08:00",
+    "generated_at": "2026-11-02T16:11:20.275801+08:00",
     "sections": {
       "worldwide": [
         {
           "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
-          "title_zh": "西班牙火车相撞：当局称美国、日本和加拿大公民死亡",
+          "title_zh": "西班牙火车相撞事故：当局称美国、日本和加拿大公民死亡",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEVBY3BEb2x0LUlFU085SndVRmNFMGhrc0NGeFRWX1ROdTdXbzEzRUdWRVhxTnk0QVBfTlBGRGloWjVqVGp3QlBrQklOSTVsNGZOb0w5b3RTSUpybUZsYko1WFRldGV2cXJmTjBwNlZOb1ZlZzRZRjNDUmt6M0hxQV9pRlZtWWNnc3B2SVU0c2taUFlKNV9Yag?oc=5",
           "source": "The Guardian",
-          "published": "2026-11-02T09:06:20+08:00",
+          "published": "2026-11-02T09:52:38+08:00",
           "summary": "Spain train crash: US, Japan and Canada citizens among dead, authorities say The Guardian Four Americans confirmed among Spain train crash dead Yahoo 4 Americans among 69 people killed in train crash in Spain, officials say CBS News One Japanese confirmed dead; one...",
+          "summary_zh": ""
+        },
+        {
+          "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+          "title_zh": "维和任务结束后联合国警告西撒哈拉存在安全风险",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzloMWQxNUZlY2pSeXhOSnJHUnNOUG1BMDNsNjl4Y0NySXVOOTF6TDdLVThfOFJXMDRzYWJDRzhxdmhEYWNvT09YYVM4M3JRZUtLVkFVaV9HWWVPU0hzTlU0bGVIa00wV3N5amZSUEhtNEtZclJnMnU1Q2prLWhTWTRSRHNkZWpBMWp1YUcyR1czQkFid0huUnhhRnRLa0VadjFqUV9GMHBoZUh1WGk2VERBWGjSAboBQVVfeXFMUEY2VS1UbUJUV0dBNjJhZEdId1Z0OXhDTm5RT3B5Z0pxbDRoWTh5bUFfM0lzVUxfZGJGTHlzS00taUljT3pyVUdLRjViWDFFdmdBWUJpUVVlU05Qd3BJblRiVnB1Sk1HZHMwcUFCMFl5dkI5UkNIWDRLOWNuaUZGU3VVc2JINmFhY1FsaVlPS1NTcmNYTThwVHl2Rm5CZEYyQm5mdmVTS1FlMXhCNDIzeXhYTW1SenJCdE1R?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-11-02T07:29:56+08:00",
+          "summary": "UN warns of security risks in Western Sahara as peacekeeping mission ends Al Jazeera UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says Reuters UN's peacekeeping mission in disputed Western Sahara ends after 35 years NPR Why is Morocco celebrating...",
           "summary_zh": ""
         },
         {
@@ -23,6 +32,15 @@
           "summary_zh": ""
         },
         {
+          "title": "Gulf States Fear Fiercer Iran Retaliation If US Strikes Again",
+          "title_zh": "海湾国家担心如果美国再次发动袭击，伊朗将进行更严厉的报复",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUJ2eUx2ekxlenJCallsY0ZFQi1OeW51dERMMWxCODlpREdmTWk5MzllOTVUSE5KYzI2bW9Jd3FhMG9wMnVWTmZycmZGdEd5TEtWamdmMF9wbEZHWDljdTJkX3I5dk5xQU91bVBNZHhRSE4tQ0pYdXJ6MmZQazlIQ0dBejlXbnMyd0tKbWNabmlTZk9hRVhpWEkwTUxLWkJoSnRvWDEwQkxteE81bVF2QXJn?oc=5",
+          "source": "Bloomberg",
+          "published": "2026-11-02T14:35:00+08:00",
+          "summary": "Gulf States Fear Fiercer Iran Retaliation If US Strikes Again Bloomberg Gulf braced for escalation of war between US-Israel alliance and Iran Financial Times The Gulf states fear renewed war after the midterms NPR Egypt fears escalation in Iran war would be more destructive,...",
+          "summary_zh": ""
+        },
+        {
           "title": "Police with assault rifles begin Sydney patrols in wake of Bondi attack",
           "title_zh": "邦迪袭击事件发生后，携带突击步枪的警察开始在悉尼巡逻",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OQkRNckttUGp1R2pOb3VnaDdSdzl2a0tBM20yaXhlMDhpb3RBQjk5YWdtSnZtN29BNjNielJWcDRaUG9wTUVrRGFuLWpYM21sY3NtczVaMGtRS3hzV19v?oc=5",
@@ -32,21 +50,21 @@
           "summary_zh": ""
         },
         {
-          "title": "Gulf States Fear Fiercer Iran Retaliation If US Strikes Again",
-          "title_zh": "海湾国家担心如果美国再次发动袭击，伊朗将采取更严厉的报复",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUJ2eUx2ekxlenJCallsY0ZFQi1OeW51dERMMWxCODlpREdmTWk5MzllOTVUSE5KYzI2bW9Jd3FhMG9wMnVWTmZycmZGdEd5TEtWamdmMF9wbEZHWDljdTJkX3I5dk5xQU91bVBNZHhRSE4tQ0pYdXJ6MmZQazlIQ0dBejlXbnMyd0tKbWNabmlTZk9hRVhpWEkwTUxLWkJoSnRvWDEwQkxteE81bVF2QXJn?oc=5",
-          "source": "Bloomberg",
-          "published": "2026-11-02T09:28:00+08:00",
-          "summary": "Gulf States Fear Fiercer Iran Retaliation If US Strikes Again Bloomberg The Gulf states fear renewed war after the midterms NPR Gulf braced for escalation of war between US-Israel alliance and Iran Financial Times Egypt fears escalation in Iran war would be more destructive,...",
-          "summary_zh": ""
-        },
-        {
           "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
           "title_zh": "国王将解决安提瓜岛的奴隶制问题，首相表示他对英国可能的道歉持开放态度",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdHdybEcyVUp1Mkhoa2FDdndrNDNhXzhRNU9DaXdaalBfbVljanZQREMyYkNEY2E2SmEyNGlhQVJKS2tlT21FZjRHXzQ2RU9rMkNGeXgxVm1IYkE?oc=5",
           "source": "BBC",
           "published": "2026-11-02T10:46:55+08:00",
-          "summary": "King to address slavery in Antigua as PM says he is open to possible UK apology BBC Monday briefing: The world is demanding reparations for enslavement – is Britain finally listening? The Guardian UK prime minister signals the government will consider an apology for its role...",
+          "summary": "King to address slavery in Antigua as PM says he is open to possible UK apology BBC Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? The Guardian Monday briefing: The world is demanding reparations for enslavement – is Britain finally...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Taiwan accuses China of harassment after standoff between ships",
+          "title_zh": "台湾指责中国在船只对峙后进行骚扰",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLWl6Yi00bDFaUUJsWkpTdHlRT0h3eE9aUTJrcW9DT1ZvQ2YtQjZ2MlliR1l2WGZ6VHdIUE41X1Y0Z0Q5UUNqRVpKTnZMc3VvdjduNWRLY3RjRHZRUkhwcnB3Ny1QN3NFMURxNlVTZ3J6Zl9JN3piUC1CeFdMcE05WmFrbw?oc=5",
+          "source": "Politico",
+          "published": "2026-11-01T21:27:00+08:00",
+          "summary": "Taiwan accuses China of harassment after standoff between ships Politico Facing Chinese pressure, Taiwan says it must be master of its own maritime information Yahoo Chinese Ships Suspected of Surveying Undersea Cables Near Japan, Philippines The Japan News Taiwan says China...",
           "summary_zh": ""
         },
         {
@@ -55,7 +73,7 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
           "source": "AP News",
           "published": "2026-11-02T11:05:00+08:00",
-          "summary": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends AP News Russian Offensive Campaign Assessment, October 31, 2026 Institute for the Study of War Humanitarian ceasefire in Oleshky enabled evacuation of nearly 800 people – Melania Trump...",
+          "summary": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends AP News Russian Offensive Campaign Assessment, October 31, 2026 Institute for the Study of War Oleshky ceasefire expires, Ukraine evacuates civilians from parts of Kherson region Reuters...",
           "summary_zh": ""
         },
         {
@@ -64,7 +82,7 @@
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHpITnVoT04zYU9CWW12UzJaYUFLdDRDck04OV9IRmFwaXlCQ2czOVY5X1I3VVhUbVJaRE9zODRNcDBGQWJEcloyTW84UHJLRjNUUWhXMmNvVDZydmMtT3RmVnlZb0lId2xaenRJb3o0c3dXWjRfVHR5eTBtYWNETzhYd1RQazJmVVRFUkM0UjVFS3BHcndoNFctMjHSAaIBQVVfeXFMTTdvNDBlQmR4dmNuM0kwODFXaDdoRTRqNUhwRnJ6UzhLbzd0UEk5MExCbHBhM1B0aGtYMFBoVXE0MVdHWFhfaFNsaFpSUmQ1WG1RU1VQQ1FFZnBTbXUwRFpBSmRIZkxyLUFseGo4S2Fza1pYYTdXTExhckgxUkFMTG5mMEFaZU9uRGlSSDFrNXg1UnhnNnBUVmxtSkZYdk5JaE13?oc=5",
           "source": "Al Jazeera",
           "published": "2026-11-02T09:51:38+08:00",
-          "summary": "Initial results indicate victory for Iotova in Bulgarian presidential vote Al Jazeera Bulgaria's Iotova wins presidential runoff, near-final results show Yahoo Bulgarians projected to re-elect pro-Russian president Financial Times Exit polls suggest that Yotova wins runoff to...",
+          "summary": "Initial results indicate victory for Iotova in Bulgarian presidential vote Al Jazeera Bulgaria's Iotova wins presidential runoff, near-final results show Yahoo Bulgarians projected to re-elect pro-Russian president Financial Times Incumbent Yotova Wins Bulgarian President...",
           "summary_zh": ""
         },
         {
@@ -75,24 +93,6 @@
           "published": "2026-11-01T20:24:00+08:00",
           "summary": "Iran, Qatari mediators hold third day of talks to end US-Iran war Reuters Iran war updates: Tehran awaits US response on proposal to reopen Hormuz Al Jazeera Iran’s top diplomat hopes US shows ‘rationality,’ and other Mideast news AP News Gulf region on edge as Qatar leads...",
           "summary_zh": ""
-        },
-        {
-          "title": "Gen Z protests in Germany turn violent as tens of thousands take to streets",
-          "title_zh": "德国 Z 世代抗议活动演变成暴力活动，数万人走上街头",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYmIyNllhTkFrTXZlQ3ZqZkhUczVpY0ZqZzlONFdfUXdpWU95VkxfMy1oazdjclhEYlJSRVRac0MtcTAyak5GNGNsNXBER0Y2Vk1uRm95aDBZX292LVJDb0dlVzJLR1k0VW04Q01Cb0FaR05ZUG81WnFHZ2tWbW16YjBraU5pcVZKV0IzNGxIZzZ4MmVzRG5KeXN1YzlmN2MwdURPVXJMUDRlT1NfSExn?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-02T08:28:40+08:00",
-          "summary": "Gen Z protests in Germany turn violent as tens of thousands take to streets The Washington Post Shops looted as German cost-of-living protests turn violent BBC Germany blames infiltrators as Gen Z protests turn violent CNN German ministers vow tough response to Frankfurt...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Russia and Ukraine say emergency alert apps were hit by apparent cyber-attacks",
-          "title_zh": "俄罗斯和乌克兰表示紧急警报应用程序受到明显的网络攻击",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhdEhaY19DQXQ2QTFMMGxMSGZHUmJHZTZ3S3FwMHkzdlFpMFdoSVRhRUZKdDkzdk9NdHUtT0wxOTNyVmJPVExtbWhEQ1ZvVUxvOWdfdUpR?oc=5",
-          "source": "BBC",
-          "published": "2026-11-02T12:49:50+08:00",
-          "summary": "Russia and Ukraine say emergency alert apps were hit by apparent cyber-attacks BBC Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts The Guardian Russian emergencies ministry's mobile app hit by cyberattack, TASS says Reuters...",
-          "summary_zh": ""
         }
       ],
       "china": [
@@ -102,7 +102,7 @@
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSTA1TEVMQUtMTmM3Wms2aHVUMlIxUXlQMHBvMTVlekR0RWxJRVg5VzlBSnNqRE1zY204RHVoUEdJUlJOS1Bud3g0cUhKTjhXSmpSdXQwQ0VPWmdzT3Q0VQ?oc=5",
           "source": "东南网",
           "published": "2026-11-02T10:47:00+08:00",
-          "summary": "坚守初心担使命 砥砺奋进谱新篇——党的二十届五中全会精神在福州党员干部群众中引起强烈反响 东南网 习近平清洗行动继续：中共宣布33名高官被开除党籍 纽约时报中文网 看思维导图，学五中全会《决定》 央视网 首都党员干部认真学习党的二十届五中全会精神——真抓实干 奋力开创首都现代化建设新局面 北京市人民政府门户网站 尹弘会见中国航空工业集团董事长魏应彪一行 新浪财经",
+          "summary": "坚守初心担使命 砥砺奋进谱新篇——党的二十届五中全会精神在福州党员干部群众中引起强烈反响 东南网 中共五中全会“空椅子”背后：常态化高压反腐如何改变中国官场？ BBC 【央视快评】增强党性是全面从严治党的根本性任务 凤凰网 首都党员干部认真学习党的二十届五中全会精神——真抓实干 奋力开创首都现代化建设新局面 北京市人民政府门户网站 关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明 人民日报",
           "summary_zh": ""
         },
         {
@@ -115,12 +115,30 @@
           "summary_zh": ""
         },
         {
-          "title": "一批新技术新产品将亮相 2026年“互联网之光”博览会开幕",
+          "title": "美元这回连中期选举都不怕了吗 高利率与AI支出支撑",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VTmFpaWREeHJnTlpLX1VlcTZZMnVGOHMwWS1SWTM3Njd4NEd4OHJ2VjFOanowNkZsdXd4MUtrLW1HZ25mUGk4ZDVJU3l5RUNzX0xxTUg1LUdudk9tbC0tQU1ycFR4UQ?oc=5",
-          "source": "中国经济网",
-          "published": "2026-11-02T10:59:00+08:00",
-          "summary": "一批新技术新产品将亮相 2026年“互联网之光”博览会开幕 中国经济网 新华社权威快报｜“九章四号”光量子计算原型机等20项成果获2026年世界互联网大会领先科技奖 新华网 互联网之光博览会｜告别面朝黄土背朝天，数字科技给乡村换上智慧模样 光明网 看图学习·乌镇“网事”丨迈进更加美好的“数字未来” 习主席引领构建网络空间命运共同体 央视网 开源走到聚光灯下：蚂蚁集团在乌镇峰会分享十四年开源实践 雷峰网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wLXBOY2EzbDdZLUtnQmJwcG50Mk1mc2FrbXZOOEZCSWFfejVNVTdlSkhwdldiMXZWSFdDNHJHa0kxdHFMamszWmxRakdPNm4xX0dYdWpqS1NaZjM1OFpyS0lzQnF4eUsya3RPM3g4cFo?oc=5",
+          "source": "中华网",
+          "published": "2026-11-02T11:23:30+08:00",
+          "summary": "美元这回连中期选举都不怕了吗 高利率与AI支出支撑 中华网 决定市场走向！美国中选“最大悬念”：共和党意外守住参院 vs 民主党取得53席以上 华尔街见闻 美国中期选举进入“最后冲刺” finance.sina.com.cn 全球前瞻｜美国中期选举提前投票人数创新高，特朗普安保升级部署防空导弹 ThePaper.cn 美国中期选举将如何影响经济？金融市场波动预期重塑 中华网",
+          "summary_zh": ""
+        },
+        {
+          "title": "“乌镇峰会”已至，桐乡AI诸企待客来",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVlXYTAySXctT0ZHRHZSaWVzMkxPVmQxakp4bW5xdjJCY3ZRVGNHbkpfalhpdE1IN3NFdTc3YkRNcWlXa2NuVTI2cW9TU3dra0R2R09Yd3d3VHViaEJvSW5HekZpNHlJV0VtSFN1ZmZ3QjE5WDVjSlU4WkhvdnVFRGtQTGVpcVc2V3c?oc=5",
+          "source": "旅日侨网",
+          "published": "2026-11-02T12:45:56+08:00",
+          "summary": "“乌镇峰会”已至，桐乡AI诸企待客来 旅日侨网 新华社权威快报｜“九章四号”光量子计算原型机等20项成果获2026年世界互联网大会领先科技奖 新华网 互联网之光博览会｜告别面朝黄土背朝天，数字科技给乡村换上智慧模样 光明网 开源走到聚光灯下：蚂蚁集团在乌镇峰会分享十四年开源实践 雷峰网 看图学习·乌镇“网事”丨迈进更加美好的“数字未来” 习主席引领构建网络空间命运共同体 央视网",
+          "summary_zh": ""
+        },
+        {
+          "title": "加蓬总统恩圭马将访华",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HdmUyZGtaVzBuQnJ2R1pibDVNY01XNU40ZGlDX1d5eXJfN1B2Zmd2c2pqYzVPUUhXNS0waHRhb3VsdGtyLXF3X0FEbndFNF9naTVnWTdocmVxaURMaGxtWmZ6UXoyMmkyVEZPNi1JcUt4a1F2MkpXUUZaVXQxTDg?oc=5",
+          "source": "新华网",
+          "published": "2026-11-02T15:13:11+08:00",
+          "summary": "加蓬总统恩圭马将访华 新华网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
@@ -133,30 +151,30 @@
           "summary_zh": ""
         },
         {
-          "title": "工程院院士答21：“速成车”破坏生态链，造车要从求量转向提质",
+          "title": "王毅将主持澜湄合作第十一次外长会",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Va1VYeDY1Wk4zbE1kWGtZS093NmU1Nm1PV1UtdDRTWnFsSEJTU2hydHlyWVBpc1pEMWFibURRSXBjLXlOcFF6RkE4QUVvME42QWE0aFptcVp6WS1TOUxqeUp3WUpwQQ?oc=5",
-          "source": "东方财富",
-          "published": "2026-11-02T10:09:53+08:00",
-          "summary": "工程院院士答21：“速成车”破坏生态链，造车要从求量转向提质 东方财富 2026大湾区科学论坛在广州开幕黄坤明李家超岑浩辉阴和俊侯建国白春礼致辞孟凡利主持- 中国日报网 China Daily 美国为何怕进入！中国电动汽车产销量连续11年全球第一 院士给两大原因 驱动之家 两项国际大科学计划在广州南沙启动 科学网—新闻 促科技与产业创新深度融合 中国科学院广东实践“粤来粤有”经验 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EUnRJTEJ1dGtpSm5CRTBqN1lHQlFHS0QyeUJ4bDRFMVNrZWVQeDFyWS1vX2lQdXkxa2pNQU1ZQjFRV1lsWk94eDZ5VUFWT3Q5YWpFSFgxUmY0YkFQLWNaRHhJTml2cmIzbjB3N2ZZZTl4VjA4?oc=5",
+          "source": "驻刚果共和国大使馆",
+          "published": "2026-11-02T15:00:00+08:00",
+          "summary": "王毅将主持澜湄合作第十一次外长会 驻刚果共和国大使馆 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "积极探索符合自身特点的高质量发展路子",
+          "title": "中越将举行“合作—2026”反恐联合训练",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8td08wdW8ydWdkV0tJYUgtYUY5dERLY1FUQ20xM2huVXVxaFViS3JnWVF2cWh5UzBMbWhVSWJkOXdjQzJRVzBoR3U0R3FLaGVFNTRyVzA3X0pyMGh5dExtUUxiZHZTZm5od1pxUkJxVHQ?oc=5",
-          "source": "https://www.aksxw.com/",
-          "published": "2026-11-02T10:50:36+08:00",
-          "summary": "积极探索符合自身特点的高质量发展路子 https://www.aksxw.com/ 深情的牵挂 奋进的力量 www.tlfw.net 高质量推进兴边富民稳边固边 坚定履行好新时代兵团职责使命 新华网 伊犁州党委召开常委会（扩大）会议 伊犁日报 “参加完这次党代会，我干事创业的底气更足、信心更强了” 中国新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CbEgxLUFnOEtDZ3pOUzAxSlgzdG5XRDdNSkJsTEdoNG5EVmlBVHNnUXBrUFBMX1FocWEwODdjZm9Oa1FXNjJmZm9xdnFHa0ZYNEJoOWxmRHZsMllhWGc?oc=5",
+          "source": "京报网",
+          "published": "2026-11-02T11:27:48+08:00",
+          "summary": "中越将举行“合作—2026”反恐联合训练 京报网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "出售2.4万条女房东信息牟利19万元！江苏一案入选最高检个人信息保护典型案例",
+          "title": "涉网络“开盒”、“饭圈”乱象等，最高检发布案例",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TRUlyM1VjeGxTTEZ1VU9XQm5CbWRSUGNRSHF1MUdsUFdyeVh5MHAxNzZwYlFKdGNXYXUzSkhIcUZpVDRONUdmemh6anBodEYxLXN4eDlFYzAxSlBtdVYwR29tSkxjY01acmNZ?oc=5",
-          "source": "新华报业网",
-          "published": "2026-11-02T13:50:00+08:00",
-          "summary": "出售2.4万条女房东信息牟利19万元！江苏一案入选最高检个人信息保护典型案例 新华报业网 聚焦“开盒”网暴、“饭圈”乱象等 一批涉个人信息保护案例公布 央视网 涉网络“开盒”、“饭圈”乱象等，最高检发布案例 中国日报网 新浪网· 新浪网 倒卖30多位明星艺人航班信息获利一万余元，长期活跃于“饭圈”的航司客服舒某屏获刑十个月 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44aTdTWWx2V09sUlBGb0wtSmpSRGxqU0hoa0R4ZFg1X1RCdE53S2NMUDg2RHJVNmJFa0JwRTBkOEY3T21ISGtmd3JGUE52RkJOcGJUdV9jeGtrYUhKdlZjdGV1dHItd0c1azR2bXRkeFA?oc=5",
+          "source": "中国科技网",
+          "published": "2026-11-02T11:36:28+08:00",
+          "summary": "涉网络“开盒”、“饭圈”乱象等，最高检发布案例 中国科技网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
@@ -166,24 +184,6 @@
           "source": "中华网",
           "published": "2026-11-02T13:15:52+08:00",
           "summary": "刘奇凡任云南省代省长 正式履新省政府党组书记 中华网 刘奇凡任云南省代省长 凤凰网 刘奇凡任云南省副省长、代省长 ThePaper.cn 人事观察｜59岁刘奇凡代理云南省长 财新 刘奇凡任云南省副省长和代省长 联合早报",
-          "summary_zh": ""
-        },
-        {
-          "title": "学生社区里的学习会让长征精神直抵人心",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wMWJPZEoybU51aldKRzhlcndaS0YwS2txbzdyZ1NIc3VSQVVrSkZVV3lZVUVRM0Njb0pEOC10VDM4dmVDRktPQlhreE9hS1NZejlxZnkzVlZYYzhIclhtbXlDR0dnY05PMjk4VE5R?oc=5",
-          "source": "江苏宣传网",
-          "published": "2026-11-02T10:03:45+08:00",
-          "summary": "学生社区里的学习会让长征精神直抵人心 江苏宣传网 市文物局组织青年干部参观“伟大的远征——纪念中国工农红军长征胜利90周年”主题展览 北京市人民政府门户网站 “光影忆长征——纪念中国工农红军长征胜利90周年”主题展览在重大举办- 中国日报网 China Daily 回望伟大远征 汲取强军力量——万名官兵走进“伟大的远征”主题展览 光明网 红星照耀中国｜全国民办高校纪念长征胜利90周年践学活动在昌举行 央视网",
-          "summary_zh": ""
-        },
-        {
-          "title": "未来三天浙江阴雨不断 西部和中北部将陆续迎中到大雨",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SSkZFZF9JeGY1QXd0eXc3dFVHREZ4RjVKY05GQWlOS3ZvdDE1S3ZaVkRzbW44UHVHMXkxdWs4VkpkWG93LVFSSUt5N3p6ZHAzZ1ZNdVV1TExPeDll?oc=5",
-          "source": "天气网",
-          "published": "2026-11-02T09:54:17+08:00",
-          "summary": "未来三天浙江阴雨不断 西部和中北部将陆续迎中到大雨 天气网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         }
       ],
@@ -207,15 +207,6 @@
           "summary_zh": ""
         },
         {
-          "title": "Silicon Valley Is Grappling With a Flood of Bugs Found by A.I.",
-          "title_zh": "硅谷正在努力解决人工智能发现的大量错误",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaHMzZ0xHaXZJclUyQTNaV21kT28yQVNMWk1oaTNENVZQUkFzSjJWTllSMVdKM1dKZU1kUGpHTnBRTUp5czRSS2h5ZUg2ZlJ2cE9adDhOaWRhN1MyaENXazlvWm8zMnhuOFZzQ0F1SkVLMnIwb0hKTzNmY1VSUQ?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-02T07:13:35+08:00",
-          "summary": "Silicon Valley Is Grappling With a Flood of Bugs Found by A.I. The New York Times",
-          "summary_zh": ""
-        },
-        {
           "title": "Artificial Intelligence Versus Human Interpretation in Diagnostic Radiology: A Systematic Review of Diagnostic Accuracy and Operational Efficiency",
           "title_zh": "诊断放射学中的人工智能与人类解释：诊断准确性和操作效率的系统审查",
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPXzRWdm1ncnFCckFlWUh2dUllbTFaeXJEYzUxcEl1VkJWSXo3Rk1kZ1daQU9xUWp5Y2dySzdqSDh2bGJEVzJfdTd4N0pzcFF3dHAySzJYTTh4MUtDNnRDRnhFaXZnMVFtYUxOenJUQzN3ejlMU19sTExQQk8wT2xsMUM2SzVCcHVCWG1ZZXM0MGJ5d3F3bFZGZmV5WTBQbWM3RUFzWHQ1UzNDcUtQRTZ6c1phbmNHRTA0WDV0cS0tMVVTb19SUXpLTmpCZWpzc0NLcW9qRnhoSldoYmV0YTZGYll0bUFUb2puX0VuQ2pobFowNzE5a0VSWktKTGhVVjhKSk02aG16UjlhTGw0c1kyM3dR?oc=5",
@@ -225,12 +216,30 @@
           "summary_zh": ""
         },
         {
+          "title": "Abu Dhabi’s ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE",
+          "title_zh": "Sam Altman 前往阿联酋期间，阿布扎比 ADNOC、G42 与 OpenAI 签署协议",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbG5kS1RoS0YzU0JWeE83MkZmOVNJUk1zMnRRV1lmM0ZvQ2N4VUg0MF8yTHFRSzlKQ2lHQzh0RUwxYmNtWDhrMllDdGlUWlQ2WGh5QTZ4V1B1LXdIdEdhVzktQ2REMTRZREhjZzFoUk1aV25mY1JHOVp4QlY1Z1FGZ0V2aEdKejhndzhvdUdSWnZHMm5vdEQtUkVPcDFQRTFHNnRsVQ?oc=5",
+          "source": "WTVB",
+          "published": "2026-11-02T14:59:35+08:00",
+          "summary": "Abu Dhabi’s ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE WTVB",
+          "summary_zh": ""
+        },
+        {
           "title": "Calling a chatbot “super” doesn’t make it a god. Reject the sand god. Call it AI.",
           "title_zh": "称聊天机器人为“超级”并不意味着它就是神。拒绝沙神。称之为人工智能。",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0SThTWEZ3MnpLLWx5d0JYZjBseTdMbkxmOFBTT3hDQVpJaWVRQ2VCNjdSbjltc0QzRGJrYkJNN2p4VWs5RFdHSVNXQUJoVHpXMWVTU1NkRUQ1cV8tcUJnTGdDQnA?oc=5",
           "source": "The Fulcrum",
           "published": "2026-11-02T13:27:30+08:00",
           "summary": "Calling a chatbot “super” doesn’t make it a god. Reject the sand god. Call it AI. The Fulcrum",
+          "summary_zh": ""
+        },
+        {
+          "title": "Silicon Valley Is Grappling With a Flood of Bugs Found by A.I.",
+          "title_zh": "硅谷正在努力解决人工智能发现的大量错误",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaHMzZ0xHaXZJclUyQTNaV21kT28yQVNMWk1oaTNENVZQUkFzSjJWTllSMVdKM1dKZU1kUGpHTnBRTUp5czRSS2h5ZUg2ZlJ2cE9adDhOaWRhN1MyaENXazlvWm8zMnhuOFZzQ0F1SkVLMnIwb0hKTzNmY1VSUQ?oc=5",
+          "source": "The New York Times",
+          "published": "2026-11-02T01:19:00+08:00",
+          "summary": "Silicon Valley Is Grappling With a Flood of Bugs Found by A.I. The New York Times",
           "summary_zh": ""
         },
         {
@@ -258,15 +267,6 @@
           "source": "PYMNTS.com",
           "published": "2026-11-02T10:09:55+08:00",
           "summary": "Amazon Positions Alexa for Shopping to Counter Third-Party Agents PYMNTS.com",
-          "summary_zh": ""
-        },
-        {
-          "title": "Fact Check Team: Artificial intelligence places millions of American jobs at high risk",
-          "title_zh": "事实核查小组：人工智能使数百万美国工作岗位面临高风险",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONE5pdnVFRmhpV3ZqTUh2V3hhbHgxWkdVWnoxRFNWd295dWJNTzFEcllIWUtOazFKdm0teERLbTRUeWhVcFZrMFdtQzhZQlNSVDVsamNrT3NCRVpGMk05eDMzSndMMXpJUWZaUEdIdC05c2tVbHZBSUthOFhuRGdQTEdRWEZUb3FocjZuN0VTWE5BTS1neUtiSTJnMDU1bzBXVVdGVXNfNHpETWhkeHN2bndoRFNFMjVtSjEtVjFFYlhIcWRlZklidEdHR21YdVR6dDg5bndnM0YxZEZxX0RHempDNlJzSkx6NzBXVjFHZy1hSlk?oc=5",
-          "source": "wtwcfox",
-          "published": "2026-11-02T02:51:26+08:00",
-          "summary": "Fact Check Team: Artificial intelligence places millions of American jobs at high risk wtwcfox",
           "summary_zh": ""
         },
         {
