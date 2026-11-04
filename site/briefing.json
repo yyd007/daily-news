@@ -1,7 +1,7 @@
 {
   "date": "2026-11-05",
   "morning": {
-    "generated_at": "2026-11-05T02:34:23.422159+08:00",
+    "generated_at": "2026-11-05T02:50:15.405000+08:00",
     "sections": {
       "worldwide": [
         {
@@ -10,7 +10,7 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmlQcUFmZnRoZzJhRmFYd0JkMXhYU3kyLWxqOV9uYnlUeEVkdGRCZDhXZEhMYkJ6eHI0TUs1T05rSXJEc01PbUJYU2dXczhsYW4zVGJSUlNqTF9ENEY0anRkcGlIMy1na3N2NlpSTHdreGNtaHM3NWRRZkd3UUJJQzVrX2pIQ0luMko4Rk9MWk5XQXlhWG1UeFJNRUVYNnPSAaQBQVVfeXFMUHdnaUVOZEx4S2F3ZTJnVTZLUmM5Z1RpRE9fSG9DWDNOZTEyNEdkU3NkZ3NIMGdLdEpFaXZRNWxTbDU1OEQ2WUpwbUx5WEsyb1lKcWRYcHU4T3k1N1huTWpCQWpPeThQVXE4LXZQU09mMTZFcE5pWnQ1TTR4TnRqNDBJZXBMTmFRNWJJYVJwNllheXZDSXBiUzQxMzhVcUZEVG1lS3M?oc=5",
           "source": "Al Jazeera",
           "published": "2026-11-04T22:31:59+08:00",
-          "summary": "‘Seismic shift’: World reacts to US midterm election results Al Jazeera What Trump’s midterms setback could mean for Iran, Israel and Ukraine CNN What Trump’s Midterm Defeat Means for Iran and Oil Prices The New York Times What Trump losing power over Congress means for Iran,...",
+          "summary": "‘Seismic shift’: World reacts to US midterm election results Al Jazeera What Trump’s Midterm Defeat Means for Iran and Oil Prices The New York Times Bowen: Trump's loss limits powers at home, but it will likely be different abroad BBC What Trump’s midterms setback could mean...",
           "summary_zh": ""
         },
         {
@@ -19,7 +19,7 @@
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VlJEM1d3V3hZVURESU85dmlFTTlValUxVG8xLUlaNi1hVy1sYmlPMG4zdWg2cW5EMUdLWEZHczFMWG9Qcy1DcnlNNmd4SlVXUGhYS2NZX1FBcjQ?oc=5",
           "source": "BBC",
           "published": "2026-11-04T23:45:45+08:00",
-          "summary": "Israel's president to begin consultations with parties after election deadlock BBC Israel’s President Could Play Key Role in Breaking Post-Election Deadlock The New York Times Israeli president begins coalition talks as election dispute continues Yahoo Netanyahu faces...",
+          "summary": "Israel's president to begin consultations with parties after election deadlock BBC Israel’s President Could Play Key Role in Breaking Post-Election Deadlock The New York Times Netanyahu faces coalition showdown as rivals maneuver to form Israel's next government Fox News...",
           "summary_zh": ""
         },
         {
@@ -28,7 +28,7 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw?oc=5",
           "source": "Reuters",
           "published": "2026-11-05T01:15:45+08:00",
-          "summary": "Dozens dead and missing after Russian strike on Ukrainian aid centre, officials say Reuters Russian bombing of Ukrainian aid center is one of the war’s ‘deadliest attacks,’ Zelensky says CNN Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it...",
+          "summary": "Dozens dead and missing after Russian strike on Ukrainian aid centre, officials say Reuters Russian bombing of Ukrainian aid center is one of the war’s ‘deadliest attacks,’ Zelensky says CNN Ukraine says bodycam video shows deadly Russian double-tap bombing BBC Zelenskyy says...",
           "summary_zh": ""
         },
         {
@@ -41,12 +41,30 @@
           "summary_zh": ""
         },
         {
-          "title": "Pete Hegseth stares down likely impeachment vote. And he's not the only one",
-          "title_zh": "皮特·赫格斯 (Pete Hegseth) 盯着可能的弹劾投票。而且他不是唯一一个",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHZ6WHlUejRjUkhnWHZ3eEJRenlqWkVibXdCcmdVQXJQNFE1Zkh4dVBuSS1fVG1ZbFRxb1V6RWJqMG1ndnRwUGtzai0zMGJ2YzJFQlZ2ZkgzNG0wSHhhQlpydUJBZUt1a0ZsNjV0YWZQbXlOM2RZdlhJS0hwOVhncDAwUXljaC16RE5OUjM1RkVyakQ2clQ5dEtNNDZBSmgzQXZOejVXUTBJNVA4c2pJcDVuNFZJNGVJT00zMFVlaw?oc=5",
-          "source": "USA Today",
-          "published": "2026-11-04T23:02:00+08:00",
-          "summary": "Pete Hegseth stares down likely impeachment vote. And he's not the only one USA Today Hegseth digs in as confident Democrats plan to go on offense after midterms The Washington Post Impeach Pete Hegseth for the Disastrous Iran War Yahoo Massie could soon force House...",
+          "title": "Ukrainian Drone Assault Sparks Fire at Ozon Warehouse in Adygea",
+          "title_zh": "乌克兰无人机袭击导致阿迪格 Ozon 仓库起火",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbk05d2Racl9RYXVUOXE2Z0t5S0h2VTU0WkVNM0pZWWlQVHJCU1VIaVhYMTBWT1JQM1IyRGVOUTBrbU03cml2Q1lrVEU1aDBLSHMtb2xnTDA5eWNVbjNsY2ZKcGxoZXJQLXJKMkdtak9tN0ItaE12enRjZzd4REFPRFNYcHNsUzRLNUdFWk9rdjlSNWlSMkY4elBURVRrUTBhWHE0aVdBLVExTlJ6amVzNmRB?oc=5",
+          "source": "The Moscow Times",
+          "published": "2026-11-04T17:25:00+08:00",
+          "summary": "Ukrainian Drone Assault Sparks Fire at Ozon Warehouse in Adygea The Moscow Times Ukrainian drone strike sets fire to hub of e-retailer Ozon in southern Russia Reuters Drone strikes warehouse in southern Russia, online retailer Ozon claims The Kyiv Independent Ukrainian UAV...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Mother, daughter dead in suspected grizzly bear attack in Canada",
+          "title_zh": "加拿大母女疑似灰熊袭击身亡",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORHI0OEJSaWRpNlNBWXNwOS1DWWNvQzNOaXg5MTNLTWtPSmpUamcxem5ERnBmUUdrZ3ZmQXl6MHByME5kU0xaeDRhRnhzaVh4QkpOS2pmazRmUnR6TFpLRXd1NkVBVFhwZ3dpQzFBODJCQnJhcXJuOGk5U2JhTnl3ZzBUQUxTQk1VaVE?oc=5",
+          "source": "CBS News",
+          "published": "2026-11-04T23:27:00+08:00",
+          "summary": "Mother, daughter dead in suspected grizzly bear attack in Canada CBS News Mother and daughter die in suspected bear attack on Canada trail NBC News Mother and daughter killed in suspected grizzly attack were 'two peas in a pod,' family says CBC Mom and daughter killed in...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Tillis: Hegseth faces ‘a reckoning’ in lame-duck session of Congress",
+          "title_zh": "蒂利斯：赫格斯在国会跛脚鸭会议上面临“清算”",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXFyakkxSHprVFlaTVJFSk53Ym9uT05XRkpjbjZHVk1XTDZQTnpvdXBUempmVnZfckFhUllZYUNVcV9jamprM1d5YlFaMng3UUs0TFV5Wk1TSmU3aTVZRWo4NlN6NkVzT2tGV2oyUU8tQ0tQU2xQQUwwN1FfcUZ2b3dXZmN0QdIBiwFBVV95cUxPMlh0V0ZaYUlQSW1TTVMtOEE0eTMxbkNPSDJHck9IQlpTQk43Wm53dWhldnp2em9hX3ZsOWVrZ3NkdFhpLUdxTWFSVmdYOXRDX01kY0kxcHZhUlZPNjVZU0syZUxYSW1kOFgtRDlVc2RjNDA1ZTIxMFM2Y2tjWng1WkNpelF2OFZ3WXA0?oc=5",
+          "source": "The Hill",
+          "published": "2026-11-04T20:49:00+08:00",
+          "summary": "Tillis: Hegseth faces ‘a reckoning’ in lame-duck session of Congress The Hill Hegseth digs in as confident Democrats plan to go on offense after midterms The Washington Post Impeach Pete Hegseth for the Disastrous Iran War Yahoo Pete Hegseth stares down likely impeachment...",
           "summary_zh": ""
         },
         {
@@ -59,20 +77,11 @@
           "summary_zh": ""
         },
         {
-          "title": "Drone strikes warehouse in southern Russia, online retailer Ozon claims",
-          "title_zh": "在线零售商 Ozon 声称无人机袭击了俄罗斯南部的仓库",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNFRJZnNfWTdpeUlnNjBSSTczWVRXRHNZVGp4QjNQWjBsOVhhTktIWUF4eGlsVHQ0SkltWFVxMkd4RHVwSXpYOFA2LTh1SUYxNmREZmNIcUdfb3lFcUdJLWdDLTFyQmxSR1ozRV9Cejc3dWR4Q2lldks5SVNZZGJFa3BjbkhNWXpCRF81WFBRYWgyVU9ad01NZkppMnlCajdV?oc=5",
-          "source": "The Kyiv Independent",
-          "published": "2026-11-04T08:42:38+08:00",
-          "summary": "Drone strikes warehouse in southern Russia, online retailer Ozon claims The Kyiv Independent Ukrainian drone strike sets fire to hub of e-retailer Ozon in southern Russia Reuters Ukraine-Russia war live: Kyiv launches fresh bombing raid on Russian retail giant The Independent...",
-          "summary_zh": ""
-        },
-        {
           "title": "NATO’s New Defense Plan Would Mean Strikes Deep Inside Russia",
           "title_zh": "北约新防御计划将意味着对俄罗斯腹地进行打击",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRnBiZFd1d3BrSWJKTU1VeXZpLW91TXloQ0tOYy1Ob2podklGM2toNWREdU1scm1BazE5RjRVT0VacldyLXJ1c0hQNThXcTZVcUJoQ1g2YnIxM2lPWHA2dFNTM3NWeHJoajJEYk1yazIya09zenpPQ2NiQTBjLUZTd1NDekpVUU5KNkg3UjhET2RySXU0OTRxZlljMlVqSDBVdUtyVA?oc=5",
           "source": "WSJ",
-          "published": "2026-11-03T23:41:00+08:00",
+          "published": "2026-11-03T23:41:33+08:00",
           "summary": "NATO’s New Defense Plan Would Mean Strikes Deep Inside Russia WSJ NATO prepares new defence plan foreseeing strikes deep inside Russian territory – WSJ Українська правда NATO’s New Defense Plan Includes Strikes Deep Into Russia Kyiv Post NATO is reshaping its defense plans to...",
           "summary_zh": ""
         },
@@ -84,43 +93,34 @@
           "published": "2026-11-04T20:52:46+08:00",
           "summary": "U.S. Marine dies in Japan during training, military says NBC News US Marine dies after training incident in Japan, officials say ABC News - Breaking News, Latest News and Videos Marine dies during training incident in northern Okinawa Stars and Stripes US Marine Dies in...",
           "summary_zh": ""
-        },
-        {
-          "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
-          "title_zh": "伊朗称美国对霍尔木兹计划的答复“不令人信服”；特朗普确认罢工",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1ZqTGJfa3lWVVdvUzRRRUc3TlVVYUNFMHhkWlREdDZsYUFzSmdJVjBhcU9PaEptVWRxRm9QMnRGcmpkYkNHVXgydHhJYTd6X0d5dF9JMG1vc1dVOWtBWWxBUTB3VjhkZlAyUEt4cGhPUlJIRzR2cFhkdFVoOEc4SkRkM1FRQ0FpblBPZHh5S3JKMl9zbUhjeUlVazhmdkJ5QjRaUXJ6eV8taGNpV3lv0gG0AUFVX3lxTE1qMndoTmRKR0xGNDZnMVJYWmdselZrTXdiXzFKVjgwQW9OZ242eHJDWFlMa2x5MU1mbGVGdFIwV2V5Q2V2OVpfYmtfd0RLUnhmN01vTjZMdHgzVnVaMlZfelBSajJHOWVJOXZ0UTlQZEMwR0RsalU2bThPekFSRDExWG9KUUVMdFlVSFRPNTgteTdyNGxZMmhCMU9aUjU1SnNaTWJETmdSTlFyeHUwQmRUOGpRMw?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-11-04T15:35:38+08:00",
-          "summary": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes Al Jazeera Live - Trump says his Iran decision remains right for US and world Iran International Iran plays down hope for deal to end war after new U.S. strikes on eve of midterm elections CBS News US...",
-          "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "写在第九届中国国际进口博览会开幕之际",
+          "title": "严格贯彻执行民主集中制——深入学习贯彻党的二十届五中全会精神系列述评之四",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEFUNG9QRGRvS3pQVUlZZVhZTWotelBqLWxIUjhfaVlOUWRQV1pZSXZiVy1QWmdyY3I2QUtUUEhxT3Y5a3EzSkd6Vl90TGdhcTh5eGxqSGlwWFZ5R0V3WDNkTVNDcFJmaGgwVGZ5UnNES1MzOGQ3NTVnQVRXYlhOSHRR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUtVLVk5LVAtZnA2YkVMWU5DWjJLNFBHZmp1N3hfeG1oRXNXN1dHNWVKdmJRNmhaOTBydkNBREtveGQ5c1JIcFU2RmNXdm9ZZGFXNF9CRENWdjU3ZENHdTZxMF94QUl5U2xRMEg3emdyQzZQLVM3ZXE3VmZ5TFM5MjgtZw?oc=5",
           "source": "新华网",
-          "published": "2026-11-05T00:26:10+08:00",
-          "summary": "写在第九届中国国际进口博览会开幕之际 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "published": "2026-11-04T22:24:49+08:00",
+          "summary": "严格贯彻执行民主集中制——深入学习贯彻党的二十届五中全会精神系列述评之四 新华网 新征程上强党强国的光辉文献——《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》诞生记 新华网 学习贯彻党的二十届五中全会精神中央宣讲团首场报告会在京举行 人民日报 八钢公司党委常委（扩大）会专题传达学习党的二十届五中全会精神 同花顺财经 中国共产党第二十届中央委员会第五次全体会议公报 中国共产党员网",
           "summary_zh": ""
         },
         {
-          "title": "总台党组传达学习习近平总书记重要讲话和全会《决定》精神",
+          "title": "VOA加入各方预测：民主党赢得参议院、众议院多数席位及多数州长职位",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZ3Y0cWdDRE5jeEhhVThRQkFNSE5aR1VucVJvT1VMU0NsaHZ2dEU1Ty1MVWZCdlNqREVVUVJuSVliUXozTGkwbHZBWFlKeUtxTGtVN0QtRGdRUklrUFF5QV9zbUY1UnpCYXdleXF4WHFZUUplV2k0?oc=5",
-          "source": "央视网",
-          "published": "2026-11-04T19:52:00+08:00",
-          "summary": "总台党组传达学习习近平总书记重要讲话和全会《决定》精神 央视网 新征程上强党强国的光辉文献——《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》诞生记 新华网 学习贯彻党的二十届五中全会精神中央宣讲团首场报告会在京举行 人民日报 八钢公司党委常委（扩大）会专题传达学习党的二十届五中全会精神 同花顺财经 中国共产党第二十届中央委员会第五次全体会议公报 中国共产党员网",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV2xSQmxHTEVvWXBxSGtlcUVCSVd6czlnczBJbTJGNGFTRC1SajJaeWczei0yUXF0VmRLS3hlVEczTktxRDd5UnYtRU9MSmdDRlJhbHN2aW85OWU3R28tdWRmNE9RS2hYaFoxU29BUWhpVTRhVDF1RkxvdGFLc2dCNEM3V2hWUnpOb1dJaGhkcUd2eWUxUzZ6cm5rQ3Ruc2kza3NhcWhLRW9WRHh6V2hrWHZSNVVEeEJVQ2lpQtIBvwFBVV95cUxOc2oxZWZYRWt4ZjFPalZXelJvMkZUd3hJQVkwOF9rZWp0WFY4VV9xN29JaVpHX0w2MXNrZC1lNGZjQmFrMVF1Vk1PcUFHaVlkWUlLTk1TVDctUnRtQnVOVTc4QXp4UjRDSEV0eU5tdVdpZ1FJWDQ5cVYyUmNMdkY1Um05WnNYbmNzbndrMVBwSFJHa2hwQjBuUnlLUlZfTDVzQktDSzhSRGpldFlQeW00QjkzbUppcWdZckJOTUpZaw?oc=5",
+          "source": "美国之音",
+          "published": "2026-11-05T00:12:54+08:00",
+          "summary": "VOA加入各方预测：民主党赢得参议院、众议院多数席位及多数州长职位 美国之音 美国中期选举2026：民主党历史性胜利深入共和党票仓攻城掠地——BBC记者泽克尔观察- BBC News 中文 BBC 国际观察丨“蓝潮”后的特朗普困局 新华网 特朗普称接受选举结果，“白宫里气氛像葬礼” 观察者网 民主党赢得两院控制权，特朗普最后两年任期将面临国会更强制衡 美国之音",
           "summary_zh": ""
         },
         {
-          "title": "主播说联播丨让这条母亲河，越来越美！",
+          "title": "行走中国丨中国综合治理“地上悬河”造福人民",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKMGVWRWpHYmE4NG5GSGtfbEh6bFlhQ3NQbHZvQzkzZFRCU0xkVXRpLU00U0xkdnMyMG93SFpXdms2ZWgzUGg1X0RlOTFLaFdadnM0YXgyQ2s3VlFKVVducWc5bVc?oc=5",
-          "source": "西部网",
-          "published": "2026-11-04T10:06:00+08:00",
-          "summary": "主播说联播丨让这条母亲河，越来越美！ 西部网 九曲共和弦（河以幸福 人民治理黄河80年） 新浪网 努力让这条母亲河越来越美——写在党领导人民治黄80年之际 中国日报网 持续推进黄河流域生态保护和高质量发展的重要遵循 新华社客户端 黄河边的“绿飘带” 新华网",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yMjc1Y3Zvekdrd29ZdHZlQXRKZW5jV2lULUQtLVNveUZsMkp5RnZ1anAzRElxenJ0YnhiaTVyS29sQk03V1Y5Rk9iNm43bjJGbnVUUVNHSXVKN3hBRHp5UHNHLXRTMFdwUW85LXJzajJiUVcyMkhYSDNjOU9OZEk?oc=5",
+          "source": "新华网",
+          "published": "2026-11-04T19:38:25+08:00",
+          "summary": "行走中国丨中国综合治理“地上悬河”造福人民 新华网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
@@ -138,7 +138,7 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zbUN5WGd2N1lqXzBkM3hhUllfM09QT19iUDl6Y2xIOGliYkNtVExmMlNRVjVMc3ZfaDZSX21XQTBYQ3BQVFgtSW9XQl9vdXB2eFBLbUpkeUpucE1qR25BODF3WGUycE5NbngzbVlCb2RDZnA3RVBzNXRBQ0xlZEk?oc=5",
           "source": "新华网",
           "published": "2026-11-05T02:00:46+08:00",
-          "summary": "以方称打死哈马斯军事情报行动负责人 新华网 以军称打死哈马斯一高级指挥官 凤凰网 外媒：以色列在加沙地带发动空袭，造成多名警察伤亡 搜狐网 以媒：以军称摧毁哈马斯两处武器库 欧洲头条 Asharq Al-Awsat： 两名哈马斯警察在代尔拜莱赫遇害 UA.NEWS",
+          "summary": "以方称打死哈马斯军事情报行动负责人 新华网 以军称打死哈马斯一高级指挥官 凤凰网 外媒：以色列在加沙地带发动空袭，造成多名警察伤亡 搜狐网 以媒：以军称摧毁哈马斯两处武器库 欧洲头条 以色列对加沙的袭击造成至少5名巴勒斯坦人死亡——Dawn UA.NEWS",
           "summary_zh": ""
         },
         {
@@ -169,21 +169,21 @@
           "summary_zh": ""
         },
         {
+          "title": "写在第九届中国国际进口博览会开幕之际",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEFUNG9QRGRvS3pQVUlZZVhZTWotelBqLWxIUjhfaVlOUWRQV1pZSXZiVy1QWmdyY3I2QUtUUEhxT3Y5a3EzSkd6Vl90TGdhcTh5eGxqSGlwWFZ5R0V3WDNkTVNDcFJmaGgwVGZ5UnNES1MzOGQ3NTVnQVRXYlhOSHRR?oc=5",
+          "source": "新华网",
+          "published": "2026-11-05T00:26:10+08:00",
+          "summary": "写在第九届中国国际进口博览会开幕之际 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
           "title": "近万件流失海外敦煌文物实现数字化“团圆”",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtdGVaY2Yxak5SUWlCb1l3Q2owRU9qMlNVVkhXSlktYzlfMkJiRVIxcEUxZnF1b1lfYWpOZVliQ3NWNDVvVHZlUGs4dEVRd3c1U2kzb2NzRFUyTHJHVzNCR1BkT2JNdkFtVzE5cTZMVQ?oc=5",
           "source": "泉州网",
           "published": "2026-11-04T21:54:00+08:00",
-          "summary": "近万件流失海外敦煌文物实现数字化“团圆” 泉州网 从展厅到生活 文创让千年文脉触手可及 新华网 敦煌文创“圈粉”更多外国游客 央视网 在莫高窟没能看到第45窟，可以来敦煌文博会看 ThePaper.cn 敦煌文博会绿电实现“双重可溯源” 中国日报网",
-          "summary_zh": ""
-        },
-        {
-          "title": "全球侨商侨企共赴广州机遇之约",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWM2ZWwwcGtsMENBUW1LZlFpa0dYUlZzTi11YmJqYzA1bV9MNHVBc1BjLVA0TVZQbGFMUHV2Q1JDWm55NkhhQ1RPYjlJWGJRWmY3SHdJaUdRbVlZZGxuNjl3TmdremczSVA2bUNfLXB4TFk4UmtNYVZrdEx6dDNydWE1eUc0SHZfWGc?oc=5",
-          "source": "旅日侨网",
-          "published": "2026-11-04T19:36:41+08:00",
-          "summary": "全球侨商侨企共赴广州机遇之约 旅日侨网 投资大湾区 共创美好未来——2026粤港澳大湾区全球招商大会在广州举行 央视网 “来番禺 正当时”，这里有更多合作场景及机遇 新浪网 合集｜全球企业家在广州聊了什么？ 搜狐网 中国银行行长张辉：加大金融支持 助力粤港澳大湾区高质量发展 21财经",
+          "summary": "近万件流失海外敦煌文物实现数字化“团圆” 泉州网 从展厅到生活 文创让千年文脉触手可及 新华网 十年敦煌，从“展示窗口”到“对话世界” 凤凰网 在莫高窟没能看到第45窟，可以来敦煌文博会看 ThePaper.cn 第九届丝绸之路（敦煌）国际文化博览会开幕 人民日报",
           "summary_zh": ""
         }
       ],
@@ -222,6 +222,15 @@
           "source": "HCPSS",
           "published": "2026-11-04T23:36:57+08:00",
           "summary": "HCPSS Teams Up with Student Group to Drive Student Interest in and Understanding of Coding, Computer Science, and Artificial Intelligence HCPSS",
+          "summary_zh": ""
+        },
+        {
+          "title": "trust, training, and the future of law and medicine in the AI era",
+          "title_zh": "人工智能时代的信任、培训以及法律和医学的未来",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YQjVPVFlFY1JOZ3M4cDUzYTZNa1QyTm1VT3pIVk9sNjNKdTd1ZlljcVN0WXpVOHlkbnA1UWRITDI5MDgxSS1vS1dZVE1iY3dEejIyZHBFYnlSMWZSOFlwLVlRUGVPR1FpSEM0eGwyRzM2M0RMNnc?oc=5",
+          "source": "Stanford Medicine",
+          "published": "2026-11-05T02:36:56+08:00",
+          "summary": "trust, training, and the future of law and medicine in the AI era Stanford Medicine",
           "summary_zh": ""
         },
         {
@@ -267,15 +276,6 @@
           "source": "Taipei Times",
           "published": "2026-11-05T00:00:00+08:00",
           "summary": "Mapping artificial intelligence resistance Taipei Times",
-          "summary_zh": ""
-        },
-        {
-          "title": "artificial intelligence in sports News & Updates",
-          "title_zh": "体育运动中的人工智能新闻与更新",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QaGp3RWRTRk01SXhPSzZHcnA3R1RNcWx4ODlFTUtvdEYtSUI5WXdlZy1YTkFuNFJRVElVdVd0aGtwY1pfZk5HR3BQSWRRbGRUUjkzbFNuMk9QcEJTaUFNM0IxWl8wLTdobkdYc0hDLUtkZEFZYV9J?oc=5",
-          "source": "Front Office Sports",
-          "published": "2026-11-04T23:28:35+08:00",
-          "summary": "artificial intelligence in sports News & Updates Front Office Sports",
           "summary_zh": ""
         }
       ]
