@@ -1,9 +1,18 @@
 {
   "date": "2026-11-06",
   "morning": {
-    "generated_at": "2026-11-06T15:51:54.659216+08:00",
+    "generated_at": "2026-11-06T16:27:43.913272+08:00",
     "sections": {
       "worldwide": [
+        {
+          "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+          "title_zh": "12 天内乘坐 12 架飞机：手术几周后，教皇开始拉丁美洲主要之旅",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2E0ank3Z3NZR3Q2bFVWS29uMlZDSGNfQ3I1WDNta2FYR3JOeFdtWEx0Q2dBUlN0MldyZUZOemdIVE1yRG1JRmZHZWMxZm5Ta1hwYUc0NVB1cEQ0Mkd2T05XcVdPS05RbE52c0o1QU5Ta0NjXzVOeWdNY2dJZzJFYzFCa0dXUVo5WWNURnc4QV9jNE5jUXZ0dERLN1JGVnYtMXZra2tNTkJDdGN1UG9GRnphMzU0ckFSSVNOTEZvYmlNWHFEeXVRVVhR?oc=5",
+          "source": "The New York Times",
+          "published": "2026-11-06T13:01:24+08:00",
+          "summary": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery The New York Times Pope begins lengthy trip to Latin America weeks after lung cancer surgery BBC Pope Leo departs for Apostolic Journey to Latin America Vatican News Pope Leo starts South America...",
+          "summary_zh": ""
+        },
         {
           "title": "France strikes: largest day of protests in years as economy fuels unrest",
           "title_zh": "法国罢工：多年来最大规模的抗议活动，经济加剧动荡",
@@ -11,15 +20,6 @@
           "source": "CNN",
           "published": "2026-11-06T05:24:00+08:00",
           "summary": "France strikes: largest day of protests in years as economy fuels unrest CNN Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know CNN Protesters march in cities across France as unions stage general strike The Guardian French protests...",
-          "summary_zh": ""
-        },
-        {
-          "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-          "title_zh": "12 天内乘坐 12 架飞机：手术几周后，教皇开始拉丁美洲主要之旅",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2E0ank3Z3NZR3Q2bFVWS29uMlZDSGNfQ3I1WDNta2FYR3JOeFdtWEx0Q2dBUlN0MldyZUZOemdIVE1yRG1JRmZHZWMxZm5Ta1hwYUc0NVB1cEQ0Mkd2T05XcVdPS05RbE52c0o1QU5Ta0NjXzVOeWdNY2dJZzJFYzFCa0dXUVo5WWNURnc4QV9jNE5jUXZ0dERLN1JGVnYtMXZra2tNTkJDdGN1UG9GRnphMzU0ckFSSVNOTEZvYmlNWHFEeXVRVVhR?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-06T13:01:24+08:00",
-          "summary": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery The New York Times Pope begins lengthy trip to Latin America weeks after lung cancer surgery BBC Pope Leo departs for Apostolic Journey to Latin America Vatican News In secular Uruguay, small but...",
           "summary_zh": ""
         },
         {
@@ -32,6 +32,15 @@
           "summary_zh": ""
         },
         {
+          "title": "The downfall of Russell Brand: from Big Brother and Hollywood to convicted rapist",
+          "title_zh": "拉塞尔·布兰德的垮台：从老大哥和好莱坞到被定罪的强奸犯",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS18yc3hJWm9uakJyVlJoWjdhZU56NFZoQTE2YkgxMnZGU3dGVUNqZktoVnFEYWxiTDFuVTNyMndhSzhfbDZaQmQ1aVBCU3pWbFhrOHJBTzVzNUNULVZwMklNWmVDUUNrMC1zVVltaEJxTVFNWkJKR0hBWm5ONWlUaF9la2hDT3pXUGl0LUdlUDRqeHBSQVN5UlN1VVhfbks0NXQ3RnVxSzRLa3p5S295LWVxeXpBdW13NVlDVTk0eDlMSXhDbW04?oc=5",
+          "source": "The Guardian",
+          "published": "2026-11-06T04:31:00+08:00",
+          "summary": "The downfall of Russell Brand: from Big Brother and Hollywood to convicted rapist The Guardian Russell Brand found guilty of rape and three sexual assaults BBC How British Law Informed Russell Brand Trial Coverage The New York Times Russell Brand is convicted of rape, and...",
+          "summary_zh": ""
+        },
+        {
           "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
           "title_zh": "伊朗高级官员告诉路透社，伊朗通过卡塔尔向美国发送核提议",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
@@ -41,21 +50,12 @@
           "summary_zh": ""
         },
         {
-          "title": "Russell Brand’s Lawyer Rounds On Journalist Who Exposed Brand’s Behavior",
-          "title_zh": "拉塞尔·布兰德的律师对揭露布兰德行为的记者进行了围攻",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcC1hUUZtWlpHSGpUVjZxd3RfbXBiRmVsaTBNR1RFdEZDdE1MOXlQcnVVb3l5YzhFNkl6ZUlvWUZGNUFpQmhLX2NvNnJSNW41ckpSczBPSkhJeExFR0o1elJjYzd0ZEFDVlJxSm1ISmZ6OEYyMll6YldpdVBBSjE5VWc3eTQ0WF9qaktvOWtud2FpcXNKQ0tFbTJKRDgxZw?oc=5",
-          "source": "Deadline",
-          "published": "2026-11-06T01:29:00+08:00",
-          "summary": "Russell Brand’s Lawyer Rounds On Journalist Who Exposed Brand’s Behavior Deadline Russell Brand found guilty of rape and three sexual assaults BBC Russell Brand is convicted of rape, and judge says he'll get a prison term NPR How British Law Informed Russell Brand Trial...",
-          "summary_zh": ""
-        },
-        {
           "title": "Grizzly bears may have attacked mother and daughter found dead in Canada",
-          "title_zh": "灰熊可能袭击了在加拿大被发现死亡的母女",
+          "title_zh": "灰熊可能袭击了加拿大被发现死亡的母女",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Zrei11aW91Y193UEU4V3VuNHdSOUlKWHpsaHlzeXk0OWRDR1NBREF4VGhlbU9OeEFwQWNqc2NCSTlxV21iazV0LU01dFpDNzRuRWZDcFlrVWZOVEZvR0VBVnJrZHpmQUR2d1c0V1h5YzNZcThUdjc4OG5Qek9NWk1KY1NneTNFOGc?oc=5",
           "source": "Yahoo",
-          "published": "2026-11-06T09:05:00+08:00",
-          "summary": "Grizzly bears may have attacked mother and daughter found dead in Canada Yahoo See more headlines & perspectives on Google News",
+          "published": "2026-11-06T09:05:04+08:00",
+          "summary": "Grizzly bears may have attacked mother and daughter found dead in Canada Yahoo Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike The New York Times Multiple bears may have been involved in fatal attack, Canadian authorities say The Washington...",
           "summary_zh": ""
         },
         {
@@ -73,7 +73,7 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2Z6S2RHWk5UUnUwWXQtV0VPZ2RpTm9hNjR3d2RKM0ZtdzMwdGNOcEhsSk1sUEI3TGlTdkJMcEJFQ0FkZ0pDYnVjLXdhd0dweWVUcDdxVkV4cUNsUE9nTGk4QUZtZ2l2WXktZmZPemFKU0J1WHJYTGoyRDlKRnQyc2hNaEoyWTFMeTBUTUlpcnRCWW9VTnA2MllDdjZ3QUVBRGxRVlRUYmpRWFFh?oc=5",
           "source": "AP News",
           "published": "2026-11-06T00:16:00+08:00",
-          "summary": "Thousands of troops secure Indonesia trial as tensions run high over wiretap scandal AP News Indonesia names fourth senior police officer as wiretapping suspect amid deepening political rifts Reuters Prabowo Wiretap Arrest Spills Top Indonesia Rivalry Into Public...",
+          "summary": "Thousands of troops secure Indonesia trial as tensions run high over wiretap scandal AP News Prabowo Wiretap Arrest Spills Top Indonesia Rivalry Into Public Bloomberg.com 'Treason' claims and military deployments: The political drama unfolding in Indonesia ABC News &...",
           "summary_zh": ""
         },
         {
@@ -91,7 +91,7 @@
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1dQVzVYREM5dVl3NWhjSVFwT2k5N3JtcjVwUXppaXBYZWhicVVTRU5UTDFTQ2pZNjJRZmt5R2YwcXdwSVB3TWFFUUtNWmdycXdFdVp1QUt3OXFWZnREUnRDR1otUXBsbVlBd1BIMWliX0hMM0NsQ0t3VDRhNTVaX212cDFHbllyd1o0SQ?oc=5",
           "source": "The New York Times",
           "published": "2026-11-06T02:42:53+08:00",
-          "summary": "Bomb Threats Disrupt European Flights and Rattle Passengers The New York Times New wave of bomb hoaxes hits dozens of flights across Europe Reuters KLM flight grounded by bomb threat canceled due to technical fault NL Times Flight bomb threats live: Multiple planes in Europe...",
+          "summary": "Bomb Threats Disrupt European Flights and Rattle Passengers The New York Times New wave of bomb hoaxes hits dozens of flights across Europe Reuters Flight bomb threats live: Multiple planes in Europe diverted for second time in a week CNN European Airlines Face Second Wave of...",
           "summary_zh": ""
         }
       ],
@@ -106,6 +106,24 @@
           "summary_zh": ""
         },
         {
+          "title": "习近平复信澳大利亚青年学生",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcTdjYjNzOHNqVjZPUXp2YTIwUlZfSlZfZGF1QjRzY0M1SlM2VW5tNjE0dHdPZ0JjV2pKY3ZDaHVrWEx0V1NkVGdSejBJby1LSExldUxBdWwybV8tVkVBTFBoeHBwcHJ0cjQxNUREZG5lZkk0R2NsVFVNa3Vha28?oc=5",
+          "source": "新华网",
+          "published": "2026-11-06T11:24:54+08:00",
+          "summary": "习近平复信澳大利亚青年学生 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "陕西商南重大刑案：500余人进山搜捕 嫌疑人携刀在逃",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MUpmVHg3eHhRdDlQM2NQY1VQajZaT0ZuU2RWa3I0am5VdnZxZmFqaWlXdkUtRUNyUzBCZ0NKRFFSZjVic1J5ejAxaEVQOTdMMkUyUVRXZVRyVnE4c1ZOdmNqdWpuMjItRTdlR1h6YWg?oc=5",
+          "source": "中华网",
+          "published": "2026-11-06T11:33:46+08:00",
+          "summary": "陕西商南重大刑案：500余人进山搜捕 嫌疑人携刀在逃 中华网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
           "title": "遥感五十一号07-09星发射成功",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTGZSNDVwOFJYYXNvaDVvQ3ZNeXF1NTFBQUJEeHRzVFZ2Q1RwUE9jd2NPNHZNZFY5d2ExMHBDTG1zY3FmSG5Rd2hUaUZ5a2swSHpFX1ZHa2ViazE1REszVTZXR0p3VGdNenR5QWh2ZWw?oc=5",
@@ -115,75 +133,57 @@
           "summary_zh": ""
         },
         {
-          "title": "第二艘国产大型邮轮“爱达·花城号”正式交付",
+          "title": "美国战争部长赫格塞斯誓言反击弹劾 为伊朗战争辩护称具历史意义",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fZW1oUDhaX0hhSGJRWmNoWnZIUU55X09ZaGxoV1lpbVdJSWlNNUlQMlN3NW5lWHJvNGtYd3EtT0VkaWtLMFlOOXQ1TTlIdW1LLXVqWFN4Y1NQN3JDY0E?oc=5",
-          "source": "DoNews",
-          "published": "2026-11-06T11:38:03+08:00",
-          "summary": "第二艘国产大型邮轮“爱达·花城号”正式交付 DoNews 更具“中国风” 第二艘中国国产大型邮轮交付 新华网 爱达·花城号今日海试_新浪新闻 新浪网 新华社权威快报丨第二艘国产大型邮轮“爱达·花城号”交付 光明网 中国国产邮轮正式迈入“双船时代” Jiemian.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjNjYXhyR2hBSUVoUERXdks2YjBRVXNrTkttS3RQWGNRM29aSkdiUHVONkVPdV85UTdudi0tbXNkTWdBdnVPSmJkSGVMazFkdEIxd3UwNUtuclFuMjZwNmJWLTJVajduOW9McnVQTF9QbE1rM1JRMnltcGd3R05PRFBHMU1FbUc3U1pjTA?oc=5",
+          "source": "8world",
+          "published": "2026-11-06T13:33:26+08:00",
+          "summary": "美国战争部长赫格塞斯誓言反击弹劾 为伊朗战争辩护称具历史意义 8world 特朗普力挺国防部长赫格塞斯 众议院最快下周表决弹劾 RFI AI交易遭遇至暗时刻 美防长赫格塞思面临弹劾压力 | 环球市场 财联社 美国中期选举惨败后，美防长遭“追责”，赫格塞思：弹劾不会得逞 ThePaper.cn 闹起来了！共和党惨败后的第一个“替罪羊”，要出现了…… 华尔街见闻",
           "summary_zh": ""
         },
         {
-          "title": "习近平复信澳大利亚青年学生",
+          "title": "第二艘国产大型邮轮“爱达·花城号”交付 长341米设2130间客房",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjlCd1JPUHBSbEloNVJoMEl5SmJTN1dIVVlsTHlSbmFoamZkWlkwRnZEYnRBRFcwWnRFZlhENGRWY2U2UWRxZlVFejJrNFZDOGp4NHFoVkRXQnd1YlF6WXROMUJadmgtN00wcHF1UTBLN2ZWTmVZUHVOUklzQ2FuY1JVdWh1eU5VVl9uU3RB?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lWG5WN21OQW92clBHazhweWtXM0pRdEJEVkFTM1hMVTZ1c09iVmpYVm9pSkVXNERudnZtOGJROG1pZXFpb1FUbnpMUW01Zw?oc=5",
+          "source": "观点网",
+          "published": "2026-11-06T10:07:39+08:00",
+          "summary": "第二艘国产大型邮轮“爱达·花城号”交付 长341米设2130间客房 观点网 更具“中国风” 第二艘中国国产大型邮轮交付 新华网 爱达·花城号今日海试_新浪新闻 新浪网 新华社权威快报丨第二艘国产大型邮轮“爱达·花城号”交付 光明网 中国国产邮轮正式迈入“双船时代” Jiemian.com",
+          "summary_zh": ""
+        },
+        {
+          "title": "冷空气接连来袭 华北北部等地将有强降雪",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbjhQME90ek8xV01CSnMxNDFXTDdUWjk5X0JraHRpR0gzNk1DdGV6VTFqN0dYci1kaTVHcGRfc0Zza3RCb1dmb0phOWxocE5Jc2xDcW5IU2dCVnlQUjJLcDEwbFlwdGpaNVBWNTZId01yc1R1aUJTdnNYTHFkSmlIM0dqVQ?oc=5",
           "source": "新华网",
-          "published": "2026-11-06T11:24:53+08:00",
-          "summary": "习近平复信澳大利亚青年学生 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "published": "2026-11-06T14:57:25+08:00",
+          "summary": "冷空气接连来袭 华北北部等地将有强降雪 新华网 雨、雨夹雪、雪！北京将迎明显雨雪天气 北京市人民政府门户网站 河北发布暴雪橙色预警 凤凰网 预警 | 中央气象台：北京、河北等地有中到大雪或雨夹雪！ ThePaper.cn 北京城区明天能看见雪花吗 立冬雪或将降临 中华网",
           "summary_zh": ""
         },
         {
-          "title": "天天学习丨中南海月刊（2026.10）",
+          "title": "进博会北京展区亮相，“运河上的通州”向全球客商发出邀约",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DMFdQemJxYnJlbFMxc2t2TW9RNlQ2SHZmR3VueWgwUm96V25aeEdxNjl3M0ZsMEEyamx3R2pZb2dsY0F0RkNRdjdWbnlJNnJsbDBMcEhBRkE4Uk1xeGlMc2p4ekF6c0EtVldlUFhxM0poUQ?oc=5",
-          "source": "人民网",
-          "published": "2026-11-06T09:55:00+08:00",
-          "summary": "天天学习丨中南海月刊（2026.10） 人民网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15UG1VWDJCSndCZS1BM0tOTGdXdU92ZTkwd3ZNNnRWTHc5b2YzQXVVVmVuM1VSSG42R19lRzd4ZXUzT0NLNURVQnhuOVViSk9IeGFQZEhlaUZleVltZnI0UVNlR2I?oc=5",
+          "source": "新京报",
+          "published": "2026-11-06T10:19:00+08:00",
+          "summary": "进博会北京展区亮相，“运河上的通州”向全球客商发出邀约 新京报 东南亚榴梿、北美珍宝蟹……世界美味这样奔赴中国餐桌 光明网 “进博会为我们开启了一扇至关重要的大门”（进博会故事） 人民日报 “北京面孔”进博会探寻全球商机 凤凰网 “首发”在中国！全球好物“超级发布会”启幕 中国经济网",
           "summary_zh": ""
         },
         {
-          "title": "特朗普回应\"万斯发长文与其切割\" 一场预演的切割",
+          "title": "千年水乡，遇见“开源星河”——2026年世界互联网大会乌镇峰会侧记",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81dHZXTzFCeVlONUJWU1Y1OHVwYjJmZmNHZk04RWRkS2VXeWtlOEh4bEctR1p5ZEJ0ejJtQmttV3FEVmp6VGI1WU1oa2xDSmx1YUNrNV9Kc2Nwc21fOW5oRkctTmRCSWIxYjduZUVZeWs?oc=5",
-          "source": "中华网",
-          "published": "2026-11-06T11:39:50+08:00",
-          "summary": "特朗普回应\"万斯发长文与其切割\" 一场预演的切割 中华网 分析｜中期选举投下美政坛巨变 特朗普由盛转衰各方如何应处 Caixin Global 美国中期选举：一场史诗级“清算” 凤凰网 “这是一场灾难”：中期选举惨败，共和党内怒火指向特朗普 BBC 原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争 华尔街见闻",
-          "summary_zh": ""
-        },
-        {
-          "title": "全国多地将迎暴雨暴雪 雨雪天气扩大影响交通",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HWVU0X0FGd0dCMlVndGxabTBIRVlYUjB5Q0ZwWVZSeG50ZTVaMTQyOVh1d1RjYTdTRFdYYWktS01qVzA4TDhnSnR5c0hFSDQzX2RRbjFaaGRjNHRFekpVYlBsZlVPazdEaDFib1dWcTA?oc=5",
-          "source": "中华网",
-          "published": "2026-11-06T12:07:13+08:00",
-          "summary": "全国多地将迎暴雨暴雪 雨雪天气扩大影响交通 中华网 雨、雨夹雪、雪！北京将迎明显雨雪天气 北京市人民政府门户网站 河北发布暴雪橙色预警 凤凰网 预警 | 中央气象台：北京、河北等地有中到大雪或雨夹雪！ ThePaper.cn 北京城区明天能看见雪花吗？官方回应 立冬雪或现身城区 中华网",
-          "summary_zh": ""
-        },
-        {
-          "title": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cmU3UGZQcFZNUVJWcHZhSXA1QmdjYm1TQ0dXNTB3ZUJiQ1BFM29mbTI2YnhTN2RxT1BqVWJSRjBzc0xGcnRpUDZyTVhzUC1hMkYwOThaVjYtVVF0Wkw4SEJ3dU1GRUs1OS0wN29RUzA0bEtl?oc=5",
-          "source": "党建网",
-          "published": "2026-11-06T09:38:15+08:00",
-          "summary": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要 党建网 “进博会为我们开启了一扇至关重要的大门”（进博会故事） 人民日报 “北京面孔”进博会探寻全球商机 凤凰网 外企看中国｜“全勤生”南堡借进博舞台串联本土市场与全球布局 中国经济网 九年赴约 深耕中国——“全勤生”的进博之约 新华网",
-          "summary_zh": ""
-        },
-        {
-          "title": "2026年世界互联网大会乌镇峰会达成多项成果共识",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVZTcVRCME0xS0N1SkJ0SFJwS255RmlEYUhpVTRlaHN0cV94ZnhYVS1seGxZcG5xd3Q5ZV9QQW52dmw4TDF0RkF3VThXQnNSQ282MU1mc2Y3bG1FbEIzMTZEYmFsNXExZ3hQMmxqTzBteWdmbElWT2NMdDRsMFVDcXZoUU9iZw?oc=5",
-          "source": "海峡飞虹",
-          "published": "2026-11-06T11:53:07+08:00",
-          "summary": "2026年世界互联网大会乌镇峰会达成多项成果共识 海峡飞虹 安全的招牌太亮，遮住了360的AI 新浪财经 乌镇观潮 | 闭幕启新篇，乌镇峰会让更多声音被听见 中国青年网 拥抱开源开放 共筑美好数智未来 中国网新闻中心 乌镇声音｜卜景德：应该是人主导AI，而不是AI主导人 光明网",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LbFV5blFnSlByX1NONGJmamRTRjZVeGNtTFBwWjJtOW1DeDcxQl9jb3NCbEpXMWRkVGRZZjJkb1hLMy04ekdSRWtmZnRTemtLMkpRS1hkVnIwMUt0TUhmaEVoWnNBN2U5Qnp3TzhCNkg5TmloMHdYag?oc=5",
+          "source": "中青在线",
+          "published": "2026-11-06T13:01:00+08:00",
+          "summary": "千年水乡，遇见“开源星河”——2026年世界互联网大会乌镇峰会侧记 中青在线 安全的招牌太亮，遮住了360的AI 新浪财经 乌镇观潮 | 闭幕启新篇，乌镇峰会让更多声音被听见 中国青年网 拥抱开源开放 共筑美好数智未来 中国网新闻中心 让AI走向开放，让治理跟上发展 央视网",
           "summary_zh": ""
         },
         {
           "title": "党领导人民治理黄河80年来建成水利工程5.4万余个",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40Rmh5X3ZIdGpuTUszQW5DQW9YVmREem5EMUl3QXF5bWtVRjZwMnpWclJBZURFRVZGX29fTlVZTE51TDZaTmdtREtmUktwWGZmQ3RyYVNtSVVuUllMUHRwc3BJZTFqc0FvMUFOb1F3?oc=5",
-          "source": "人民网财经",
-          "published": "2026-11-06T10:13:00+08:00",
-          "summary": "党领导人民治理黄河80年来建成水利工程5.4万余个 人民网财经 黄河实现连续27年不断流 新浪财经 国新办举行新闻发布会 介绍治理黄河80年有关情况 央视网 努力让这条母亲河越来越美——写在党领导人民治黄80年之际 中国日报网 水利部：治理黄河80年来，先后战胜12次花园口站洪峰流量超10000立方米每秒的大洪水 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94T3hvQjRUcVBzV01HRmFLZjlpT0w1d1BYLUc4d18yTDBtZWZmbGNiUUtpbXJoaUhEQmNTc3B4LVFLMjJ4emNpYm1DRUdDVk9VUnl1Tkd0VzhDVUN3SjdDcUExN1pCSDlkelBDenI3UlY?oc=5",
+          "source": "https://www.aksxw.com/",
+          "published": "2026-11-06T13:46:12+08:00",
+          "summary": "党领导人民治理黄河80年来建成水利工程5.4万余个 https://www.aksxw.com/ 黄河实现连续27年不断流 新浪财经 水利部：80年来战胜12次花园口站洪峰流量超1万立方米/秒大洪水 凤凰网 国新办举行新闻发布会 介绍治理黄河80年有关情况 央视网 黄河已实现连续27年不断流 书写岁岁安澜奇迹 中华网",
           "summary_zh": ""
         }
       ],
@@ -195,15 +195,6 @@
           "source": "Nature",
           "published": "2026-11-06T02:14:45+08:00",
           "summary": "Responsible use of artificial intelligence Nature",
-          "summary_zh": ""
-        },
-        {
-          "title": "Watch live: Stock market reacts amid concerns about artificial intelligence spending",
-          "title_zh": "观看直播：股市因对人工智能支出的担忧而做出反应",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXlNZzFDNDc1dHRFN05zeTVQOVF2TEZGVWhEcmt3SlRaSWhQcTdNbDAwVGZCZHRnTDdPTHBORVRheER2bmNYRkdYa2FocVE0aW1pbVRZRElFYkJyWFZHd0VMX2xhTV9QM0dxM3BRNVQzUXRSejhjQUhFRHMzdkg3YUF4UmlvZ0JiZUtrLTByc2hlMzN1ZUpkeGppUktEcGFXSC1yZmFKbVZMY3QyQ2IxVE1NTVp3Zw?oc=5",
-          "source": "NBC News",
-          "published": "2026-11-06T12:30:54+08:00",
-          "summary": "Watch live: Stock market reacts amid concerns about artificial intelligence spending NBC News",
           "summary_zh": ""
         },
         {
@@ -244,7 +235,7 @@
         },
         {
           "title": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria",
-          "title_zh": "人工智能为研究人员指明了隐藏在线粒体中的新疾病靶标",
+          "title_zh": "人工智能为研究人员指明了隐藏在线粒体中的新疾病靶点",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVJpd2hYUmNnOEFET2U1cjBuTzJWSWZVNy0yLWRYMlhDYWFSLVFOa2VHQWFpYUl4UHRnOE1OOURPMEJPWFVScVQ5ckZTNFZQM1ZSMzFXMnJiY0FmdnhFejNOblYzcklhc2hkUTF5cUNwcUlYY25xU1h0eFdxRkZ5MEJEeG5Mc3gxRmx1aDhlZDFVUjBvYVNCTFJHNTN4d0RDYzNaT0t2QW5MdVhRVVVJcWd5eFhQa2N0blFTY0pYeTh0Ulg5NzJENXpKYVhQaWJx?oc=5",
           "source": "AgriLife Today",
           "published": "2026-11-06T07:02:49+08:00",
@@ -267,6 +258,15 @@
           "source": "Fox 10 News",
           "published": "2026-11-06T12:11:00+08:00",
           "summary": "Netflix rolls out new ‘AI Discover’ tool to help subscribers find what to watch Fox 10 News",
+          "summary_zh": ""
+        },
+        {
+          "title": "Hong Kong’s role in the age of artificial intelligence",
+          "title_zh": "香港在人工智能时代的角色",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGk1V1pCcXJNcURwQ3plM05yRk5WYlVkVmhIdEIwVG1BNFZqWGo4NnlONUlUNW91RnYwbVV1S3NDbUdYN2lYTFRPWDNQaTJVbjZCNVZ5TWc1UVN3MkVYSXFlYUUyMGJPT1R5OERfUHBzVmljLTJHUU4zejg1T1FqY09KNG1nbmw3dy1CUFFhRC1JbjZ3RlE?oc=5",
+          "source": "Eco-Business",
+          "published": "2026-11-06T15:56:00+08:00",
+          "summary": "Hong Kong’s role in the age of artificial intelligence Eco-Business",
           "summary_zh": ""
         },
         {
