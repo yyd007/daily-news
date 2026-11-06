@@ -1,16 +1,79 @@
 {
   "date": "2026-11-06",
   "morning": {
-    "generated_at": "2026-11-06T02:56:22.710210+08:00",
+    "generated_at": "2026-11-06T15:51:54.659216+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "Russell Brand found guilty of rape and three sexual assaults",
-          "title_zh": "拉塞尔·布兰德 (Russell Brand) 被判犯有强奸罪和三项性侵犯罪",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LT2I0YTJOa0NSQk5XNkQ1NW94aTI3anN2SmNjcVNTbUFqV2FsbDNkb0xmbWV3MGVYTi1kZHBVdjBnRlRLZnJVOVNTWUNoc1F3d0tlRWln?oc=5",
-          "source": "BBC",
-          "published": "2026-11-06T00:45:56+08:00",
-          "summary": "Russell Brand found guilty of rape and three sexual assaults BBC Comedian Russell Brand found guilty by UK court of rape and sexual assaults Reuters The Russell Brand verdict is a landmark victory for the understanding of consent | Gaby Hinsliff The Guardian Timeline: How...",
+          "title": "France strikes: largest day of protests in years as economy fuels unrest",
+          "title_zh": "法国罢工：多年来最大规模的抗议活动，经济加剧动荡",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUNHazBUU1dRMnFWUUstOGlQTzdrN3Z5eGNZRjZkTjZZcUtmRVlpRmZ2NDlPbmlWYzBMNjRkcUNuWWJ4VXVmYWFLSktxeFRzUS13eXFyb0VUN0lsMW9WNjRfdWEtV3dOWGxPa2g3aHVVQmV1YlllQkxBN2ZPdzJrMkFvcWJmaURuV2ZacG9JWDJLWERJ?oc=5",
+          "source": "CNN",
+          "published": "2026-11-06T05:24:00+08:00",
+          "summary": "France strikes: largest day of protests in years as economy fuels unrest CNN Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know CNN Protesters march in cities across France as unions stage general strike The Guardian French protests...",
+          "summary_zh": ""
+        },
+        {
+          "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+          "title_zh": "12 天内乘坐 12 架飞机：手术几周后，教皇开始拉丁美洲主要之旅",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2E0ank3Z3NZR3Q2bFVWS29uMlZDSGNfQ3I1WDNta2FYR3JOeFdtWEx0Q2dBUlN0MldyZUZOemdIVE1yRG1JRmZHZWMxZm5Ta1hwYUc0NVB1cEQ0Mkd2T05XcVdPS05RbE52c0o1QU5Ta0NjXzVOeWdNY2dJZzJFYzFCa0dXUVo5WWNURnc4QV9jNE5jUXZ0dERLN1JGVnYtMXZra2tNTkJDdGN1UG9GRnphMzU0ckFSSVNOTEZvYmlNWHFEeXVRVVhR?oc=5",
+          "source": "The New York Times",
+          "published": "2026-11-06T13:01:24+08:00",
+          "summary": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery The New York Times Pope begins lengthy trip to Latin America weeks after lung cancer surgery BBC Pope Leo departs for Apostolic Journey to Latin America Vatican News In secular Uruguay, small but...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+          "title_zh": "巴拉圭总统因银行倒闭辞职几分钟后被弹劾",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnRtcmhVdFd2ZHpHcldHYk9VQVdySlQ3djBZNDRWWmgxZ3B1TXJuT2RqVDVaQ21pOXItajJ6ZVVOSW03bXlxMTgtcENoeHQwVDJISnBDOW1fTTJqNHctcy1LS2VxS1lFMWtOUzBfSkNCYU9rMWd0Y0xfRzhnOUhJRjNpNHRoMDd5Rm5pZjZPNmI?oc=5",
+          "source": "NPR",
+          "published": "2026-11-06T02:30:16+08:00",
+          "summary": "Paraguay's president is impeached minutes after resigning following a bank collapse NPR What is ueno bank and how did it trigger Paraguay's political crisis? Reuters President of Paraguay faces criminal investigation and impeachment after bank collapse CNN Paraguay’s...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+          "title_zh": "伊朗高级官员告诉路透社，伊朗通过卡塔尔向美国发送核提议",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJZVlphdWhPcDNGc1E5eDVNdDdMQkJNTXVDS0RYSVRqaC1tblFqQy1FekRQdldnV0FsMU5RdnVHNEI3UEZWMC1MY1l5cnRtcjBlcDlpUXdvX0hXbV91S1UxajV1TEx1VmJ2SzNLNElXSjc3YkdmYWw4VGNXZEl5NXR4RFNjRXBxeEZMLWpBT1Z5X2JRc3NEdkdMZDljQ0dkZXZRbzc3U1NmNkhnaFN5QzNhVmRzSmhsM0Q5VzU3Mm11OWZBa3M1V1lvaw?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-06T03:48:00+08:00",
+          "summary": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters Reuters Iran plays down hope for deal to end war after new U.S. strikes on eve of midterm elections CBS News Trump Threatens To 'Destroy' Iran, Tehran Sends Nuke Proposal With 7 Terms NDTV...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Russell Brand’s Lawyer Rounds On Journalist Who Exposed Brand’s Behavior",
+          "title_zh": "拉塞尔·布兰德的律师对揭露布兰德行为的记者进行了围攻",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcC1hUUZtWlpHSGpUVjZxd3RfbXBiRmVsaTBNR1RFdEZDdE1MOXlQcnVVb3l5YzhFNkl6ZUlvWUZGNUFpQmhLX2NvNnJSNW41ckpSczBPSkhJeExFR0o1elJjYzd0ZEFDVlJxSm1ISmZ6OEYyMll6YldpdVBBSjE5VWc3eTQ0WF9qaktvOWtud2FpcXNKQ0tFbTJKRDgxZw?oc=5",
+          "source": "Deadline",
+          "published": "2026-11-06T01:29:00+08:00",
+          "summary": "Russell Brand’s Lawyer Rounds On Journalist Who Exposed Brand’s Behavior Deadline Russell Brand found guilty of rape and three sexual assaults BBC Russell Brand is convicted of rape, and judge says he'll get a prison term NPR How British Law Informed Russell Brand Trial...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Grizzly bears may have attacked mother and daughter found dead in Canada",
+          "title_zh": "灰熊可能袭击了在加拿大被发现死亡的母女",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Zrei11aW91Y193UEU4V3VuNHdSOUlKWHpsaHlzeXk0OWRDR1NBREF4VGhlbU9OeEFwQWNqc2NCSTlxV21iazV0LU01dFpDNzRuRWZDcFlrVWZOVEZvR0VBVnJrZHpmQUR2d1c0V1h5YzNZcThUdjc4OG5Qek9NWk1KY1NneTNFOGc?oc=5",
+          "source": "Yahoo",
+          "published": "2026-11-06T09:05:00+08:00",
+          "summary": "Grizzly bears may have attacked mother and daughter found dead in Canada Yahoo See more headlines & perspectives on Google News",
+          "summary_zh": ""
+        },
+        {
+          "title": "Gulf Airports Built to Connect the World Are Now in the Crosshairs",
+          "title_zh": "为连接世界而建造的海湾机场现已成为焦点",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTZscTdJQzZjQ21RLWl2M0pndFJscWJiWHRyMjk3Wll3QzEwdl9sek9wMWJnVE1hbGlSQms4a21acVJBMHVPaTllR0syZmpKR1JweGpQQmtCcHNsNnFCaUtITmtOQ1ZQb2RJOGJGMV9ucTJNRkJQckVuZEJqNDVCZjF4OVVFWXQyT2gxS0dOX1pLY0F3dE1LSXE3MGJPQ1RGVkRTZF96SjIzVmNZRjViM2RRQQ?oc=5",
+          "source": "WSJ",
+          "published": "2026-11-06T11:00:00+08:00",
+          "summary": "Gulf Airports Built to Connect the World Are Now in the Crosshairs WSJ Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal The New York Times View / How the Middle East and North Africa are navigating a turbulent era Semafor Events and oil: the shows must...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Thousands of troops secure Indonesia trial as tensions run high over wiretap scandal",
+          "title_zh": "由于窃听丑闻，紧张局势加剧，数千名士兵确保印度尼西亚审判",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2Z6S2RHWk5UUnUwWXQtV0VPZ2RpTm9hNjR3d2RKM0ZtdzMwdGNOcEhsSk1sUEI3TGlTdkJMcEJFQ0FkZ0pDYnVjLXdhd0dweWVUcDdxVkV4cUNsUE9nTGk4QUZtZ2l2WXktZmZPemFKU0J1WHJYTGoyRDlKRnQyc2hNaEoyWTFMeTBUTUlpcnRCWW9VTnA2MllDdjZ3QUVBRGxRVlRUYmpRWFFh?oc=5",
+          "source": "AP News",
+          "published": "2026-11-06T00:16:00+08:00",
+          "summary": "Thousands of troops secure Indonesia trial as tensions run high over wiretap scandal AP News Indonesia names fourth senior police officer as wiretapping suspect amid deepening political rifts Reuters Prabowo Wiretap Arrest Spills Top Indonesia Rivalry Into Public...",
           "summary_zh": ""
         },
         {
@@ -19,175 +82,175 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVdVY0pabDFMMlhUbURQOUUtblUyblN6LXowQ3lLalJTdlJReFpXdy0xTENPb3Z4Uzk4ZjhZc3BwVmRxMHYza2JWNFVtOEZjYUZic2R3amlVS1lRdGNLTGQyOU5DWFlpRno2MzcxZHI2SUNOcEdhcnc0VnJUa3ZxUlZLUWtQUkg4NldGWERsYzRDenNDMWE0bmJnalNwX3VrUHVxanF0ZXlSXzdfc0xUenNB0gG3AUFVX3lxTE1KSE43bVFVWU9Zc3NkeHQ2Zzd2NHJGa2pRZFVyYkVuczBmQjdyanVod3RxZGprQVQ5bm1UQTdZZUhBcThIWW0xNnlfNDY1eTRmWWVOWlYwVzBWaEVIa3c5aEotS3dyTDhxVEgyUEJUZ2NHRjZzYnFfTmIxeGRCWFVMY2IwV1JLSTlXVjYtTG9tbDFoMGVWa2Z6QzYxYmh3WXZ5M0VUTk0xM055NWxpQ2tYUWE3U0dZUQ?oc=5",
           "source": "Al Jazeera",
           "published": "2026-11-05T19:36:43+08:00",
-          "summary": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts? Al Jazeera What Trump’s midterms setback could mean for Iran, Israel and Ukraine CNN What will a lame-duck Donald Trump get up to overseas? The Economist The blue tsunami sparks joy, hope and mockery...",
+          "summary": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts? Al Jazeera Midterms upended Congress but Trump still commands foreign policy Reuters World Leaders Revel in 'Crumbling' Trump's Humiliation Yahoo What Trump’s midterms setback could mean for Iran,...",
           "summary_zh": ""
         },
         {
-          "title": "Paraguayan president impeached minutes after resigning following bank collapse",
-          "title_zh": "巴拉圭总统因银行倒闭辞职几分钟后被弹劾",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
-          "source": "AP News",
-          "published": "2026-11-06T01:52:00+08:00",
-          "summary": "Paraguayan president impeached minutes after resigning following bank collapse AP News President of Paraguay resigns amid crisis over bank collapse that left millions unable to access their money CNN Bank Collapse Topples a President and Trump Ally in Paraguay Bloomberg.com...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike",
-          "title_zh": "母女在徒步旅行中丧生后，加拿大官员开始搜寻熊",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEU0MEEtS0hDU1AzbV9UaTJkemVVYUs0TGxndHZLb1ZyMU9WMHRLRjk3clNPMXV1ckxLdlpDclhwdXJzVmhtZk5yY2tFYXVObDVJUEhseHNCemtjU0dhcHdRTk0zZk5vYlU5LUtTZHZPS3Z4YS0zQjhoRXQxQ2JTWlQ4QmtoTXQ5cjJZemdGMXMwSmN0MG5Jb185aVhXNUJoWlBfUA?oc=5",
+          "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+          "title_zh": "炸弹威胁扰乱欧洲航班并扰乱乘客",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1dQVzVYREM5dVl3NWhjSVFwT2k5N3JtcjVwUXppaXBYZWhicVVTRU5UTDFTQ2pZNjJRZmt5R2YwcXdwSVB3TWFFUUtNWmdycXdFdVp1QUt3OXFWZnREUnRDR1otUXBsbVlBd1BIMWliX0hMM0NsQ0t3VDRhNTVaX212cDFHbllyd1o0SQ?oc=5",
           "source": "The New York Times",
-          "published": "2026-11-05T22:59:48+08:00",
-          "summary": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike The New York Times Mother, daughter found dead after suspected grizzly attack USA Today Multiple grizzlies may have attacked mother and daughter found dead, Canadian authorities say CNN Mother...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
-          "title_zh": "官员称伊朗正在审查有关核计划的“具体提案”",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdqWVZaS0doMXFBRXRjYndqaGZUT0pBTVM1WlB0TlJNMHdTX1JlX0hOT1MyZUFrMTdMTThJczBJUUNyN3JTcllEZjlqN3E2b2VVRTFVbjRiaFJ3TW0ycFZsRlhVMjRaZkR5Rmw5VHp5YmVvdVI1TnNnb09aN0JpeTdubEptZWV1aGd3eDczYkxCdlBFV2tmdVQxUE95YmdOMFVDZXMzRVdDdW05OXc?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-06T01:44:40+08:00",
-          "summary": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say The New York Times Iran plays down hope for deal to end war after new U.S. strikes on eve of midterm elections CBS News Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes Al Jazeera...",
-          "summary_zh": ""
-        },
-        {
-          "title": "New wave of bomb hoaxes hits at least 27 passenger flights across Europe",
-          "title_zh": "新一波炸弹恶作剧袭击了欧洲至少 27 架客运航班",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-06T02:06:19+08:00",
-          "summary": "New wave of bomb hoaxes hits at least 27 passenger flights across Europe Reuters Here's what happens when airlines receive bomb threats Yahoo Wave of bomb threats against European airliners triggers diversions and tarmac searches NBC News European Airlines Face Second Wave of...",
-          "summary_zh": ""
-        },
-        {
-          "title": "France strikes live: largest day of protests in years expected as economy fuels unrest",
-          "title_zh": "法国现场罢工：经济加剧动荡，预计将发生多年来最大规模的抗议活动",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUNHazBUU1dRMnFWUUstOGlQTzdrN3Z5eGNZRjZkTjZZcUtmRVlpRmZ2NDlPbmlWYzBMNjRkcUNuWWJ4VXVmYWFLSktxeFRzUS13eXFyb0VUN0lsMW9WNjRfdWEtV3dOWGxPa2g3aHVVQmV1YlllQkxBN2ZPdzJrMkFvcWJmaURuV2ZacG9JWDJLWERJ?oc=5",
-          "source": "CNN",
-          "published": "2026-11-06T02:15:00+08:00",
-          "summary": "France strikes live: largest day of protests in years expected as economy fuels unrest CNN More than 600,000 join latest protests in France Financial Times After Barricades, Riots and Protests, French Workers Go on Strike The New York Times France Protests Draw More Than...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Russia deepened Iran support with missile launcher deal",
-          "title_zh": "俄罗斯通过导弹发射器协议加深对伊朗的支持",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzNsRFA0MVVkdHQzNzVtZXFtdEFYczhFaXo0SVdncGV5WHprY0FLcTAtaklOWUNCb09Ic3BBSWdycW5rMWFKWFJMbHhaejlmMmdwN2RIbElKcE5QMndxdnozdVlVd0R3TFVMOWVaXzFiZU5RaDFUZTk5Q0o2STZDb3dmREM?oc=5",
-          "source": "Financial Times",
-          "published": "2026-11-05T13:00:16+08:00",
-          "summary": "Russia deepened Iran support with missile launcher deal Financial Times Russia agreed to supply Iran with 90 helicopter missile launchers The Guardian Russian Weapons Company Entered Deal to Supply Iran With Advanced Missile Launchers Yahoo Russia Agreed to Supply Iran 90...",
-          "summary_zh": ""
-        },
-        {
-          "title": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison",
-          "title_zh": "“我担心人们会忘记香港”：黄之锋在最高安全级别的监狱内感叹城市的命运",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUZ1QUM1alREVlpMbXRRdHZCV2YtTWxzMm1aYV9tcUlWWjN3SGgwYzZha25jLUN0MEcyQ1VVUzVfa3dsQmFtREhjZDJDN3l0ODcweEhsR1dHdzlnY1ZFU0dxOVNUZURlMDJBZE10WWVQVFFRci0tNHdPYUx1MW1kdFNRWXhaUXNnOEUybGhLQjdiOXpRaVdHMnBtNUZzUkVWQ1ZJ?oc=5",
-          "source": "The Guardian",
-          "published": "2026-11-06T00:25:00+08:00",
-          "summary": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison The Guardian See more headlines & perspectives on Google News",
-          "summary_zh": ""
-        },
-        {
-          "title": "Arab parties extend a hand to try to topple Netanyahu but challenges remain",
-          "title_zh": "阿拉伯政党伸出援手试图推翻内塔尼亚胡，但挑战依然存在",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEhDWFhNT2VZVzZYNHZpenlNX0V5bTlpaWZDeEUtNkZwUkZGc3lfN3ViOFFDUHdBcUR4Q0Z4bFJZdWdXMTRFT3phbk41Rlc5aDA5ZlAyQ1hUU3dFd0RjNHQyUXdHcnE5WVRSbzFsWEdPamU2MkhjN0FQNTdFajFGQXc5Y2UxaTFNd3FOZVpsZ3Q1YXdLb2E3NWdSRFdlSkgtUDQxaFF3?oc=5",
-          "source": "AP News",
-          "published": "2026-11-05T18:08:00+08:00",
-          "summary": "Arab parties extend a hand to try to topple Netanyahu but challenges remain AP News Herzog to meet Israeli election rivals as decision nears on path to power The Guardian Joint List says it will back Eisenkot as PM, handing him majority of recommendations The Times of Israel...",
+          "published": "2026-11-06T02:42:53+08:00",
+          "summary": "Bomb Threats Disrupt European Flights and Rattle Passengers The New York Times New wave of bomb hoaxes hits dozens of flights across Europe Reuters KLM flight grounded by bomb threat canceled due to technical fault NL Times Flight bomb threats live: Multiple planes in Europe...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "中国民航大学召开党委常委会会议 传达学习党的二十届五中全会精神",
+          "title": "市人大常委会党组传达学习贯彻党的二十届五中全会精神",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KQ2NfN2pFVmV0cHZiYjcyWHAtTS10c1B2WmR1S0ZtalVodXV5c05yOW4yeUNQQkFzZ3lINXczTDBpMVU0eWRPVFhzQWlhSExxYnl1TE5xYzJZdVZZajhYdkI3emRoYlIyT0llOQ?oc=5",
-          "source": "中国民航网",
-          "published": "2026-11-05T16:11:00+08:00",
-          "summary": "中国民航大学召开党委常委会会议 传达学习党的二十届五中全会精神 中国民航网 新华社论学习贯彻党的二十届五中全会精神 新华网 北中医东方医院传达学习贯彻党的二十届五中全会精神 北京市卫生健康委员会 坚定走好中国特色反腐败之路（学习贯彻党的二十届五中全会精神） 人民日报 学习新语｜五中全会精神学习手册，请查收 中国日报网",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ocks3WmVGTHFGT3djdWVBSVNTT01CZUN2OHZMM00teTdsZXJTNUpYYkh1dG5qSWwyYWxjVFh0R2xFTXp0a2hzbHpPYTZwa0c3SW1IOFB5M1BiUjRrSHRvWVZWbTJsZjY1T2U1QUZR?oc=5",
+          "source": "中山网",
+          "published": "2026-11-06T12:46:12+08:00",
+          "summary": "市人大常委会党组传达学习贯彻党的二十届五中全会精神 中山网 王毅人民日报撰文：中央和国家机关要走好第一方阵 凤凰网 新华社论学习贯彻党的二十届五中全会精神 新华网 经济日报评论员：将反腐败斗争进行到底 ThePaper.cn 首都党员干部认真学习党的二十届五中全会精神——真抓实干 奋力开创首都现代化建设新局面 北京市人民政府门户网站",
           "summary_zh": ""
         },
         {
-          "title": "美副总统：伊朗战事是共和党选举失利根源所在",
+          "title": "遥感五十一号07-09星发射成功",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMbzlmdl8weHM1ejlvTzVPVGF1WTFmenRuV1R4bUNmRFhaWE5wZTVJS0toSi1zSkdDU2d3UnFaZEhOZm0tS0stVXF1eVphSXczM3J4cXBUS0tRajJ5bElvdHpTb3BLaWE3eGNscnBUTnBtc0FscjQ4LVBjVkt1OGs?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTGZSNDVwOFJYYXNvaDVvQ3ZNeXF1NTFBQUJEeHRzVFZ2Q1RwUE9jd2NPNHZNZFY5d2ExMHBDTG1zY3FmSG5Rd2hUaUZ5a2swSHpFX1ZHa2ViazE1REszVTZXR0p3VGdNenR5QWh2ZWw?oc=5",
+          "source": "中国科技网",
+          "published": "2026-11-06T08:09:42+08:00",
+          "summary": "遥感五十一号07-09星发射成功 中国科技网 服役44年 现役最久的老将！长二丙火箭深夜立功 一箭送三颗遥感卫星上天 驱动之家 我国成功发射遥感五十一号07-09星，主要用于科学试验、电磁环境探测等领域 凤凰网科技 长二丙火箭成功发射遥感五十一号07-09星 风闻 100次卫星发射！位于上海的这家研究院，画出中国航天壮美弧线 上观新闻",
+          "summary_zh": ""
+        },
+        {
+          "title": "第二艘国产大型邮轮“爱达·花城号”正式交付",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fZW1oUDhaX0hhSGJRWmNoWnZIUU55X09ZaGxoV1lpbVdJSWlNNUlQMlN3NW5lWHJvNGtYd3EtT0VkaWtLMFlOOXQ1TTlIdW1LLXVqWFN4Y1NQN3JDY0E?oc=5",
+          "source": "DoNews",
+          "published": "2026-11-06T11:38:03+08:00",
+          "summary": "第二艘国产大型邮轮“爱达·花城号”正式交付 DoNews 更具“中国风” 第二艘中国国产大型邮轮交付 新华网 爱达·花城号今日海试_新浪新闻 新浪网 新华社权威快报丨第二艘国产大型邮轮“爱达·花城号”交付 光明网 中国国产邮轮正式迈入“双船时代” Jiemian.com",
+          "summary_zh": ""
+        },
+        {
+          "title": "习近平复信澳大利亚青年学生",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjlCd1JPUHBSbEloNVJoMEl5SmJTN1dIVVlsTHlSbmFoamZkWlkwRnZEYnRBRFcwWnRFZlhENGRWY2U2UWRxZlVFejJrNFZDOGp4NHFoVkRXQnd1YlF6WXROMUJadmgtN00wcHF1UTBLN2ZWTmVZUHVOUklzQ2FuY1JVdWh1eU5VVl9uU3RB?oc=5",
           "source": "新华网",
-          "published": "2026-11-05T14:56:00+08:00",
-          "summary": "美副总统：伊朗战事是共和党选举失利根源所在 新华网 “这是一场灾难”：中期选举惨败，共和党内怒火指向特朗普 BBC 万斯发长文“与特朗普切割”，特朗普回应 新浪新闻_手机新浪网 原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争 华尔街见闻 特朗普总统与万斯：伊朗冲突是共和党选举失利的原因之一 美国之音",
+          "published": "2026-11-06T11:24:53+08:00",
+          "summary": "习近平复信澳大利亚青年学生 新华网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "日媒：日本或允许紧急情况下运进核武器",
+          "title": "天天学习丨中南海月刊（2026.10）",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lNEUxVXRNSi1vY2JTZ0FCQ1BRaVZiTG9laEo2eEVkU1R3dEo4OGRWTnZKbWNoRFhfeGlDVzZLYVJZVEkwMDNUMDl2QVhvT0VDcEJVNmQ4NUZLX1JtWGdVWVllX21rOHNpQW5saExaUUV3MTVMQWJhdHU1UXhpUQ?oc=5",
-          "source": "新华网",
-          "published": "2026-11-05T18:41:50+08:00",
-          "summary": "日媒：日本或允许紧急情况下运进核武器 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DMFdQemJxYnJlbFMxc2t2TW9RNlQ2SHZmR3VueWgwUm96V25aeEdxNjl3M0ZsMEEyamx3R2pZb2dsY0F0RkNRdjdWbnlJNnJsbDBMcEhBRkE4Uk1xeGlMc2p4ekF6c0EtVldlUFhxM0poUQ?oc=5",
+          "source": "人民网",
+          "published": "2026-11-06T09:55:00+08:00",
+          "summary": "天天学习丨中南海月刊（2026.10） 人民网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "新华社评论员：坚持制度治党、依规治党——论学习贯彻党的二十届五中全会精神",
+          "title": "特朗普回应\"万斯发长文与其切割\" 一场预演的切割",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9STkJBVmZQMGF5d0o5NExBdXA4aGhoX3dPcVd0NWNkNnV6NTFlTkF4aVdGOEU4cUExaXZQT01RX19fcFhnWG5DR2kwV281TUdOeFBuTi1RWC1pdmRp?oc=5",
-          "source": "华声在线",
-          "published": "2026-11-05T22:16:32+08:00",
-          "summary": "新华社评论员：坚持制度治党、依规治党——论学习贯彻党的二十届五中全会精神 华声在线 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81dHZXTzFCeVlONUJWU1Y1OHVwYjJmZmNHZk04RWRkS2VXeWtlOEh4bEctR1p5ZEJ0ejJtQmttV3FEVmp6VGI1WU1oa2xDSmx1YUNrNV9Kc2Nwc21fOW5oRkctTmRCSWIxYjduZUVZeWs?oc=5",
+          "source": "中华网",
+          "published": "2026-11-06T11:39:50+08:00",
+          "summary": "特朗普回应\"万斯发长文与其切割\" 一场预演的切割 中华网 分析｜中期选举投下美政坛巨变 特朗普由盛转衰各方如何应处 Caixin Global 美国中期选举：一场史诗级“清算” 凤凰网 “这是一场灾难”：中期选举惨败，共和党内怒火指向特朗普 BBC 原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争 华尔街见闻",
           "summary_zh": ""
         },
         {
-          "title": "特朗普中期选举政治挫败让中国短期获益，但长期受损？",
+          "title": "全国多地将迎暴雨暴雪 雨雪天气扩大影响交通",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPQl9PV2FQNmJocDlDQ1pGQkcxMWF6Tmdia1d1TjdFeVltaTdCOEN5Y01QR3M3OEtZUTRWQXFSYzE2ZGJka2ZkOWZ2Y1VRWnJiRkxNYVZLNS1hZzhYakZSRVpmX3gxT2Z5NkxzRVJ3djhpTmVnNUI0TGJpV0d6QlNZVjBzTlVsaHJ4b2dhdjlWRVVVYS1sbVZxNG9CcktnelVJZFFhbC03djVuNG92OFJUanFNUWs1ZUgxZlJOU3V1QnNTMUhZV19MajNWb1Q1aXBXY2VDNzl1UFdGQWJMcFVINzIyVFJxUVBVSk1lYjNBRE5CZ2t2ZVNqRHdxaEtUVTFkUUJnYzhUT0F0YUFIUDNZTVZxYndkWG1BZlY1N2phZVdNWThncTZvalEwS3hsX1pSLWYwdTRKLXN2SFFEeGo2Z1BFU1lhT0VOT1lNbVM5QmdPN0dZWk5BX2htSEttbDljUzl1d0pHdHR2anlFSWlvRVFsSFRfXzlUVkNSandIRQ?oc=5",
-          "source": "RFI",
-          "published": "2026-11-06T00:36:38+08:00",
-          "summary": "特朗普中期选举政治挫败让中国短期获益，但长期受损？ RFI 外交部谈中期选举后的中美关系：愿继续同美方一道落实好两国元首重要共识 新浪新闻_手机新浪网 如何评论美国中期选举？外交部回应 尊重美国内政 中华网 北京也发声了 美驻华使馆：更多胜利 更强势头… 文学城 中期选举是否会让中美关系出现新可能性？中方回应 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HWVU0X0FGd0dCMlVndGxabTBIRVlYUjB5Q0ZwWVZSeG50ZTVaMTQyOVh1d1RjYTdTRFdYYWktS01qVzA4TDhnSnR5c0hFSDQzX2RRbjFaaGRjNHRFekpVYlBsZlVPazdEaDFib1dWcTA?oc=5",
+          "source": "中华网",
+          "published": "2026-11-06T12:07:13+08:00",
+          "summary": "全国多地将迎暴雨暴雪 雨雪天气扩大影响交通 中华网 雨、雨夹雪、雪！北京将迎明显雨雪天气 北京市人民政府门户网站 河北发布暴雪橙色预警 凤凰网 预警 | 中央气象台：北京、河北等地有中到大雪或雨夹雪！ ThePaper.cn 北京城区明天能看见雪花吗？官方回应 立冬雪或现身城区 中华网",
           "summary_zh": ""
         },
         {
-          "title": "北京“八站两场”全面启动119消防宣传月系列活动",
+          "title": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LM21lemk3T0plOTc5TTdCV1Vua0xGMFl0anlmSXgzaUZOY3dHMFVoTjYwakxDZllYelJNdFNHVnhxTjVLYXk3cFBkTXJmNTN3UmdETWhINjQ0eENEbkdnbXlPZDE?oc=5",
-          "source": "新京报",
-          "published": "2026-11-05T22:40:00+08:00",
-          "summary": "北京“八站两场”全面启动119消防宣传月系列活动 新京报 陕西开展“119”消防宣传月系列活动 新浪财经_金融信息服务商 西藏江孜县2026年119消防宣传月活动启动 央视网 预告｜本周五！河北省消防宣传月活动启动仪式来啦，织音1953，打卡集章赢消防文创！ ThePaper.cn 消防主题街区、麦当劳消防餐厅，海淀消防宣传阵地“多点开花” 搜狐网",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cmU3UGZQcFZNUVJWcHZhSXA1QmdjYm1TQ0dXNTB3ZUJiQ1BFM29mbTI2YnhTN2RxT1BqVWJSRjBzc0xGcnRpUDZyTVhzUC1hMkYwOThaVjYtVVF0Wkw4SEJ3dU1GRUs1OS0wN29RUzA0bEtl?oc=5",
+          "source": "党建网",
+          "published": "2026-11-06T09:38:15+08:00",
+          "summary": "丁薛祥出席第九届中国国际进口博览会开幕式并会见与会外方政要 党建网 “进博会为我们开启了一扇至关重要的大门”（进博会故事） 人民日报 “北京面孔”进博会探寻全球商机 凤凰网 外企看中国｜“全勤生”南堡借进博舞台串联本土市场与全球布局 中国经济网 九年赴约 深耕中国——“全勤生”的进博之约 新华网",
           "summary_zh": ""
         },
         {
-          "title": "我国成功发射遥感五十一号07-09星--经济·科技",
+          "title": "2026年世界互联网大会乌镇峰会达成多项成果共识",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pYzdnZzFjWVNLcHJmbGkza0twTE16dG5yZjhObGd2bVVhamxQM05XaHNGZHRmeVk3Q1JqQzUwRGRfTXlYVFRlSzBDTWEzSjYxdFNKN3VtRlVXaFZneU5jWlRoMmJsMFNHSXdxYnJn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVZTcVRCME0xS0N1SkJ0SFJwS255RmlEYUhpVTRlaHN0cV94ZnhYVS1seGxZcG5xd3Q5ZV9QQW52dmw4TDF0RkF3VThXQnNSQ282MU1mc2Y3bG1FbEIzMTZEYmFsNXExZ3hQMmxqTzBteWdmbElWT2NMdDRsMFVDcXZoUU9iZw?oc=5",
+          "source": "海峡飞虹",
+          "published": "2026-11-06T11:53:07+08:00",
+          "summary": "2026年世界互联网大会乌镇峰会达成多项成果共识 海峡飞虹 安全的招牌太亮，遮住了360的AI 新浪财经 乌镇观潮 | 闭幕启新篇，乌镇峰会让更多声音被听见 中国青年网 拥抱开源开放 共筑美好数智未来 中国网新闻中心 乌镇声音｜卜景德：应该是人主导AI，而不是AI主导人 光明网",
+          "summary_zh": ""
+        },
+        {
+          "title": "党领导人民治理黄河80年来建成水利工程5.4万余个",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40Rmh5X3ZIdGpuTUszQW5DQW9YVmREem5EMUl3QXF5bWtVRjZwMnpWclJBZURFRVZGX29fTlVZTE51TDZaTmdtREtmUktwWGZmQ3RyYVNtSVVuUllMUHRwc3BJZTFqc0FvMUFOb1F3?oc=5",
           "source": "人民网财经",
-          "published": "2026-11-06T00:35:00+08:00",
-          "summary": "我国成功发射遥感五十一号07-09星--经济·科技 人民网财经 中国成功发射遥感五十一号07-09星 香港电台 我国成功发射遥感五十一号07-09星 中国新闻网",
-          "summary_zh": ""
-        },
-        {
-          "title": "2026厦门国际海洋周开幕",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdTdtZlI0R2hUVlo4cGZfLVVLaWZzbEVHRVZjaTNRemNWMEl6T2RqU1g4RnBjNnB5WU0xa3JLUmhwNEVkNVFJRUplaVF4RkxUMDB4eGFDbXlDVklqcFREeElhSVBmcW0waDlZbk9jU0ZHRjFxZllINzhuM0ZDZ0JOdlhRWUVkQQ?oc=5",
-          "source": "新华网",
-          "published": "2026-11-05T19:42:01+08:00",
-          "summary": "2026厦门国际海洋周开幕 新华网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "2026年世界互联网大会乌镇峰会热点聚焦",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hbkRLX0NpUXRpZEVGMUZyZjY4ckxBTG5wS2JjTGJqRjlibTVsY0tIRWU5RE1MWkNwOFpSdzBiQ2JmdEJVb2hxYnVuSG5GeWhJVWVKYl8tOExLMlYtZzE5a25rSmhtSXJVVFgwbHloZFBBbmtPWVZSYUNnTDc?oc=5",
-          "source": "中国日报网",
-          "published": "2026-11-05T21:32:22+08:00",
-          "summary": "2026年世界互联网大会乌镇峰会热点聚焦 中国日报网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "进博会首日 川商和全球4000多家境外企业“同框找合作”",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHYjk2SEZrRFRVSlpMR2xlYVBJQ3JRTjRyOUVzODl6UTlFOERZdGhfdkVLZjdzRGVZLWl5NmY2cEljME5vT01uczJvWmF1TWtLM05yQ0g1bUxMVlpVdjBrNVBRbw?oc=5",
-          "source": "四川新闻",
-          "published": "2026-11-05T22:49:53+08:00",
-          "summary": "进博会首日 川商和全球4000多家境外企业“同框找合作” 四川新闻 历“九”弥新，中国与世界共享机遇--国际 人民网 北京之夜共谱新章市投资促进服务中心在第九届进博会期间举办消费领域外资企业交流活动_投促活动 北京市投资促进服务中心 毕马威：进博会不仅是前沿科技秀场，更是产业与治理变革的策源地 新浪网 写在第九届中国国际进口博览会开幕之际 中国日报网",
+          "published": "2026-11-06T10:13:00+08:00",
+          "summary": "党领导人民治理黄河80年来建成水利工程5.4万余个 人民网财经 黄河实现连续27年不断流 新浪财经 国新办举行新闻发布会 介绍治理黄河80年有关情况 央视网 努力让这条母亲河越来越美——写在党领导人民治黄80年之际 中国日报网 水利部：治理黄河80年来，先后战胜12次花园口站洪峰流量超10000立方米每秒的大洪水 凤凰网",
           "summary_zh": ""
         }
       ],
       "ai": [
+        {
+          "title": "Responsible use of artificial intelligence",
+          "title_zh": "负责任地使用人工智能",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5",
+          "source": "Nature",
+          "published": "2026-11-06T02:14:45+08:00",
+          "summary": "Responsible use of artificial intelligence Nature",
+          "summary_zh": ""
+        },
+        {
+          "title": "Watch live: Stock market reacts amid concerns about artificial intelligence spending",
+          "title_zh": "观看直播：股市因对人工智能支出的担忧而做出反应",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXlNZzFDNDc1dHRFN05zeTVQOVF2TEZGVWhEcmt3SlRaSWhQcTdNbDAwVGZCZHRnTDdPTHBORVRheER2bmNYRkdYa2FocVE0aW1pbVRZRElFYkJyWFZHd0VMX2xhTV9QM0dxM3BRNVQzUXRSejhjQUhFRHMzdkg3YUF4UmlvZ0JiZUtrLTByc2hlMzN1ZUpkeGppUktEcGFXSC1yZmFKbVZMY3QyQ2IxVE1NTVp3Zw?oc=5",
+          "source": "NBC News",
+          "published": "2026-11-06T12:30:54+08:00",
+          "summary": "Watch live: Stock market reacts amid concerns about artificial intelligence spending NBC News",
+          "summary_zh": ""
+        },
+        {
+          "title": "Elon AI Hub launches ‘Campus Voices’ interview series",
+          "title_zh": "Elon AI Hub 推出“校园之声”系列访谈",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmNWS3BZR1BFWXdZRDVtbkhhemJHSkluTDE2bS1QQ2NLUG5Bejl4X25QWVloelpKQnlrWmJJVW1WdHpFNWxoSnRiYndnOHo5TG1Kck1zY0VXc0JOTkhCY3Q2WW1mVzBidGJlUmlBT3JMTThXdDR6Nk9ndmNWd0gwUmp5dDdkYjIzM2FHZTlONjJOQ1dsTkE?oc=5",
+          "source": "Elon University",
+          "published": "2026-11-06T09:54:44+08:00",
+          "summary": "Elon AI Hub launches ‘Campus Voices’ interview series Elon University",
+          "summary_zh": ""
+        },
+        {
+          "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)",
+          "title_zh": "当人工智能的使用与员工真诚的宗教信仰发生冲突时（美国）",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MTlCOHdFY2RmV2dhQUJaV3JxTG9VZjZLTjV2eEsyTkRrdU5BaVBnU2c?oc=5",
+          "source": "Employment Law Worldview",
+          "published": "2026-11-06T01:37:53+08:00",
+          "summary": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US) Employment Law Worldview",
+          "summary_zh": ""
+        },
+        {
+          "title": "Morning Bid: AI's reality check",
+          "title_zh": "早间竞价：人工智能的现实检验",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xWEZCT19xVnB0ZUVUZDQzWWRjTGxuUEpqQTE4OU1CZ1ZQNHJpQTR2MnNvejZteVJRZXR2eTZ5dENZX2I0MDRnb0xOUE1ranhSWG5OblJsMEZhZzZxcnNKMFdhMDlRVWVVa0pRR1FhczRCblJZLXZGdmtLMi1DTkk?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-06T13:37:00+08:00",
+          "summary": "Morning Bid: AI's reality check Reuters",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial intelligence-generated pre-visit summaries improved communication outcomes in neurosurgical consultations",
+          "title_zh": "人工智能生成的访前摘要改善了神经外科咨询中的沟通结果",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObGFpRkFuLW5teTV6bkFUSm9rZ3o3Y04wcEhralFWR2didDZ2NW9xajR1bXR0UnlUbm1BbVJ3bGpJcGRHY2JjaUpOYWtpd25fRDMtVGg2eXNTd21jb1ZEWm5XV3ZFZDVjaHg4RWd4ZTJNQkdTNENvWFZfcEMwbnRSTHFjQUVqc2paMnM2RS1LdkQ2eGFNdDZLUGFlcVZMLVU0Z3ZfVVBsaFU3dEtsNkFhaVIyc3Vjb3lwcDI3SlhWdUh4WDNsUGt2Y3V5ZVBzN1lwemw5akFZcEFyX2ZtMWFEV2UwUQ?oc=5",
+          "source": "2 Minute Medicine",
+          "published": "2026-11-06T04:55:25+08:00",
+          "summary": "Artificial intelligence-generated pre-visit summaries improved communication outcomes in neurosurgical consultations 2 Minute Medicine",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria",
+          "title_zh": "人工智能为研究人员指明了隐藏在线粒体中的新疾病靶标",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMVJpd2hYUmNnOEFET2U1cjBuTzJWSWZVNy0yLWRYMlhDYWFSLVFOa2VHQWFpYUl4UHRnOE1OOURPMEJPWFVScVQ5ckZTNFZQM1ZSMzFXMnJiY0FmdnhFejNOblYzcklhc2hkUTF5cUNwcUlYY25xU1h0eFdxRkZ5MEJEeG5Mc3gxRmx1aDhlZDFVUjBvYVNCTFJHNTN4d0RDYzNaT0t2QW5MdVhRVVVJcWd5eFhQa2N0blFTY0pYeTh0Ulg5NzJENXpKYVhQaWJx?oc=5",
+          "source": "AgriLife Today",
+          "published": "2026-11-06T07:02:49+08:00",
+          "summary": "Artificial intelligence points researchers toward new disease targets hidden in mitochondria AgriLife Today",
+          "summary_zh": ""
+        },
         {
           "title": "Workshop on artificial intelligence is today",
           "title_zh": "今天是人工智能研讨会",
@@ -198,84 +261,21 @@
           "summary_zh": ""
         },
         {
-          "title": "Responsible use of artificial intelligence",
-          "title_zh": "负责任地使用人工智能",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5",
-          "source": "Nature",
-          "published": "2026-11-06T01:15:00+08:00",
-          "summary": "Responsible use of artificial intelligence Nature",
+          "title": "Netflix rolls out new ‘AI Discover’ tool to help subscribers find what to watch",
+          "title_zh": "Netflix 推出新的“AI Discover”工具，帮助订阅者找到要观看的内容",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVJSOUxFcXNYLTFBQ0E0TlRVbm0td2RIaFV2b2YwOWJDcW41dTZ1RE9HcjhJMFlPajlvd2VPY1E2WGlGNXJtWmRfUGFPTURfQWhJa1diam42UWJkLVR4R01odHRTNmlDeE9RcWw2Y09JUHM0RDAyOFE0N0VSYzVWeFF1M0ctcjI4NzBONmIwbHAyYWVTR0dVSEY0S3VyeVNDcVg5S1VDQ2s0eTDSAb8BQVVfeXFMTl8taW9NdlN2R01fVVNZcUhQZGVJNjNCYnE4Y19saUgxMWszSGZBUWY5OElHa0Z4Z1ZqdDYtZzd5eGdiNmM0YnVqd2NxazRDVURaV1RmWmw0c1llSjE2OGthMWREN0FkRDhQeHhKT3BKTFFkaW91b3VLUUN3VlZtcVZ2WHAzbzFhaDRaTGsxakVka0JVZ0VGRVYtZkFUVXNxblp6TElsSzlvV2xUeXVpS2NEeXhBWXlnMHVmXzE0X2s?oc=5",
+          "source": "Fox 10 News",
+          "published": "2026-11-06T12:11:00+08:00",
+          "summary": "Netflix rolls out new ‘AI Discover’ tool to help subscribers find what to watch Fox 10 News",
           "summary_zh": ""
         },
         {
-          "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)",
-          "title_zh": "当人工智能的使用与员工真诚的宗教信仰发生冲突时（美国）",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MTlCOHdFY2RmV2dhQUJaV3JxTG9VZjZLTjV2eEsyTkRrdU5BaVBnU2c?oc=5",
-          "source": "Employment Law Worldview",
-          "published": "2026-11-06T01:37:59+08:00",
-          "summary": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US) Employment Law Worldview",
-          "summary_zh": ""
-        },
-        {
-          "title": "American Psychological Association CEO Arthur C. Evans Jr. weighs how artificial intelligence will impact youth mental health",
-          "title_zh": "美国心理学会首席执行官 Arthur C. Evans Jr. 权衡人工智能将如何影响青少年心理健康",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ0dzWXgwaUVKTWtxOUdIUHBFdlpCdFYzejNSS29yeVV3SFA4X084eXN2dTE1ZWhsVTNHTnlmUlJTeWFYWEpnTk9zSW5TS1BSSzV1RXNsUUFVX2hyTjhfOFVmcUQtSjdqZEIzaVpRQTBiSTY0YW9GbGgybXRncVBBNnZfWmRGNGFQYmcyTlAtR2JDRjFPWmxqTWRfYU02VnhsM3BHMlA0WUZSR0xONHF0X1duNDIxWmdpWnNza3FTVkVQeHNoYldRZTYzWEVndEpSRWpCNjNWWWZPWExkYXNlZ2ZYMDJjaDAzOGNRZ0UtenNJYXBMR3c?oc=5",
-          "source": "Clark University",
-          "published": "2026-11-05T22:19:35+08:00",
-          "summary": "American Psychological Association CEO Arthur C. Evans Jr. weighs how artificial intelligence will impact youth mental health Clark University",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial intelligence-generated pre-visit summaries improved communication outcomes in neurosurgical consultations",
-          "title_zh": "人工智能生成的访前摘要改善了神经外科咨询中的沟通结果",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObGFpRkFuLW5teTV6bkFUSm9rZ3o3Y04wcEhralFWR2didDZ2NW9xajR1bXR0UnlUbm1BbVJ3bGpJcGRHY2JjaUpOYWtpd25fRDMtVGg2eXNTd21jb1ZEWm5XV3ZFZDVjaHg4RWd4ZTJNQkdTNENvWFZfcEMwbnRSTHFjQUVqc2paMnM2RS1LdkQ2eGFNdDZLUGFlcVZMLVU0Z3ZfVVBsaFU3dEtsNkFhaVIyc3Vjb3lwcDI3SlhWdUh4WDNsUGt2Y3V5ZVBzN1lwemw5akFZcEFyX2ZtMWFEV2UwUQ?oc=5",
-          "source": "2 Minute Medicine",
-          "published": "2026-11-05T23:55:53+08:00",
-          "summary": "Artificial intelligence-generated pre-visit summaries improved communication outcomes in neurosurgical consultations 2 Minute Medicine",
-          "summary_zh": ""
-        },
-        {
-          "title": "Michigan can use artificial intelligence to improve lives",
-          "title_zh": "密歇根州可以利用人工智能来改善生活",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEZKNXRhRHlsaDNzd21DZF9XcERZN2ZaRkZHSHp1UTNZZHVIbDFCbE85emFWaFkxMjN0MWFvOHBoRGpWUWNoMFI4VllsdUI5THczRVZpc0RETWtIeXlzcVAyVVBaSlI5ZW5fR3JJS1FlU29vREV4Nk82Unh2MTBpcGk2YUo2NEp6S3BhYXJsNjlLbzRTNWMw?oc=5",
-          "source": "Mackinac Center",
-          "published": "2026-11-05T21:03:08+08:00",
-          "summary": "Michigan can use artificial intelligence to improve lives Mackinac Center",
-          "summary_zh": ""
-        },
-        {
-          "title": "Elon faculty members named to leadership roles in CAA Academic Alliance AI initiative",
-          "title_zh": "Elon 教员被任命为 CAA 学术联盟人工智能计划的领导职务",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnhuODY5SGROeXNRWElTM3B3Nnc5ODN2ZGllSzI1YkFyVXhTXzkxa25sUmlnblpma1lqMEZnRlJfZEVBR1JhN3BjYW05MTNuQ1pJeFlPZzJOQ1RkZUxnOXRtRFhIZFNQcHFhZEw0emdhOG1TU3F4NVpUZUpRNUpmTlphU1BhTHlFV1VqLU5KMUNhWEtQWE9QNjBVSkVJUUhQVlEtbVZDUHRkS0hNZENfRmlmeHVMMDN3bFpLalhTdHh2emM?oc=5",
-          "source": "Elon University",
-          "published": "2026-11-06T01:55:59+08:00",
-          "summary": "Elon faculty members named to leadership roles in CAA Academic Alliance AI initiative Elon University",
-          "summary_zh": ""
-        },
-        {
-          "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
-          "title_zh": "Amazon Marketplace 如何使用 Amazon SageMaker AI 评估内容质量",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGRzTGJsV0ZFVVJ6NXlkNnB3emVFcDJmOGhCUjFsZTJEVWxJS3VxN1JDZ1VLOUVRSzZXTGJiTEV4LTR3TGFfQi1aeHhpdF9SY0hoZlUtSVByVDU1N2tyakZfdlk3ZEhFR21CdUI0dHg0ZjVXMDVfWUtNaGVZVTE5Z1hMMUxtNVZmN2dWN2FXdkFGcTkyYnFrOGpTRThrWHBtNDNQQ1EwU2pTeFhibVpVNlZyb0J6YXlwdjUtaA?oc=5",
-          "source": "Amazon Web Services (AWS)",
-          "published": "2026-11-06T02:06:43+08:00",
-          "summary": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI Amazon Web Services (AWS)",
-          "summary_zh": ""
-        },
-        {
-          "title": "Outsmart Artificial Intelligence with CEDMO Game!",
-          "title_zh": "用 CEDMO 游戏智胜人工智能！",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92TjlzQm5nbmZjOEdkM2RUaTlZWmJ0WHJDQlpvWHI2X1VwMnV3ZlBQWGxZdHNSSnNlVFJMUFVBbnNpNWFkWWxkSllvRWl2TEFESGptTmc4Z25yMlR5VlRHMU5rd1NGSk9NekEwcEdLNmp4cFFpMnJXMQ?oc=5",
-          "source": "CEDMO",
-          "published": "2026-11-05T20:17:43+08:00",
-          "summary": "Outsmart Artificial Intelligence with CEDMO Game! CEDMO",
-          "summary_zh": ""
-        },
-        {
-          "title": "The real test for the artificial-intelligence buildout is what happens in 2028, analysts say",
-          "title_zh": "分析师表示，人工智能建设的真正考验是 2028 年发生的情况",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGZBcGxPaGptOGFleTZTbVo4SU5QMEJxWExVRy0tY2p0WVUtLUJLNmRjNnl3VHdNa19fcXBzNGo3NGdTbm5mMUEydkJEME1JZ1dycndTdDZ3VkJrd3lfU29nMjFUeklyS0ZMdExJV2dMR096NTFLZzZUSVU0TUVPQWVpNDNLdG1oaTNXS0RzRnkwSUU3d0VPb2pmQzZoUTRFY2dLR2hIbGlmRzZXcVhmSGlKSVFUSWNuU3kyQmFNZDJsMVF5anVzdHFCUkRBbjJh?oc=5",
-          "source": "MarketWatch",
-          "published": "2026-11-05T20:23:00+08:00",
-          "summary": "The real test for the artificial-intelligence buildout is what happens in 2028, analysts say MarketWatch",
+          "title": "Connecting artificial intelligence with the tools of astrophysical research",
+          "title_zh": "将人工智能与天体物理研究工具连接起来",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNallRdlVIcUh5WXhLMFJIQXRkcXJvM2ZrTzdxX2ppRHVwdmJROUVOeE5CeWs2YU8tMkJDYkV3QU50N3VXbXFtcEhLSF9GanRlenJCSXBnREdiZk1QOHFfcEFrbEJndGRXM3E0LVVRY0VBQ1A3V25JTW5rZ2tGU2NXUGtCZ1g?oc=5",
+          "source": "Phys.org",
+          "published": "2026-11-06T06:00:07+08:00",
+          "summary": "Connecting artificial intelligence with the tools of astrophysical research Phys.org",
           "summary_zh": ""
         }
       ]
