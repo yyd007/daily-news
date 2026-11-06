@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
   "morning": {
-    "generated_at": "2026-11-07T01:53:21.191886+08:00",
+    "generated_at": "2026-11-07T02:22:41.206771+08:00",
     "sections": {
       "worldwide": [
         {
@@ -10,16 +10,7 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTEVEMW1xdkJ0RkN1eTl1UGNpdjlLeHhocUxaMG4tMDFKY0VoZ3RNOGhyZktYU1FfM08yTWI2VlVmek5OS1NnZDlZVktfdDdTMmh2LXg5NU02T1RIMExHcG9LVDRTVkkyY0diQzZSV3JxX0V4MnIxUXhlWXA5dkdkZnFTX1h5a2VWaF9QQ04tNzdrNnB4azdyRjljV0lfbERyM3JMWWd6ZEVGYVJ1c2xiNTZSVdIBuAFBVV95cUxNWGt5OFBCdjRBNzBiU0JMbGhMUzlSQV9zRWdIbXBjdU5sWmxkc01iLTd2Y3pqZmNkWXdBZ05uYWw4cVdreGdLbkp3WGhYLTBybU9zMkY2ZXFsNTdpcnBDbGgwU2xQOERScUwxTzBhMlY1QWJmb3BJZUxCdkdPNVhxdnhvRHV5OVNfRUNZdXBWOUhzRXkyVUtCV3VtRDZmcFNKbFg3NE9rUmVGM2dxZG9VanVuNjhNWUZh?oc=5",
           "source": "Al Jazeera",
           "published": "2026-11-06T22:26:37+08:00",
-          "summary": "Hoax or bomb threats? What we know about flight disruptions across Europe Al Jazeera Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says The New York Times More Than a Dozen Bomb Threats Across Multiple Airlines Forcing Emergency Landings and Evacuations as...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children",
-          "title_zh": "肯尼亚邪教领袖因大规模饥饿谋杀儿童被判处200年监禁",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-07T00:33:55+08:00",
-          "summary": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children Reuters Cult Leader in Kenya Sentenced to 200 Years in Prison for Mass Murder The New York Times Doomsday cult leader sentenced to 200 years in prison for murders of 190 children, 1...",
+          "summary": "Hoax or bomb threats? What we know about flight disruptions across Europe Al Jazeera Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says The New York Times European air traffic is targeted by new threats after a week of hoaxes NPR Newsroom bomb threats follow...",
           "summary_zh": ""
         },
         {
@@ -28,7 +19,16 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjhTMEYwNXlmU0o2amJvbTJhZno3TF9Ua1k3bkNZc2duYXFhalc3b0tWY2dFeUJiTDU3d3VHanVaMFhTTTlRWE41M2J4aVFaY2tOdDd6azBwR1J2Xzc4UjRJY0hwLWh5Z0JMV1RORVBRbThUeTRlaGJhT04tY0JwSXk1X0pYZkRHblZmMmVOU3p4R1U1U0lybXBjTlZNc0E3SzBFaGpiRnZRYzFQUk9XLWdLNEpMZ2tq?oc=5",
           "source": "The Washington Post",
           "published": "2026-11-07T01:32:27+08:00",
-          "summary": "Poised for breakout moment in Latin America, Pope Leo also faces test of health The Washington Post 12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery The New York Times What to know about Pope Leo XIV's trip to Uruguay, Argentina and Peru PBS...",
+          "summary": "Poised for breakout moment in Latin America, Pope Leo also faces test of health The Washington Post Pope Leo XIV, who had cancer surgery just weeks ago, begins grueling South American tour NBC News Can the pope’s tour of Latin America win back disenchanted youth? The...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children",
+          "title_zh": "肯尼亚邪教领袖因大规模饥饿谋杀儿童被判处200年监禁",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-07T01:05:57+08:00",
+          "summary": "Kenyan cult leader sentenced to 200 years in prison for mass starvation murders of children Reuters Cult Leader in Kenya Sentenced to 200 Years in Prison for Mass Murder The New York Times Doomsday cult leader sentenced to 200 years in prison for murders of 190 children, 1...",
           "summary_zh": ""
         },
         {
@@ -37,16 +37,43 @@
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
           "source": "AP News",
           "published": "2026-11-06T23:20:00+08:00",
-          "summary": "Paraguay’s Peña loses top aides as impeachment trial resumes over failed bank AP News Paraguay’s Peña loses top aides as impeachment trial resumes over failed bank | Associated Press | syndication news Enidnews.com Unrest in Paraguay as president offers to step down, in...",
+          "summary": "Paraguay’s Peña loses top aides as impeachment trial resumes over failed bank AP News What is ueno bank and how did it trigger Paraguay's political crisis? Reuters President of Paraguay faces criminal investigation and impeachment after bank collapse CNN Paraguay’s president...",
           "summary_zh": ""
         },
         {
           "title": "Datacentre protest and a giant statue of Pope Leo: photos of the day – Friday",
-          "title_zh": "数据中心抗议和利奥教皇的巨型雕像：当天的照片 - 周五",
+          "title_zh": "数据中心抗议和教皇利奥的巨型雕像：当天的照片 - 周五",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1NJLVNFdmQ2U0dKRG80OWNMNERzWldiMmZ1RWE1SlRySS03TUNaSS1JRGRjZGVmLTdfVkR6QjJCUzdfNFQ3a1VUNzBZUVBIRjFUSlZKNFBQcllibjZxQjhTanRLcTVKV2J0Z2x5LXQxQmlrLWU0TXQ5dmZFS1FfZVNTYnlSdUd0azh3OXA4blZVSWdwQUoxc0xyc0h4UGx1Mnk3YkRRM1N2aU9GRTdQZDJ0ei02Uk91bEE?oc=5",
           "source": "The Guardian",
           "published": "2026-11-06T22:27:00+08:00",
-          "summary": "Datacentre protest and a giant statue of Pope Leo: photos of the day – Friday The Guardian Activists breach Microsoft data centre construction site as protests spread in Europe Reuters Protesters Break Into Microsoft Data Center in Amsterdam Bloomberg.com Protesters break...",
+          "summary": "Datacentre protest and a giant statue of Pope Leo: photos of the day – Friday The Guardian See more headlines & perspectives on Google News",
+          "summary_zh": ""
+        },
+        {
+          "title": "Hegseth calls US-Iran war a 'courageous and historic effort'",
+          "title_zh": "赫格斯称美伊战争是“勇敢的历史性努力”",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV85dG0tUVl6b1BtcWJ3XzhsQ19aUnpQblF0XzJPcER0Q1JDSDB2THBGWXdFdXM5aGZ6UmZwN1hrTm9YcDBVWW1YWTJ0Skd2TXU3U3ZGcDlYZ0FxMnRTd05obzBQaTczSm4wQndGbWlVTnJEQzd5cmZsa01iS2c0bDQza2dwRlZqcUJaOFFvWHhGeFJlQzczZFZORHIyOTEyNlVWelNLdDM?oc=5",
+          "source": "Fox News",
+          "published": "2026-11-06T23:15:18+08:00",
+          "summary": "Hegseth calls US-Iran war a 'courageous and historic effort' Fox News Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters Reuters Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know Al Jazeera Iran is Reviewing ‘Concrete...",
+          "summary_zh": ""
+        },
+        {
+          "title": "To Cross the Red Sea, Shippers Email Houthi Rebels. Read Their Inbox.",
+          "title_zh": "为了穿越红海，托运人向胡塞叛军发送电子邮件。阅读他们的收件箱。",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWnBubG96c1ktVkN2VE9wYXM4SjRCQXQ1c0RDTkNQLXVsaHhwcU1MSzI0RUYtVVphWFdleXB0VHVpY3piZktaNUw0NmpUQ3Zxa2RUMmRHby13S3kySXZTQ1dLQnJfY2J3Vm9mcmMtWU5ITkl2c01EMEx0OXQzTVFGOHpDWWtnbklfb1RQaVp6ak9TWFV4ZWJWb1FZZ1EtWHhtcTdrNWI1OE5VZ2lNWFFxSFpEQQ?oc=5",
+          "source": "WSJ",
+          "published": "2026-11-06T18:30:00+08:00",
+          "summary": "To Cross the Red Sea, Shippers Email Houthi Rebels. Read Their Inbox. WSJ Shippers wishing to cross Bab al-Mandab email Houthis for permits, sign up for alerts - report The Jerusalem Post Shipping firms email Houthis to cross Red Sea safely, wait for 24 hours. This is why...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Former pro-democracy lawmaker sentenced to 12 1/2 years in Macao’s first national security case",
+          "title_zh": "前民主派议员在澳门首例国家安全案件中被判12.5年有期徒刑",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVFXSTdTY0M4cXlYV25Dbm02UUZxbTlpTGpQQkxQVFhxb1B4Mk5YQnhkV3R2bFZ3MmxRZWNtdmNnR1l1Wm14cVZycllrQzMzRjRQMVh1dGRYajBZSkpJdURqS3dmbjBNNFNPSUtIRk01dXZXTGc1clE2WkJRRVFtdS10RVh2bVJtYnNDODJkdzJYUXRHYXZKb3pROWM5R1ljLTBYUlZTVTdDb0Q2ZmI1M1dNWTQ?oc=5",
+          "source": "NBC News",
+          "published": "2026-11-06T13:06:00+08:00",
+          "summary": "Former pro-democracy lawmaker sentenced to 12 1/2 years in Macao’s first national security case NBC News See more headlines & perspectives on Google News",
           "summary_zh": ""
         },
         {
@@ -59,59 +86,32 @@
           "summary_zh": ""
         },
         {
-          "title": "To Cross the Red Sea, Shippers Email Houthi Rebels. Read Their Inbox.",
-          "title_zh": "为了穿越红海，托运人向胡塞叛军发送电子邮件。阅读他们的收件箱。",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWnBubG96c1ktVkN2VE9wYXM4SjRCQXQ1c0RDTkNQLXVsaHhwcU1MSzI0RUYtVVphWFdleXB0VHVpY3piZktaNUw0NmpUQ3Zxa2RUMmRHby13S3kySXZTQ1dLQnJfY2J3Vm9mcmMtWU5ITkl2c01EMEx0OXQzTVFGOHpDWWtnbklfb1RQaVp6ak9TWFV4ZWJWb1FZZ1EtWHhtcTdrNWI1OE5VZ2lNWFFxSFpEQQ?oc=5",
-          "source": "WSJ",
-          "published": "2026-11-06T18:30:00+08:00",
-          "summary": "To Cross the Red Sea, Shippers Email Houthi Rebels. Read Their Inbox. WSJ Shippers wishing to cross Bab al-Mandab email Houthis for permits, sign up for alerts - report The Jerusalem Post Bab al-Mandab ship traffic shows signs of recovery: report Gulf News Shipping firms...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Former pro-democracy lawmaker sentenced to 12 1/2 years in Macao’s first national security case",
-          "title_zh": "澳门首例涉国家安全案 前民主派议员被判12.5年有期徒刑",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVFXSTdTY0M4cXlYV25Dbm02UUZxbTlpTGpQQkxQVFhxb1B4Mk5YQnhkV3R2bFZ3MmxRZWNtdmNnR1l1Wm14cVZycllrQzMzRjRQMVh1dGRYajBZSkpJdURqS3dmbjBNNFNPSUtIRk01dXZXTGc1clE2WkJRRVFtdS10RVh2bVJtYnNDODJkdzJYUXRHYXZKb3pROWM5R1ljLTBYUlZTVTdDb0Q2ZmI1M1dNWTQ?oc=5",
-          "source": "NBC News",
-          "published": "2026-11-06T13:06:00+08:00",
-          "summary": "Former pro-democracy lawmaker sentenced to 12 1/2 years in Macao’s first national security case NBC News See more headlines & perspectives on Google News",
-          "summary_zh": ""
-        },
-        {
-          "title": "Hegseth calls US-Iran war a 'courageous and historic effort'",
-          "title_zh": "赫格斯称美伊战争是“勇敢的历史性努力”",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNV85dG0tUVl6b1BtcWJ3XzhsQ19aUnpQblF0XzJPcER0Q1JDSDB2THBGWXdFdXM5aGZ6UmZwN1hrTm9YcDBVWW1YWTJ0Skd2TXU3U3ZGcDlYZ0FxMnRTd05obzBQaTczSm4wQndGbWlVTnJEQzd5cmZsa01iS2c0bDQza2dwRlZqcUJaOFFvWHhGeFJlQzczZFZORHIyOTEyNlVWelNLdDM?oc=5",
-          "source": "Fox News",
-          "published": "2026-11-06T23:15:18+08:00",
-          "summary": "Hegseth calls US-Iran war a 'courageous and historic effort' Fox News Iran Reviews Nuclear Proposal, Edging Closer to Breakthrough With US Bloomberg.com Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters Reuters Russia to UAE, Iran steps up...",
-          "summary_zh": ""
-        },
-        {
           "title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
           "title_zh": "亲属称，沙特领导的部队轰炸也门住宅，炸死九名家庭成员",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUltTW8zc3dCR2ZIbnN5NVZsU3BUTFh4TGFBRnJvbU5iMGI3M2t3Q3RudnZZTEpqR2RJTXpaYzhmUk5pX3JXbFV2cFBPNWI3b2x0OTlubE80MWMtZ1dEbWNBZ3VqT3VJdTR4Vmt2ckt6RnNxekpOdjdNYngyb3JvZnJEemdIcUNUZXlkRWxqRUlrWGJ1MEZ4ZHdPeGdOaWlDdUxRZHl0OA?oc=5",
           "source": "The New York Times",
-          "published": "2026-11-07T00:24:28+08:00",
-          "summary": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say The New York Times Local Authority in Sana’a Condemns Attack on Two Water Wells in Hamdan وكالة سبأ LIVE: Airstrikes target Hamdan district in Yemen’s capital Latest news from Azerbaijan",
+          "published": "2026-11-07T00:59:43+08:00",
+          "summary": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say The New York Times Local Authority in Sana’a Condemns Attack on Two Water Wells in Hamdan وكالة سبأ LIVE: Airstrikes target Hamdan district in Yemen’s capital Latest news from Azerbaijan Saudi Led...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "习近平在中南海选区参加区人大选举投票 胡锦涛委托他人投票",
+          "title": "习近平参加北京市区人大代表换届选举投票",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UWmxPQ0VqX0djN3lFZzNiUUF1Tmt3Yms5ZEN3WjViSjdzRENSNVFTYjVDRFV1RDJjUDdLYVhENWVEQzZsQURnV2Vya3Z3bzlvcWMtRE5VWjJCZi1HVUtaNmlNQkc2SVROelE?oc=5",
-          "source": "联合早报",
-          "published": "2026-11-06T18:13:37+08:00",
-          "summary": "习近平在中南海选区参加区人大选举投票 胡锦涛委托他人投票 联合早报 第一观察｜总书记投下庄严一票，率先垂范践行民主 新华网 13000余个区和乡镇人大代表选举投票站准备就绪 选举日全市选民投上庄严一票 北京市人民政府门户网站 北京区和乡镇人大代表选举明日投票，各投票站准备就绪 新京报 致全区选民的公开信 潮新闻客户端",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2VkFzSGZYeUI0WUxWMmRkbTdMbDRCb2haT29oeUl6a3pmekhGajV4N3BfMDJ4SjloT2J4OHNteW9hTWR0eXhUM0ZUc2NPU2ZiR3pMZlZ5bnJQaG9CU1hQR05idi10bjdLNzFyMFpBVE9Nb3dacWIw?oc=5",
+          "source": "新华网",
+          "published": "2026-11-06T17:37:12+08:00",
+          "summary": "习近平参加北京市区人大代表换届选举投票 新华网 第一观察｜总书记投下庄严一票，率先垂范践行民主 新华网 13000余个区和乡镇人大代表选举投票站准备就绪 选举日全市选民投上庄严一票 北京市人民政府门户网站 习近平在中南海选区参加区人大选举投票 胡锦涛委托他人投票 联合早报 北京区和乡镇人大代表选举明日投票，各投票站准备就绪 新京报",
           "summary_zh": ""
         },
         {
-          "title": "习近平同加蓬总统恩圭马会谈",
+          "title": "新华图讯丨习近平同加蓬总统恩圭马会谈",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NLUJJem5OaXEzNS1vUU9VNDl6OVZ5WEttUXZuZ2p5LTZoWUllNEVfcmE3VFNmc010Rm5nUl9YSnhSSUtQZFFoTEktVTFvREVmUExyX0RUVFJWc2Y4ZlZVbF94TFM1YVkwY0prTmFZdlJrb1I0N3BFQ3d6aEhiSDQ?oc=5",
-          "source": "新华网",
-          "published": "2026-11-06T19:54:25+08:00",
-          "summary": "习近平同加蓬总统恩圭马会谈 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nTXZ5cmpQd2RZaEdsNGg5WTk0MmhMS0hXcngxUW1COGI4em5aS185amViSVlHZDFHclFYQlp0UXkzR1paRjdiYkVtU1NibW91YmQzeEJWcGd4RUh0VUV5WkY5R3R3dVBhLURDX3VlY1N0T2p1VzRud1RObw?oc=5",
+          "source": "中国日报网",
+          "published": "2026-11-06T20:04:05+08:00",
+          "summary": "新华图讯丨习近平同加蓬总统恩圭马会谈 中国日报网 李强会见加蓬总统恩圭马 中华人民共和国外交部 国家国际发展合作署与加蓬有关部门签署发展合作文件 新浪网 习近平同加蓬总统恩圭马共同出席合作文件签字仪式 央视网 习近平同加蓬总统恩圭马会谈 光明网",
           "summary_zh": ""
         },
         {
@@ -133,30 +133,21 @@
           "summary_zh": ""
         },
         {
+          "title": "新闻人物丨奥地利总理施托克尔",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NZVdCd2VJaEhDdllwRG1feVFWSWhCSklqbFFMRXZNbmhKTUVQNHhRNDExektHaTFjd1ZqQ2s5UHFxV3E5RFFqanR0cjM4dnpqYS1ZU1RfN1JUS0lnS29v?oc=5",
+          "source": "人民政协网",
+          "published": "2026-11-06T17:23:58+08:00",
+          "summary": "新闻人物丨奥地利总理施托克尔 人民政协网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
           "title": "美伊核议题诉求对立 僵局仍难打破",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBncUxZQjVucEg4Q0dkSGFKMUwtakpqZy1BSmZzWjZoejFUb1hqTGt6SkFWLXE5Qk5TZGh2YVpYMkZCWHFwOTN0c2JJa1IyZzVZQzlITjNNMlZLVExDVDhGMjhSMA?oc=5",
           "source": "东方财富",
-          "published": "2026-11-06T23:39:08+08:00",
-          "summary": "美伊核议题诉求对立 僵局仍难打破 东方财富 伊朗向美国提交一份涉核提议，细节未知 凤凰网 伊朗高级官员：美国正在审议伊朗的核提议。 新浪网 美伊停战谈判仍存重大分歧！伊朗坚持七项条件：否则霍尔木兹海峡不会重开 财联社 伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权...... 华尔街见闻",
-          "summary_zh": ""
-        },
-        {
-          "title": "北京市气象台发布分区暴雪黄色预警信号",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtZzBZVnB3b1A1MXFDanF0eGh6LXc5ZEotb0Jmd1prWk9xUXNlcUxieEFtNUNyV0dMRlRCTTZhNWUzNlphVGZLa1YxeVJDckFaWm5fR2Z5emVaZ0t3QXJqcGxRbGQwMW05aDd4bnQtYUhhM1U1akxZQkJWUUhHdw?oc=5",
-          "source": "新华网",
-          "published": "2026-11-06T20:39:49+08:00",
-          "summary": "北京市气象台发布分区暴雪黄色预警信号 新华网 暴雪大暴雪 周六强度达巅峰 本轮雨雪范围最广 中华网 周五晚高峰交通压力大 周末有雨雪天气 四元桥和地铁1号线施工 请合理安排出行 注意交通安全 北京市人民政府门户网站 7日至9日冷空气将影响我国中东部 辽宁等地有强降雪 赣湘鄂皖有较强降雨 中国青年网 河北发布暴雪橙色预警 凤凰网",
-          "summary_zh": ""
-        },
-        {
-          "title": "新疆冰雪产业对接会举办 环阿尔泰山自驾大环线发布",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vSlJZdXN1cFplLWU3QnRfRnVMbm85bWgyRnhTWDhMRWZEeWEzbzQ0N2dUVVVZUmVUalNjNUktT2h6OEVrbjdtQWVrMm50bDJONGF2RVZEczJheExQbmY4U1BWTUZuNnhQ?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-06T23:09:34+08:00",
-          "summary": "新疆冰雪产业对接会举办 环阿尔泰山自驾大环线发布 中国新闻网 赴一场连接秦岭天山的文化之约——2026陕西文旅志愿轻骑兵援疆活动纪实 光明网 第二十届新疆冬博会在乌鲁木齐启幕 中国新闻网 第二十届冬博会启幕 www.altxw.com 以平凡视角见证新疆高质量发展的澎湃蝶变 https://www.tlfw.net/",
+          "published": "2026-11-06T23:40:48+08:00",
+          "summary": "美伊核议题诉求对立 僵局仍难打破 东方财富 伊朗向美国提交一份涉核提议，细节未知 凤凰网 伊朗高级官员：美国正在审议伊朗的核提议。 新浪网 美伊停战谈判仍存重大分歧！伊朗坚持七项条件：否则霍尔木兹海峡不会重开 财联社 外媒曝伊朗核立场有所松动！美伊现在离达成协议已经很近？-市场参考 金十数据",
           "summary_zh": ""
         },
         {
@@ -169,21 +160,30 @@
           "summary_zh": ""
         },
         {
-          "title": "各界人士齐聚山东济南 共研孙中山思想当代价值",
+          "title": "我国南极活动与环境保护法出台 对国际南极治理意义几何？",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFBBV1hXSlFhbVpCSWRmSS1CU1o1QUlCMmZPaGtYRzdjMUJ0RVc4eWR2Y2JLbmtmZFdCR3RNTDNhYWUtSFJCb0hFRHdkTWRvNkZpa0FqZDZkb2kzN09GSWJ6RV9RMFNHcFAyd1lwSzJsS0gzdXg0VmVyRW43UDdLaW4yRmhvZlBT?oc=5",
-          "source": "搜狐网",
-          "published": "2026-11-06T22:37:32+08:00",
-          "summary": "各界人士齐聚山东济南 共研孙中山思想当代价值 搜狐网 孙中山后人：传承天下为公精神 续写爱国情怀 中华网 以笔会友，海峡两岸书法家共同纪念孙中山先生诞辰160周年 搜狐网 把根深植于中山精神之中 天津日报 驻哥斯达黎加大使王晓瑶出席旅哥侨界举办的纪念孙中山先生诞辰160周年座谈会 中华人民共和国外交部",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90bG1waXkxZ053QUs0bXhNM0x4NGY0MnFpanN4Z1M0NUs3anJJRFB0MFY3TlJZYXlMSGdqTzAtMndxcUlzNUItRi1xcmp0OFV0ZXU4d21aLWI4M2tnVEdyMGVXTTA?oc=5",
+          "source": "中国青年网",
+          "published": "2026-11-06T20:26:00+08:00",
+          "summary": "我国南极活动与环境保护法出台 对国际南极治理意义几何？ 中国青年网 中国出台南极活动与环境保护法，有何意义？ 凤凰网 受权发布丨中华人民共和国主席令（第九十号） 中国新闻网 规范南极旅游：南极活动与环境保护法2027年1月1日起施行 21财经 南极活动与环境保护法明年元旦起施行 www.mrjjxw.com",
           "summary_zh": ""
         },
         {
-          "title": "加强南极旅游活动规范！这部法律明年1月1日起施行",
+          "title": "真金白银“投资于人”：2026年黑龙江博士后人数同比增长14.1%。",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fcEpOU2NlcVE5OWh1S29uVjJ1Ti1SUjZrZUZRd1g4X19YVW5IS1RFNWJ4eTl0dlBvSG1NLW1VVzJuNzRUNHA0WHFkX3lodW5MM0RKYlB6N0Jad0NfMkRCaUNjcEV5NVR1Q3JKa0RpaTA?oc=5",
-          "source": "中国科技网",
-          "published": "2026-11-06T17:57:01+08:00",
-          "summary": "加强南极旅游活动规范！这部法律明年1月1日起施行 中国科技网 中国出台南极活动与环境保护法，有何意义？ 凤凰网 受权发布丨中华人民共和国主席令（第九十一号） 中国新闻网 规范南极旅游：南极活动与环境保护法2027年1月1日起施行 21财经 南极活动与环境保护法明年元旦起施行 www.mrjjxw.com",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03dGg2cG5Ndmd0UXpkZkFhRFRNdVRhYk5DRHNIWHJVbUlFSEhuU0UxcHZMTkdYVmhwUzItb0hHWi1qaG94dE5HYmRWVlJ6MjFzb0c3TkVFR1NBZGRCaFpXZ2o4QVowYkI0?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-11-06T23:24:00+08:00",
+          "summary": "真金白银“投资于人”：2026年黑龙江博士后人数同比增长14.1%。 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "民革中央孙中山研究学会山东分会换届会议暨纪念孙中山先生诞辰160周年学术研讨会召开",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUtFSFdaMGt4UGlNakFUdkRVekkzSEF0R1d6aXBJb3B0Y1BuMXFma1MzM09YQVBNc01lVDI0TElzVGVlZ2o1ZEwtb0RWQ09GNkw0REF5bTVKWkhnMnZRdFR3cFBIZFRnc3dSYW9WV05hR1ZQMmFycWV0LUQxSDNWS0EyLWh5bm1R?oc=5",
+          "source": "搜狐网",
+          "published": "2026-11-06T23:27:13+08:00",
+          "summary": "民革中央孙中山研究学会山东分会换届会议暨纪念孙中山先生诞辰160周年学术研讨会召开 搜狐网 孙中山后人：传承天下为公精神 续写爱国情怀 中华网 以笔会友，海峡两岸书法家共同纪念孙中山先生诞辰160周年 搜狐网 把根深植于中山精神之中 天津日报 驻哥斯达黎加大使王晓瑶出席旅哥侨界举办的纪念孙中山先生诞辰160周年座谈会 中华人民共和国外交部",
           "summary_zh": ""
         }
       ],
@@ -207,6 +207,15 @@
           "summary_zh": ""
         },
         {
+          "title": "Taxonomy of agentic primitives in Amazon Quick",
+          "title_zh": "Amazon Quick 中代理基元的分类",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaThEYUFaYlMxWkpoSHlCTng5Z1JDQlRvdF9KblpWQ1VpSnVBV3YzckFnaDdORWNrX0c3VXI1eWM4NHBDME01M0NCcHJDU1RCZXhkeHpLVk1DWDlDMVR3RThvNXdVMW1KMy1NNGoyYXhZWW4zOURtZVRVOHFfcHg4VVBfRUVMcWs3WjF2SmJSdkVpWDlNX2hXMg?oc=5",
+          "source": "Amazon Web Services (AWS)",
+          "published": "2026-11-07T01:34:45+08:00",
+          "summary": "Taxonomy of agentic primitives in Amazon Quick Amazon Web Services (AWS)",
+          "summary_zh": ""
+        },
+        {
           "title": "OCC Issues Examiner Framework For Banks’ Use Of Artificial Intelligence",
           "title_zh": "OCC 发布银行使用人工智能的审查框架",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYm5KMnVsSTZSUzdtZVBDNXpQSlJjeXBPMEhZNUtxQklHWllwVlhTblRZRjZXbzN6c0tGVF9IQnZMeWU1X0FBUnVVVENCUGFVS1Y4WkpBdExrUGhidHdzempRa1Vna1BrLWM5OU1SUzVVVmVCRFI3cjdrNmVwOEc0T3pxb3pPNktEdEE?oc=5",
@@ -225,12 +234,30 @@
           "summary_zh": ""
         },
         {
+          "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong",
+          "title_zh": "预测：华尔街的中期人工智能 (AI) 交易完全错误",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjZ4RWJiRVZPeUdvemVDcHVpZHRTWUNkWnRXTzI3aERJZWl6NHVBaExrWUo5Sy14dExReUhjeWFzYnhnWHBvSzdOVmhpUV9aemlfaE4wYmxHeng5Ykl2Vm5YZVdkTUZYRlFqNXVRd0FxVGR3djNrenJPcU1qcG8tZWxDUzEwMi10Ti1EbUF4Y2VESlF4ZWFlbV9WNkVaWk8y?oc=5",
+          "source": "Yahoo Finance",
+          "published": "2026-11-07T00:50:00+08:00",
+          "summary": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong Yahoo Finance",
+          "summary_zh": ""
+        },
+        {
           "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
           "title_zh": "OpenAI 首席财务官告诉 CNBC，尽管选举结果如何，OpenAI 将继续投资人工智能数据中心",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bWpvVi13alRsTVY0VGFfT0dUS3JtMG4yYVZtNDhkN2lIUndZeFVvVEdwZExsNjNPeXR1aEVVZzNSZjlBS1lSdUdoeUg4RmpWc3VqcDREUzA0RGlxZ2kzaC1KYVNzX3pxTlBLSGJtUlA0LUVq0gF6QVVfeXFMUEZaU3cwQVBvMmNCQmROc3lERDZDVHNUNXZHYVlxREdrRlZHYWwtVVV3NW5USzNoaXJXdldxejRWSUI5RklJMVlwRlBXZlRjdGg0cnlhUld3ZzVycGdOZ1o0Uk1Ja3ROV3JwMGxsQzhGa2FUbzFYa1p4aXc?oc=5",
           "source": "CNBC",
           "published": "2026-11-07T00:22:49+08:00",
           "summary": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC CNBC",
+          "summary_zh": ""
+        },
+        {
+          "title": "Opinion: Artificial intelligence and technological convenience is killing the human experience",
+          "title_zh": "观点：人工智能和技术便利正在扼杀人类体验",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd0ZjbFpWNFoxRFRleUlnT1VyU2FmejJ1bUxaSnZxMTBJSUVXS3dfenNiRU8zSmZtVTlWal9TYXVZWjR4dWJVTHdqX3dUTHNwVWJVamVNUUM3dkpRc1JqTTBOdThhbml2a0NTM0R4N3JIRWhIejVvYlh2UnZzRVA4ZUR1SWxqaTJycDRpNWxHaGtENTJwN3JhS0dIaWY?oc=5",
+          "source": "The Reveille, LSU's student newspaper",
+          "published": "2026-11-06T20:03:11+08:00",
+          "summary": "Opinion: Artificial intelligence and technological convenience is killing the human experience The Reveille, LSU's student newspaper",
           "summary_zh": ""
         },
         {
@@ -243,39 +270,12 @@
           "summary_zh": ""
         },
         {
-          "title": "AI stocks climb after trillions wiped from market values",
-          "title_zh": "市值蒸发数万亿美元后，人工智能股票攀升",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5",
-          "source": "BBC",
-          "published": "2026-11-07T01:03:02+08:00",
-          "summary": "AI stocks climb after trillions wiped from market values BBC",
-          "summary_zh": ""
-        },
-        {
-          "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong",
-          "title_zh": "预测：华尔街的中期人工智能 (AI) 交易完全错误",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjZ4RWJiRVZPeUdvemVDcHVpZHRTWUNkWnRXTzI3aERJZWl6NHVBaExrWUo5Sy14dExReUhjeWFzYnhnWHBvSzdOVmhpUV9aemlfaE4wYmxHeng5Ykl2Vm5YZVdkTUZYRlFqNXVRd0FxVGR3djNrenJPcU1qcG8tZWxDUzEwMi10Ti1EbUF4Y2VESlF4ZWFlbV9WNkVaWk8y?oc=5",
-          "source": "Yahoo Finance",
-          "published": "2026-11-07T00:50:00+08:00",
-          "summary": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong Yahoo Finance",
-          "summary_zh": ""
-        },
-        {
           "title": "Artificial intelligence at UC, the modern-day flame of Prometheus",
           "title_zh": "加州大学的人工智能，普罗米修斯的现代火焰",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa2tjSEp0ZmdRLVA0U3FjZnRiQ2pDNGJfcXhkZEpxZ0djdGJwR0JadWJXRlRtWVA2amFOTWVVd0NhSEg2elhjVjF0eVdGQmtKbDVLa1FITEhpdVRBYnlKeVdvTGY5OGtwNUUwajc0U3RmSkFTZjRiYmk5VlpVSWc1Ni1UdXE0SHJnQmZaV21aY0pCNzBGNDBBMG1FeVhQWmEtOFBpRlp0NEFRNmxxdkV1ZEQ4c2RYLTBVZW9SS2ZkSjA1dFNBcVFKRkNiWnBRYmx1VkNLcXhXc3Rxa1BNTlJBZGVBM3U?oc=5",
           "source": "The News Record",
           "published": "2026-11-06T21:37:00+08:00",
           "summary": "Artificial intelligence at UC, the modern-day flame of Prometheus The News Record",
-          "summary_zh": ""
-        },
-        {
-          "title": "Don’t mention the data center: OpenAI calls them ‘compute campuses’ instead",
-          "title_zh": "不要提及数据中心：OpenAI 称其为“计算园区”",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1dzdE5kUHlLbC1vX3hiblR5VFF2OXVjYnZRMWk0Nkh6dFF4TGk1Q0lvSDJtQXdWWDVObVRBVHpZNWpQSDFqVjlkeVhkOVhYVFl6QkxmR0FvX0NPZlVSMlZZSW5FMWVMdkpsWWFfMkppQ3Z3N3B0bEJaQXo2ekVFTU1vT1IydmhiSVVGdU4tdWYyTVkyVGxtanZ6Y3FBRVkwakNqeUt6d291eHhubmtFbVA3aWdyeWZTdS05QU51NTRwZw?oc=5",
-          "source": "Computerworld",
-          "published": "2026-11-07T00:54:57+08:00",
-          "summary": "Don’t mention the data center: OpenAI calls them ‘compute campuses’ instead Computerworld",
           "summary_zh": ""
         }
       ]
