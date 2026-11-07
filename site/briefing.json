@@ -1,9 +1,18 @@
 {
   "date": "2026-11-08",
   "morning": {
-    "generated_at": "2026-11-08T00:48:28.880388+08:00",
+    "generated_at": "2026-11-08T00:58:51.182812+08:00",
     "sections": {
       "worldwide": [
+        {
+          "title": "Five killed in shooting in main square of Polish city of Krakow, police say",
+          "title_zh": "警方称，波兰克拉科夫市主要广场发生枪击事件，造成五人死亡",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-08T00:03:17+08:00",
+          "summary": "Five killed in shooting in main square of Polish city of Krakow, police say Reuters Krakow shooting updates: Five killed, police say BBC Gunman kills 5, injures 12 in Poland’s Krakow shooting attack The Hindu Five people killed, multiple injured in Poland market shooting NBC...",
+          "summary_zh": ""
+        },
         {
           "title": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
           "title_zh": "“非常奇怪，非常悲伤”：巴拉圭银行倒闭，总统职位垮台，数百万人破产",
@@ -11,15 +20,6 @@
           "source": "The Guardian",
           "published": "2026-11-07T19:00:00+08:00",
           "summary": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke The Guardian Bank Crisis Drives an Ex-President to Wrest Power Back From His Protege Bloomberg.com Paraguay's President Santiago Peña impeached and under house arrest BBC Paraguay's...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Gunman opens fire in Polish city of Krakow, killing 5 people and injuring at least 12",
-          "title_zh": "波兰克拉科夫市发生枪手枪击事件，造成5人死亡、至少12人受伤",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5",
-          "source": "AP News",
-          "published": "2026-11-08T00:01:00+08:00",
-          "summary": "Gunman opens fire in Polish city of Krakow, killing 5 people and injuring at least 12 AP News Krakow shooting updates: Five killed, police say BBC Breaking: At least five killed in shooting in Krakow ABC News & Headlines – Australian Broadcasting Corporation Five people...",
           "summary_zh": ""
         },
         {
@@ -32,12 +32,12 @@
           "summary_zh": ""
         },
         {
-          "title": "Russia launches missile attack on Kyiv, injuring residents",
-          "title_zh": "俄罗斯对基辅发动导弹袭击，造成居民受伤",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2dldG1kWEpfakpLWGh5STYyWUZzRUd6bk04Nnctay1rbDRDRXE3cmV1ek5fTmpzZjdob0djTWk3T2ZfU1BrbDBEZnVla1VVTnJYblpzWjJsSEZjS0lCVkpqeDZkemtuUm5YZENxZ2hLdjQxWmVZTU9xMkVpTUtmN3NGS2dyVFptdkNxd0l6N0xXWURUTjUyOWRtQW1xSXPSAaQBQVVfeXFMUFJYbXBPWTFBYjgxT1dKcnNZV0JrUnJNSTg3RFBzcW5ySEJObUk3QmI2b2FERjlhWlRxVm92TWUtWkEzd0YzU2RzN0laZXVTNlZGYkN3TlpTV1VjaGo4dlBtbjJuNldFZGVHLXdFaHJRZEVqUG04Tl9XOU51ZVZXUnV1Ny1lcHFEVG1jUmU3NGM3R0xTVGZRZnh5UlU5ekl1MlRkS0c?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-11-07T13:18:07+08:00",
-          "summary": "Russia launches missile attack on Kyiv, injuring residents Al Jazeera Russia pounds power facilities around Kyiv, damages major bridge Reuters Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US AP News Ukraine's power network suffers...",
+          "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+          "title_zh": "乌克兰准备与俄罗斯和美国举行会谈，无人机和导弹袭击造成 9 人受伤",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+          "source": "AP News",
+          "published": "2026-11-07T22:58:00+08:00",
+          "summary": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US AP News Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid The Guardian Zelenskyy accuses Russia of ramping up attacks on Ukraine ahead of U.S. talks CBS News...",
           "summary_zh": ""
         },
         {
@@ -46,16 +46,16 @@
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeV9wMERLRlVTdXhudmhTZGctWWVQc1FxOTJzaEwtb044SzE5MHpDd3V1N0dWTW5QaTZfN3NBQXkyWU9Gd3hJN3NpTWstYjlLSHpWS194Y19OMzg2RUp6NnR1SURteXVzcnZOS0hJQnJZS2IwNl9haUhPU3dLLW1BLXFfUVE1UFFNSkVXczZyclE?oc=5",
           "source": "The New York Times",
           "published": "2026-11-07T17:47:05+08:00",
-          "summary": "This Israeli Vows to Oust Netanyahu. Here’s How. The New York Times President Herzog faces key choice as Israel struggles to form government Al Jazeera Israel Election 2026 live updates: Eisenkot, Netanyahu race to build government The Jerusalem Post Eisenkot moves closer to...",
+          "summary": "This Israeli Vows to Oust Netanyahu. Here’s How. The New York Times President Herzog faces key choice as Israel struggles to form government Al Jazeera Eisenkot moves closer to ousting Netanyahu. Here’s what could come next. Jewish Telegraphic Agency Israel Election 2026 live...",
           "summary_zh": ""
         },
         {
-          "title": "Inside the Operation That Helped Ukraine Turn the Tables",
-          "title_zh": "帮助乌克兰扭转局面的行动内部",
+          "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+          "title_zh": "帮助乌克兰扭转部分俄罗斯战争成果的行动内部",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlU5ZjdTamhLa1pJSHRwQlk2RDJ6TzJmOW1QN1VFR08xcDg2eDllcmlSbFhUZzZIcjVUdXpicWN3RjJmaUpZaUtwNFlmZ3RiQlpFbXUtZEM0eWx6N2xGS3R0Zzd0UV9KWGhKS3RTVHlrNGtsWkdhSmZLd09UWGFWMjZXbHB4RWt4WUtRazRPTEphRk0?oc=5",
           "source": "The New York Times",
           "published": "2026-11-07T18:01:41+08:00",
-          "summary": "Inside the Operation That Helped Ukraine Turn the Tables The New York Times Sitrep for Oct. 29-Nov. 2, 2026 (as of 7 a.m. UTC+3) Conflict Intelligence Team — Teletype Gagin Blames Intelligence Leaks for Ukraine's Vivaldi Failure Demokratis.co.id Gagin Links Ukraine's...",
+          "summary": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains The New York Times Sitrep for Oct. 29-Nov. 2, 2026 (as of 7 a.m. UTC+3) Conflict Intelligence Team — Teletype Gagin Blames Intelligence Leaks for Ukraine's Vivaldi Failure Demokratis.co.id Gagin Links...",
           "summary_zh": ""
         },
         {
@@ -63,17 +63,8 @@
           "title_zh": "欧洲的炸弹威胁和网络攻击给日常生活带来不安",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHowRm54MU5LWlVBYnlLY1hDamdLRXR3T2xsaTVLMll4bk9PZ1lRX3BCeXJtYWFmMGFQazZzRmpBeEdaS2kzTU9sN211SFlFRjM0QU9kSERJUk5yZS15RDhHTUlfWjk3b2Q5TFk1ZFFlcUZJYmJaUHFqRDBwQURTbWY5X0pxRmxmLVY0eWpLdEFCUnBGRGdROGkyQnBsUQ?oc=5",
           "source": "The New York Times",
-          "published": "2026-11-07T18:02:18+08:00",
+          "published": "2026-11-07T18:32:52+08:00",
           "summary": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life The New York Times Someone Is Causing Chaos Across Europe. The Question Is: Who? WSJ Friday briefing: ​After a week of disruption, is living with threats our new normal? The Guardian All the ‘hybrid...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Poised for breakout moment in Latin America, Pope Leo also faces test of health",
-          "title_zh": "教皇利奥即将在拉丁美洲爆发，他也面临健康考验",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjhTMEYwNXlmU0o2amJvbTJhZno3TF9Ua1k3bkNZc2duYXFhalc3b0tWY2dFeUJiTDU3d3VHanVaMFhTTTlRWE41M2J4aVFaY2tOdDd6azBwR1J2Xzc4UjRJY0hwLWh5Z0JMV1RORVBRbThUeTRlaGJhT04tY0JwSXk1X0pYZkRHblZmMmVOU3p4R1U1U0lybXBjTlZNc0E3SzBFaGpiRnZRYzFQUk9XLWdLNEpMZ2tq?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-07T12:13:24+08:00",
-          "summary": "Poised for breakout moment in Latin America, Pope Leo also faces test of health The Washington Post Pope Leo Visits a Latin America That’s Losing Its Religion WSJ Pope at Mass in Uruguay: ‘Carry forward evangelizing mission with enthusiasm’ Vatican News Weeks after surgery,...",
           "summary_zh": ""
         },
         {
@@ -86,12 +77,21 @@
           "summary_zh": ""
         },
         {
+          "title": "Poised for breakout moment in Latin America, Pope Leo also faces test of health",
+          "title_zh": "教皇利奥即将在拉丁美洲爆发，他也面临健康考验",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjhTMEYwNXlmU0o2amJvbTJhZno3TF9Ua1k3bkNZc2duYXFhalc3b0tWY2dFeUJiTDU3d3VHanVaMFhTTTlRWE41M2J4aVFaY2tOdDd6azBwR1J2Xzc4UjRJY0hwLWh5Z0JMV1RORVBRbThUeTRlaGJhT04tY0JwSXk1X0pYZkRHblZmMmVOU3p4R1U1U0lybXBjTlZNc0E3SzBFaGpiRnZRYzFQUk9XLWdLNEpMZ2tq?oc=5",
+          "source": "The Washington Post",
+          "published": "2026-11-07T12:13:24+08:00",
+          "summary": "Poised for breakout moment in Latin America, Pope Leo also faces test of health The Washington Post Pope Leo Visits a Latin America That’s Losing Its Religion WSJ Pope joined by tens of thousands at Mass in Uruguay Yahoo Pope Leo urges South America to bridge divides on...",
+          "summary_zh": ""
+        },
+        {
           "title": "Russell Brand and Noel Fielding joke about rape in resurfaced Channel 4 clip",
           "title_zh": "拉塞尔·布兰德和诺尔·菲尔丁在第四频道重新播放的片段中开玩笑地谈论强奸",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzaHI3TE5GeWpYalBnVEhQb2E5bnhxRldzTV9LVlRLOVhKX0gzTGRwZU5oM1U5djZxV0dsVkNsM1JRd05CX1ZDQVlWeUYzRVJWaFZIdEF3MGlWY3h6eUgtaG5PZHQ4dUNnbGZSS18xcDkxenRtUURteHAtVE1Ydw?oc=5",
           "source": "Yahoo News Singapore",
           "published": "2026-11-06T22:48:01+08:00",
-          "summary": "Russell Brand and Noel Fielding joke about rape in resurfaced Channel 4 clip Yahoo News Singapore A Monster of His Time The Atlantic Russell Brand's convictions for rape, sexual assault renew spotlight on media — and a culture — that may have looked away ABC7 Los Angeles...",
+          "summary": "Russell Brand and Noel Fielding joke about rape in resurfaced Channel 4 clip Yahoo News Singapore A Monster of His Time The Atlantic Brand conviction shines light on industry culture of silence Channel 3000 Russell Brand is convicted of rape, and judge says he’ll get a prison...",
           "summary_zh": ""
         }
       ],
@@ -111,7 +111,7 @@
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fekJ4OEJ0bFRnaVhnX2drRUhGZWNyVC1iUmxMc0E3QVJEaVNGMTJKU2oxLVFtUVRsTnExYUdqSGtmdlNxOWpTcDZFeWM4SGQ2TFpJNVlxd2k4SHdjczRaLXhzbzh6bXkxNFFCa3lkcFNJaXEzbFF5bDk3SnY?oc=5",
           "source": "中国日报网",
           "published": "2026-11-07T19:54:32+08:00",
-          "summary": "国际媒体人共议：媒体如何成为国际互信的“连接器”？ 中国日报网 在Google 新闻上查看更多头条新闻和观点",
+          "summary": "国际媒体人共议：媒体如何成为国际互信的“连接器”？ 中国日报网 世界媒体峰会发布E立方协同发展倡议 构建绿色能源与媒体相互赋能的发展新格局 北京市人民政府门户网站 全球媒体人工智能应用标准共建计划正式启动 新浪网 这场“媒体的奥林匹克”缘何吸引世界目光- 中国日报网 China Daily 塔斯社社长：编辑工作的最终决定权始终应当掌握在人的手中 搜狐网",
           "summary_zh": ""
         },
         {
@@ -183,7 +183,7 @@
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41RndDRUdRSTZJSjFncEpXVTdTX2JUZ3ZTd1g4NTJ0S3phMmx2bmpRRkt5UmNGSG9lM040V2o5R0ZvNG9LXzZ1aUs0NVZqZFBVb3hQSTVFYnF0NlV0MGdzSU5PR3E3Si0yVXdReg?oc=5",
           "source": "中华人民共和国应急管理部",
           "published": "2026-11-07T16:08:00+08:00",
-          "summary": "国家防减救灾委办公室、应急管理部会商调度雨雪天气防范应对工作 中华人民共和国应急管理部 四预警齐发！8省份有大到暴雪，局地特大暴雪 新浪财经_金融信息服务商 周五晚高峰交通压力大 周末有雨雪天气 四元桥和地铁1号线施工 请合理安排出行 注意交通安全 北京市人民政府门户网站 下半年最强冷空气来袭 多地气温将创新低 中国日报网 北京北部多条高速出现降雪，通行正常暂未封路 新京报",
+          "summary": "国家防减救灾委办公室、应急管理部会商调度雨雪天气防范应对工作 中华人民共和国应急管理部 四预警齐发！8省份有大到暴雪，局地特大暴雪 新浪财经_金融信息服务商 周五晚高峰交通压力大 周末有雨雪天气 四元桥和地铁1号线施工 请合理安排出行 注意交通安全 北京市人民政府门户网站 下半年最强冷空气来袭 多地气温将创新低 中国日报网 全国强降雪落区预报图显示：华北北部降雪多到“发黑” 新京报",
           "summary_zh": ""
         }
       ],
