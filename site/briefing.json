@@ -1,9 +1,18 @@
 {
   "date": "2026-11-09",
   "morning": {
-    "generated_at": "2026-11-09T00:59:41.467167+08:00",
+    "generated_at": "2026-11-09T01:13:20.870645+08:00",
     "sections": {
       "worldwide": [
+        {
+          "title": "Mass shooter kills six in Poland, and three bodies are found at suspect’s home",
+          "title_zh": "波兰大规模枪击案造成六人死亡，嫌疑人家中发现三具尸体",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEFXZ3A5eHZuYi1xajFDZXJzRFoweUZlV2ZSdFFWalJTWjdnYXlZa2ViRGpJcW50V0RtajlKQ3p0c3UyNFRGVW5Wd01ucWZvUGU1MGtNZldCR0xOektsNVo1Q0NsS25VTzliOWpzTU9RZFMxUXd2X1RBWk1yT0diZm0zYnlNbkVBUGZ4LW5qaDdKYzBuV0lTalB1WVNDaExRcVRJdS1ZeXhuZw?oc=5",
+          "source": "The Washington Post",
+          "published": "2026-11-09T00:42:25+08:00",
+          "summary": "Mass shooter kills six in Poland, and three bodies are found at suspect’s home The Washington Post Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' BBC Two police officers hailed as heroes for confronting Kraków gunman The Guardian...",
+          "summary_zh": ""
+        },
         {
           "title": "Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry",
           "title_zh": "隐藏在众目睽睽之下？拉塞尔·布兰德的定罪给英国娱乐业带来了严峻的问题",
@@ -11,15 +20,6 @@
           "source": "CNN",
           "published": "2026-11-08T19:57:06+08:00",
           "summary": "Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry CNN Bear Grylls Speaks Out on Russell Brand Verdict After Helping Baptize Him: ‘Justice Has Now Been Served’ and the Victims Are ‘Heroes’ Yahoo Hiding in plain sight? Russell...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Mass shooter kills six in Poland, and three bodies are found at suspect’s home",
-          "title_zh": "波兰大规模枪击案造成六人死亡，嫌疑人家中发现三具尸体",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEFXZ3A5eHZuYi1xajFDZXJzRFoweUZlV2ZSdFFWalJTWjdnYXlZa2ViRGpJcW50V0RtajlKQ3p0c3UyNFRGVW5Wd01ucWZvUGU1MGtNZldCR0xOektsNVo1Q0NsS25VTzliOWpzTU9RZFMxUXd2X1RBWk1yT0diZm0zYnlNbkVBUGZ4LW5qaDdKYzBuV0lTalB1WVNDaExRcVRJdS1ZeXhuZw?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-09T00:42:25+08:00",
-          "summary": "Mass shooter kills six in Poland, and three bodies are found at suspect’s home The Washington Post Poland mourns victims of Krakow mass shooting as security fears grow Reuters Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' BBC Two...",
           "summary_zh": ""
         },
         {
@@ -32,12 +32,21 @@
           "summary_zh": ""
         },
         {
-          "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei’s Argentina",
-          "title_zh": "教皇结束对乌拉圭的访问，前往其行程中最令人担忧的一站——米莱的阿根廷",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXBvT0ZhMHZPdk1rbTJiZ1FtQlJJWEZMZE1CU2h6dlNBNTRZa2hsWFIzMG1mMU9qYTNIV1lTUnh0Ni03c2lOVDg1dDhleUliSmpzcnZmdlhaZ0dfWTlyYlRtOFo0dVYwdVpWV2NnMGxLZWZpMlJGOXJLMHF2SjNRVFoxZ1JlRjBtWEliSTBBcVVKeTU1dW9NbWFFUHdrMDhxNXc5NENMdzl5Q0l3RDNxNGJ5Q0JzbUdKWWc?oc=5",
+          "title": "New Zealanders won't know for weeks who won the election as neither side secures clear victory",
+          "title_zh": "新西兰人在数周内都不会知道谁赢得了选举，因为双方都没有取得明显的胜利",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFZtYUlOcl9TejR2aTRaRW5xVnZiM05kZzVuQ1lTNGJrOWt5VEVxeWhWQXVoeHpDMmdPbTBzSHpLQ3NVX0RCc2xscjBUUlp1RTgzT0VFeV9QVnlZQTVNSHBZRy1PTkRxa3Z5S19FOVExT09jS1o1b1BOOVB1cHhMUERTNDZ2bTByclFJZWtZbGJ2aGNJeno0dWJGblh2V1RpWWc?oc=5",
           "source": "AP News",
-          "published": "2026-11-08T23:43:00+08:00",
-          "summary": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Milei’s Argentina AP News In Argentina, Pope Leo to Meet Church at Odds With President Milei The New York Times After a successful trip to Uruguay, Pope Leo heads to Argentina NPR Pope’s visit to...",
+          "published": "2026-11-08T13:51:00+08:00",
+          "summary": "New Zealanders won't know for weeks who won the election as neither side secures clear victory AP News New Zealand in political limbo after knife-edge election CNN No clear winner in New Zealand election, as leaders prepare for weeks of talks NPR 'Flat', 'tired', 'cynical':...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
+          "title_zh": "教皇利奥前往米莱的阿根廷，紧缩政策和伊朗的紧张局势迫在眉睫",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-09T00:04:42+08:00",
+          "summary": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran Reuters In Argentina, Pope Leo to Meet Church at Odds With President Milei The New York Times After a successful trip to Uruguay, Pope Leo heads to Argentina NPR Pope’s visit to Argentina sets up...",
           "summary_zh": ""
         },
         {
@@ -45,17 +54,8 @@
           "title_zh": "也门胡塞武装袭击利雅得 沙特阿美石油公司塔受损",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnVZQXBkYXFpSEd2Mk9LUnNxNTRRaVFWaVREQ1NxeXI0enROaGVMX1RKc041WWtaLU9hYjVQSGxLZHlyNUItaWxSRVB3a3lkMWZ5eDFuM3RhYTgzSy03cmVTZGZ2QlB6NTNNTERfRG01Uk1aV0pJUFMzd1BmSURQWnhfcFlNRUxVbjJNbXV2MA?oc=5",
           "source": "The New York Times",
-          "published": "2026-11-08T20:16:42+08:00",
-          "summary": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh The New York Times Iconic Saudi Tower Hit as Yemen’s Houthis Target Riyadh WSJ Aramco: Building owned by Saudi oil giant damaged in missile attack on Riyadh’s financial district CNN Live - Aramco tower damaged in...",
-          "summary_zh": ""
-        },
-        {
-          "title": "After close vote, New Zealand must wait weeks for new government",
-          "title_zh": "经过激烈的投票后，新西兰必须等待数周才能组建新政府",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHN3TmpfLVFhTnlIdlNERm8zUnRzaExUZ0NDUGo4Q3JiR295dVNsRDgwRDVDUC1VaU12MzlpYVdiSXJOMVdFRy1nYTZDWWE4OVM3X1JIUV9vQ01YaTVoVlN4MzNMaXlIUWRDTUVyT1dMeW16d2dWYjlrVndFek5GanZtQWdSUUt0RkVwcFpJWTZkRWlnWUdPbEdZRlBaU283Nk5aQXptWG5DZ08ybG1nZkVn?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-08T02:05:00+08:00",
-          "summary": "After close vote, New Zealand must wait weeks for new government Reuters Who won New Zealand’s photo-finish election and why special votes could change everything The Guardian No clear winner in New Zealand election, as leaders prepare for weeks of talks NPR 'Flat', 'tired',...",
+          "published": "2026-11-08T21:05:01+08:00",
+          "summary": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh The New York Times Iconic Saudi Tower Hit as Yemen’s Houthis Target Riyadh WSJ Three Arab nations join Africa’s strongest military in condemning latest Houthi attacks on Saudi Arabia’s $1.7 trillion oil giant, Aramco...",
           "summary_zh": ""
         },
         {
@@ -64,7 +64,7 @@
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tR2lBZUtWQ2lYaGNCcmd5VllrTU1MeE9kMkh3V2N2OFQ3ZWdPSmpxQ2FUOWN2SkJ4eFk4SlRTa2ZTWTdFM0pWUmJTWjRKVWx3Y2dRNGxVc0Mwd2dka2JvQVBQekZST2ZqMUoyd052bWZPaHM5cmE2SHFYbw?oc=5",
           "source": "CNN",
           "published": "2026-11-08T23:19:10+08:00",
-          "summary": "Two trains collide in Egypt, killing four people and injuring dozens more, authorities say CNN Collision of two trains in Egypt kills at least four The Guardian At least four killed and dozens injured in train collision near Giza in Egypt, health ministry says BBC Train crash...",
+          "summary": "Two trains collide in Egypt, killing four people and injuring dozens more, authorities say CNN At least four killed and dozens injured in train collision near Giza in Egypt, health ministry says BBC Train crash kills seven, injures dozens near Egypt’s Cairo city Al Jazeera...",
           "summary_zh": ""
         },
         {
@@ -77,12 +77,12 @@
           "summary_zh": ""
         },
         {
-          "title": "Hundreds of thousands left without power in Ukraine after Russian strikes, authorities say",
-          "title_zh": "当局称，俄罗斯空袭后乌克兰数十万人断电",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JV3lDUVpZVXY0aUs3R2NtUDdKV1RTczJUaFRqdzkwZElYclVQMkRPeFdkcmdoRmhrSDFMU2xUTWZLdUItaC0yb0JWeVpjQm81cjdZMlBJdllHTHYycktHdUlFdEZTdHlHdklLdDZn?oc=5",
-          "source": "CBS News",
-          "published": "2026-11-08T19:20:29+08:00",
-          "summary": "Hundreds of thousands left without power in Ukraine after Russian strikes, authorities say CBS News Russian strikes on Ukraine leave hundreds of thousands without electricity Al Jazeera Ukraine war briefing: Russia ramping up attacks to ‘pressure’ Kyiv at trilateral talks,...",
+          "title": "South Africa's ANC facing worst-ever performance in local elections",
+          "title_zh": "南非非国大在地方选举中面临有史以来最差表现",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2s2SDZWT3FaYXpQYmc3MDk3R1JuajMyYkMteGNJNTVvdVRFY1Nmc1QxMFVZU0lBTU50RmdQRkdrYnBWcTZGRmpIN3BHREhsUndpVHRuSEppYjdMdXkzUnJ3ajJlOGdqcjZtZnZmN1J0LTJpSHlEM1BXeGoyRUxSdWFyRmRxdnU2cFZhdmRrdElxVUNuT3M2eFpSakFVbG4t0gGgAUFVX3lxTE9hWUEyWDh0TTFSWlUtRXRBZWV5S0ZBdnU1bUdvYVlzTGtXOGV6YmFOTDk0TUpYclU5ZWY2VzU5WmtuRVlUWGFOMFUtWkZ2RTdJR29NVk9GVUt3TVJNc1RDeFBGaW9YMENHLVJlRTZ0VXpQVVlYTmFPVVBOa1pET0l5V1dzeWNOdjE0R2gwTGFybHJwSnl0aXZxX0gteHpBVzU?oc=5",
+          "source": "DW.com",
+          "published": "2026-11-08T02:24:27+08:00",
+          "summary": "South Africa's ANC facing worst-ever performance in local elections DW.com South Africa's ANC battered by local election losses ahead of coalition talks Reuters Party That Defeated Apartheid Hits Electoral Setback in South Africa WSJ South Africa’s ANC suffers setback in...",
           "summary_zh": ""
         },
         {
@@ -111,7 +111,7 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yQnl4UGNYN09vZHRpRXlINmFFLUNGNUt4ZUZNeHlGWFh3WC1GclBMdkxWeERDNURqemt4ck1pMlF0NzJtZTk3emJ0dllZVHBvUVZpSS1YWkotd2l1bGhQaE52NF9vdG8wSTZDYk1TQXVhN1RaeTdfZzJtZTdIZmc?oc=5",
           "source": "新华网",
           "published": "2026-11-08T18:04:43+08:00",
-          "summary": "沙特首都一栋沙特阿美公司建筑遭袭受损 新华网 沙特首都金融区遭袭，阿美石油大楼受损 凤凰网 胡塞武装称，也门首都附近村庄遭空袭，造成至少27人死亡 美国之音 沙特首都利雅得传出剧烈爆炸声，联军称拦截并摧毁了多枚导弹 ThePaper.cn 也门胡塞武装称萨那周边遭沙特空袭至少11人死亡【2】--国际 人民网",
+          "summary": "沙特首都一栋沙特阿美公司建筑遭袭受损 新华网 沙特首都金融区遭袭，阿美石油大楼受损 凤凰网 胡塞武装称，也门首都附近村庄遭空袭，造成至少27人死亡 美国之音 也门胡塞武装称使用导弹和无人机袭击沙特石油设施及军事目标 新浪网 沙特首都利雅得传出剧烈爆炸声，联军称拦截并摧毁了多枚导弹 ThePaper.cn",
           "summary_zh": ""
         },
         {
@@ -133,15 +133,6 @@
           "summary_zh": ""
         },
         {
-          "title": "第27个中国记者节：18位优秀新闻工作者亮相成都地铁",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rV2hjdHRSWXRsUFRhRTF2bkZvR2JzMHFJM3FpRzQ0bW9QQVlMUG9pRGZ3UGdHVWtqWEFubDVtcWIyM1VSQWlwN3Z4ZzJNdXNlQVlibzVmRVlNQUJEX2U5cTV5MA?oc=5",
-          "source": "四川新闻",
-          "published": "2026-11-08T16:42:07+08:00",
-          "summary": "第27个中国记者节：18位优秀新闻工作者亮相成都地铁 四川新闻 逐浪深海 勇立潮头｜上海新闻界召开庆祝第27个中国记者节交流会 ThePaper.cn 今天，把遂昌的“头条”留给我们自己！ 新浪财经 阿拉伯媒体工作者祝中国同行记者节快乐 中国日报网 上海新闻界庆祝第27个中国记者节：12件作品获中国新闻奖 ThePaper.cn",
-          "summary_zh": ""
-        },
-        {
           "title": "海军首批舰载机女飞全部顺利结业，赴一线部队！",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tRnl5bTdhMlBvWFFfaE9YQ2F4aFRWX0ItOERhSEtiUk1USFNHNTh5YzBGR29xZTRMdWotdGdQVmtuYUNKVnZ6SlRCV3A4S0R5alJSUkZBWF9LNlllNFFQZHRqVQ?oc=5",
@@ -151,12 +142,21 @@
           "summary_zh": ""
         },
         {
+          "title": "学习·故事丨“就是要做党和人民信赖的新闻工作者”--独家稿件",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZV9HNktwbnJ4WFJhaHdIVXRncC0ydWVDd2lMMERGY0pja2dTWktyLXVoRXE4VWVlY044S3o5bHVidnNuazVtVkE3RW1UbXlwb2VLeDVOLTIwUjh1N1VNaFplaXp6WE9xdFJlNA?oc=5",
+          "source": "共产党新闻网",
+          "published": "2026-11-08T08:15:00+08:00",
+          "summary": "学习·故事丨“就是要做党和人民信赖的新闻工作者”--独家稿件 共产党新闻网 学习手记丨做党和人民信赖的新闻工作者 新华网 第27个中国记者节活动｜贵州广播电视台刘荣曌：要看得见宏大，也要看得见微小 搜狐网 学习·故事丨“就是要做党和人民信赖的新闻工作者” 光明网 致全省广大新闻工作者的慰问信 川观新闻",
+          "summary_zh": ""
+        },
+        {
           "title": "学习贯彻党的二十届五中全会精神丨踔厉奋发勇争先 不断开创中国式现代化新局面",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlZXgyY0tLMFNKbVhBODlMV3FQUGthbTN0YmNkTHJCUXQtTXd2UTc5RDMwUDZQclRxMTFzR2dtWW0zU1dWbFVFZGtpTnpqTi1JbXlBR09EaFlsbjNMUnpnN2I5czZndkFycnFUTVM3VGE?oc=5",
           "source": "中国之声",
           "published": "2026-11-08T20:09:51+08:00",
-          "summary": "学习贯彻党的二十届五中全会精神丨踔厉奋发勇争先 不断开创中国式现代化新局面 中国之声 学习贯彻党的二十届五中全会精神中央宣讲团在山东、陕西、青海宣讲（学习贯彻党的二十届五中全会精神） 人民日报 扭住管党治党责任制“牛鼻子” 中国经济网 【学习贯彻党的二十届五中全会精神】宾居镇：深学细悟全会精神 凝聚实干奋进力量 腾讯新闻 【学习贯彻党的二十届五中全会精神】党的二十届五中全会精神应知应会 搜狐网",
+          "summary": "学习贯彻党的二十届五中全会精神丨踔厉奋发勇争先 不断开创中国式现代化新局面 中国之声 【学习贯彻党的二十届五中全会精神】同心同行强根基 从严从实担使命 央视网 扭住管党治党责任制“牛鼻子” 中国经济网 学习贯彻党的二十届五中全会精神中央宣讲团在山东、陕西、青海宣讲（学习贯彻党的二十届五中全会精神） 人民日报 【学习贯彻党的二十届五中全会精神】党的二十届五中全会精神应知应会 搜狐网",
           "summary_zh": ""
         },
         {
@@ -165,7 +165,7 @@
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VSExpUGlkaVdjdE05emt0Y2NGWVlVMFB1Y28xaWpLZFk3dl9mWXdXTTREQWxTRkhGZ2ZGLXNUQ3VKd2hCWDlLQklOeTJBcDF5eXNDU0pVRTJqZFhvVm9kYkxzSVlDZ3FCSU44SXAyQQ?oc=5",
           "source": "泉州网",
           "published": "2026-11-08T21:27:00+08:00",
-          "summary": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布 泉州网 乌镇峰会观察：开放无界，数智之光当照耀每一个人 光明网 蔡崇信：中国AI公司押注开源，不只是为了情怀 | 开源正在从道德叙事变成商业策略 ThePaper.cn 地球online更新了 中国日报网 专访中国经济体制改革研究会副会长樊纲：中小企业AI转型要算成本账，需正视生产性服务业的专业赋能 凤凰网",
+          "summary": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布 泉州网 乌镇峰会观察：开放无界，数智之光当照耀每一个人 光明网 蔡崇信：中国AI公司押注开源，不只是为了情怀 | 开源正在从道德叙事变成商业策略 ThePaper.cn 地球online更新了 中国日报网 服务乌镇峰会 洞察科创前沿 人民网",
           "summary_zh": ""
         },
         {
@@ -261,21 +261,21 @@
           "summary_zh": ""
         },
         {
-          "title": "Asia Power Snapshot: China, the United States, and the race for AI dominance",
-          "title_zh": "亚洲实力快照：中国、美国以及人工智能主导地位的争夺",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazB4N0xfcVFvcjJzZFpfR3dWRzZXUjlhV3NZdnpwbjZWZjZDYWNydDl1djZubWVQUnRaZnpkMUEtQXlXOFZ1R3RNaDZ3Q1FwTWt6TXU4OTFmY3Zpd2tGc3ZxRHVfQUU3SHppN0FjU2dibVBlUjlxVDRNWXhGcllzUzIwdWNVeHBhYWZYaHdDQWRVX2FrUHNLdVNpbXBXV2p0amRWcktCdHZDMlVzbVVabmdWQ3ZvSFk?oc=5",
-          "source": "Lowy Institute",
-          "published": "2026-11-08T19:31:09+08:00",
-          "summary": "Asia Power Snapshot: China, the United States, and the race for AI dominance Lowy Institute",
-          "summary_zh": ""
-        },
-        {
           "title": "AI isn’t going away. Parents need to teach children how to use it | Opinion",
           "title_zh": "人工智能不会消失。家长需要教孩子如何使用|观点",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmxyMFZxUnlOaktTc0VMZjI0QWJTc3hkdnZGN1VlM1dGYmRfSzJmNTJmVnVvQnlEYlp3eUpSNEZ5WWM5bVJldmJEWUxVY2Y3WDVsbU4ybzZnMXZtb2JWdThaTlVxbVRmMVJVallBbV80eVQ3V1RLMmxKdDFkaVd2N3RxODNoQXRDY0hNN2wyekpxQmZRT1V2cHBRQlB0enNrSEUybzJBRzc2VXV5SHd4cHhB?oc=5",
           "source": "Sun Sentinel",
           "published": "2026-11-08T20:00:52+08:00",
           "summary": "AI isn’t going away. Parents need to teach children how to use it | Opinion Sun Sentinel",
+          "summary_zh": ""
+        },
+        {
+          "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+          "title_zh": "美国人工智能安全中心工作人员向白宫汇报，引发独立性担忧",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2FsSHh0LUNMNEVQMHEtS0pNSkF4ZGhFS2NkSlpSdGxOTlBkR042Rm5wVlZITm0xakJoRHZWRDRYa1N4VmNCZmRZNXhUc2V2UjdzdXI1SmN6dTByaU5nd2dzZHhfaDFDNzRPTHEzV0Zlcmw5SHRLNHgzbVRQRnJLTmp1V2xuX29Cejlqd0hlWnljMlE5NXR3c25veUUyUnViSjhLekRPMG5fMGJNYUJqSUdQYl9PSmFRMmpXOS1ST0xKY2RpeVJWR3p1Qy1iQ0FE?oc=5",
+          "source": "WRAL",
+          "published": "2026-11-08T16:12:35+08:00",
+          "summary": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns WRAL",
           "summary_zh": ""
         }
       ]
