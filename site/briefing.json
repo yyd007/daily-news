@@ -1,7 +1,7 @@
 {
   "date": "2026-11-10",
   "morning": {
-    "generated_at": "2026-11-10T05:24:07.483739+08:00",
+    "generated_at": "2026-11-10T05:36:48.457435+08:00",
     "sections": {
       "worldwide": [
         {
@@ -10,16 +10,16 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmk4dlVnT1E1bFJGb01tRkZvLVFXSkt0bTRsY2t4RzMzRDVGb2RzLUJTblJPQ1EwZFhlSUZXOTR3VlF2UTU0V29tVjd5dWwtOFZpUGNxSE1uRW5JNF94a0RmRV9SRWgyZ3dCaDNJZmR2M05ZRHMzam9EVkF0OUJ3bnloSGdkNVZZU3QyODdKei14dU9nalBDSmwxOFpCNUJHUDFTbnFLTVp2UTJfaGlPQ1htNGxvbjRB?oc=5",
           "source": "Reuters",
           "published": "2026-11-10T01:24:02+08:00",
-          "summary": "UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault Reuters Russell Brand sentenced after rape, sexual assault convictions in UK Fox News Russell Brand Sentenced to 10 and a Half Years in Prison for Rape The New York Times Russell Brand...",
+          "summary": "UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault Reuters Russell Brand Sentenced to 10 and a Half Years in Prison for Rape The New York Times ‘This Is an Outrage!’ Megyn Kelly Melts Down Over Russell Brand’s 10-Year Prison Sentence for Rape...",
           "summary_zh": ""
         },
         {
-          "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-          "title_zh": "巴黎称伊朗是法国超市冰柜网络攻击的幕后黑手",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWlQTHZobVhFeEl5THdwQ2FRUV9fTGl3LVlqWjl1emJ1TkdIbm5hMmN6NVpOZmN0Nld5OUd5dGNDSThvYkx4V2NhMC1mTTdwb3FNR2piSGlNMkp2VzBqaUFZNU1FN3pkYlUyRjk3SGwzekRYYmgxRDZpZV9OR2lsNG9zb3Z1WG5oV0xPN1FfLVRRQl9qX3BNNXVrUDZIemtfOEFnaXZpUkY5NDlGMUR0S3JvUEtRQi1UUkVUU1dFMnFUVnVKZFE?oc=5",
-          "source": "The Guardian",
-          "published": "2026-11-10T00:53:00+08:00",
-          "summary": "Iran was behind cyber-attack on French supermarket freezers, Paris says The Guardian France blames Iran for ‘unprecedented’ supermarket fridge cyberattack CNN The New Cold War: Hackers Are Targeting Internet-Connected Freezers U.S. News & World Report Perhaps Connecting...",
+          "title": "France accuses Iran of supermarket fridge hacking",
+          "title_zh": "法国指责伊朗超市冰箱遭黑客攻击",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
+          "source": "BBC",
+          "published": "2026-11-10T00:55:07+08:00",
+          "summary": "France accuses Iran of supermarket fridge hacking BBC France blames Iran for last month's cyberattack on supermarket fridges PBS Perhaps Connecting Fridges to the Internet Was a Bad Idea The Atlantic Cyber-attack on French supermarket freezers has geopolitical context The...",
           "summary_zh": ""
         },
         {
@@ -28,7 +28,7 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnAzVTNhOC15X1poVDJLYlpWdnNSOU9oemg4ajhpeHJjbDhrdkFoYUZTWVYzbFQ4N3J5YmxESUxDeTF6TkNiUVZqSVNCUWd1Y1F4Vl9rV0NwQnNNWEZDT3NxODBuRG1CNUdGdU1RcDNIcjhDSDA5U1dzbHp3YnUtRHRyT2N6ZHhjRVVOdWc3OWNvbWs1YkJkcVVhNzV0WlJBV01LdGR4S28zYzU2SHhz?oc=5",
           "source": "WSJ",
           "published": "2026-11-10T04:37:00+08:00",
-          "summary": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit WSJ Trump thinks he will meet Xi and Putin at China APEC summit Reuters Can Xi Jinping and Vladimir Putin give Donald Trump the Iran exit he needs? South China Morning Post Trump to meet...",
+          "summary": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit WSJ Trump thinks he will meet Xi and Putin at China APEC summit Reuters Can Xi Jinping and Vladimir Putin give Donald Trump the Iran exit he needs? South China Morning Post Ukraine war...",
           "summary_zh": ""
         },
         {
@@ -37,16 +37,7 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWVQaDJQN0FIZ3p5TUwzM0lmTS15bVUtaTBqOGlDenBqMlpqbFhuYXlpVENTc1QxbHZxUVlOZktFcW91Y3lXc3VyRFFLSl8wV21oa2xyN1dmV19DcEl4N29Id1E3YVlTRTJkTkVmTEI0TkcxSHlZRGZRQ0dfZmdWVGhrTkUyWjczZ0VOdTcxbnAwWTNLM0VBb3NEbWRveXJxTjR0azdFOTAzS1dVRWh3QUxqMWNFR3NFMHJmZEFORDE?oc=5",
           "source": "NPR",
           "published": "2026-11-09T23:09:53+08:00",
-          "summary": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution NPR Delhi air quality deteriorates as revellers mark Diwali with illegal fireworks Reuters WATCH: Smog blankets New Delhi after Diwali celebrations PBS India news: Delhi air quality level...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland",
-          "title_zh": "教皇利奥对前任祖国的紧缩措施进行了含蓄的谴责",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-10T03:27:20+08:00",
-          "summary": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland The Washington Post Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina CNN A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina WSJ Pope...",
+          "summary": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution NPR Delhi air quality deteriorates as revellers mark Diwali with illegal fireworks Reuters WATCH: Smog blankets New Delhi after Diwali celebrations PBS Smog blankets New Delhi as Diwali...",
           "summary_zh": ""
         },
         {
@@ -68,12 +59,21 @@
           "summary_zh": ""
         },
         {
+          "title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland",
+          "title_zh": "教皇利奥对前任祖国的紧缩措施进行了含蓄的谴责",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
+          "source": "The Washington Post",
+          "published": "2026-11-10T03:27:20+08:00",
+          "summary": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland The Washington Post Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina CNN Pope draws 2.5 million to Mass in Argentina and tells people with...",
+          "summary_zh": ""
+        },
+        {
           "title": "Who’s who for Europe at the Ukraine talks in Abu Dhabi",
           "title_zh": "阿布扎比乌克兰会谈中的欧洲名人录",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXlJVF9POTZUWE1MQ1ROaWloUXl3Q3U5TUxnek1iNlNvVzVCelNOMjV0czduMmFtUGlvR3dnaDBuSlI1aEctcW81V1RQLVJtMW9YdnlTTVN3Njk5RkVCVkMtTlFBVjVqTWtnalJtOVlMeHFLYzJtOU1lUVBHS2Iwa2c4bFI2Mk5zVU93?oc=5",
           "source": "POLITICO.eu",
           "published": "2026-11-10T01:41:00+08:00",
-          "summary": "Who’s who for Europe at the Ukraine talks in Abu Dhabi POLITICO.eu Ukraine peace talks to restart after 9 months. What makes them different this time? CNN US asks Russia to agree to NATO-like backing for Ukraine Politico Russia and Ukraine showing flexibility on territory, US...",
+          "summary": "Who’s who for Europe at the Ukraine talks in Abu Dhabi POLITICO.eu White House cautiously upbeat about Russia-Ukraine peace talks this week Axios Russia and Ukraine showing flexibility on territory, US official says Reuters Ukraine war briefing: post war ‘security guarantees’...",
           "summary_zh": ""
         },
         {
@@ -91,7 +91,7 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVVRQTWlzblc1eGYyQ3VNNDkzbFhoOXZNSEplS3hESG1mdlVydTVMR3ZLLTJPS2xGSzl5SU1MMlJHQTJ0V05iZkU2dUd6VkVEYkk1VkEtRkUwNG1oTjZ3XzhYeHFDMldxZ1R6Um9jQzBjbmEzZ1hnc2d4Mmx4S3pJWjZUSXVXclNGNEV4UF91Yw?oc=5",
           "source": "Politico",
           "published": "2026-11-09T20:00:00+08:00",
-          "summary": "New climate reality outruns the old COP agenda Politico With Hopes Low and Temperatures High, Climate Summit Opens in Turkey The New York Times COP31 summit leaders urge crisis-wracked world to move faster on climate Reuters High fossil fuel prices spread inflation ‘like a...",
+          "summary": "New climate reality outruns the old COP agenda Politico With Hopes Low and Temperatures High, Climate Summit Opens in Turkey The New York Times High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31 The Guardian COP31 summit leaders urge...",
           "summary_zh": ""
         }
       ],
@@ -120,7 +120,7 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa0tKMUxic1RQVG1PdXJ4d0lnREVULUd2R2N5R2t5YzdvSDExLU1ENzNDQURPdS1VREZId0h1T3JxQ2wxN25mV29UcUZuYjU1UGpsM1hDM1J4bkV0Y2Fia2pOUUtWb01xMktCbFBPYkZRQ2c3R1F1NF82WUlfb1hlNUk4OEpIZGJNelB0TnJmUHNrc2pwenprX0ROM2hmV0hMcHJwdUs3cmEtaEdDd19RaUZxVFpTb1k3dWQtanYtX3E4ZXFnRUVVNmJZVFlCVEnSAdIBQVVfeXFMTVRLQ3g0eHVqNi1ZNU9CUGpadlNZQVBJQzdFdjNKYldUWmpxMU8taXEybHBKclY2d3BPS090bTlMWTFCTy1jeUtka1dGZFJFY1cwM1VEMVU4OFkzM1RlQmRLN3lScFhxbW5Qb3BELTNMbWhvM2VnZ191UnBNV0JiNFd1UXRTQ013SC05ektYeVg4MUNyY3NDMTBITFNBVURnSC1DWWdUSi1RR2FyOUx2UzVjNTFiNkRJYzh2V014OEZhWml2RE9SeDVxTDZCamF0VjJB?oc=5",
           "source": "美国之音",
           "published": "2026-11-10T02:39:45+08:00",
-          "summary": "美国特使:阿布扎比会谈目标是促使俄罗斯和乌克兰讨论战后安全 美国之音 泽连斯基：乌与欧盟就启动紧急援助机制达成一致 凤凰网 俄外长：安全问题是阿布扎比谈判的主要议题 新浪财经 欧洲想上桌？佩斯科夫：再次强调，这是俄美乌三方谈判 观察者网 全球前瞻｜俄美乌三方将在阿布扎比会谈，鲁比奥赴法出席G7外长会 ThePaper.cn",
+          "summary": "美国特使:阿布扎比会谈目标是促使俄罗斯和乌克兰讨论战后安全 美国之音 俄外长：安全问题是阿布扎比谈判的主要议题 新浪财经 欧洲想上桌？佩斯科夫：再次强调，这是俄美乌三方谈判 观察者网 特朗普推涵盖欧洲的俄乌“重大协议”，泽连斯基为何如坐针毡 凤凰网 全球前瞻｜俄美乌三方将在阿布扎比会谈，鲁比奥赴法出席G7外长会 ThePaper.cn",
           "summary_zh": ""
         },
         {
@@ -129,7 +129,16 @@
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WUTJIVUZ3Y2V4WVBXOWxxYlNVRUs1RTh5TGlBUTVSVmF6dGE3TXVwMmNiN013azdwU0piN2FQb3ZjTXk2dTZzWU1TZzNuVWRqMnlrZHJRTWxEdl9tTkN0dmhOWVAtVkYyRFRFcy1qN1NlWUhGdjZBWi1yWQ?oc=5",
           "source": "央视网",
           "published": "2026-11-09T13:50:00+08:00",
-          "summary": "警铃响起，他们向危险冲锋（建设更高水平平安中国） 央视网 全国消防日：筑牢安全“防火墙” 新华网 把忠诚刻在每一次出发里 新浪财经 第35个全国消防日 | 全民消防、生命至上——提高自防自救能力 凤凰网 警铃一响，就是冲锋！ ThePaper.cn",
+          "summary": "警铃响起，他们向危险冲锋（建设更高水平平安中国） 央视网 全国消防日：筑牢安全“防火墙” 新华网 天天学习｜“火焰蓝”永远竭诚为民 央视网 把忠诚刻在每一次出发里 新浪财经 第35个全国消防日 | 全民消防、生命至上——提高自防自救能力 凤凰网",
+          "summary_zh": ""
+        },
+        {
+          "title": "商务部新闻发言人就调整不可靠实体清单措施答记者问",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jbnpIQ0ZoZG9oTWNLUUxmVmduUUNGSGhJYTY5V1lPcjVIeTVyNDBfeC1ZZG9YcmVSY1VRV3ZSNlpoOVJFRERfaGFPaVd0TF8talk1VHRwWDJMVTJfWTRQM3kzRmlFT3NHVXU4SDF0aw?oc=5",
+          "source": "泉州网",
+          "published": "2026-11-09T19:13:00+08:00",
+          "summary": "商务部新闻发言人就调整不可靠实体清单措施答记者问 泉州网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
@@ -142,21 +151,21 @@
           "summary_zh": ""
         },
         {
-          "title": "央视纪录片《孙中山》开播 北京料高规格纪念孙中山诞辰160周年",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10a1ZBNVVNVWNnYUtySE8zSnZ5TWJKT1lyR2c3ZXM4NG91ZUFXemRJS0xxWFhJaUQxRXAzclk0ODRmVnU4cGEzQXdGQVZkaEozV1dvS3NablZPbXM4ek9tbXpQOVY2dUhlb3c?oc=5",
-          "source": "联合早报",
-          "published": "2026-11-09T22:41:27+08:00",
-          "summary": "央视纪录片《孙中山》开播 北京料高规格纪念孙中山诞辰160周年 联合早报 驻槟城总领事周游斌出席总领馆举办的纪念孙中山先生诞辰160周年座谈会 中华人民共和国外交部 “孙中山《实业计划》与上海孙中山故居馆藏图书文献”专题数据库正式发布 ThePaper.cn 纪念孙中山先生诞辰160周年图文展在伦敦举行 搜狐网 这个故事会，读懂一位统一战线先行者的同心之道 QQ News",
-          "summary_zh": ""
-        },
-        {
           "title": "C909 灭火机首次亮相国家级森林火灾实战演习",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fS1pHbGhqV3ZpSFJPVVltd1NfZDY3ZG9ER19nRXJvQnNwZVVITm00RTJMVzFmczNkZ0pJZEhfaDFnRDVoLWhpd1psU1c?oc=5",
           "source": "IT之家",
           "published": "2026-11-09T21:25:20+08:00",
           "summary": "C909 灭火机首次亮相国家级森林火灾实战演习 IT之家 “应急使命·2026”重特大森林火灾扑救演习举行 央视网 三明市2026年森林防灭火应急救援综合演练在永安举行 ThePaper.cn 中航工业多型装备亮相 “应急使命·2026”重庆重特大森林火灾扑救演习 搜狐网 “守护雨林—2026”森林火灾扑救实战综合演练在琼中举办 人民网海南频道",
+          "summary_zh": ""
+        },
+        {
+          "title": "央视纪录片《孙中山》开播 北京料高规格纪念孙中山诞辰160周年",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10a1ZBNVVNVWNnYUtySE8zSnZ5TWJKT1lyR2c3ZXM4NG91ZUFXemRJS0xxWFhJaUQxRXAzclk0ODRmVnU4cGEzQXdGQVZkaEozV1dvS3NablZPbXM4ek9tbXpQOVY2dUhlb3c?oc=5",
+          "source": "联合早报",
+          "published": "2026-11-09T22:41:27+08:00",
+          "summary": "央视纪录片《孙中山》开播 北京料高规格纪念孙中山诞辰160周年 联合早报 驻槟城总领事周游斌出席总领馆举办的纪念孙中山先生诞辰160周年座谈会 中华人民共和国外交部 “孙中山《实业计划》与上海孙中山故居馆藏图书文献”专题数据库正式发布 ThePaper.cn 纪念孙中山先生诞辰160周年图文展在伦敦举行 搜狐网 这个故事会，读懂一位统一战线先行者的同心之道 QQ News",
           "summary_zh": ""
         },
         {
@@ -176,27 +185,9 @@
           "published": "2026-11-09T20:31:00+08:00",
           "summary": "全军学习贯彻党的二十届五中全会精神宣讲首场报告会举行 张升民会见宣讲团成员 人民网 【学习贯彻党的二十届五中全会精神】同心同行强根基 从严从实担使命 中国日报网 【好评中国·敦煌风】把加强党性修养作为终身课题 凤凰网 【工作动态】深学细悟全会精神 笃行实干担当使命——泽库县人民法院学习领会党的二十届五中全会精神 搜狐网 学习贯彻党的二十届五中全会精神中央宣讲团在山东、陕西、青海宣讲（学习贯彻党的二十届五中全会精神） 人民日报",
           "summary_zh": ""
-        },
-        {
-          "title": "各地铁路公安集中开展消防安全隐患排查，拧紧“安全阀”",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vd1lJZ3BCb0ltcEdJbDRFNjVWem1JLVlaM0o3WUJyN0cyM0pvUldjZHVJeFdhMzNVT09adlpnNk16ZU9ta3FiVF9vanpyQ2RfdUR3NmpTYUpQNlNxb2pVNVBwMnhzcXZH?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-09T20:01:23+08:00",
-          "summary": "各地铁路公安集中开展消防安全隐患排查，拧紧“安全阀” 中国新闻网 “科技赋能+全民参与”筑牢消防安全屏障经开区启动119消防宣传月系列活动_工作动态 北京经济技术开发区 扬州蜀秀社区开展“119”消防演练 筑牢小区安全防线 新华网江苏频道 全民消防 生命至上 筑牢列车安全防线 凤凰网 以文艺之光点亮平安底色丨黑龙江消防救援机动总队伊春支队联合多部门举办119消防宣传月主题文艺汇演 China Daily",
-          "summary_zh": ""
         }
       ],
       "ai": [
-        {
-          "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
-          "title_zh": "Nvidia 对黄仁勋与中国间谍嫌疑人的关系展开调查",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-10T02:37:00+08:00",
-          "summary": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy The New York Times",
-          "summary_zh": ""
-        },
         {
           "title": "Before the Algorithm Decides: Connecticut’s 2027 Rules for Artificial Intelligence in Employment",
           "title_zh": "在算法做出决定之前：康涅狄格州 2027 年人工智能就业规则",
@@ -204,6 +195,24 @@
           "source": "Foley & Lardner LLP",
           "published": "2026-11-10T04:37:53+08:00",
           "summary": "Before the Algorithm Decides: Connecticut’s 2027 Rules for Artificial Intelligence in Employment Foley & Lardner LLP",
+          "summary_zh": ""
+        },
+        {
+          "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act",
+          "title_zh": "宾夕法尼亚州颁布人工智能欺骗性广告法",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkdkZV9VSXBwSFlaYTVqWDczM0pxc3lvQW1ySHQ3bzExZDBDWjk0X1JOOWFPRm8xMEYyRmNFYnNMZ2NER18xV1A3WUpkTUhFTW5uaVhMSTlXSlF5U0FrNXpoRTQ2bVpSTjdrM3IyeFNMR2ZvMWtqSUgzeFJDeGc1d2xnck5aZG5NZmYzWjFhSlRzazFabWM5WlpfX3dpZTZkOGNrcGFSaDBQRXY0dWFkekFFU0o?oc=5",
+          "source": "Inside Global Tech",
+          "published": "2026-11-10T05:25:07+08:00",
+          "summary": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act Inside Global Tech",
+          "summary_zh": ""
+        },
+        {
+          "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
+          "title_zh": "Nvidia 对黄仁勋与中国间谍嫌疑人的关系展开调查",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
+          "source": "The New York Times",
+          "published": "2026-11-09T08:35:16+08:00",
+          "summary": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy The New York Times",
           "summary_zh": ""
         },
         {
@@ -243,6 +252,15 @@
           "summary_zh": ""
         },
         {
+          "title": "The Impact of Artificial Intelligence on Intellectual Property",
+          "title_zh": "人工智能对知识产权的影响",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHZCZDZXRnRUOExOT2xueW56cG5Yc2hnT3I4WFlGcjFDWjlxVGhEcDVMaXhGMUdwN1M2VHBFbHZldllrSk5ab0Jyb3UzaEFzM09FOENCUWRJU2RJaFA2T2pHTTVpZU90azgxSXV6V0w2emxRZEZQWkJyTVVVOVFhenp6UFZSemEyaFo1dnNXV1NxZ2hDYkJlLWd0a0pWZWpqaGRMcmRHbV81a1BzN09PWg?oc=5",
+          "source": "Brooklyn Sports & Entertainment Law Blog",
+          "published": "2026-11-10T04:48:38+08:00",
+          "summary": "The Impact of Artificial Intelligence on Intellectual Property Brooklyn Sports & Entertainment Law Blog",
+          "summary_zh": ""
+        },
+        {
           "title": "Undergraduate research shapes this future physician",
           "title_zh": "本科生研究塑造了未来的医生",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnBCQzhXVFZRY0ZaekZjQURJaVp0US1nV2pxejFmODBwMGo1NlV1QVVHNEZXN2toUTBJeWtZM1BiS181RndqbzRycFNjWllsMTBpeGNBN3UySHB5SDVNYkNSei1oRm5TaUNveXZZbWdib0h2dzF3b0owaHpYQUM3RHRDdjU0VFBHRVhyTTVHdmpfZDA?oc=5",
@@ -258,24 +276,6 @@
           "source": "Investor's Business Daily",
           "published": "2026-11-10T02:14:00+08:00",
           "summary": "AI News: Artificial Intelligence Trends And Top AI Stocks To Watch Investor's Business Daily",
-          "summary_zh": ""
-        },
-        {
-          "title": "The use of artificial intelligence in regulatory activities – key areas and considerations",
-          "title_zh": "人工智能在监管活动中的应用——关键领域和考虑因素",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2VEX0g3LXREM0JndWd1YnJ4dEk4WTNNMWRwUEtHd3pldnBuLUFTazg3c0hTN1gzOWVJbkNrLUVUYURuX2l0Q1N6Q2VlX3hraFVTX0g4R1BOYjZKOVllRk92aG5XUHU0MkVndUpvZGhXUFJKU3BLc3NnaTBTRjhacEpkZUYxak5ic1NrTE5OZnZZWXVlZTJCcHg0RWkyU1Q1dE9uRW42cmNmbmVzaWtOSVR4SFhsdWR6WmFJczJHSFctUQ?oc=5",
-          "source": "IFPMA",
-          "published": "2026-11-09T20:54:13+08:00",
-          "summary": "The use of artificial intelligence in regulatory activities – key areas and considerations IFPMA",
-          "summary_zh": ""
-        },
-        {
-          "title": "Opinion | Does Claude have a soul? Ask God, not Anthropic.",
-          "title_zh": "意见 |克劳德有灵魂吗？问上帝，而不是问人。",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0hhX1U4aHV4OTRSb3JZRDZPQ1NEYWtzVDRVYU5jX2tUMVNpU2NZakVrN0hjRTV1Qy1vb2k1cElOOUxXZi1GeEdXX1B2WlhRMEZXUHMwWXlfNWs1TlpaR1FhLWliZEZpN3JIaHd4bWFmcmRTdGFFRTQyZWJsTjQ2TVE3bGNyMTY4dnFHVlk5Y0pIOGFLUExRVnFZTE52bkJncHJ1YUFTZG9RQk1RXzJBZDJn?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-10T04:02:16+08:00",
-          "summary": "Opinion | Does Claude have a soul? Ask God, not Anthropic. The Washington Post",
           "summary_zh": ""
         }
       ]
