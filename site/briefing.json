@@ -1,88 +1,61 @@
 {
   "date": "2026-11-10",
   "morning": {
-    "generated_at": "2026-11-10T05:36:48.457435+08:00",
+    "generated_at": "2026-11-10T16:15:10.390393+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault",
-          "title_zh": "英国拉塞尔·布兰德因强奸、性侵犯被判入狱10年半",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmk4dlVnT1E1bFJGb01tRkZvLVFXSkt0bTRsY2t4RzMzRDVGb2RzLUJTblJPQ1EwZFhlSUZXOTR3VlF2UTU0V29tVjd5dWwtOFZpUGNxSE1uRW5JNF94a0RmRV9SRWgyZ3dCaDNJZmR2M05ZRHMzam9EVkF0OUJ3bnloSGdkNVZZU3QyODdKei14dU9nalBDSmwxOFpCNUJHUDFTbnFLTVp2UTJfaGlPQ1htNGxvbjRB?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-10T01:24:02+08:00",
-          "summary": "UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault Reuters Russell Brand Sentenced to 10 and a Half Years in Prison for Rape The New York Times ‘This Is an Outrage!’ Megyn Kelly Melts Down Over Russell Brand’s 10-Year Prison Sentence for Rape...",
-          "summary_zh": ""
-        },
-        {
-          "title": "France accuses Iran of supermarket fridge hacking",
-          "title_zh": "法国指责伊朗超市冰箱遭黑客攻击",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
-          "source": "BBC",
-          "published": "2026-11-10T00:55:07+08:00",
-          "summary": "France accuses Iran of supermarket fridge hacking BBC France blames Iran for last month's cyberattack on supermarket fridges PBS Perhaps Connecting Fridges to the Internet Was a Bad Idea The Atlantic Cyber-attack on French supermarket freezers has geopolitical context The...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit",
-          "title_zh": "独家|美国对中国提出的特朗普-习近平-普京峰会的严格要求犹豫不决",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnAzVTNhOC15X1poVDJLYlpWdnNSOU9oemg4ajhpeHJjbDhrdkFoYUZTWVYzbFQ4N3J5YmxESUxDeTF6TkNiUVZqSVNCUWd1Y1F4Vl9rV0NwQnNNWEZDT3NxODBuRG1CNUdGdU1RcDNIcjhDSDA5U1dzbHp3YnUtRHRyT2N6ZHhjRVVOdWc3OWNvbWs1YkJkcVVhNzV0WlJBV01LdGR4S28zYzU2SHhz?oc=5",
-          "source": "WSJ",
-          "published": "2026-11-10T04:37:00+08:00",
-          "summary": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit WSJ Trump thinks he will meet Xi and Putin at China APEC summit Reuters Can Xi Jinping and Vladimir Putin give Donald Trump the Iran exit he needs? South China Morning Post Ukraine war...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
-          "title_zh": "排灯节鞭炮加剧季节性污染后，浓烟笼罩新德里",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWVQaDJQN0FIZ3p5TUwzM0lmTS15bVUtaTBqOGlDenBqMlpqbFhuYXlpVENTc1QxbHZxUVlOZktFcW91Y3lXc3VyRFFLSl8wV21oa2xyN1dmV19DcEl4N29Id1E3YVlTRTJkTkVmTEI0TkcxSHlZRGZRQ0dfZmdWVGhrTkUyWjczZ0VOdTcxbnAwWTNLM0VBb3NEbWRveXJxTjR0azdFOTAzS1dVRWh3QUxqMWNFR3NFMHJmZEFORDE?oc=5",
-          "source": "NPR",
-          "published": "2026-11-09T23:09:53+08:00",
-          "summary": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution NPR Delhi air quality deteriorates as revellers mark Diwali with illegal fireworks Reuters WATCH: Smog blankets New Delhi after Diwali celebrations PBS Smog blankets New Delhi as Diwali...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Ethnically split Cyprus’ rival leaders agree to 2 more crossings across island’s dividing line",
-          "title_zh": "种族分裂的塞浦路斯敌对领导人同意再修建两条跨越岛屿分界线的通道",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGlOUF9QSmdLRTJyZ2xwOURVSWdhWW80cDcxZzR4NmVvRTlSWTBGZ0kxTlJPOTFSalY2SE5EZUNEMFhlM2MtUkExbFNhZWFpZzBRdmlCZjlaVno5LXdydjY2TkV1SldSbHEwSjZoenlSeThFVXZfWGtfSlRaanZQWXRnd2hBbTVIZ3BReUI4X0xHQmpKdzJyS0ZGM3FTVk1lSDRpYmdFaC02am5B?oc=5",
-          "source": "AP News",
-          "published": "2026-11-09T23:34:00+08:00",
-          "summary": "Ethnically split Cyprus’ rival leaders agree to 2 more crossings across island’s dividing line AP News Cyprus leaders agree to open new border crossings and future talks Reuters Cyprus rivals agree new crossings across island’s dividing line Al Jazeera Turkish, Greek Cypriot...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say",
-          "title_zh": "波兰枪击事件造成六人死亡的极右观点枪手在医院死亡",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlNIYWhOQzdvWjlnaU53QlVSZEhEMnYzZU5Zd2Z0TlFJVVQyeW5RSnRXN3ZhUDdFTE01Ym1jWEdEZ2szYVBmdk5YNWZaQl9lLVBEUkw5SWtLc1ZQMWRPekJqeFdJbGVJX2IybnljdThJQVFqYWluNll4WVBEOUtqVlYzQWNTVi1CYUdobE9WcUdBc1dGMFlqLU1ON0lzbzA?oc=5",
-          "source": "NBC News",
-          "published": "2026-11-09T21:00:00+08:00",
-          "summary": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say NBC News See more headlines & perspectives on Google News",
-          "summary_zh": ""
-        },
-        {
-          "title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland",
-          "title_zh": "教皇利奥对前任祖国的紧缩措施进行了含蓄的谴责",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObGZQb2t3dmtrRk9rN2l1TWhaV1E0NWdsUFJNbzRCb3RPSWsxRnN5T0V5X2FCM0ZpWEtvd1NhcTVmTVYtWmZvQlNBbFpmMWV1VHR0STRzcHBEeHRlVkRQOEJIc0h6QmZWSndTLVh0M0hWYmFiOF9jYkpQNWVuS194S0tOQUNNR2s5VS00dUsydFh3amF2MHg1MEpURFdLWHNoNE1XejlYZUtXNnNxYUE?oc=5",
+          "title": "Iran hacked hundreds of French supermarket refrigerators, France says",
+          "title_zh": "法国称伊朗入侵了数百台法国超市冰箱",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI?oc=5",
           "source": "The Washington Post",
-          "published": "2026-11-10T03:27:20+08:00",
-          "summary": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland The Washington Post Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina CNN Pope draws 2.5 million to Mass in Argentina and tells people with...",
+          "published": "2026-11-10T12:11:08+08:00",
+          "summary": "Iran hacked hundreds of French supermarket refrigerators, France says The Washington Post France blames Iran for ‘unprecedented’ supermarket fridge cyberattack CNN France vows tough response to freezer cyberattack blamed on Iran France 24 Perhaps Connecting Fridges to the...",
           "summary_zh": ""
         },
         {
-          "title": "Who’s who for Europe at the Ukraine talks in Abu Dhabi",
-          "title_zh": "阿布扎比乌克兰会谈中的欧洲名人录",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXlJVF9POTZUWE1MQ1ROaWloUXl3Q3U5TUxnek1iNlNvVzVCelNOMjV0czduMmFtUGlvR3dnaDBuSlI1aEctcW81V1RQLVJtMW9YdnlTTVN3Njk5RkVCVkMtTlFBVjVqTWtnalJtOVlMeHFLYzJtOU1lUVBHS2Iwa2c4bFI2Mk5zVU93?oc=5",
+          "title": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence",
+          "title_zh": "梅根·凯利和埃隆·马斯克谴责拉塞尔·布兰德的定罪和判刑",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWtWYWhpU2JIQWt6WGpPM3EzdFZRN0lXZld0WS1JLWlqdVdHVkdhUGpnYS05elBTOHdrM3hYeWJOQ1NGS0FsZi1CdXlrMzVETk1sRTNiOXdMN2ZrM0hMY05jQ2x0dHVMcTdwNGZ1TUFmUWpsRHlSZGhYejN2ZU9MQmFENDY?oc=5",
+          "source": "Chicago Tribune",
+          "published": "2026-11-10T02:15:28+08:00",
+          "summary": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence Chicago Tribune Russell Brand Sentenced to 10 and a Half Years in Prison for Rape The New York Times Russell Brand has been jailed. Now we have the power to identify more sex attackers like him The Guardian...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
+          "title_zh": "据报道，匈牙利警方拘留了前总理维克托·欧尔班的弟弟",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXBuUVIxZ2JQdE4wdEk5eklzOGkwU2x6Mjd2emM1anZQaXFFdjhGa1BIb3VZbGZyVHBGUjlNLVRack5xc2VzR0hOVldEV1hWRlRhYTBvNUFJc05pZ3FsU0RvSUk3R2V1MlNCZXJjWkFnWHl2VngtcHhoMy1iem1fNFBRaHo3T1gxZzhrdGMxWUZSaGhvX0pybFdJczU5V2VYRURsajZKVmzSAa4BQVVfeXFMTnJDVmNEQVE1anlvbHJBQURrbjY1MkdNNXA2bUJ0YkRZMW5ubF9IclN4ZWxLZGRJbEVWT3d2azhOOTRHUmdSSk96VlljdzVjX05CaDJRbXdjTHJRN1FzNUZZRGdNaEM4eHJjX0dadDBuYTY2VXVla1R0M3BjeWJIYTFBQURJVExESGo0NUJPY2ZqYnNmOFJOcWtnTkhFZVRsV3BaUUhKUjFzMEtjWjF3?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-11-10T06:18:07+08:00",
+          "summary": "Hungarian police reportedly detain brother of ex-PM Viktor Orban Al Jazeera Viktor Orbán slams police probe into younger brother over 'human trafficking' Politico Viktor Orbán's brother reportedly detained for people-smuggling charge Euronews.com Hungary Detains Viktor...",
+          "summary_zh": ""
+        },
+        {
+          "title": "US demands a seat for Europe at Ukraine peace talks",
+          "title_zh": "美国要求欧洲在乌克兰和平谈判中获得席位",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2l3RHlLam9ic184VDI1cDlhbUdQY2dZN2JXNGRJaEpUc3pWYnZEZWJDYm1rOVVfVWg2OWgxbTZIbnZDT1RDWXpzcXliaHlheWNnc2pPeFhDR05ocTNsZjlkYjlyM2ZURUcxTFk5NzktTVY3YUdfR0hneFNfUmp2US12YVVZQ2NZQ3pySHRnOWMteTlSRl9BZWRnaElVU0NueTFV?oc=5",
           "source": "POLITICO.eu",
-          "published": "2026-11-10T01:41:00+08:00",
-          "summary": "Who’s who for Europe at the Ukraine talks in Abu Dhabi POLITICO.eu White House cautiously upbeat about Russia-Ukraine peace talks this week Axios Russia and Ukraine showing flexibility on territory, US official says Reuters Ukraine war briefing: post war ‘security guarantees’...",
+          "published": "2026-11-10T11:37:00+08:00",
+          "summary": "US demands a seat for Europe at Ukraine peace talks POLITICO.eu Ukraine peace talks to restart after 9 months. What makes them different this time? CNN US-brokered talks are set to start in Abu Dhabi to discuss Ukraine-Russia peace deal Click2Houston US asks Russia to agree...",
           "summary_zh": ""
         },
         {
-          "title": "Alleged cartel leader wanted by the U.S. is captured in Mexico in operation aided by DEA intelligence",
-          "title_zh": "被美国通缉的贩毒集团嫌疑人在缉毒局情报协助下在墨西哥抓获",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVpqVFo5ZWVIYlJHVFF2SjV4QllKTXVaLTBqbzZDakwyTUEtWEJhdm1URnA2U0MwbktKbDJRUVRDU2xuaXh3N1BndWtjRlZ6UDM1TVF0QnpvOE5SUXo0ckFTVXJSNkVpbUtDYWl6STJXWTNQVUVjNnhjdHMwbjNSN1JCZnNGRVJGT3dwbzc5Vmp4TFlkYnVfd3NB?oc=5",
-          "source": "CBS News",
-          "published": "2026-11-09T23:34:45+08:00",
-          "summary": "Alleged cartel leader wanted by the U.S. is captured in Mexico in operation aided by DEA intelligence CBS News Mexico captures alleged cartel cell leader in operation aided by DEA intelligence Reuters CJNG operator 'R2' and 19 others arrested following shootout with Mexican...",
+          "title": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures",
+          "title_zh": "教宗敦促阿根廷保护弱势群体免受米莱紧缩措施的影响",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeVRYYVFlTmhzSWxTS2N2VjJUX0kwVzBDVTZhSlpqTzFmUUFIUDZhdV9kX0ZtLXVpX3ZtcUV5dGNyQ1lXWURvWTZGYmhkaVNES1Y2dzRDcE0zN1hwazI4bFo1MzhSNHRBTGZRR3RSLUVYX2g5Q3RaQ3ozenp6MGg3MnhxQ0xTdnp5QnFiNUlmU0FvWFEtQS1WTjZXZjJYTUllSnFPTG85dGxubmNCZ0xEd1lB?oc=5",
+          "source": "AP News",
+          "published": "2026-11-10T06:18:00+08:00",
+          "summary": "Pope urges Argentina to protect the vulnerable from Milei’s austerity measures AP News Pope Leo urges Argentinians to proclaim Christ with joy Vatican News Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland The Washington Post Pope Leo meets...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Gadi Eisenkot has a chance to form a new government in Israel",
+          "title_zh": "加迪·艾森科特有机会组建以色列新政府",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFJpZGdLMEo1RjJRWkZzemMwbTJyQTJtQzZZaVJhekNPMnZCMzZvYXJiV3pjeEJ4MHBXNGpfNzFOalBOdmhUcWdPQlE4NWdyTkJvRFFVMjVET0xrQUVUQy1ZQ0xTSm5vVFk2WUViX0Fka0hkbE9LSmFyOFNFTGY4QVlaYm9NODFJZkZpUGt6dXQ5cFBwYjJUak52VTc4QXVuRE40RWNhaEZnTi1GTDcwcHNwVlBtQThSV0lnbjFB?oc=5",
+          "source": "The Economist",
+          "published": "2026-11-09T04:28:06+08:00",
+          "summary": "Gadi Eisenkot has a chance to form a new government in Israel The Economist Who Is Gadi Eisenkot, Israel’s Opposition Leader? The New York Times Israel's president taps opposition candidate, not Netanyahu, to form a government NPR Eisenkot open to Netanyahu joining Israel’s...",
           "summary_zh": ""
         },
         {
@@ -91,110 +64,164 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVVRQTWlzblc1eGYyQ3VNNDkzbFhoOXZNSEplS3hESG1mdlVydTVMR3ZLLTJPS2xGSzl5SU1MMlJHQTJ0V05iZkU2dUd6VkVEYkk1VkEtRkUwNG1oTjZ3XzhYeHFDMldxZ1R6Um9jQzBjbmEzZ1hnc2d4Mmx4S3pJWjZUSXVXclNGNEV4UF91Yw?oc=5",
           "source": "Politico",
           "published": "2026-11-09T20:00:00+08:00",
-          "summary": "New climate reality outruns the old COP agenda Politico With Hopes Low and Temperatures High, Climate Summit Opens in Turkey The New York Times High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31 The Guardian COP31 summit leaders urge...",
+          "summary": "New climate reality outruns the old COP agenda Politico With Hopes Low and Temperatures High, Climate Summit Opens in Turkey The New York Times Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day The Guardian Murat Kurum and Chris Bowen:...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say",
+          "title_zh": "波兰枪击事件造成六人死亡的极右观点枪手在医院死亡",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlNIYWhOQzdvWjlnaU53QlVSZEhEMnYzZU5Zd2Z0TlFJVVQyeW5RSnRXN3ZhUDdFTE01Ym1jWEdEZ2szYVBmdk5YNWZaQl9lLVBEUkw5SWtLc1ZQMWRPekJqeFdJbGVJX2IybnljdThJQVFqYWluNll4WVBEOUtqVlYzQWNTVi1CYUdobE9WcUdBc1dGMFlqLU1ON0lzbzA?oc=5",
+          "source": "NBC News",
+          "published": "2026-11-09T21:00:00+08:00",
+          "summary": "Gunman with far-right views who killed 6 in Poland shooting rampage dies in hospital, police say NBC News Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know. The New York Times Gunman who killed at least 6 in Kraków mass shooting dies in...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit",
+          "title_zh": "独家|美国对中国提出的特朗普-习近平-普京峰会的严格要求犹豫不决",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnAzVTNhOC15X1poVDJLYlpWdnNSOU9oemg4ajhpeHJjbDhrdkFoYUZTWVYzbFQ4N3J5YmxESUxDeTF6TkNiUVZqSVNCUWd1Y1F4Vl9rV0NwQnNNWEZDT3NxODBuRG1CNUdGdU1RcDNIcjhDSDA5U1dzbHp3YnUtRHRyT2N6ZHhjRVVOdWc3OWNvbWs1YkJkcVVhNzV0WlJBV01LdGR4S28zYzU2SHhz?oc=5",
+          "source": "WSJ",
+          "published": "2026-11-10T04:37:00+08:00",
+          "summary": "Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit WSJ Trump thinks he will meet Xi and Putin at China APEC summit Reuters Can Xi Jinping and Vladimir Putin give Donald Trump the Iran exit he needs? South China Morning Post US, China Clash...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+          "title_zh": "排灯节鞭炮加剧季节性污染后，浓烟笼罩新德里",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWVQaDJQN0FIZ3p5TUwzM0lmTS15bVUtaTBqOGlDenBqMlpqbFhuYXlpVENTc1QxbHZxUVlOZktFcW91Y3lXc3VyRFFLSl8wV21oa2xyN1dmV19DcEl4N29Id1E3YVlTRTJkTkVmTEI0TkcxSHlZRGZRQ0dfZmdWVGhrTkUyWjczZ0VOdTcxbnAwWTNLM0VBb3NEbWRveXJxTjR0azdFOTAzS1dVRWh3QUxqMWNFR3NFMHJmZEFORDE?oc=5",
+          "source": "NPR",
+          "published": "2026-11-09T23:09:53+08:00",
+          "summary": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution NPR See more headlines & perspectives on Google News",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "4年“总长”生涯，3名至亲战死加沙，他能否终结内塔尼亚胡时代？",
+          "title": "深刻把握党和人民军队铿锵前进的制胜之道",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QYUtOWU9sT0xlUEdIX3Z4Z216Vi1IOFd1LUVTSkpGZS15Uk13RHhXWnVoYkM5YVZzTTFoZk9iMnI1TDBFd1gxbVc5NEQ?oc=5",
-          "source": "凤凰网",
-          "published": "2026-11-09T22:05:40+08:00",
-          "summary": "4年“总长”生涯，3名至亲战死加沙，他能否终结内塔尼亚胡时代？ 凤凰网 内塔尼亚胡，倒台了？ 凤凰网 埃森科特阵营选举组阁均占优 内塔尼亚胡遭激进政策反噬 中国青年网 以色列总统正式授权埃森科特组建新政府 中国日报网 原创 |以色列一夜变天，伊朗与12国通话，中东大机会来了！ 风闻",
-          "summary_zh": ""
-        },
-        {
-          "title": "杭州通报一起刑事案件，犯罪嫌疑人在围捕时畏罪自杀",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ga2M0Zm1yeFdqT1M2cFJWNkJsMlNvX1VPN1dnQ0FfZldiMGlsNW5JMy1kWng2MF9abWc3TW9YYkZZQ2h5NEVJNWVsLU0tZEJFT1dYYmVwT1ZpVGU0VU1WYndrSHE?oc=5",
-          "source": "新京报",
-          "published": "2026-11-09T21:44:00+08:00",
-          "summary": "杭州通报一起刑事案件，犯罪嫌疑人在围捕时畏罪自杀 新京报 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "美国特使:阿布扎比会谈目标是促使俄罗斯和乌克兰讨论战后安全",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa0tKMUxic1RQVG1PdXJ4d0lnREVULUd2R2N5R2t5YzdvSDExLU1ENzNDQURPdS1VREZId0h1T3JxQ2wxN25mV29UcUZuYjU1UGpsM1hDM1J4bkV0Y2Fia2pOUUtWb01xMktCbFBPYkZRQ2c3R1F1NF82WUlfb1hlNUk4OEpIZGJNelB0TnJmUHNrc2pwenprX0ROM2hmV0hMcHJwdUs3cmEtaEdDd19RaUZxVFpTb1k3dWQtanYtX3E4ZXFnRUVVNmJZVFlCVEnSAdIBQVVfeXFMTVRLQ3g0eHVqNi1ZNU9CUGpadlNZQVBJQzdFdjNKYldUWmpxMU8taXEybHBKclY2d3BPS090bTlMWTFCTy1jeUtka1dGZFJFY1cwM1VEMVU4OFkzM1RlQmRLN3lScFhxbW5Qb3BELTNMbWhvM2VnZ191UnBNV0JiNFd1UXRTQ013SC05ektYeVg4MUNyY3NDMTBITFNBVURnSC1DWWdUSi1RR2FyOUx2UzVjNTFiNkRJYzh2V014OEZhWml2RE9SeDVxTDZCamF0VjJB?oc=5",
-          "source": "美国之音",
-          "published": "2026-11-10T02:39:45+08:00",
-          "summary": "美国特使:阿布扎比会谈目标是促使俄罗斯和乌克兰讨论战后安全 美国之音 俄外长：安全问题是阿布扎比谈判的主要议题 新浪财经 欧洲想上桌？佩斯科夫：再次强调，这是俄美乌三方谈判 观察者网 特朗普推涵盖欧洲的俄乌“重大协议”，泽连斯基为何如坐针毡 凤凰网 全球前瞻｜俄美乌三方将在阿布扎比会谈，鲁比奥赴法出席G7外长会 ThePaper.cn",
-          "summary_zh": ""
-        },
-        {
-          "title": "警铃响起，他们向危险冲锋（建设更高水平平安中国）",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WUTJIVUZ3Y2V4WVBXOWxxYlNVRUs1RTh5TGlBUTVSVmF6dGE3TXVwMmNiN013azdwU0piN2FQb3ZjTXk2dTZzWU1TZzNuVWRqMnlrZHJRTWxEdl9tTkN0dmhOWVAtVkYyRFRFcy1qN1NlWUhGdjZBWi1yWQ?oc=5",
-          "source": "央视网",
-          "published": "2026-11-09T13:50:00+08:00",
-          "summary": "警铃响起，他们向危险冲锋（建设更高水平平安中国） 央视网 全国消防日：筑牢安全“防火墙” 新华网 天天学习｜“火焰蓝”永远竭诚为民 央视网 把忠诚刻在每一次出发里 新浪财经 第35个全国消防日 | 全民消防、生命至上——提高自防自救能力 凤凰网",
-          "summary_zh": ""
-        },
-        {
-          "title": "商务部新闻发言人就调整不可靠实体清单措施答记者问",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jbnpIQ0ZoZG9oTWNLUUxmVmduUUNGSGhJYTY5V1lPcjVIeTVyNDBfeC1ZZG9YcmVSY1VRV3ZSNlpoOVJFRERfaGFPaVd0TF8talk1VHRwWDJMVTJfWTRQM3kzRmlFT3NHVXU4SDF0aw?oc=5",
-          "source": "泉州网",
-          "published": "2026-11-09T19:13:00+08:00",
-          "summary": "商务部新闻发言人就调整不可靠实体清单措施答记者问 泉州网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "重庆中欧班列2026年开行量突破1000列",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qbVZ2VzBnd3JQYWN0bW9pUXJNSHF0V2ZELTdiYzN0WFdtTjVzYUUxRUxSMUJMQnFyT05fOGxXYmY0c2s5OWZKeUFUczN2VWxlWVlpa3V2NTdFeDA5ZkU0VQ?oc=5",
-          "source": "光明网",
-          "published": "2026-11-10T01:55:00+08:00",
-          "summary": "重庆中欧班列2026年开行量突破1000列 光明网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "C909 灭火机首次亮相国家级森林火灾实战演习",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fS1pHbGhqV3ZpSFJPVVltd1NfZDY3ZG9ER19nRXJvQnNwZVVITm00RTJMVzFmczNkZ0pJZEhfaDFnRDVoLWhpd1psU1c?oc=5",
-          "source": "IT之家",
-          "published": "2026-11-09T21:25:20+08:00",
-          "summary": "C909 灭火机首次亮相国家级森林火灾实战演习 IT之家 “应急使命·2026”重特大森林火灾扑救演习举行 央视网 三明市2026年森林防灭火应急救援综合演练在永安举行 ThePaper.cn 中航工业多型装备亮相 “应急使命·2026”重庆重特大森林火灾扑救演习 搜狐网 “守护雨林—2026”森林火灾扑救实战综合演练在琼中举办 人民网海南频道",
-          "summary_zh": ""
-        },
-        {
-          "title": "央视纪录片《孙中山》开播 北京料高规格纪念孙中山诞辰160周年",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10a1ZBNVVNVWNnYUtySE8zSnZ5TWJKT1lyR2c3ZXM4NG91ZUFXemRJS0xxWFhJaUQxRXAzclk0ODRmVnU4cGEzQXdGQVZkaEozV1dvS3NablZPbXM4ek9tbXpQOVY2dUhlb3c?oc=5",
-          "source": "联合早报",
-          "published": "2026-11-09T22:41:27+08:00",
-          "summary": "央视纪录片《孙中山》开播 北京料高规格纪念孙中山诞辰160周年 联合早报 驻槟城总领事周游斌出席总领馆举办的纪念孙中山先生诞辰160周年座谈会 中华人民共和国外交部 “孙中山《实业计划》与上海孙中山故居馆藏图书文献”专题数据库正式发布 ThePaper.cn 纪念孙中山先生诞辰160周年图文展在伦敦举行 搜狐网 这个故事会，读懂一位统一战线先行者的同心之道 QQ News",
-          "summary_zh": ""
-        },
-        {
-          "title": "自治区政协学习贯彻自治区党委十一届二次全会精神",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HUGNBV1BjcjFiQWZOQjZ1OVpQVGVnTFk1cElNLTZ1R3NnYXJPVzRjbTBTNTI3c3VucHlLZ0I2dFdzbHhKbGxqaEllRVppX2VLcjRweVdSRXJXUk5aX094Qk9sZGQzemtQV012aVNYX1Q?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03RnhIR2ZIWFRoMXJGcDluRzR1RE1WR3R1Wjhic2VJWTVJSVRWWmVVcGFxRnVVVTJ3Y1liNXVLeXZlOWk5UkczNkxUVW9SRzRLb1AzUHNSOXRCM09kOXlkQkh0VTJyRjZNLXB0Q3I0WHU?oc=5",
           "source": "https://www.aksxw.com/",
-          "published": "2026-11-09T23:35:27+08:00",
-          "summary": "自治区政协学习贯彻自治区党委十一届二次全会精神 https://www.aksxw.com/ 兵团党委八届十三次全会召开 腾讯新闻 时政微周刊丨总书记的一周（11月2日—11月8日） 阿勒泰 坚守严的基调 凝聚奋进力量——自治区党委十一届二次全会推动全疆持之以恒全面从严治党 新华网 胡昌升主持召开自治区党委常委会会议 中国西藏新闻网",
+          "published": "2026-11-10T10:32:40+08:00",
+          "summary": "深刻把握党和人民军队铿锵前进的制胜之道 https://www.aksxw.com/ 【垂医要闻】赓续长征精神 汲取奋进力量 北京市卫生健康委员会 驻迪拜总领事欧渤芊在《海湾报》发表署名文章——读懂长征，才能读懂中国 中华人民共和国外交部 长征故事蕴含的制胜之道 新浪新闻_手机新浪网 【青春华章·长征路上山河新】走访长征旧址 难忘军民鱼水情深 中国青年网",
           "summary_zh": ""
         },
         {
-          "title": "全军学习贯彻党的二十届五中全会精神宣讲首场报告会举行 张升民会见宣讲团成员",
+          "title": "外交部：中美双方就两国元首年内互动安排保持着沟通",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrYW5MQWxxU1Q1cnVONFVsUlNkNnBCNmFqMWMwZGtPSkdUeTZXVDFmSldjb1NWcExvdnhOSW9sRGd4b0lkcUFKYzRieDVtLWdmeXpxbDhtQkJzc2JRQkotcUNyc2tVX055NW9HRDRkVQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZdEtBN0g1V0xPQ211X2Rablk3Sll2cjR5eEFYNHBvVS1BSVJ2RVRWRTE3M00zdElaRUdhdktVcmJWRGtQNXd1RUhhMVBIMktEdW5Mb0xPd0tuMmhlM19rYWRTaWE?oc=5",
+          "source": "新京报",
+          "published": "2026-11-10T15:20:00+08:00",
+          "summary": "外交部：中美双方就两国元首年内互动安排保持着沟通 新京报 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "新疆局党委传达学习贯彻党的二十届五中全会精神",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HUVhNU1FlYUZnUWRCaDVUN01wdTMwdk1wVmM4bzdQZFBSRVdHM3h2M081MDk3NWtjRGZMQWRGVjFTRnhCUWNlNzVublFrMUJoa0RJVGVzMmtsd0ExdlJxWjlMMkk3YWJ4S2Foeg?oc=5",
+          "source": "中国民航网",
+          "published": "2026-11-10T11:01:00+08:00",
+          "summary": "新疆局党委传达学习贯彻党的二十届五中全会精神 中国民航网 五中全会精神在基层｜特写：一叶红船映初心，百年薪火启新程 新华网 吉林省委举行新闻发布会介绍吉林省委十二届九次全会有关情况 凤凰网 石泰峰人民日报撰文：增强党性是全面从严治党的根本性任务 ThePaper.cn 学习贯彻党的二十届五中全会精神中央宣讲团在中央政法委宣讲 新京报",
+          "summary_zh": ""
+        },
+        {
+          "title": "正片镜头抢先看！空军微电影《明日之翼》主题曲重磅上线",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdXl4SnZJT2pzM0NqQzNzMmN5eHNUd0VCRUtETzNKN2NObm42d04wdlE1LXIxRkxTTlZPOUJtX0l0VFMwbkc5aHpSV2JCU01VaE93eC1zeDhfWWdCbVJ1VmItb3hTeEpFdXJjaW5lZjVDTk9ZdmYtekFRMllTblMyby1jV0ExdGhWOHoyMmQtbHRQanJPSzNHRVFn?oc=5",
+          "source": "新华网客户端",
+          "published": "2026-11-10T15:37:20+08:00",
+          "summary": "正片镜头抢先看！空军微电影《明日之翼》主题曲重磅上线 新华网客户端 瞭望丨向着全面建成世界一流空军砥砺奋飞——写在人民空军成立77周年之际 新华网 以蓝天之名，赴冰雪之约：全国主流媒体代表走进长春，要看这些精彩 ThePaper.cn “红鹰”展翅长春 献礼人民空军成立77周年 中国日报网 吉林长春上演无人机灯光秀 庆祝人民空军成立77周年 人民网",
+          "summary_zh": ""
+        },
+        {
+          "title": "冯德莱恩说欧盟将参加俄美乌阿布扎比会谈--国际",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mcHBQRi1lalRrQ0ZkQ0QyUnlMQkhQWUZpdFJPc2NjaHBKTlBabkIxTGN4UHVpU0JxbDQ0NlFBSjRvQWNlRk9VQ1VXSjgwckFxREZwbVVuLWphUERWYk55b1hlMFVpRzE4bmFqMw?oc=5",
           "source": "人民网",
-          "published": "2026-11-09T20:31:00+08:00",
-          "summary": "全军学习贯彻党的二十届五中全会精神宣讲首场报告会举行 张升民会见宣讲团成员 人民网 【学习贯彻党的二十届五中全会精神】同心同行强根基 从严从实担使命 中国日报网 【好评中国·敦煌风】把加强党性修养作为终身课题 凤凰网 【工作动态】深学细悟全会精神 笃行实干担当使命——泽库县人民法院学习领会党的二十届五中全会精神 搜狐网 学习贯彻党的二十届五中全会精神中央宣讲团在山东、陕西、青海宣讲（学习贯彻党的二十届五中全会精神） 人民日报",
+          "published": "2026-11-10T08:53:00+08:00",
+          "summary": "冯德莱恩说欧盟将参加俄美乌阿布扎比会谈--国际 人民网 俄乌今天重启谈判，美方称双方私下松口，欧洲担忧 观察者网 俄美乌三方会议前，乌美欧在阿布扎比先谈 凤凰网 在阿布扎比会谈前，美国寻求为乌克兰提供北约式的安全保障 美国之音 乌总统办主任：乌方比任何一方都更愿意尽快结束冲突 新浪网",
+          "summary_zh": ""
+        },
+        {
+          "title": "学习贯彻五中全会精神在基层丨天津 河北：积极回应群众急难愁盼 努力办好民生实事",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54SE1NbGU3dENPQ0JldWRBdjFuZ0NKQ3VIRjQ5T2NOeEMyWnRCSEZWRHFPT3I3QmNuVkVnSFdnWkNEY2FDZlN1Q3ctOWYwT0NjUTRCYUU3M2czOXJ6bzVOS1ZZcnA5eGl4?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-11-10T11:17:19+08:00",
+          "summary": "学习贯彻五中全会精神在基层丨天津 河北：积极回应群众急难愁盼 努力办好民生实事 中国新闻网 尹力署名文章：强化地方党委功能 北京市人民政府门户网站 以严密组织体系打通政策落实的“最后一公里” 央视网 了调研｜基层党建“书记项目”，给苏州相城带来什么变化？ 搜狐网 从严治吏建强组织体系_荔枝新闻 Jstv.com",
+          "summary_zh": ""
+        },
+        {
+          "title": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TM29WUG5DM3lKelBuZTdEOWt0TDBsajYyODJCQ0t3SDJMRFdod1VnRUctNFJGbld3VEg4NVJMcmJhS2ZBWnpzelJEYTRkUWE4OUliMlFCNmxsN1pqdlg1dzVzVkdxUWlzOWkweXNEUE8?oc=5",
+          "source": "中国科技网",
+          "published": "2026-11-10T11:41:48+08:00",
+          "summary": "中美两军举行“驼峰航线”美军援华抗日飞行员遗骸移交仪式 中国科技网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "我国加速低轨卫星互联网组网",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmZESHNaN0NpQ3BzT3dva0Nnek5UWXF0cnZBUENHQm1JaVpEMXFRbXQ4X1dOM2xaMHBnUnFhcl9NOVdpenNUa3FYX0FPQzZmRG04cVJWb29IVmV3WFdabmxpcWpMRWYwTVRVT1QzTXJxYkRxMldqUjRnaDdxQjI4WV9YU09ta1c5REtXaGltcDRZc3pGRFZJ?oc=5",
+          "source": "欧洲头条",
+          "published": "2026-11-10T11:07:35+08:00",
+          "summary": "我国加速低轨卫星互联网组网 欧洲头条 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "高校学子，需要怎样的“生活教育课”",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tZURvUUFhRWk5QWh0N2VOYVdHQWVXbi1PcVF0SUpGRVVMaFFYQnEtRm9HZ0x5bzJoTnhnSkxfanR3RGU2NGJwMXJfR2RWbVhEZDdab3Znd3d1eENOOTB4RUdlQXQ?oc=5",
+          "source": "中国青年网",
+          "published": "2026-11-10T06:39:00+08:00",
+          "summary": "高校学子，需要怎样的“生活教育课” 中国青年网",
+          "summary_zh": ""
+        },
+        {
+          "title": "非洲国家议员研讨班开班式举行：深化治国理政和立法经验交流",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVEtHUTM4X2d6TzZDcHd6aEh5TmpKbmxJZHVjTnJNMTNpTG9ER1hQd3hWRkJQNzVGRzZFS0EtTGVTTGNYaV9mMjZSNTlVeWUxdGFmYTFuMjRSOWswckZNYVFaQnZjLUY0M1Y5b0lyZDBlOWE3cGdsRS1aWjI4YzFtWWFqRDdKdjMyWGdzRQ?oc=5",
+          "source": "搜狐网",
+          "published": "2026-11-10T13:06:00+08:00",
+          "summary": "非洲国家议员研讨班开班式举行：深化治国理政和立法经验交流 搜狐网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         }
       ],
       "ai": [
         {
-          "title": "Before the Algorithm Decides: Connecticut’s 2027 Rules for Artificial Intelligence in Employment",
-          "title_zh": "在算法做出决定之前：康涅狄格州 2027 年人工智能就业规则",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTjVyRkc0dk5JUW11Ri1aejg3Ukl1SXVEVktrbEdYYVFBR1pQc2NIOHViZTJCZ29land5TVRKU0cxclB6c2E0MmJIcVNudkNBUTRPVVdRN1Q3NzlmMkRkd2FQX25uTk9VX2hiTksyQzBlZ0JqQU0wdTNXRm12R2o4Rkw3bnpKQUExbHBFQ3BMaE1qSjdkeXA4RGI4U0E0bzl2N0tuQU85YVgtaG5lN2F2R2FuNWh3aE9xTjhza1JIUFM4M0tmcTlBTnQ3OVA3YTdBalYzQjlvTUxUbGtIUmxSVA?oc=5",
-          "source": "Foley & Lardner LLP",
-          "published": "2026-11-10T04:37:53+08:00",
-          "summary": "Before the Algorithm Decides: Connecticut’s 2027 Rules for Artificial Intelligence in Employment Foley & Lardner LLP",
+          "title": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest",
+          "title_zh": "2026 年最值得购买的人工智能股票：10 只精选股票及投资方法",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTN4SWRQbVZpY1lwSnJjN3YxWmY5LU5Qck5ia2psWWRwcWplZ0RGTFo3ZmJrZDZ1S1RQZFF2NUcwOTh0NXA3NlM0a25ieHhPWHprdTBmbWxzY2FtdHRIMlpSY1pzcTU5ZkhfN0wtcF9UeDg4WnZVYTZPSkRtcDNZaUJ1djdPQ1RVRkVQeVFUTnJrMFJ5VXdj?oc=5",
+          "source": "The Motley Fool",
+          "published": "2026-11-10T12:51:00+08:00",
+          "summary": "Best AI Stocks to Buy in 2026: 10 Top Picks & How to Invest The Motley Fool",
+          "summary_zh": ""
+        },
+        {
+          "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+          "title_zh": "澳大利亚将在 OpenAI 黑客攻击后引入强制报告，以打击人工智能“失控”",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5",
+          "source": "The Guardian",
+          "published": "2026-11-10T10:31:00+08:00",
+          "summary": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ The Guardian",
+          "summary_zh": ""
+        },
+        {
+          "title": "The impossible standard we're setting for artificial intelligence - opinion",
+          "title_zh": "我们为人工智能设定的不可能的标准——观点",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54OFhpQ3Q3eE16WThqdzZEQmhOb3I1dFNlY0tjWU5mX19VMDZOYV9ndEJzQy1zNzVKZzJTTFdvOUZkUkFtYjktZFp4QTh0YWpib3AyY01mV3poNExFcG9CajBSOGZ1S1BtbTE0OA?oc=5",
+          "source": "The Jerusalem Post",
+          "published": "2026-11-10T14:58:43+08:00",
+          "summary": "The impossible standard we're setting for artificial intelligence - opinion The Jerusalem Post",
+          "summary_zh": ""
+        },
+        {
+          "title": "AI and your job: Threat or opportunity?",
+          "title_zh": "人工智能和你的工作：威胁还是机遇？",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04OV9nT1RLODZ1T25GZW9ZN1pKeGZuSENTUEp2QWU2T1J5c05pTDQxTU5hcXdSZDBYdXhqVVNEWlA1SEQtTUV4Q0YtOFQ4bGxkR0RBT3R0OS10TWFyRk1HU1duZmxVWUxlOTE0QUpuSnQ3WmdaLVIwMdIBjAFBVV95cUxNVlpsaS1peS1pcGVmblMtQUVabkl4bHhIV0hncUMtRnR1Wi1PTm5xLS1hWmNNd2FZZ0s5X09IQldlTUlfNjUycUJ1X2RGTjREb29tVDZUNGk2MkRZb3dSUkJxbXhZRnRWbVJjWVFfWnRHNkljZmlUZTFqRWdJcUdIU0tVVXpmemMyTzJMWA?oc=5",
+          "source": "Fox 10 News",
+          "published": "2026-11-10T11:58:00+08:00",
+          "summary": "AI and your job: Threat or opportunity? Fox 10 News",
           "summary_zh": ""
         },
         {
@@ -207,75 +234,48 @@
           "summary_zh": ""
         },
         {
-          "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
-          "title_zh": "Nvidia 对黄仁勋与中国间谍嫌疑人的关系展开调查",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-09T08:35:16+08:00",
-          "summary": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy The New York Times",
+          "title": "Military-made AI tool helped thwart World Cup bomb threat",
+          "title_zh": "军用人工智能工具帮助挫败世界杯炸弹威胁",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0hudUNqTHZ1a05FRTE2M19obVktZ3pHMGNwRlRxXzVDVVo1ejlLaDJZQjZHT2FWanozQ2RSZmYzSkVvQklMX1BuSFJNUi0ycXlvNVlBLW5ZRTQ1TlJrWnFya2g3WEZIT2JDSlh2b0psaTlQNXh4VjJPTVFIa3liek9JUXVLd2NPeG9wUjVqV0c2czVmNWV6NW01Y2VjcUVIZFd6djJ3TFdQc3JDZGhYTFE1M2QtVFR1dXRodHVR?oc=5",
+          "source": "Federal News Network",
+          "published": "2026-11-10T11:46:51+08:00",
+          "summary": "Military-made AI tool helped thwart World Cup bomb threat Federal News Network",
           "summary_zh": ""
         },
         {
-          "title": "Generative AI Becomes Lesson in Intergenerational Learning at VSU",
-          "title_zh": "生成式人工智能成为 VSU 代际学习的课程",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmk1SmRPR2tvQ1l1TEZfX2h1cUd4Zm5ydDlncnc0XzFvVWVlSnlVMzNvbHJaYW5zRWZiZUZlNkZfaU5HYnNHRXg3cFdHY2QzSDVTcXloeWljQ0s3LWdFeS1TUWgxWFppVWdjNmQtZF9SQ0w2eEJzeFZ2ZDNJU1oyaXloQ0trZzJWYzlBS1djdWhYWHpoNlJXTHBWaWNYNVV2a2cwTzdjY0tPVUZPTnB5d3lRNWJyanFGRkRhdVIwNA?oc=5",
-          "source": "Valdosta State University",
-          "published": "2026-11-10T03:47:30+08:00",
-          "summary": "Generative AI Becomes Lesson in Intergenerational Learning at VSU Valdosta State University",
+          "title": "Before the Algorithm Decides: Connecticut’s 2027 Rules for Artificial Intelligence in Employment",
+          "title_zh": "在算法做出决定之前：康涅狄格州 2027 年人工智能就业规则",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTjVyRkc0dk5JUW11Ri1aejg3Ukl1SXVEVktrbEdYYVFBR1pQc2NIOHViZTJCZ29land5TVRKU0cxclB6c2E0MmJIcVNudkNBUTRPVVdRN1Q3NzlmMkRkd2FQX25uTk9VX2hiTksyQzBlZ0JqQU0wdTNXRm12R2o4Rkw3bnpKQUExbHBFQ3BMaE1qSjdkeXA4RGI4U0E0bzl2N0tuQU85YVgtaG5lN2F2R2FuNWh3aE9xTjhza1JIUFM4M0tmcTlBTnQ3OVA3YTdBalYzQjlvTUxUbGtIUmxSVA?oc=5",
+          "source": "Foley & Lardner LLP",
+          "published": "2026-11-10T05:07:36+08:00",
+          "summary": "Before the Algorithm Decides: Connecticut’s 2027 Rules for Artificial Intelligence in Employment Foley & Lardner LLP",
           "summary_zh": ""
         },
         {
-          "title": "Three Essays on Artificial Intelligence and Work in the U.S.",
-          "title_zh": "关于人工智能和美国工作的三篇论文",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9La0QtbGlJZ1RxN2txTS1KQ1VqRU82STJuMlI0S1lIVDVqamEyQ3IyQlh4VW1yQnhDOWgxaGx2QjJaMnBwOEVxbUFYMUQ5X1JJVDB0Z29HVFctckp5MG5qQnQzeHQ5YXpXOGVWeA?oc=5",
-          "source": "RAND",
-          "published": "2026-11-09T21:58:52+08:00",
-          "summary": "Three Essays on Artificial Intelligence and Work in the U.S. RAND",
+          "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
+          "title_zh": "澳大利亚将强制要求人工智能违规报告，并在 OpenAI 违规后成立监管机构",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-10T09:30:00+08:00",
+          "summary": "Australia to mandate AI breach reporting, create regulator after OpenAI breach Reuters",
           "summary_zh": ""
         },
         {
-          "title": "Howard University Professor Danda B. Rawat Receives $700K NSF Award for Trustworthy AI Research",
-          "title_zh": "霍华德大学教授 Danda B. Rawat 因值得信赖的人工智能研究荣获 70 万美元 NSF 奖",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUdHZ2FJTTNpSjJ1QS1PTGtZUE1rYVZfWkZGNUZJWEtROXRzai1fNlBQU1hwWUxxdTVSNE9JT2MzNmx3UXFTS2VkekhJTWdiTVd0eWswQW1SaEdiNjBVdG53aENHRkxjcXdHYUhCV3l3UE52MDYxTllzMDVRdG8wU1V4RnZTUGc1Xy1UTVRYRXEwTDhQeVYzSDR3bmduNnNEa1dlU0FRbmtRdXdYUU5vaEE2bEdJdTRscF9MTHBCdU1rUHIzRHc?oc=5",
-          "source": "The Dig at Howard University",
-          "published": "2026-11-10T05:17:54+08:00",
-          "summary": "Howard University Professor Danda B. Rawat Receives $700K NSF Award for Trustworthy AI Research The Dig at Howard University",
+          "title": "The U.S.–China AI Competition: Two Paths to Artificial General Intelligence",
+          "title_zh": "中美人工智能竞争：通用人工智能的两条路径",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzNHVnNSR0htMjJvV0Y0Zmp4NmNvaERRc05xaEZ5VjRDV0xkNGpRU0ZNbDRfRllDT2FRRjQxUURhTzA4YlctT3FMSXZGWFp3RTNFa3ZmT0YyM2E1MVZ6b3FhYnZKd3pnWTVwMFdPNVF3aWVodzFEdkV2Yk5IYzVtRHlaU0IwNGdROFp0SVNYZXBwSk1yclNOMlBMU3dCazd4X1dKVlRZS0JydWRpbzFz?oc=5",
+          "source": "CSET | Center for Security and Emerging Technology",
+          "published": "2026-11-10T04:49:48+08:00",
+          "summary": "The U.S.–China AI Competition: Two Paths to Artificial General Intelligence CSET | Center for Security and Emerging Technology",
           "summary_zh": ""
         },
         {
-          "title": "Introducing Claude Fable 5.2 on AWS",
-          "title_zh": "在 AWS 上推出克劳德寓言 5.2",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2JVY2R2SzNCdEtZdXlHOG85RU1qSkVTYndPS3c0ZWtnRm5scXZaNUhzZE5QR0t3VTRmMGxXQk9SaTJrY0ZTOElUSjZ0czN1VGFQZW9LVlRpWTRpRnVjcHhDcVNLd2ZHcWRZWlJIVkRsb1RCWTFPNVQySm9XWGZlT3BvYmtMWHJKb0E?oc=5",
-          "source": "Amazon Web Services (AWS)",
-          "published": "2026-11-10T04:04:37+08:00",
-          "summary": "Introducing Claude Fable 5.2 on AWS Amazon Web Services (AWS)",
-          "summary_zh": ""
-        },
-        {
-          "title": "The Impact of Artificial Intelligence on Intellectual Property",
-          "title_zh": "人工智能对知识产权的影响",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHZCZDZXRnRUOExOT2xueW56cG5Yc2hnT3I4WFlGcjFDWjlxVGhEcDVMaXhGMUdwN1M2VHBFbHZldllrSk5ab0Jyb3UzaEFzM09FOENCUWRJU2RJaFA2T2pHTTVpZU90azgxSXV6V0w2emxRZEZQWkJyTVVVOVFhenp6UFZSemEyaFo1dnNXV1NxZ2hDYkJlLWd0a0pWZWpqaGRMcmRHbV81a1BzN09PWg?oc=5",
-          "source": "Brooklyn Sports & Entertainment Law Blog",
-          "published": "2026-11-10T04:48:38+08:00",
-          "summary": "The Impact of Artificial Intelligence on Intellectual Property Brooklyn Sports & Entertainment Law Blog",
-          "summary_zh": ""
-        },
-        {
-          "title": "Undergraduate research shapes this future physician",
-          "title_zh": "本科生研究塑造了未来的医生",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnBCQzhXVFZRY0ZaekZjQURJaVp0US1nV2pxejFmODBwMGo1NlV1QVVHNEZXN2toUTBJeWtZM1BiS181RndqbzRycFNjWllsMTBpeGNBN3UySHB5SDVNYkNSei1oRm5TaUNveXZZbWdib0h2dzF3b0owaHpYQUM3RHRDdjU0VFBHRVhyTTVHdmpfZDA?oc=5",
-          "source": "The University of North Carolina at Chapel Hill",
-          "published": "2026-11-10T04:18:34+08:00",
-          "summary": "Undergraduate research shapes this future physician The University of North Carolina at Chapel Hill",
-          "summary_zh": ""
-        },
-        {
-          "title": "AI News: Artificial Intelligence Trends And Top AI Stocks To Watch",
-          "title_zh": "人工智能新闻：人工智能趋势和值得关注的顶级人工智能股票",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMTVTWnJlZkpsVU9ZV0g1WHdKQVBKOFFvcUpPeTJuMW9iT2FTMWI1N2hMYk1ud1cwQlBEVlJObDFVTnpoNnBhejJrZnVFelQ5V3NNRklrM2RlaHUtc2NsbmxWcVV1MWVzd082RUdTYmtJVW9MUmJRTG5sV1dJN3JCd1JNX2Z4VnZtV3VpbzdrNXdKNTVSc3FB?oc=5",
-          "source": "Investor's Business Daily",
-          "published": "2026-11-10T02:14:00+08:00",
-          "summary": "AI News: Artificial Intelligence Trends And Top AI Stocks To Watch Investor's Business Daily",
+          "title": "Australia to launch AI safety regulator after OpenAI’s breach of a government portal",
+          "title_zh": "OpenAI 入侵政府门户网站后，澳大利亚将设立人工智能安全监管机构",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlo5Tlc2MlJSQWdPVkpWSUw3UFlUMnUxX05wUk5QZ3lrV0ZRT1MyQUY1WHlJV3BHdnhJeDZueGNEWGFlMC11ckd6WDBPZ0Jud1FfOXhIWVFPem5XdllSUFplQWdiaGI2ZmRUUEtjeDZwSnlyVC16d2thVlJESkZDb0RRVHdySUxfeENLd1dsWk1uRTNybmw2Zm0yMmp3VDBZMXJmS2o0ZUN2d3FyaXlNNEo3LVE4Zw?oc=5",
+          "source": "WTOP News",
+          "published": "2026-11-10T13:08:09+08:00",
+          "summary": "Australia to launch AI safety regulator after OpenAI’s breach of a government portal WTOP News",
           "summary_zh": ""
         }
       ]
