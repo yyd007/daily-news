@@ -1,70 +1,88 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "morning": {
-    "generated_at": "2026-11-12T16:47:40.948051+08:00",
+    "generated_at": "2026-11-13T02:48:04.270236+08:00",
     "sections": {
       "worldwide": [
+        {
+          "title": "US envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy",
+          "title_zh": "美国特使在莫斯科与普京就乌克兰问题举行会谈，然后前往都柏林会见泽连斯基",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFZuQ05KbXhLT294akRzMl9XWE5rUmRhV01fSDY4VVF6dnNaZVlCUzdCd1I2TnI0azFRT1VHcW1hVm9oMWhUNTZaVUc0QjNVNkNseGxYTGU3RmpSWXppTVZ4TzVRWEpxdE1tOVc3NDJYdFZmdWhoeFBvSXc4MXV4N0JUSW95SzlZalpwcERuU3hRNHpSbVBwNXl1Y19kUDU1d2c?oc=5",
+          "source": "AP News",
+          "published": "2026-11-13T00:55:00+08:00",
+          "summary": "US envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy AP News Putin lets Europe join Ukraine peace talks, as Kyiv says Starshield disrupted again Reuters In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks The New...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say",
+          "title_zh": "官员称，以色列对加沙纳赛尔医院的袭击造成至少六人死亡",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUdEakxtMWZpbTJoLTBTOGRoNElEcDFodXFDNzcyUEtVS2dJMU92anJoQWFpdjEwT042d3lRVExOcHpFdDdrZ3lNTWZ2dlp1dzdoVjN3YU5TdUJkb1NWTWZBNHhqOTlBVWNYTkRoS2tpUWRrMTVMVFlLMDN1NHB6blRvV3dkbERhZWJHSFM1enVSaGlsaHUzRVk2cTBSREp3aENrYVBCbTlteEpMMzd2U05n?oc=5",
+          "source": "NBC News",
+          "published": "2026-11-13T01:38:02+08:00",
+          "summary": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say NBC News Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says AP News Israel hits Gaza with deadly hospital strike, says senior Hamas figure...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Indonesia vice president resigns amid dispute over eligibility",
+          "title_zh": "印尼副总统因资格争议辞职",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWFsc3dqbDNfbXJJUzI2NmlhYVdNZWFMOG5vVnprRXVrVmQ0ZmUtdEdQVEFoVVdMV0YxVng0MTc5TmwwRHJpMWtOTEstcUxoemlZNWFieXRlNjRVcXhPVm5hU0xVQkxOVUhyTy1TcFg5MjBoMjdXdF9WZjhzLWZ5MXJNNVRVeklMZE1LTkN4QVlDeDB5MVdJRUJtX21TWFdXTXg5NGdKMNIBrAFBVV95cUxOZVgxWXctTjdKZEVVOWMtMDNzaktXQU9SelBPTVRwTVJuaEpfdmdCSE5IVC1hWjVuZlRjTTdoZGY2a2JMOGV1eUhZNFpOUzF0Mi1Xanp3cDZDRjFaUUFmbnFsZGhYVFd4ZVZVd2dJTElzckdlUW1MSllsUF9pb3A2dG9pV1dubGkxVTJJdFEtODZEdnJQb3JyQ29QaEp6cUgwVGI0ak1pRlFGZGx2?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-11-12T18:26:37+08:00",
+          "summary": "Indonesia vice president resigns amid dispute over eligibility Al Jazeera Indonesia’s Vice President Resigns as a Political Alliance Unravels The New York Times Indonesia VP hands resignation to parliament as Jokowi backs Prabowo Reuters The wiretapping scandal that threatens...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+          "title_zh": "疑似炸弹恶作剧威胁迫使意大利学校重新疏散",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nY1B6TXNUb193LUUzMVVGd3JOX1ZBeENFLWxRQ2ViNnFVWmYzczdxclZnNEt3TW9JYk1HOFRCdUVCNkw2NzY2VnlTVWV1UXVOOWQweld5N0FWYmc?oc=5",
+          "source": "BBC",
+          "published": "2026-11-12T20:39:39+08:00",
+          "summary": "Suspected bomb hoax threats force fresh evacuations of Italian schools BBC Hoax bomb alerts sent to schools in Italy, UK and Ireland in latest disruption Reuters Italy evacuates few schools in second day of bomb threats Le Monde.fr Hundreds of Schools in Italy Are Evacuated...",
+          "summary_zh": ""
+        },
         {
           "title": "Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland",
           "title_zh": "大批人群迎接教皇利奥返回他的祖国秘鲁",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUpuTEFWN2VuSlF3TnN5Z2MyeUg4dmt5WmVYNHBIUjJLMDNaMnh2OXVibjZUT3BGZmtXT1lTSnFhX1M4dU8wYVpsNi1XX3Y5SXRObkkxSmdCQU53OFMtTkxVcTBIVEo1UE5RUHZmVnpCNV9FblhuM3QxdlVILS1pWWJ2dzEzYmRLMUoybmpneFlPeW1YYUE?oc=5",
           "source": "The Washington Post",
-          "published": "2026-11-12T16:32:47+08:00",
-          "summary": "Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland The Washington Post Peruvian homecoming: Pope Leo welcomed by record crowd on return to the country that shaped his path to the papacy CNN Record crowd greets Pope Leo as he calls Peru his homeland in...",
+          "published": "2026-11-12T21:32:43+08:00",
+          "summary": "Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland The Washington Post Pope Leo XIV Goes Home to Peru, Meeting Ghosts of His Past The New York Times Matvei Michkov didn't ask Flyers for trade, Rick Tocchet says ESPN Pope Leo returns to beloved former home...",
           "summary_zh": ""
         },
         {
-          "title": "‘The only way to get this done’: Why the US wants Europe at Ukraine talks next time",
-          "title_zh": "“完成这件事的唯一方法”：为什么美国希望欧洲下次参加乌克兰谈判",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWw5cEpsSlJnckYtTG5hTFRvcmRnbkJ2ZTNEbXM3NzJYOU1ldjhaV2FPSmhZN0pUVTNMOWt4U2hGcHMwN1VlbnhtbS1WRTZ6OUZyTkpWVXRGTl9KWGJTbU5DcWdtTUZVdHNkMzFyclRUelF0cGNyQXYwSjdhUWdNVE5iY1FhampFekU4?oc=5",
-          "source": "POLITICO.eu",
-          "published": "2026-11-12T03:53:00+08:00",
-          "summary": "‘The only way to get this done’: Why the US wants Europe at Ukraine talks next time POLITICO.eu Witkoff and Kushner arrive in Moscow for Ukraine talks with Putin CNN US envoys in Moscow for meeting with Putin following talks in Abu Dhabi AP News Russia, Ukraine reach deal on...",
+          "title": "Boy found alive after 6 days lost in Australian wilderness: \"He's grounded for life\"",
+          "title_zh": "男孩在澳大利亚荒野中失踪六天后被发现还活着：“他被终身禁足”",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUI0aWZDT0JFZkloM3NKSXV0bGhJamcyYklyUHB6RDZ3Z3JRMGcxSHNqRExRbTNYLUVqc0pUODF6d3M0S2hlQmJLbU1GTlFWNTJ4ZC1TOGdMTEFtbXgtRzM4ZGNCYS1BVmx3cXRUWHQ2M1NRZG9wWGh6VVVzVmhjNDl0ZkNHdw?oc=5",
+          "source": "CBS News",
+          "published": "2026-11-12T19:41:00+08:00",
+          "summary": "Boy found alive after 6 days lost in Australian wilderness: \"He's grounded for life\" CBS News 17-Year-Old Boy Found Alive, Surviving on Chips and Water, 6 Days After He Went Missing on Camping Trip People.com Mum's 'worst nightmare' as 17yo disappears on camping trip ABC News...",
           "summary_zh": ""
         },
         {
-          "title": "Israeli strikes hit medical complex as nine killed across Gaza",
-          "title_zh": "以色列袭击加沙医疗中心，造成九人死亡",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjFPWWxmYkExQ2pkYVBVZ0N3RFJnUjh4a0pmM0JEQVI2Z09td01Yd1J1Ym14ZEVKaGFFTWczb1NSRnpqWnJvdkhxdEZJU0JCdXVlb3Rjb1JmSFZDWHpHdW94MHlLOHhveDBwZXp1YzliTXd5bG5XM1pra3VqUGZfR1lTaTctWjBQcmdINkdOZ3lvSHdRMkJmclhn0gGfAUFVX3lxTE8xbmxmdzdrZDUtNGx6SnJ3NjlTOFV0YzFZZEhtUjNnSVRuVXd2UXBoQzVheEZCYkF3b21FZHhDWVo3UnFtZlg0NWRTc2ZQVlMtODFid3FhZWRGaGQxbFNhY1JpemZqNTVuRTB5QlVxWVdFSW5yakROZTI0WHdoQ1o2OEh2NU9EUzZtcnVETS1TUUZwLUNvcXJtQlp1aDQ0aw?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-11-12T16:14:56+08:00",
-          "summary": "Israeli strikes hit medical complex as nine killed across Gaza Al Jazeera Israeli strike on southern Gaza hospital kills six, Gaza civil defence says Reuters Israel confirms target of Gaza hospital complex strike was commander of Hamas's Khan Younis Brigade The Times of...",
+          "title": "Spain: Housing crisis prompts first general strike in 14 years, before hundreds of thousands join protest",
+          "title_zh": "西班牙：住房危机引发14年来首次大罢工，数十万人加入抗议",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHh4aG9MdmZ1bUU3cGp1ZnRMVExTMkl2NmZZTk1fOVBuYmdBWS1uNUdUTFFtVUFZSlk1YUxURDE2bGlmdW1OZDEyei0tRnNvZ3VPX0xlODlMSHFqX0FYbnlnZnh0YnJzelI2cmdnZnZNUGZSMTVIamsteFp4WUc3UmlOTHNEUW9LX3FMN3R0OTJiVXVEbGdPTkhCMS1NNDREMGfSAaIBQVVfeXFMT0ZTT2Q0bS1peXI1bGstaVNyYzRhSjBfR19zWlp0WHZ3ZmdmSk5YZkZvRWtNRXRzMlNmdnRtckpJNTlyeV9KWHhOcm1ycS1yS0xCczdiUnZwRXVQVWhZN3NxOFpYbE9nTGJUN3ctWl9jYUVRaEozZVE3M1Q2ZVp0MVJiNEVuaXczYzdvcGJBUGtadEJHUkVwY0h3dzY2aXViQW5B?oc=5",
+          "source": "DW.com",
+          "published": "2026-11-12T22:36:33+08:00",
+          "summary": "Spain: Housing crisis prompts first general strike in 14 years, before hundreds of thousands join protest DW.com Millions of Spaniards stage first general strike in 14 years as anger rages over housing CNN ‘I pay $500 for 5 square metres’: Spain’s protesters, in their own...",
           "summary_zh": ""
         },
         {
-          "title": "This Shipping Lane Is Now the World’s Deadliest. It Isn’t Hormuz.",
-          "title_zh": "这条航道现在是世界上最致命的。这不是霍尔木兹。",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVW1kdTd5Wjl6ZWx1cWFubkJ0QmZJdXFFN2dTT2lhb25TSzhkbWhtOTRCeHBTRTNVLV9QbFV3X2h1Rk5EQ3A0ZUs1REFiUDE3TE5tdE9aOVp4d2g2OFJVdWc5cDE1ZXJqT3ZlMG85cElubTVUUGMwa1VOeEpWc1FHSEFtQ0hmejJkUjBLOUl3SGVlbUVpSUltNEZ3M2w?oc=5",
-          "source": "WSJ",
-          "published": "2026-11-12T11:00:00+08:00",
-          "summary": "This Shipping Lane Is Now the World’s Deadliest. It Isn’t Hormuz. WSJ Constanta and Varna calls hold after Contship Jet sinking as CMA CGM's US$35 charge starts Container Management It’s worse than the Second World War - but not everywhere Insurance Business Black Sea and...",
+          "title": "How Hamas shaped Gaza's winter flooding narrative before the first storm",
+          "title_zh": "哈马斯如何在第一次风暴之前塑造加沙冬季洪水的叙述",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50VWt0UU41blRPX2VDaW9ZM01NWnBxWUZpLUZTcE45YVJhM1RBQ1kwUVAtQVNoZUx3UllKSG9DbjEyWWpWWFFQS0Q4RE4zMnVfbDA2NDIzSEp0RGpl?oc=5",
+          "source": "The Jerusalem Post",
+          "published": "2026-11-12T23:52:13+08:00",
+          "summary": "How Hamas shaped Gaza's winter flooding narrative before the first storm The Jerusalem Post As deadly storms flood Gaza’s tent cities, the displaced fear a worse winter The Washington Post Netanyahu denies Israel is to blame for conditions in Gaza camps, and other Mideast...",
           "summary_zh": ""
         },
         {
-          "title": "Eisenkot unveils agenda to reverse Netanyahu’s policies as Israel’s new parliament is sworn in",
-          "title_zh": "随着以色列新议会宣誓就职，艾森科特公布了扭转内塔尼亚胡政策的议程",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1pwamowLTNQNERPRUUyTzRWWGxYVGo1MnRlYjl0UGR3OEhtclpFSXRmRjc1YThpTUJJcWlVWHVJVnVNajQ5dHJCd08tTXdtQW5Ya3YtODVhUVVvLVE2SUYxLXpUOW5QVWFZVVU0UHFfTWoydGh2MG93NlFBTUt2Mjk2VXVHYkc5b0NJOGdZR21hZTFOWVFSY0xWcVJ0bWZ4MHZ6el9QRmJWalZaOGdya1B5cmRwNDJvTkE?oc=5",
-          "source": "NBC News",
-          "published": "2026-11-11T10:48:00+08:00",
-          "summary": "Eisenkot unveils agenda to reverse Netanyahu’s policies as Israel’s new parliament is sworn in NBC News Israel's parliament sworn in as Eisenkot tries to forge a government Reuters Netanyahu fights to stay relevant as Israel’s opposition closes in Al Jazeera Opponents of...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-          "title_zh": "西班牙工人14年来首次举行总罢工",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByOVdCZ1ZJaWQwRkFuYlBwNXB5dERuVFZac0hZdmkxSmlxbGlBenZwTXYtUF9EU3RBZnlvUWEycjZKT2ZycUVpWnQybUJZaWZlQ19NMUZFNmV3M1FRamhkekhJeTRSbTRvMTROaDVBVFVMTXNoZ3ZiYmRLWVE5QQ?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-12T15:30:00+08:00",
-          "summary": "Workers in Spain Stage a General Strike for the First Time in 14 Years The New York Times Millions of Spaniards stage first general strike in 14 years as anger rages over housing CNN Photos: Protesters clash with police after housing cost rallies in Spain Al Jazeera Millions...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Indonesia’s vice-president resigns, escalating a destabilising feud",
-          "title_zh": "印度尼西亚副总统辞职，破坏稳定的不和升级",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOV9XZVVMUi1xdENtOEN5ai1YeHpicEFCVzNhMWNIQjZSNUUzR003RHVaRUVVN1ZzZzBEQXlvMXJLdmRuVmUzc1RmX0JqWklxM2NjQUJBcWhBa3NtTTNBUGF1MlZPTmNiZ2U3cHZCZ2UzNjAtNm1rMW1SdWI1WE9mcHFjbUs0SUdTdDdIUUotZUVsa2t5R3JTMTJjUy02T2dkWUVHN3JGSEFremM?oc=5",
-          "source": "The Economist",
-          "published": "2026-11-12T02:44:37+08:00",
-          "summary": "Indonesia’s vice-president resigns, escalating a destabilising feud The Economist Indonesia’s Vice President Resigns as a Political Alliance Unravels The New York Times Indonesia VP hands resignation to parliament as Jokowi backs Prabowo Reuters Gibran Rakabuming Raka:...",
+          "title": "COP31: Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+          "title_zh": "COP31：伯纳姆表示气候共识“已经消失”，但承诺“领导力的新时代”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wZkcyZ0M4UTJ0NWUweWY2VTVEZzNCOFBhZ3ZEdzduOFRQT3M1a00xX2I2Vmt1bFR0eGJpUHo5LXpCVjJrX3AzVkJGYWUzSC0yTGU2TG5iRXRra3c?oc=5",
+          "source": "BBC",
+          "published": "2026-11-12T19:03:53+08:00",
+          "summary": "COP31: Burnham says climate consensus 'gone' but pledges 'new era of leadership' BBC UK ministers have no plans to publish explosive report on climate crisis The Guardian UK appoints climate security envoy as Thunberg criticizes COP31 leaders AP News Andy Burnham heads to COP...",
           "summary_zh": ""
         },
         {
@@ -73,121 +91,139 @@
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnU1c3FRTTBJdkdjMmZvTEljcTNLWWpmaXg5QUszdEE1aVhtUTU3QTJDT2pTSjZZRGRxU2tTTXA5TzcyQmNBcnJnc0htWFF3a3Z1cnotcnVtYU1NMG56RXMyUEhZMGljREVNREF1ZVYzaDZFYXZMVFhNeE5mamNxYmZwSnlwT3ltcnB1X1cwSHRTcTFVRTBzRjlyUkpmRml6TkJzUktwR1VPNXk2T0VXZ0NOdUJhTTNCQXc0SnRWNGVtb1lkM2t5bGhaY0NPeGdjV05aU0l3?oc=5",
           "source": "The Guardian",
           "published": "2026-11-12T11:02:00+08:00",
-          "summary": "World heading for ‘irrevocable overshoot’ of global temperature thresholds, analysis warns The Guardian See more headlines & perspectives on Google News",
-          "summary_zh": ""
-        },
-        {
-          "title": "Australian teen missing in bush for six days rescued alive",
-          "title_zh": "澳大利亚青少年在丛林中失踪六天获救",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VNEE3dFVYWDhwbExMUEhKX1RLYkJiZ1lYazdMbHpnWWIzUExPQWRsakNiZGRqT2hTaUo1X0FrRlhraUZLZndRcFJNZW9wbUU3SXhoZVZFb1Y3NjA?oc=5",
-          "source": "BBC",
-          "published": "2026-11-12T10:40:18+08:00",
-          "summary": "Australian teen missing in bush for six days rescued alive BBC Moment teen rescued after 6-day bush ordeal News.com.au Missing teen hiker found alive after major six-day search in bushland News24 ‘He is never leaving the house again’: mother reunites with son missing for six...",
-          "summary_zh": ""
-        },
-        {
-          "title": "The election climate diplomats can’t stop talking about. It's not the midterms.",
-          "title_zh": "选举气候外交官们不停地谈论。这不是期中考试。",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUdiaExXWTNlV21iSDd2RW13d1NQWUNJV1FVUGI3STJpZlhwajc3SUJBbXA3TFE3VjR4Y194cXBpSDZGMkxXbW82NklaOV9zUnA2OXh4dGMtRGlCb1NTUDBNQXo1TVlMYWlxSmJWVUQ3Vl83UjRLME9IWGFlMHdpVWdtdi03NS14bVQ5SV9B?oc=5",
-          "source": "Politico",
-          "published": "2026-11-12T05:43:00+08:00",
-          "summary": "The election climate diplomats can’t stop talking about. It's not the midterms. Politico ‘The world we know is over’ without urgent climate action, leaders tell Cop31 The Guardian ‘Fight Harder,’ U.N. Chief António Guterres Implores, Rousing Climate Ambassadors at COP31 The...",
+          "summary": "World heading for ‘irrevocable overshoot’ of global temperature thresholds, analysis warns The Guardian All IPCC AR6 regions are close to their 1.5 °C- and 2 °C-equivalent warming limits Nature World faces 'irrecoverable overshoot' on warming - report RTE.ie Some regions may...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "中国邮政发行《纪念孙中山先生诞辰160周年》纪念邮票小型张",
+          "title": "纪念孙中山先生诞辰160周年大会在京举行",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTDJ6alN0VkFseDNlTjNuLUE1Z1NUMEFFQ1dnRWNPMFpJc2RzSUUzcXpWc2JLU09fei1tZDhkY0tHeTcyLUFWSmMwNm5rN0RpdVFRM1h6SThzVTY1cm5mTEFzUnRrRDdGbTdiZm02MWotUkhaRHIwQUVENHE4bWJoU3VaQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HTEQ1Y2xWbHNBSTJqNFV5bnNndmZQTWNzWUFQNVExN0xsbjBDbm1LWjJueXRNRGN1QV94NC1IdFEwVG10T3R6bEhDQTV4TnpheUxQV29RQmx1Q2hVdlVNbw?oc=5",
+          "source": "光明网",
+          "published": "2026-11-13T01:50:00+08:00",
+          "summary": "纪念孙中山先生诞辰160周年大会在京举行 光明网 第一观察丨不断赋予“振兴中华”新的时代意义和内涵 新华网 习近平称中共是孙中山的继承者；台湾：正视孙中山创建的中华民国存在客观事实 美国之音 中国邮政发行《纪念孙中山先生诞辰160周年》纪念邮票小型张 新浪财经_金融信息服务商 澳门特区政府举办纪念孙中山先生诞辰160周年图片展 新浪财经_金融信息服务商",
+          "summary_zh": ""
+        },
+        {
+          "title": "特朗普总统要求副总统万斯将工作重点从伊朗谈判转向美国的腐败",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEZSSkdIUFhfVE1TT3A5MTBQN2U2Q2d1MURndWxuTS1MWGVMaXFOX3lOcW8zUlFUYU9sb2htYVA5RWxBakw2akdDTE9mWUVuUEVQdE1BX01fWlRydUdSaHctWnVJdWRsT3c5SzVKaU9VcUlqSTVsdm4wWFQwcm9lZ044SnJKdnY5VC16bGNlMW1YLXlUVFFWN1ZHZUR6OW1OSXZMeU1LRmJITl8wV2cyOFNLNVYxdW9WcFh2RklaSmhpNXd5UDRF0gHKAUFVX3lxTFA0aDFOYUtpdVlObkJ5SlFyc29BWHJIZ05QaGlTS3c2dWNtb1FBZFZoQmZJYTg2Qm5ZQU1jb09FTDc5Q19OeFdGS3dScVptZXAzcGY5aXQ2RjI5SFNtaFl2c1lpUVYyTXV1a0NJMzlJTktOWlV2T0dST2FmMG5JRm9Ua2tSaDBrRXluZjQ1VWxDd2NVQ3JYTWxOMHg5WXNGTUNFcXJxbjlkZVdmek1tMzdtM2JkOE5ORUNnMXBjcllQVzRNZW9DYV9HbVE?oc=5",
+          "source": "美国之音",
+          "published": "2026-11-13T01:20:41+08:00",
+          "summary": "特朗普总统要求副总统万斯将工作重点从伊朗谈判转向美国的腐败 美国之音 特朗普：美国不需要与伊朗达成协议 凤凰网 战或和都不选，特朗普想用这损招让伊朗“窒息” 观察者网 特朗普称美国不需要与伊朗达成协议 中国网新闻中心 特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口 Sohu",
+          "summary_zh": ""
+        },
+        {
+          "title": "外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tNmJZWG5BMGsycVRHR0pvcHU5TDA2QzJ0aWIwak1yLWRtcUdqQUVWX3h5dFZUYWNQdnYyVU84MUY4dnlXMEE2ZV9ncnlBUnBIMWI1ZEVlbEs5Mm5CdzRTNV83VnF2V1hG?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-11-12T22:11:11+08:00",
+          "summary": "外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵” 中国新闻网 特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵” 新浪财经_金融信息服务商 “地狱般的争吵”！以媒爆特朗普与内塔尼亚胡就伊朗问题发生激烈冲突，以总理办公室否认 华尔街见闻 特朗普要体面收场，内塔尼亚胡却想再打一仗 凤凰网 面临下台之后，内塔尼亚胡与特朗普就伊朗问题又吵了起来 Sohu",
+          "summary_zh": ""
+        },
+        {
+          "title": "俄副外长透露部分俄美乌三方会谈细节",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjWFFRRkIyVVNwbHRITjJDZjI0REtMcDhvLU9OMmJUbmJmMGFIYmpOZXNYWkI4NXEwNjZyMUw4WjJJTld4emRMNmthaTFidFRTa08yMDU5N1AzSzV2UlZ2YnQyR2JQZHJB?oc=5",
+          "source": "央广网",
+          "published": "2026-11-12T17:52:37+08:00",
+          "summary": "俄副外长透露部分俄美乌三方会谈细节 央广网 俄外交部：欧洲正在阻碍、破坏谈判 凤凰网 专家：要真正结束乌克兰战争，中国可以发挥相当大的作用 美国之音 联合国：支持有助于解决俄乌冲突的努力 浙江在线 泽连斯基：美俄讨论俄欧安全架构“有点奇怪” 凤凰网",
+          "summary_zh": ""
+        },
+        {
+          "title": "重庆首条全自动运行城轨快线开通运营",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jdk5Hekd0NkRQVVFGbXJaTi1vNjJJSVdFN0hSVXdzVDR1dWExOVp5RV9YTGM0VV8zRElibGZydXlhS3JNXzM1c0tidFNVSU42emZ0OFl0TkEzWHF4NmRZQmlab3B0M3NjN0ZOZklXUTJsT0w3d00zMw?oc=5",
           "source": "新华网",
-          "published": "2026-11-12T13:01:28+08:00",
-          "summary": "中国邮政发行《纪念孙中山先生诞辰160周年》纪念邮票小型张 新华网 习近平：在纪念孙中山先生诞辰160周年大会上的讲话 北京市人民政府门户网站 纪念孙中山先生诞辰160周年音乐会在吉隆坡举行 新浪财经 “振兴中华”的百年回响 人民网 跨越时空的家国情怀：90秒感受青年孙中山的港澳岁月 新华网",
+          "published": "2026-11-12T14:43:11+08:00",
+          "summary": "重庆首条全自动运行城轨快线开通运营 新华网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "国际人士热切期待APEC“深圳时间”",
+          "title": "学习贯彻党的二十届五中全会精神中央宣讲团在中央组织部机关宣讲",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NVAzRnltTXZrZGFmSW9ieU9ZeURXZDRwWERkMFZyWjh1WWtGSnR2bFFtZTlIbWZ5cGU3N2ZQUUhDSG9TSVJTZmRwbDc4ZUt3SHE1MG5QVm5HaHN3WG9aR1lqZF9RdXlK?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-12T11:10:23+08:00",
-          "summary": "国际人士热切期待APEC“深圳时间” 中国新闻网 亚太之问 中国作答 | 绿色通道串起亚太供应链、产业链 央视网 “全妆”深圳，出圈了 新浪财经 中国外贸“APEC含量”十足 这组数据给出答案 中国青年网 APEC进行时｜ 央视新闻来了！ Sohu",
-          "summary_zh": ""
-        },
-        {
-          "title": "亚洲5天3场峰会登场 美中俄互动及AI安全受瞩",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNeFVPUEp6TXpHM1N0MDJ3OE1xTGpaUnMwN3lMQi0zcEo1V0FYWDg4RHJiX1dXNXJ3T19iV0RhajRZQnBObm9WTDRqNnZneGpHTVpjR2dRb0ZzZUtZUVBOQnRJbEJ5cjRXN21pRmV1Y2FjMGJHOURDUEFnQVYzdWxoMlRPLXR6QnVWekt6bDRMQlpkWlp0VEZpWllVLUswQVZ5UVY5ODItT2ZhWVg2OWF1Vkw0c045eGNGbFBMcld4ZjkzTjZxTTEyRGQxVVN4a3pzcDBtMlBQMy0wRDRMVWRrM1M1ZjRpUEE4OFJCemdacXhNbGV4VkhYcHhXbkN2TkV2dVdhN3p6WlVKTXk5R1dFVmthd0hnQTRQSk9TWlF2T2R5RnNkMFVxWmhyakVPTEhXa1VOZWtWU1BfdWlWTXdxcjU4aTVrUjBMZWtOVWFOSzM4cmN0U0E?oc=5",
-          "source": "RFI",
-          "published": "2026-11-12T14:01:39+08:00",
-          "summary": "亚洲5天3场峰会登场 美中俄互动及AI安全受瞩 RFI 美中俄峰会筹备发生分歧 北京要求照稿发言 RFI 中美俄元首可能在APEC期间举行会晤是否有最新情况？外交部回应 ThePaper.cn 外交部：中美双方就两国元首互动保持着密切沟通 Sohu 中美俄领导人是否在APEC举行三方会晤？外交部回应 中国青年网",
-          "summary_zh": ""
-        },
-        {
-          "title": "永葆清醒坚定谱写时代新篇以习近平党建思想为指引我省持之以恒推进全面从严治党综述之三",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5TkZESUJRUU1rQ0V3N3ZxOTVNN2FKVmIxZndnSzR3dXBpLWRxTnVMYXpkdXVEenZTbXQ2OW9SdUk4VlZEc0REUVhPeV8xNktYV0lkQTBQei13TDk4azR0bGFkRzNWcUZrWmVHRklfaVB3RWNS?oc=5",
-          "source": "黑龙江日报",
-          "published": "2026-11-12T10:20:30+08:00",
-          "summary": "永葆清醒坚定谱写时代新篇以习近平党建思想为指引我省持之以恒推进全面从严治党综述之三 黑龙江日报 学习贯彻党的二十届五中全会精神中央宣讲团报告会在杭举行 曲青山作宣讲报告 王浩主持 刘捷王成出席 新浪财经 时政微观察丨从总书记引用的典故，感悟如何涵养党性 央视网 石景山区卫生健康系统开展学习贯彻党的二十届五中全会精神专题培训 北京市卫生健康委员会 陈小江在乌鲁木齐宣讲党的二十届五中全会精神并调研基层党建等工作 Sohu",
-          "summary_zh": ""
-        },
-        {
-          "title": "小学男生叫“嘉豪”总被嘲笑，求妈妈改名；治理“嘉豪梗”，不能只剩“改名”一条路",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmlqOUpJenpiRmVyT2QwZDlWZUNvQi1wNEE1VUxEb0tSREc5UDJGRExFdG5qZUN6cWh3c09jTDNDWlNJN181UjEtNGVLZzVPU1NHSHp1UkgwTDhDQzhPX1ROM3ppNkJCNzhNSnFfUFJxVzhOYzRVUWFmcUlYVjlONHFIUDhXVnky?oc=5",
-          "source": "Sohu",
-          "published": "2026-11-12T14:38:34+08:00",
-          "summary": "小学男生叫“嘉豪”总被嘲笑，求妈妈改名；治理“嘉豪梗”，不能只剩“改名”一条路 Sohu 人民日报：别让玩梗毁掉一个名字 凤凰网 小学男孩名叫“嘉豪”总被同学嘲笑，晚上都睡不着觉，不停问妈妈：我能改名吗？ 新浪网 马上评｜名叫“嘉豪”的孩子，不该被嘲笑 ThePaper.cn 小学生求妈妈改名，因为名字成了学生圈子里骂人的梗，如何看待这一现象？ 风闻",
-          "summary_zh": ""
-        },
-        {
-          "title": "向着全面建成世界一流空军奋飞",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5OHdiVER4ZXZSRHQ1REdrTXNRbml5eHBuLUxrYWxaZk0tbkZVVkYwQzlHRHhObDJ2QWNhWmFxZVp4QnRVbFFhbFg1a0dySUNsVWgwMXhiVTlsaXRjVDNTNlhFZEVyc1VGVzNiR2hzSElsUQ?oc=5",
-          "source": "人民网",
-          "published": "2026-11-12T08:44:00+08:00",
-          "summary": "向着全面建成世界一流空军奋飞 人民网 学习手记丨向着全面建成世界一流空军奋飞 凤凰网 打卡中国｜看空军战机巨变，探飞行奥秘：长春开启蓝天盛宴 ThePaper.cn 4000小时航迹，与人民空军共成长_手机新浪网 新浪财经 11月11日11时11分，中国空军官宣 view.inews.qq.com",
-          "summary_zh": ""
-        },
-        {
-          "title": "中方会否担心黄仁勋事件影响中美关系？外交部回应",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTcmpFZ3piMEM5cTA0Q25wZUQ0Z0E0amQ0QjRNZjhjUUdVOEduZmNxTnFtNnVFT3BzZUN4UU5zM3Eyd2ZiV1lGc0JtUHNDYkhoMnhhVTFIRUtURkViSmh4THJXdkl2bl9z?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-12T15:25:09+08:00",
-          "summary": "中方会否担心黄仁勋事件影响中美关系？外交部回应 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "国务院任免国家工作人员（2026年11月12日）",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDZsQllwOWdDRUo4QWZIbW5NV0U4anpjMFVTOXNoLVM4anRGLTJSU0h1SVNHTFJZSzdEUnRBc1hUNzd1U1FtcWtuUGZVd29KbldkVHBUek05cHRtTUVrby1Ua0dEdzJzU3dkeFU1NlJMVEhxS0V6YXpoMlhCUHFPb0k0QQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JSHRLXzdhb3ZWMDJETy1Fbk5TcVlrQ0lXb0FCOFVBRzB6MEdfamw4aE5QaUhSNGpNb1NDXzJHMGVKTDBwWHFZcC1PR2hfRktNT1lKalBwNjlBRzdfUU9kQ0I5Y2VUXzM4a3g1NEpXRGdzVEpWbjFZ?oc=5",
           "source": "新华网",
-          "published": "2026-11-12T16:01:19+08:00",
-          "summary": "国务院任免国家工作人员（2026年11月12日） 新华网 赵世堂任国家信访局局长，李文章不再担任 ThePaper.cn 陈福利卸任全国人大常委会副秘书长，已任国家知识产权局党组书记 凤凰网 受权发布丨全国人民代表大会常务委员会关于接受陈福利辞去第十四届全国人民代表大会常务委员会委员等职务的请求的决定-中新网 中国新闻网 荣海楼任国家税务总局副局长 赵世堂任国家信访局局长 陈福利任国家知识产权局局长 川观新闻",
+          "published": "2026-11-12T19:41:13+08:00",
+          "summary": "学习贯彻党的二十届五中全会精神中央宣讲团在中央组织部机关宣讲 新华网 石景山区卫生健康系统开展学习贯彻党的二十届五中全会精神专题培训 北京市卫生健康委员会 学习贯彻党的二十届五中全会精神中央宣讲团报告会在杭举行 曲青山作宣讲报告 王浩主持 刘捷王成出席 新浪财经 北京市学习贯彻党的二十届五中全会精神中央宣讲团报告会举行，尹力作宣讲报告- 中国日报网 China Daily 深刻理解和把握持之以恒推进全面从严治党的重大原则 Sohu",
           "summary_zh": ""
         },
         {
-          "title": "江西省人大常委会原委员郭兵被开除党籍",
+          "title": "北京：到2030年国际交往中心功能体系和空间格局将更加完善",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWNm96eGpJMGo5d1hudFRWZHJuVVpqTW9FRldjOF8wcEVXaVJNaVU3MXBsNFRwWmlBS3VEVHA1YkJtZ2oxTl9wbm1OY1VWSVZMLXU2LTk1VVdCcmY3ckh1WWM5am0zdHhq?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-12T14:40:41+08:00",
-          "summary": "江西省人大常委会原委员郭兵被开除党籍 中国新闻网",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCeFFJYUxUMDVMZjZKX2JVOC1HcW1qZVVZYVF0Z293UGhQdXVnRktFLXg0SE9yYjRIYnM1V3BoTXpueHpPS2U5RXBmamkwX0FTQlVVdmtTVFRZMHB0RWc?oc=5",
+          "source": "京报网",
+          "published": "2026-11-12T23:35:42+08:00",
+          "summary": "北京：到2030年国际交往中心功能体系和空间格局将更加完善 京报网 彰显开放包容融通世界的大国首都风范！2035年北京基本建成具有全球影响力和吸引力的国际交往中心 Sohu 北京将建设“近悦远来”国际化环境，让更多国际人士读懂北京、走进北京、爱上北京、扎根北京 Sohu 北京“十五五”国际交往中心建设路线图：东西南北四区域各有重点 Sohu 吸引138家国际组织在京落户，北京拼的是“生态” 京报网",
           "summary_zh": ""
         },
         {
-          "title": "常州市“119”消防宣传月正式启动",
+          "title": "全民消防 生命至上——九江交发航服扎实开展消防培训暨应急演练",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYjdXNFhVM3A5dUozekZBeXk3MWJ5VlU0TjhCaU0zZ25tVkZRbXdzR1JQbVNCZ3Y2WVIyX3pwa3RvZHJkVTN5S0JDT25ucW1TcGlPTTE5aHhyejVuNXJrTk91OUZ5TnJld3Zyc3V1YkZJX0tQc0ZQU1pMS2RENmVwclZLNXpaNlk3?oc=5",
-          "source": "江苏省委新闻网",
-          "published": "2026-11-12T10:56:00+08:00",
-          "summary": "常州市“119”消防宣传月正式启动 江苏省委新闻网 昌平消防开展119消防宣传月主题实践活动 北京市人民政府门户网站 聚力消防安全宣传月 深耕社区保安全 新浪财经 鹰潭启动2026年消防宣传月活动（图） 凤凰网 自防自救，才是离生命最近的防线 Sohu",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sUU4yZ3lwVXNObERraWhWVXlGeWl4aWVhVVBhVmp4MzBYTHFpSEVVNUNVVG9tb1NaQW9fdWs2d0xDeGN0SjF3VTVDMFFKMnJQc1ZINVY2YlhlVjRRTm40?oc=5",
+          "source": "九江新闻网",
+          "published": "2026-11-12T23:30:06+08:00",
+          "summary": "全民消防 生命至上——九江交发航服扎实开展消防培训暨应急演练 九江新闻网 昌平消防开展119消防宣传月主题实践活动 北京市人民政府门户网站 科技力量正重塑防灭火各环节 央视网 24支队伍同台竞技，这场消防比武“火力全开” 新华网江苏频道 聚力消防安全宣传月 深耕社区保安全 新浪财经",
+          "summary_zh": ""
+        },
+        {
+          "title": "（深圳APEC）从上海到北京再到深圳：中国与APEC的双向奔赴",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93WHdzN2V1UEFOc0tWV2lXYVJwR1ZFaWg2THdhc1NQMmpPMDl6RklhNENGUkc4V0pValBtdUFSX3U4dm10Q3BLbGhyaDIxOHNXUmRqbG1ybXZVbk5jUHExXzRRQm1tUHZu?oc=5",
+          "source": "紫牛新闻",
+          "published": "2026-11-12T20:56:00+08:00",
+          "summary": "（深圳APEC）从上海到北京再到深圳：中国与APEC的双向奔赴 紫牛新闻 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "11月11日，中国人民解放军空军成立77周年纪念日，人民空军生日快乐！致敬空天卫士",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sMkVZTVBBWkNqOTV1UXpmS1NyQ2pHSWhURHdacnlUd0dIQ0JVZml3LXBOcjZGbURSMjRiOTR5WGQtRnNsYUNLUTZ2d2tuYVF4VERYSXdENXU4LS1oV3M2VEZ5Rmd2dG9IVVVaLUU1d0E?oc=5",
+          "source": "中华网",
+          "published": "2026-11-12T19:29:39+08:00",
+          "summary": "11月11日，中国人民解放军空军成立77周年纪念日，人民空军生日快乐！致敬空天卫士 中华网 学习手记丨向着全面建成世界一流空军奋飞 光明网 凡人亦可上蓝天：长春用硬核和真诚，把飞行梦递给更多人 ThePaper.cn 中国空军海外账号“China Air Force”今天发布双语宣传片《九天之上》，将这句中国古典诗词翻译成了英文 新浪财经_金融信息服务商 77年前的今天，我们终于有了“翅膀” Sohu",
           "summary_zh": ""
         }
       ],
       "ai": [
+        {
+          "title": "Associate professor finds agricultural relevance in artificial intelligence — and a rare sense of place",
+          "title_zh": "副教授发现人工智能与农业相关——以及一种罕见的地方感",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDFWOHg2bGZVdm1idWVYcF8zZTUzblFuRjNjdzJ3b3pyZnpoR1ZFUzNteE5wV1ROYl93cng1Ti04bTI0RXRGbXFpZmp4dzhzekhTVzZzd2QyOEhQY1VwakVqNUlkUWQwTUx3U2loaUdkREdBdmxPZmxyNEtERk04SXpSVF95anVHYkttVHhKT2E4NWlFemhVb0lsYmFaT2RTM3JZOWRHbUFleXFEUklCRERmalpReHdobW1YUEw3d0NzTjNXQXJqYzNVMUJWSXp2MllOcV9TbV8?oc=5",
+          "source": "Auburn University",
+          "published": "2026-11-13T00:49:10+08:00",
+          "summary": "Associate professor finds agricultural relevance in artificial intelligence — and a rare sense of place Auburn University",
+          "summary_zh": ""
+        },
+        {
+          "title": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly",
+          "title_zh": "公共卫生机构如何有效、负责任地使用人工智能",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3hXd1F3VnVfUTB4cl8yZ1VoMy1VWDVBU1gzUUh2M3JxNnJRQzI2ZmF2YUc2Yk1qa1ZpYWxicnRQZU02OEFYRUxjN0g5MXhEVXFUYWY2QV9wTFNVbnhXVUpEQ0o2OV9fX1VIcFo5RUdVbUdOeDFsSXotTWFoYUFtX3hySXQ0b1FsYjlYSEtxWUdoVVdTcXVHWDk0UXlWWGQ2dkswWlp2b1BDTDdlLTZQelAwLWx2SUZRVXZhUmo1YWtIY3dyMVM1SWpVU3pKa2xZNlk3bk03YjlkMU40bkp4VFVvVEJGUQ?oc=5",
+          "source": "The Pew Charitable Trusts",
+          "published": "2026-11-12T22:59:26+08:00",
+          "summary": "How Public Health Agencies Can Use Artificial Intelligence Effectively and Responsibly The Pew Charitable Trusts",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial intelligence in the classroom",
+          "title_zh": "课堂上的人工智能",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0hjamRaV2dYa0tWRkFaVXNYMHdna01DMmFZdmhnbW9lV2xFNjdnZWZDY3FLdEZqNHQ3dnh1MjUzNW95TXlISDlFaXZ4UnVJWC13Skl0YmJiWjFyRVFKbEowU2xnWjdHWXFBV1pMMHFGSnNVMy1EWktPMjBjbkI2TGhxV0EyRF9qZ2V0N3pLS1E?oc=5",
+          "source": "Tri-Cities Area Journal of Business",
+          "published": "2026-11-13T01:30:00+08:00",
+          "summary": "Artificial intelligence in the classroom Tri-Cities Area Journal of Business",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial Intelligence and the Things That Matter Most",
+          "title_zh": "人工智能和最重要的事情",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVhLa051RWlnYVJYWlZTeUxwRUhYUVQtcnU4YkhZZm5mcXIzcXN1X0hCNk5kMWxJS3NnUVctalBaVENaWkR5RWtqb0dTVVJadHkxakV0cXFNQkpzWEJrQzlUZ2ktbG9TdG1URUlJVWoyNk05aDgtcHNVNmNFdXJRTnh2Y0xCYjQ?oc=5",
+          "source": "Good News Magazine",
+          "published": "2026-11-12T21:53:27+08:00",
+          "summary": "Artificial Intelligence and the Things That Matter Most Good News Magazine",
+          "summary_zh": ""
+        },
         {
           "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
           "title_zh": "据说黄仁勋与向他汇报的 Nvidia 高管有关系",
@@ -198,84 +234,48 @@
           "summary_zh": ""
         },
         {
-          "title": "UA faculty clash over postponed artificial intelligence guidelines",
-          "title_zh": "UA 教师因推迟人工智能指南发生冲突",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWC1vVW5nX3ozdy1fbUZmVjd4cWpCNllLZDY5c1E5YXBTTS1FdG9FTzA5a3d1SnUzeWsyRzFzMlV6V1F6ZFhYUmtDMExpSUNUQ2gyNm1vaTVrb1R0SjB6SzJESTgtOEs4cHBxR3phSkU0bEFNTHZkRGpndTFtMmwzLXRuQTZLQWFYVV9rYjFYbTFwbnhsZ29LZVNyNDBlVF9RV0dpb1BFYzJXTDlXRTN5N2xhTk9XTEw2bUxmTA?oc=5",
-          "source": "Anchorage Daily News",
-          "published": "2026-11-12T09:00:21+08:00",
-          "summary": "UA faculty clash over postponed artificial intelligence guidelines Anchorage Daily News",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial Intelligence and the Future of K-12 Education: What Do Parents Want?",
-          "title_zh": "人工智能和 K-12 教育的未来：家长想要什么？",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUlsYldReTV1azdwQ0JxWWJvVGhON241MktSVzdKdGhCanhLMmphcld1NXBGei13c0NwNjZJd0VDcEhreUhDV2xWaXVaNmJFNVFpSE5CR092Z3hwaGV2NEx1b0Mwa0Yya2t0SjBqdWtoUXN2RjMxNWhZU3FuRm5QanEtTDkxbFZnX0syOENOQ0s3bVk1SWdwWDRkeHlCbmJMWG5HeVlHRVNselVkSnlMTTVn?oc=5",
-          "source": "Institute for Family Studies",
-          "published": "2026-11-12T07:12:39+08:00",
-          "summary": "Artificial Intelligence and the Future of K-12 Education: What Do Parents Want? Institute for Family Studies",
-          "summary_zh": ""
-        },
-        {
-          "title": "5 Best Artificial Intelligence (AI) ETFs to Buy in 2026",
-          "title_zh": "2026 年最值得购买的 5 只人工智能 (AI) ETF",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzA2Wld0QkFFTkVjZGlIQ3JfdklNNS1SeUVIb21TMFlFZTc4ejB1UWZqN3FLT2FlWVhEeW5QOFM1STZCM0kxRE9lcERjRTY4ZjlDZFNLaVNiSDVZMDhMdjEwbUQ2WG9XeUZ5M2hBeENWaENUbE5tTE1tU2tBS0x5TV9Gak8wVUlMTmlqRl85SkQzSnJmMGd0T1JaelpWS3lvVWc?oc=5",
-          "source": "The Motley Fool",
-          "published": "2026-11-12T15:17:04+08:00",
-          "summary": "5 Best Artificial Intelligence (AI) ETFs to Buy in 2026 The Motley Fool",
-          "summary_zh": ""
-        },
-        {
-          "title": "Public funds ploughing cash into AI will 'own' megatrends shaping economy",
-          "title_zh": "公共基金向人工智能投入资金将“拥有”塑造经济的大趋势",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjBfMHFEMWtxaW56eGgzUTV3TUtJajZJUmdaS2NzY2tkY1I0aFhlYTRlZ3pNVVViQ01HQU5kTHNzWWxaUlJnZGRVekU2VUlIdlRtQnVZMGV1QjdzbGliNkgzWVFiemVWdkFleTMtTEdpU0NPQnl3bERNR3Z6dHh0NVBIWkh0ci01VmJXcVhUYTVXYUREejJUVUFLeXQ1WmMwSEszb0xnTFFEM3JpZTE0RHdXUjgwYU5neXViclZhYkUwdw?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-12T14:06:00+08:00",
-          "summary": "Public funds ploughing cash into AI will 'own' megatrends shaping economy Reuters",
-          "summary_zh": ""
-        },
-        {
-          "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
-          "title_zh": "使用 Amazon Bedrock 和 Spring AI 构建自主 AI 代理",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjMtUXdRbkMzdnVCelA1ZGJXZkdmWEZITXRxMkVQelJSdUJtby1ucFRTVmRsRExGbGg2RHJJV3Q3MzUwQ1B4cUNPbFpNVUhHdk13cVBveFlUclBuQ2tXbktzQjRwQlBOcF9NdzRxWU9FU0lhNFJUZm5GSFBycEd3bllQRi1JODVOTFVoNk1zQ3VBZ245LU1DSGF2ZkNjSml6dWw5R3F0ZnN4MGc?oc=5",
+          "title": "From prototype to production: Engineering agents with Agent DLC",
+          "title_zh": "从原型到生产：使用 Agent DLC 的工程代理",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzRXUUlETEloeWJjUXpaYTNJSVdhX2N4REZJYjFuM09XNGdMaWp3b3d1WDZBQV9IWGhaTDJFT1BmSjhkQV85WkdEeXJXeE90SnIxMnpSWm41NTVWR3RlY1l5bnlXTW05bEN4T25XUmpTdkZoS1g5NVdaT1B3OVAweFRnQWxieXc1bUhldlA2WG5sclBQWG5HaTV2Q1hmMTkwb3BQUzE5ZE1XbHQzeEE?oc=5",
           "source": "Amazon Web Services (AWS)",
-          "published": "2026-11-12T09:18:23+08:00",
-          "summary": "Build autonomous AI agents with Amazon Bedrock and Spring AI Amazon Web Services (AWS)",
+          "published": "2026-11-12T23:38:47+08:00",
+          "summary": "From prototype to production: Engineering agents with Agent DLC Amazon Web Services (AWS)",
           "summary_zh": ""
         },
         {
-          "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence",
-          "title_zh": "探索自闭症患者如何与人工智能互动",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSzE3YWtULTBGOE1fZ21ZM0Z5aWdiWTV4VERGYzhSVmZyWDZwWDFMMUxGRTAyS3JoQjF0eURWVGdTX2pheWxHTnpyZ0liZlNBMGdoUGFyaVBqQ2hQamlKWWE4U2Nqb1NTRm9SZXlWOE43T1BIdUc0MTRHR24ybGpaNXpNZFQ1Z01ucEJtMjk4RmtWUUVucHlZS21Wd21YYmk3d3JNYzlpY3FGaW11bGJYSWJnQUtZamgtTUtOdG5rWQ?oc=5",
-          "source": "SBU News",
-          "published": "2026-11-12T04:37:35+08:00",
-          "summary": "Exploring How Autistic Individuals Interact With Artificial Intelligence SBU News",
+          "title": "IMF monitoring AI developments, too early to say if AI reassessment underway",
+          "title_zh": "国际货币基金组织正在监测人工智能的发展，但判断人工智能是否正在进行重新评估还为时过早",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOajBjUkJzUkpMQjZLck00SEljVmF6U3lRNWRVY3l4S2RpdDhJUVZHY2tmTmNrbE85VFZTQjdWU0ZiU1U0Nl8td0haRzdKOVhEYWRjMFFKaDhfbVE2NkoyS1dOUm96czBjSmlhdmJzcTdVSk1oUzZqSW1UQzZFR21zRDBlOWd1V0oxRk1ObUVlYlVjT0RfOFhlWUVZM3R2ZGh5NVAteWY4RGdfcWdqYjFaaFJnRDJOUTFZSmx5eEZ0ZmFrYVpyZ1BUemRHM1VvQQ?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-13T01:49:42+08:00",
+          "summary": "IMF monitoring AI developments, too early to say if AI reassessment underway Reuters",
           "summary_zh": ""
         },
         {
-          "title": "AI Attitudes: Senior Service College Student Reflections on AI Use",
-          "title_zh": "人工智能态度：高级服务大学生对人工智能使用的反思",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2tIRjBEMklzS0plSEkwbDVmNmlMdGpWTWNZRU9vU1NWM1dPbzV6dVdJV3JEUC0tQ0dQblRKcjFrVkVqeUdUb19sUzlia1dBVXNXUUlBYURUU0tfd0tDT0Z6N3FIaXNkcnJoRTVjUnBUdDRFMUhSZ0VUMWpzQnBEbUgyU0h3cGs2eWNNSG41dkowdzZLLXVrYzVTdHZXWFgyMG1TejVMenpsQQ?oc=5",
-          "source": "Small Wars Journal",
-          "published": "2026-11-12T14:05:25+08:00",
-          "summary": "AI Attitudes: Senior Service College Student Reflections on AI Use Small Wars Journal",
+          "title": "Jensen Huang, a global salesman for artificial intelligence, resigns from Nvidia after affair",
+          "title_zh": "人工智能全球推销员黄仁勋因婚外情从英伟达辞职",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWdYM0NMQTJ6VzItbmRMVVFkaGVOakFxSlR4MVR1ZUxLVDVEclhjU1o4N2ZWVjJvd0dObVNUeldXQlFWVHdKMk93dC05ZXJuWGc0VGlROExXUXE2X0NqZnVMa1YzLU5UM1NqNTVkdjluWEFoRmcwWGlyZmVQLWVRc3dnb1U2SWdQM1QteFRvMVZra2hRbk1RNnRZTFpnVHJWckVmdlhDdEk4QWxZT0s4QVRVTVVhSkY2ZHhB?oc=5",
+          "source": "WSMV",
+          "published": "2026-11-13T01:30:00+08:00",
+          "summary": "Jensen Huang, a global salesman for artificial intelligence, resigns from Nvidia after affair WSMV",
           "summary_zh": ""
         },
         {
-          "title": "Saint Vincent College approves new artificial intelligence minor",
-          "title_zh": "圣文森特学院批准新的人工智能辅修课程",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUpkdkFuc1o5UW9GSkpodmJsdXpPTWxncU9VdElHbEJ4SjZ0a3dXb1ZfUkhnaWVfSUd0Y192Q0xvSGVYOHRINDZ4S1FSb0ZNUWFyNFJNaHl3NzJOcHJ0YV9JYzZtTDROakMwb1h5VEZqUVNPa0R1LURTRTlPNGZXOThBMkxyTFZ4MmkxRFF3Zl9UcWZJSjlraXdiazAyU21QNUgyNzB1UjdNYVlp?oc=5",
-          "source": "Saint Vincent College",
-          "published": "2026-11-12T01:24:05+08:00",
-          "summary": "Saint Vincent College approves new artificial intelligence minor Saint Vincent College",
+          "title": "Artificial intelligence lets companies check every transaction instead of a handful. It can also reach where the law forbids. Adamo Brunetti, founder of CODE, explains why the real competitive advantage lies in knowing the difference.",
+          "title_zh": "人工智能可以让公司检查每笔交易，而不是少数交易。它还可以到达法律禁止的地方。 CODE 创始人 Adamo Brunetti 解释了为什么真正的竞争优势在于了解差异。",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVWxhMG11b2p6OU1mTV94NWJJdG9BQm1NSVQ4MElUUEFLZ3BnbnVIaV9WWHk1a0tYR2hRMnhzSTJFa1NOQnV5UUx2WmNWdW05TWdaWkV1MDc1X1hmaEItZEhYOXlwWnQyVEVtOFNiYkRaa0FhNzd1SVo3aG05MXQwdklSdzdwUHNBcXNma0dmcmo2eWlXNEpHLUxJUllCVzhkV2YtT0w1bzJvU1NhZjF5RUVyWEt0XzZETXhlWVppVzY?oc=5",
+          "source": "Leaders League",
+          "published": "2026-11-13T02:27:06+08:00",
+          "summary": "Artificial intelligence lets companies check every transaction instead of a handful. It can also reach where the law forbids. Adamo Brunetti, founder of CODE, explains why the real competitive advantage lies in knowing the difference. Leaders League",
           "summary_zh": ""
         },
         {
-          "title": "Financial Times Names Cristina Criddle Chief Artificial Intelligence Correspondent",
-          "title_zh": "《金融时报》任命克里斯蒂娜·克里德尔为首席人工智能记者",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN050QUUwQy0xYTRFWHBIUWJrMmFRTzlTTFhyU0pLVmVlNkQxeXRwWWt1cW5ZTzBPcUR2Z2Y4akU5WmdYMkhiM2d2aWF1RDV1SUFrU3ZtZzdfdE9oUXFqRjY5ZHY4eS1uS3g5c1BSMndNZEJoaEVvQVR6cmk2bWVzUVhqTWRfTXZfZlg1MGNZRHkwMDlrYkp6ZmxfWlhXM1Rzd09sUm5YVWJuMHB1T1dHeEpLYi1FbEhZSDNrMVNn?oc=5",
-          "source": "citybiz",
-          "published": "2026-11-12T15:52:04+08:00",
-          "summary": "Financial Times Names Cristina Criddle Chief Artificial Intelligence Correspondent citybiz",
+          "title": "Anthropic sued for allegedly infringing inventors' neural network patents",
+          "title_zh": "Anthropic 因涉嫌侵犯发明人的神经网络专利而被起诉",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-13T01:35:43+08:00",
+          "summary": "Anthropic sued for allegedly infringing inventors' neural network patents Reuters",
           "summary_zh": ""
         }
       ]
