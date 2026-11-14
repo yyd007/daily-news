@@ -1,193 +1,229 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "morning": {
-    "generated_at": "2026-11-14T15:57:31.223584+08:00",
+    "generated_at": "2026-11-15T00:58:17.351482+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert",
-          "title_zh": "教皇利奥的另一个家奇克拉约盛大欢迎罗伯特神父",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVNtSnk1YnAzSDBrR3ZfUTRxQi1HelNrbDZ1eUwwckFneGJpampkOVZNZ1J5MEhYNXpEeXU4YV9zN0RiazdNYmVwSmgyUE9yZjV0b1l2YXlLWFQ2bkgyLVRLc2poZUVOVlhISy1UN2Q4eXpZcFlUek0zSzdNZC1IRHZPbXFCUQ?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-14T06:21:04+08:00",
-          "summary": "Chiclayo, Pope Leo’s Other Home, Comes Out In Force to Welcome Father Robert The New York Times More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Pope Leo visits the Peruvian city that has embraced him as one of its own BBC Pope Leo XIV...",
+          "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+          "title_zh": "特朗普、习近平、普京在 APEC 举行的三边会议：期待什么",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkl0WHV4OWtNN0k0SFVuR2E0VXhrOUpYMXZiOUxFYUVYZlBpa00zTTRXaTVmYWtwcGktWjAzUnMxckxsS0l1S2VqekRxbS15ajUwT1p6RkhjU1NtM3JwMU5uUGlqT295Y19OOXJfUXRHWFNLcGw0VFlTMXV1eFNZUXpobDNHcHVtVUxVVVZqMnA5a09LT2I4d05rWmVyUFHSAaQBQVVfeXFMT3ZsNjJfWW9FQ2VPLWROVXp2UHZsS0gwRjBUdkVZMi1tbnhFQXQ1RlBrazNCYTJUcWc2NWU2WGtETnB0MTNNQkJES1l0M011ZWJybldxTFBaZGJIQ1RIaVhXSkVvWVVZRFlSM1h3V1dnbHJiVmkxWnp6Y0wzOXJvaUdmbzk1Y0lyR2RrNTl3YkFzdVdfd21mYk5mQkRKN01TYlQ3ODA?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-11-14T23:27:04+08:00",
+          "summary": "Trump-Xi-Putin trilateral meeting at APEC: What to expect Al Jazeera Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN ‘Yalta 2.0’: Why some are wary of a Trump-Putin-Xi summit NBC News Trump to Meet With Putin...",
           "summary_zh": ""
         },
         {
-          "title": "Trump to have first trilateral meeting with Putin, Xi",
-          "title_zh": "特朗普将与普京、习近平举行首次三方会晤",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-14T11:47:00+08:00",
-          "summary": "Trump to have first trilateral meeting with Putin, Xi The Washington Post Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN Trump, Putin and Xi plan historic joint meeting in China next week, White House says BBC...",
-          "summary_zh": ""
-        },
-        {
-          "title": "What's Trump's strategy now with Iran? To keep things as they are",
-          "title_zh": "特朗普现在对伊朗的战略是什么？保持事物原样",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXIwbkFRM3dlZktvS0VBdHVLQURXY28xdmxYVnNnUUk3Sy1RRmd0dTNBeFhWS29TVVM1RVh3aGd5cmpObC1naWw4a25qTXRPOTRndFY0REw5UlY4d2tlR1dzMFNhbmlXc0NHSXMwWVpZcFZhOE1vQllfT3ZWZXU1X00wLWhiRnNPdmdnQnI4SUJrb0Q5eHRPRmlKYzg1akt0U0ZnM29LejY?oc=5",
-          "source": "NPR",
-          "published": "2026-11-14T03:02:04+08:00",
-          "summary": "What's Trump's strategy now with Iran? To keep things as they are NPR Trump Signals New Strategy on Iran: A Waiting Game The New York Times Rubio says further US military action is not needed against economically weakened Iran AP News Rubio: ‘No need’ for further strikes on...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
-          "title_zh": "欧洲和乌克兰的和平谈判取得进展，但普京正在争取时间",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUF0RjZSUldra2R2TVp6OUg4YmFBRDdHMHYtMnpwNk9MelhKdU92NUtMaC1heV9GYnotUEZvWHdqLXVQejV2bnpScUlTaGlCbU5vU0ozX3pOWENTVGdDaVNoNGRGVzBSbFM3X25GcURsWFBjVFJkLWVxNjJJVkh0NlpJaFFHcnJhMTVNdnJR?oc=5",
-          "source": "CNN",
-          "published": "2026-11-14T02:24:53+08:00",
-          "summary": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time CNN Politics The Economist US, Russia and Ukraine wrap up Abu Dhabi talks with teams agreeing to a prisoner exchange DW.com Putin’s chief negotiator vows to seize ‘every inch of Russian land’ in...",
-          "summary_zh": ""
-        },
-        {
-          "title": "BBC undercover reporter is offered fake art and awards for talent visa",
-          "title_zh": "BBC卧底记者获得假艺术品并获得人才签证奖励",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhQy1yV204b21oU05GS1ItTWJWU1dpV01uenZ1bGszc3RCbTE1Z29CVW92Z2wxbVBZWHIwY3QxMnAtYlE2UkVLc2xXMElDY2h0S1hBemhMdG8?oc=5",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "title_zh": "泽伦斯基表示，美国已提议乌克兰放弃顿巴斯以加入北约",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
           "source": "BBC",
-          "published": "2026-11-13T22:45:19+08:00",
-          "summary": "BBC undercover reporter is offered fake art and awards for talent visa BBC Art Visa Fraud: The London Firm Selling Invented Artist Careers Artlyst Migrants offered £100,000 fake portfolios to cheat fast-track UK visa scheme in major immigration scandal GB News Fake UK Artist...",
+          "published": "2026-11-14T23:15:57+08:00",
+          "summary": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says BBC Zelenskyy says a new European security framework floated by US could benefit Putin AP News Three killed in Russia as Ukraine claims US floated NATO membership option Al Jazeera US floats Nato...",
           "summary_zh": ""
         },
         {
-          "title": "UN climate summit pushes electrification goal as groups call for mining safeguards",
-          "title_zh": "联合国气候峰会推动电气化目标，团体呼吁采取采矿保障措施",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXlUSWVwbVZ3UkJ4dERlR1FpSXZ3WmZEN2ljSnotaS1HNE1CS19CZ0lLZ0hXa3l1SEotV01uWWRRNVBQSi1ybmxVSE4yN2tYZkwyRTg1VGhOTWxCeUdlMU9vNDhxdGdCZFIzLUhCb19LMEtFZ0VTSm94TlVuMVc1T0k1TGU2LVZCN0dNdUJZcnBCWl9YTXIxTzBmbTRNRXY5Z24wcXJ6bWlrLVhsYUNpMlh3ODI2WnU0WUZtOA?oc=5",
+          "title": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru",
+          "title_zh": "教皇访问非裔秘鲁人社区中心，聚焦非洲对秘鲁的奴隶贸易",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbldQc0RVYVEyM2ozT01IUE1MUENQZl9sdXJDQVhZUUdUbEpEZHFwVVVDLUVKS2ZTQld4QUM1UVc1dWZwNG56WVQ0X3VENnVKTmtJLXZIUlkweUZHU1R4OXJTY0R4RmVadmozLWltdEVFMlh3VGlUM0V6U293Sk9mWjBwbWNLS25yVC1KZlRUbWEyOTk5dEFpRHd2WUw?oc=5",
           "source": "AP News",
-          "published": "2026-11-13T10:03:00+08:00",
-          "summary": "UN climate summit pushes electrification goal as groups call for mining safeguards AP News UN chief urges drastic emissions cuts as COP31 wrestles with fossil fuels Reuters Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks The New York Times The Climate...",
+          "published": "2026-11-14T21:33:00+08:00",
+          "summary": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru AP News More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Pope Leo greets faithful at parish in Santa Cruz and asks for prayers Vatican News Pope...",
           "summary_zh": ""
         },
         {
-          "title": "EU settles on five-nation group to speak for Europe at Ukraine peace talks",
-          "title_zh": "欧盟确定五国集团在乌克兰和平谈判中代表欧洲发言",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdzdxUzRIeEdma0VrYkQtMXpkaF9WWXNCem5wcGRNMkhtZHBUd0MtWnhjdlZmcEd0dmZLRXBwRTRLMm53bnVLanZ5d01RRldxMUlJeDRaeWtWMVVBc2Jmbk41Uzg4RjBVbHE1WDFKRlRvMUFkU2szUXFPWHQzSjhmbHAyR3BWQk9FNDgxOWNfSlMxRFZXLU5jYjlaNzZoWlAxRllCUHBKNmtpZHF2?oc=5",
+          "title": "2 Americans die in suspected drowning incident in the Bahamas",
+          "title_zh": "巴哈马疑似溺水事件 两名美国人死亡",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTRHbFNmU3djMnpjYmpoNFVmdWtvOWtfTXFxM21TaUtELXY1YlNxbEhrZ2JvUXI2X1N0UzE1aEROejNJSU9sRXNkVzVObjAteUNsOUpENGI3bkozdUhKMWlPanZkQXNLdnAzYVVlZmZZTU1PZDJzR2FTVDRraUw5VVZvWjYzZ2VRaUFCQ3oza2RjbkVEbXU4djI2QlU1SUthaWNzTEl0a9IBrAFBVV95cUxQS3VDUDE1ZHROUnV2NVFfMUxSLVFaaGh3UzNtaFAyc2J0cnN6WDRsRUQ3ell5bEMtY0NVdEcycGZyNl9hOVNydThkaVlIQnhFUlhDcWFiNmVzZ3N5TUdiM2pJQTBIamt2ZWU4ay13b1pNQ3lFMzVfOGpFaldfOXVoSFJnWEg2azI2WUxFUEtNSjlrZGNYMlZ0dFE2YlA5V2RycXlDRTE0YW1CeGpk?oc=5",
+          "source": "ABC News",
+          "published": "2026-11-14T16:51:08+08:00",
+          "summary": "2 Americans die in suspected drowning incident in the Bahamas ABC News - Breaking News, Latest News and Videos",
+          "summary_zh": ""
+        },
+        {
+          "title": "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says",
+          "title_zh": "实时更新：伊朗称三艘油轮在霍尔木兹海峡触雷",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
+          "source": "CBS News",
+          "published": "2026-11-14T23:59:00+08:00",
+          "summary": "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says CBS News Sand, sea and surface-to-air missiles: life on the Strait of Hormuz The Economist Iran Says Two Supertankers Carrying 4 Million Barrels Were Disabled. Shipping Attacks Continue In Strait Of Hormuz....",
+          "summary_zh": ""
+        },
+        {
+          "title": "Finland publishes fossil fuel exit plan as COP31 dodges the issue",
+          "title_zh": "芬兰公布化石燃料退出计划，COP31 回避这一问题",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUHZaQ2tyN3k4V3NnNlN0bjhpWUptSkl1MUpyNFRIVnZWOEc4ZXViQWhiVW1HT3ZWankzODQxTnJ0RkdpNUd2SS1Hd2pfdW96TnRTcHBZMHpYT2ViMENVVXBkTEFmNDhUanRZa2lUbHgtTGlDbC1VSmNTdUJia3ZWMEtLTmZMNHBhOFFYQmlBZS1WMjM2WlV0S19hX0pQWFZrd1RXbVVVS3RDNG91dFNNNjByNjk4YU5wQ0VXd0tGZTE2TGhn?oc=5",
+          "source": "Euronews",
+          "published": "2026-11-14T14:02:31+08:00",
+          "summary": "Finland publishes fossil fuel exit plan as COP31 dodges the issue Euronews ‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech The Guardian Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks The New York Times UN climate...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America",
+          "title_zh": "教皇利奥十四世访问南美洲时，大量人群和低疫苗接种率敲响了麻疹警报",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejU1WlA1TVEtUUMwTVd1Zmw1RGhkVmFXM3p0QUxSZDZINExaSWpOc1Z1dDJ4OER2Q19LTVdqT0ZKQ1FyTXJNdnptMURsOGhsOXM4clJhVjVQazFLNS1TTXppLV8yRXZQM2xPMEpOdGNVYzF4Vi15YkluSkt1dDRMNk1xZ1lMTzF5V1VlLWh3VmkxLXpXQzZNa29wTGw3VUJVMTloekpB?oc=5",
+          "source": "AP News",
+          "published": "2026-11-14T13:26:00+08:00",
+          "summary": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America AP News Emotions run high during pope’s prison visit in Argentina EWTN News Pope Leo XIV moved to tears by testimonies of faith and hope during Argentina visit OSV News Argentine...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+          "title_zh": "匈牙利当局在对欧尔班时代部长的调查中发现 2000 万美元",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KRTZKd3lDM0Q1aklOczhiei1yYnBtRGxSUDhwaEtBUm9DSUdwSHhLX0p4WHRzYnhVdHdXRUNVRHNQT3JOR3BhQm5qbEZVS0JKZWlPSW5hczNYbnM?oc=5",
+          "source": "BBC",
+          "published": "2026-11-14T18:42:20+08:00",
+          "summary": "Hungarian authorities uncover $20m during probe of Orbán-era minister BBC Hungary recovers $20 million cash in probe of Orban minister Reuters Hungary seizes $19.5m in cash found buried in forests amid graft inquiry The Guardian Nearly $20m found in Hungary’s forests,...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Gaza sinks into winter misery as Hamas regains strength",
+          "title_zh": "哈马斯重获力量，加沙陷入冬季苦难",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94R0ZEOHlJcDlFdDFyQmdZWG1pLV9HZXNHem1aWlRzVnZJMXcxWkFEQnZqaTVHQzU0dDFpMkthOUppLVJGZmZRc1IydDdNNk14YVFyT201WWF2YTAzLURmWUZBZDItalVKY19JSy1n?oc=5",
+          "source": "Ynetnews",
+          "published": "2026-11-14T14:07:26+08:00",
+          "summary": "Gaza sinks into winter misery as Hamas regains strength Ynetnews As deadly storms flood Gaza’s tent cities, the displaced fear a worse winter The Washington Post The Guardian view on Gaza’s misery: don’t let Palestinian deaths mount in this bleak winter | Editorial The...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Italy says it backs Germany joining next-generation fighter jet project",
+          "title_zh": "意大利表示支持德国加入下一代战斗机项目",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3ZiUHpIWUNRT0ItYnQtY0JYUDVteklyeEE3ZXdhQzJqWXRieWpOMm40a3pUcW9uX3dVS1V3RlhlZUZEcDlTVlJ3TzQ1NEdXNmk1YmR5R0xrcG02TGZzSV9oUW9mN3ZaTEp5Zkp6S0h3NUNoX2EzY21IVjNuRG5mMnRpeVNhU0lKSjhCdVBWS0NmaEI0dmZqQlB4eV9fV1NNZy1kOFdzZWlEcGxHWWlURGZFR2RjX3lDWnBJb2FqSFVQME5QMi1HekFXNHlWNDA?oc=5",
           "source": "Reuters",
-          "published": "2026-11-14T03:56:33+08:00",
-          "summary": "EU settles on five-nation group to speak for Europe at Ukraine peace talks Reuters Europe Agrees on a Team to Represent It in Talks With Russia The New York Times Ukraine updates: Europe to send united front to potential peace talks DW.com Europeans decide on thorny question...",
-          "summary_zh": ""
-        },
-        {
-          "title": "U.K. police launch sex offense investigation into comedian and children’s author David Walliams",
-          "title_zh": "英国警方对喜剧演员兼儿童作家大卫·威廉姆斯展开性犯罪调查",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1hPeG92UzVMYnEtekE2aXk4b1BhVmhGNDhxc0RPNWJfV1FDV2h5Z1FwbGNheDhDclpXVk1fLUNKMkxmYjlpUVRKNU1CWWtQYXd2OE55Tk9vMlRtaldkV3BxZG02MU54UHFxOGRnQUdUVG1Ock5iSEhEQnRYS19fLWRQOWI3UE1UWmZwRjZvc2xWUGNjOTZPbHpVUk53TGR0bWVyeUFweGpiRmlrUjN1bHdHSXl4MWlQX2c?oc=5",
-          "source": "NBC News",
-          "published": "2026-11-14T01:58:44+08:00",
-          "summary": "U.K. police launch sex offense investigation into comedian and children’s author David Walliams NBC News Police launch investigation into David Walliams over alleged serious sexual offences The Guardian UK police open sex offence probe into comedian and author David Walliams...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Cyber attacks and hybrid warfare: Germany gives sweeping powers to its police and intelligence services",
-          "title_zh": "网络攻击和混合战争：德国赋予警察和情报部门广泛的权力",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaEZ1WEVYTWpqbWxMc3VjY2ZTSlhWenkxWERucEZhaDVTaloxaGJ5WFIxaEtEZ0RLM3E5RkRRTjlEa2dQYkdUeHBDUUE2UnpsNjA5TkhHeXJ3dC1kMmJHQk9kVG5sYzlIWUZ1SmlfaTVZb2wyUWVkMWNOZXFrcUsxOUwwVm5sMi1WUVhFRVpGRzBBdG56U0M2dFBKVTdhdWdDQ0EyUXhoUkVLMVM3ZXhnVVdIakxmY1V2eUk3Y3o2UEFNXzNxWHFGYjh0T3hDQ3cz0gHQAUFVX3lxTE5fT1pSNTJKZGx5ZFJvUGFfSjVadUU5V0J5eFZ0a0ZYT0dBbE41YlB6ZU1hZE1BR0FrRHUwNTV2bmc1QVhXTEgwN2xYempJNHN2QUpyUEZfOXI0RU4waGNhSTVGT3FqMlVyUkhaYnJDYWlGVGZoZU0wV1NCY2g4Sm1BTllWMTZxXzhVQl9NdGY3cEFzeHNuaFpNVUZzNEtUUm04di1QN1VIV0RzTldVS29yeTdCUUlwM0EyMW8xRHFQaTdWYS1xTk05ekljRlItZWY?oc=5",
-          "source": "DW.com",
-          "published": "2026-11-14T04:36:46+08:00",
-          "summary": "Cyber attacks and hybrid warfare: Germany gives sweeping powers to its police and intelligence services DW.com German spies granted sweeping new powers Al Jazeera Germany’s spy agencies gain sweeping new powers Financial Times German spies handed new powers to tackle 'hybrid...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Israeli strike on Gaza hospital kills at least 6, including doctor and child, Palestinian officials say",
-          "title_zh": "巴勒斯坦官员称，以色列对加沙医院的袭击造成至少 6 人死亡，其中包括医生和儿童",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaExJSmZfZ1c0WnJGVmRDcWJJUGNFdHdLNE8tNEVyMUptT29kUWVKUmFBRnZ5UDhxUnJjaGN5NXhEbTNwM3V3Zm9wQXQ3UmRJMUM5OWc4cERlX2F2a2NQTTZnR0NPOUpDR0c5RFVNcDQ3MGVLMV9sSzZlTHhKcmRfcGZMQW05c0FhSFpfV25R?oc=5",
-          "source": "CNN",
-          "published": "2026-11-12T20:22:40+08:00",
-          "summary": "Israeli strike on Gaza hospital kills at least 6, including doctor and child, Palestinian officials say CNN Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say NBC News “It’s Just Barbarism”: Dr. Feroze Sidhwa Mourns Friend Killed in Israeli...",
+          "published": "2026-11-14T20:50:09+08:00",
+          "summary": "Italy says it backs Germany joining next-generation fighter jet project Reuters Italy Pitches Germany Observer Status in Fighter Jet Program Bloomberg.com Pistorius blames FCAS collapse on industry, ‘too much ideology AeroTime Germany suffers setback in joining fighter jet...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "聚焦APEC丨APEC深圳会议各项筹备工作已经就绪",
+          "title": "新华鲜报·聚焦APEC丨当好东道主 喜迎APEC——深圳筹备亚太经合组织领导人会议周扫描",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MWlSQ3lTQzhjcU1wOVJjZzhycVM4MTBQUkRaQlNKVk85VHcxaXpZdDMtRFg2cmpiUWRCZld1VGpMa3BtMTdlSXNFNktGMlB6MkN3UXNfZlhHakJrRzAyX3E3cUQyS1JTazNjUXFxS2c0dHJVdEh1bHNEa0ZldWM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZTTRRbkRGRVpPRjlmYXd5M080cDJ4Z1Z4cWpLOWtZamNVcDJQYVU3MUk0azRYTGF2MkJqYW5jazlkX0ZzalNjWXhvaGpwVlF3SDRyVFlrd2hUQ3lmRFZmbll5dTRrNFA4d3BrOWliNjBoUjlfeFVXZ1RkWHNGRjg?oc=5",
           "source": "新华网",
-          "published": "2026-11-14T10:05:13+08:00",
-          "summary": "聚焦APEC丨APEC深圳会议各项筹备工作已经就绪 新华网 （深圳APEC）APEC“中国年”的湾区效能：粤港澳各展所长、协同发力 新浪财经 和合共生｜“地瓜”之喻里的中国初心 央视网 第一观察｜推动构建亚太共同体的中国担当- 中国日报网 China Daily 深圳市市长：衷心感谢市民的理解和支持，APEC期间地铁公交票价五折 ThePaper.cn",
+          "published": "2026-11-14T20:44:51+08:00",
+          "summary": "新华鲜报·聚焦APEC丨当好东道主 喜迎APEC——深圳筹备亚太经合组织领导人会议周扫描 新华网 学习手记｜开放是亚太合作的生命线 新华网 鲜花成片，入夜灯海，深圳准备好了！ 新浪财经 APEC领导人会议周将近 相关活动密集开展 中国青年网 数说APEC 看双向奔赴的投资 光明网",
           "summary_zh": ""
         },
         {
-          "title": "大江滔滔载风云 “首义之城”映民心丨寻迹中山路 奋进新征程",
+          "title": "美国领空重新开放 航班飞行逐步恢复",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82dE91WDNVYlZtWnVvRzh0NXBncjU2ZnRKU2dCNVh6OFJXZFpDdjUyRjlodWhRYWg0YnBsakFfVmxtVklpWUxtOF9LbDBzZ3dGb1V5UFNlRGR3ZDJGYlFvRFBLMlNDd09ITy05SXNHVQ?oc=5",
-          "source": "中山网",
-          "published": "2026-11-14T10:06:44+08:00",
-          "summary": "大江滔滔载风云 “首义之城”映民心丨寻迹中山路 奋进新征程 中山网 一见·缅怀孙中山先生，感悟“振兴中华”的必由之路 新浪新闻_手机新浪网 矢志团结奋斗 再创新的辉煌 人民日报 江苏省暨南京市纪念孙中山先生诞辰160周年座谈会举行- 中国日报网 China Daily 追忆孙中山与琼岛的百年情缘：“先生没来过海南，却把海南放在心里” Sohu",
-          "summary_zh": ""
-        },
-        {
-          "title": "美中贸易理事会举行第一次正式会议",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaDJBTEVHR2h6QS1QejVLZzNpVHpLb2xkUnBQMnY2NGVDNTJldEUxdGN1R2ZNY3Q3UjEyeTN2SXpfTFFzSXpFNFktZWFLMTk2ZGZkdUYyQUd5ZHU0MkhCaklrc0hmOHhHR2h6T0JyOTVnNUNoUEZrQmRGVjJ3YXMxLXZEWnBMcEhMUlF1RHlBenZjZHNXWUNGZDY5cHF1Z9IBoAFBVV95cUxOSWZ5VnFsZnJnUl91Mk9QM2FqR0F2cExDM2dLTmE0OUFSOG5RUFMxck1PNUVhcklEM3FpT01CRHZYS2VNVTNYd3RIMGxPa1lpU0NicTdDVFc1OFdsV1JDQm5vaTBzdmV0S2otR05GTHZBT0NnMHo3MjZpS3h6WmdtNFloaXRSQWxTaWttWExNOGtCOGRTb2RjT21LUUxZbl9j?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUVVWGlEYi1pOUN2N2tzdUYtbFBCT3VLREZrN1l1d0N4YjZFY1hZX3FobFc3cUswejJlcl8wMEVUYThBMXdCQnBmZlVZNktERy16QzNYVW9JUExPWV9tSjFrX3d4NkVia1NsMkhOUXF2WW1GMDRUSG11Q3FPQlM2X0tVNzFOekRqRHdTUWhqZVlDbEx0ZWdTUHltM1EtdUlDS3BhYWRyUXg4amlsN0JpTndDb1ZIZ2JIcUHSAbwBQVVfeXFMTnhzMThINHFZODQzQWRZT1ZlQ1F0RUl5T1hPVnBPLXdONU5fcEpQdWtQb0lzNTl4QWp2M0JKZFI0UVlyQ1oyVmowWmdRdGphbDlUVDM1RkNjUTg4NmVnV1BLZ0pFaVFlTTlEU3RsN1BzbFp0RURCdUhlZzFBWlBEQ0xwa1ZaYnVwWGJDR3ItWk9IUDJSRW9LUVJnX2dWNnhweGpnd0lwaTBKRTA1UHRxQk9RZ1pPdXRYUFpfRXY?oc=5",
           "source": "美国之音",
-          "published": "2026-11-14T05:06:19+08:00",
-          "summary": "美中贸易理事会举行第一次正式会议 美国之音 中美举行中美经贸磋商机制项下贸易理事会首次会议 新浪新闻_手机新浪网 中美举行贸易理事会首次会议 联合早报 美国和中国举行贸易委员会首次会议——《南华早报》 UA.NEWS 特朗普访华前中美贸易委员会举行首次正式会议｜即时新闻｜中港台｜on.cc东网 on.cc东网",
+          "published": "2026-11-15T00:19:56+08:00",
+          "summary": "美国领空重新开放 航班飞行逐步恢复 美国之音 热点问答丨美国为何发生航班大规模停飞事件 新华网 特朗普：空管系统故障与网络攻击或人工智能无关 新浪财经 美交通部长甩锅：我哪知道能搞这么严重，想修好就给我500亿！ 观察者网 导致全美航班停飞的“罪魁祸首”找到了？FAA调查指向20年历史路由器 凤凰网",
           "summary_zh": ""
         },
         {
-          "title": "李强同泰国总理阿努廷会谈",
+          "title": "激励广大党员干部群众进一步奋发进取 学习贯彻党的二十届五中全会精神自治区宣讲团启动宣讲",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RMXhSUklVUmlOR25RekdSdXRqV21DR0E4UVJiSmE5Sk9kMkhXc2lmcXVJR2V6bHR5NWZnMkExd2s5blFVc2JVYm9OdTliRnNVajg5MUVWcFRMcWRVSG80U2xtZDJUOU90OWY0?oc=5",
-          "source": "中国共产党新闻网",
-          "published": "2026-11-14T08:28:00+08:00",
-          "summary": "李强同泰国总理阿努廷会谈 中国共产党新闻网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0hJVVBmMlcyRUxPVVd4UmMxY0NMb0ZaNV9RV3FFV2tyN2tiZzRkdG9HbUl2ZVBnUlUyU3FWUWtXekhhVVFfN3h0emNkcmwzQk85Qkx5Umh2dUxUSjhnOTdneFF4NXMyb2h5cXNDNWRsVzN5aGxRdG1MMnM3ZUZHQi1n?oc=5",
+          "source": "新华社广西分社",
+          "published": "2026-11-14T09:37:25+08:00",
+          "summary": "激励广大党员干部群众进一步奋发进取 学习贯彻党的二十届五中全会精神自治区宣讲团启动宣讲 新华社广西分社 尹弘会见学习贯彻党的二十届五中全会精神省委宣讲团成员 陈永奇主持 凤凰网 时政微观察丨用党的优良传统涵养党性 凤凰网 经济日报评论员：为担当者担当、为负责者负责、为干事者撑腰 新浪财经 天台街头：针线缝就好日子，理论宣讲进工坊 台州新闻",
           "summary_zh": ""
         },
         {
-          "title": "美国突发全国性航班停飞：8000 架次延误 + 3100 架飞机在空中，FBI 初步排除网络攻击",
+          "title": "李强会见泰国国王哇集拉隆功",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92ZTkzRFRtWllOanAyeEhHMUFtOWVKOVJ2VHN1bktJMnY3akRKalFrVHhQVzJ0amZaLXZhMTB0aGNpbTktbEhzcG5VREw?oc=5",
-          "source": "IT之家",
-          "published": "2026-11-14T06:43:32+08:00",
-          "summary": "美国突发全国性航班停飞：8000 架次延误 + 3100 架飞机在空中，FBI 初步排除网络攻击 IT之家 美航空局解除全国航班停飞令 新华网 “9·11”后最严重一次！美国所有航班停飞，最新调查进展 凤凰网 特朗普：空管系统故障与网络攻击或人工智能无关 新浪财经 全美停飞令冲击体育赛事，多支球队出行受阻 ThePaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTFRQ2MtRTVoR01Yb3BsNmYyeWl4SXRBYlBRVl9DTnNaOWo4NTBHdEpDd0ZoamFNNFlUUC1JUVNtdG1CdHRJRWk5ZmlVOXBKeTRPbEZlWGl3VTRIWkNSd2t0MVpza3VlMzRUS3JxRmpxN0JGS3hTZlJvbTNMd3JKSXhIUnh4dzV0dW9vLWFR?oc=5",
+          "source": "新华网",
+          "published": "2026-11-15T00:32:52+08:00",
+          "summary": "李强会见泰国国王哇集拉隆功 新华网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "欧盟机构及欧洲五国将参加乌克兰问题和谈？俄罗斯尚未同意",
+          "title": "追忆孙中山与琼岛的百年情缘：“先生没来过海南，却把海南放在心里”",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sWkt4V3VoX3pCZGp3MHRGODJJbG02Wkp3cGNzd25RQ3ZVNmtpNmJxY1FMRkRrR1M1S1pBZ2hLdV94VzdTWWdLYzBSVWRaejcyUFVQbEtONnRyX1Btdmc?oc=5",
-          "source": "京报网",
-          "published": "2026-11-14T11:40:16+08:00",
-          "summary": "欧盟机构及欧洲五国将参加乌克兰问题和谈？俄罗斯尚未同意 京报网 欧盟机构及五国将代表欧洲参与乌克兰和平谈判 新华网 美俄在是否允许欧洲参与下一轮结束俄乌战争会谈上存在分歧 美国之音 记者手记｜欧洲上桌了，谁来“接电话” 凤凰网 俄外交部：俄美会晤未讨论欧洲参与乌克兰问题谈判事宜 ThePaper.cn",
-          "summary_zh": ""
-        },
-        {
-          "title": "黄河内蒙古段开展防凌抢险演练",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPSHFrNDBMX3d5TUUtZjlWRldlZmZ4STAyS0xzeUZvN1ZXWjhrV2FhMVZIR1FySUVYME5YY3RfTVptUjJ3VEg3MnNKOUVLbDltSnZ2ZDlxeGIzQnVva2RvZFNINnE4ZVVzel9tc3Fwaw?oc=5",
-          "source": "内蒙古新闻网",
-          "published": "2026-11-14T08:50:00+08:00",
-          "summary": "黄河内蒙古段开展防凌抢险演练 内蒙古新闻网 国家防总办公室安排部署2026-2027年度凌汛期防凌工作 中国新闻网",
-          "summary_zh": ""
-        },
-        {
-          "title": "傅藏荣任福建宁德市副市长、代理市长",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52RDdIOWUyUnhsN1VnR2NrRTBRY2VxVm1mOXFyeFZXMXdzTHc5QThzX1BHUjMyUlhsd3lyV0hJdXp5bmhGdHVkVDN1QnJaZXdTeDVTWWJzYTUwZS1hUjJ3dmFtbVVHYnZC?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LY3YtOGFLbnF6c1VPSlkzOHBuRTBRbERiT2RpTFJWeUQ5YkJMYUFveWMtOVJlNjRYelJPbkZ1LVdJV2Z0TWo1eGFyaFZ2S0FoYy1rcXc3NVJ2OTBlVnJCc3VKZnNKNFJM?oc=5",
           "source": "中国新闻网",
-          "published": "2026-11-14T12:36:33+08:00",
-          "summary": "傅藏荣任福建宁德市副市长、代理市长 中国新闻网",
+          "published": "2026-11-14T11:11:47+08:00",
+          "summary": "追忆孙中山与琼岛的百年情缘：“先生没来过海南，却把海南放在心里” 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "一站式打卡“未来之城” 科技引领新体验",
+          "title": "在深圳，与世界同框｜华强北加拿大买手：这里是创新的最佳所在",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03czFyZnctaWNXZ19ucklXS05ySUtkc1FEazZaakJyNTRWTUNOMUhTVFJjZWZVSmJjWU9Ja1pBaG1mcHNWWElJa25pV3BpaWdGSFRZbW9PNDROWk9IRmNkX3ZaQ2lCbGZmNWZ0U3prUUI?oc=5",
-          "source": "中华网",
-          "published": "2026-11-13T11:37:57+08:00",
-          "summary": "一站式打卡“未来之城” 科技引领新体验 中华网 在这里看见未来丨向合作而聚 由创新而兴 为未来而谋 Sohu 英国博主：深圳是科技感最高的城市 科技融入日常 中华网 向合作而聚 由创新而兴 为未来而谋 凤凰网 跟着科技导游解锁深圳APEC新路线 新浪财经_金融信息服务商",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jMi1rNGx5VGpUVnFNMlZTbXU0Vk9PbUdFLXpYM2xrMXhpTGZRUUxnV1ZDaVJ4WHVTZ0pKZ0p4d1ZJZ0tEUzM3QjZHNnRkaTBJdGQ0NTVBZHdIT000blBmZlBfYW5UeFdHYnE4?oc=5",
+          "source": "中国网新闻中心",
+          "published": "2026-11-14T21:24:00+08:00",
+          "summary": "在深圳，与世界同框｜华强北加拿大买手：这里是创新的最佳所在 中国网新闻中心 视频丨6平方米档口连通世界 她的 “国际手账” 记录异国来客 光明网 有商品销量飙涨150%！档口围满客商，华强北爆款上新 Sohu 从华强北到平湖实验室 探访深圳的科创密码 中华网 向价值链高端攀爬——从深圳两大商贸集散地看新质生产力 新华网",
           "summary_zh": ""
         },
         {
-          "title": "学习贯彻党的二十届五中全会精神中央宣讲团在山西、新疆宣讲（学习贯彻党的二十届五中全会精神）",
+          "title": "全球脱碳如何提速？国际环保组织负责人看到了“中国机遇”｜新闻会客厅",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBb3I4bjBPVlk0MTJCUDc3aHMxdDZ4M2c1R3QweHdVOXpKRkdweDZ6cUNDZGU3WGhzTTc5djN4bWg2UjRjb01JUDJYbkJzZTVDN0JNNGlianNoZ3pnSTVJenB3VGJCMmEyc3c?oc=5",
-          "source": "人民网",
-          "published": "2026-11-14T10:13:00+08:00",
-          "summary": "学习贯彻党的二十届五中全会精神中央宣讲团在山西、新疆宣讲（学习贯彻党的二十届五中全会精神） 人民网 天台街头：针线缝就好日子，理论宣讲进工坊 台州新闻 本市召开学习贯彻党的二十届五中全会精神宣讲工作动员会 北京市人民政府门户网站 经济日报评论员：为担当者担当、为负责者负责、为干事者撑腰 新浪财经 时政微观察丨从总书记引用的典故，感悟如何涵养党性- 中国日报网 China Daily",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPODRDWm5uOXRjb2xIM0VmRC1pdmVza3gzemlEYi1oM0QxV2hJUU5zM0lOLVhEZE5QdEpINUZpcXF4blh6NlJvdW9WbERIZzk5QnJYRnlfdnc0XzlXdFJkaG9ma2h3WXh2?oc=5",
+          "source": "紫牛新闻",
+          "published": "2026-11-14T16:44:00+08:00",
+          "summary": "全球脱碳如何提速？国际环保组织负责人看到了“中国机遇”｜新闻会客厅 紫牛新闻 中非携手推动将儿童和青少年议题纳入COP32议程 新浪财经 气候投融资主题边会在COP31中国角成功举办 新浪财经 全球脱碳如何提速？国际环保组织负责人看到了“中国机遇”｜新闻会客厅- 中国日报网 China Daily 特稿丨在COP31，读懂中国“绿色答卷” 新华网",
+          "summary_zh": ""
+        },
+        {
+          "title": "膳承千年国粹 广西以赛为媒推动药食同源产业融合发展",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4alVZNUtyVEpQWlhQX0M2Tkx4RkthNTlDTkNGS2Z2S1M3QlhhUERkcGM5dTV0eWxscTZ0UlpmMWJHV0g4RE83RlpScVhjdDNhWjY0QUpqazgzbUdGeVBBZElRanV1WFVN?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-11-14T20:26:45+08:00",
+          "summary": "膳承千年国粹 广西以赛为媒推动药食同源产业融合发展 中国新闻网 好吃又好玩！第三届广西药膳大赛总决赛暨药食同源产业发展大会开幕 广西新闻网 广西中医药大学附设中医学校（广西中医学校）、广西重阳老年公寓、广西陪陪我健康科技有限公司、南宁喜孕月子中心联队：让传统中医智慧在康养一线落地生花-广西新闻网 广西新闻网 钦州市代表队：用药膳讲述运河边的本草故事 广西新闻网 百色市中医医院、百色饭店有限公司、广西右江民族商业学校、百色百之味餐饮管理有限公司联队：创新民族药膳技艺 广西新闻网",
+          "summary_zh": ""
+        },
+        {
+          "title": "联合国糖尿病日丨控糖之外，糖尿病患者还需警惕带状疱疹风险",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVms1cWFIZU5sOUE0Ui1oUFFCNDlka3lKNTd4d0FkeHlOWi03V1o5VVZBNjN1WVZYb2pBdkhhTzdrTmJ3M2RHT3Z3bkRmVC05WURMc0YwaXdQYjNyT2c?oc=5",
+          "source": "京报网",
+          "published": "2026-11-14T19:04:11+08:00",
+          "summary": "联合国糖尿病日丨控糖之外，糖尿病患者还需警惕带状疱疹风险 京报网 对话健康中国 | 世界糖尿病日：早发现，早行动，健康未来，即刻开始 新华网 糯玉米和甜玉米哪个更“升糖”？“无糖食品”就能敞开吃？听医生细数“控糖”的认知盲区 新浪财经 空腹血糖6.1才要警惕？医生：5.7这条线，很多人忽略了，别等出现并发症才重视 ThePaper.cn ChinaMAP绘就国人“代谢图谱” 向全球开放数据申请 Sohu",
+          "summary_zh": ""
+        },
+        {
+          "title": "天津升级发布大雾红色预警 各条高速公路均封闭",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XTzR5bXhLM0JYOG51NzVFNGlkd2xGR2VzVzFDSnIxTVUzSGtUVDQ3X09zOFJSZEF4cXpVemtNb2tLMTZPU1k5dTNhTHhNSFpOUXBR?oc=5",
+          "source": "第一财经",
+          "published": "2026-11-14T21:28:00+08:00",
+          "summary": "天津升级发布大雾红色预警 各条高速公路均封闭 第一财经 特强浓雾！天津将大雾橙色预警升级为红色预警 新浪网 京津冀局地将有强浓雾 中央气象台发布大雾橙色预警 中国日报网 大雾黄色预警中！北京今天早晨有雾或轻雾，白天最高气温15℃ 凤凰网 橙色预警！天津局地有能见度低于50米的特强浓雾！冷空气这时到→ Sohu",
           "summary_zh": ""
         }
       ],
       "ai": [
+        {
+          "title": "Global X Robotics & Artificial Intelligence ETF (BOTZ) Stock Price, News, Quote & History",
+          "title_zh": "Global X Robotics & Artificial Intelligence ETF (BOTZ) 股票价格、新闻、报价和历史",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwalZtVExybmFFaThkWUJWekcteFA4Sm93eHVXVFd3SzQybm1DWW5SWnlyNUcxdkhpbUhzbU55eXpidTh1ckNZQ0Z5LWRveXdBVVE?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "published": "2026-11-14T18:50:34+08:00",
+          "summary": "Global X Robotics & Artificial Intelligence ETF (BOTZ) Stock Price, News, Quote & History Yahoo! Finance Canada",
+          "summary_zh": ""
+        },
+        {
+          "title": "How Artificial Intelligence Is Reshaping the Legal Profession",
+          "title_zh": "人工智能如何重塑法律职业",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkZlZ0V5R1dVdnBsOTUteGxWdjFtZDRVcUhwYmRJZ1BLeE9maF9ZWXhXeXZEZXl2VG15cUdGdU1fU0ZKN2FHa3pYUFk4QUo0TWRScFBMUFBsWHhZb25PWVdTNm9ZRDhRcFBRSG5rOVdtTnNoSWtCeHZ1MHBKeEFlejhGblByZmJ4OEZsTUxHU0dZZ2RFWDNjRDc0dlNyMDg?oc=5",
+          "source": "TechSpective",
+          "published": "2026-11-14T23:40:20+08:00",
+          "summary": "How Artificial Intelligence Is Reshaping the Legal Profession TechSpective",
+          "summary_zh": ""
+        },
+        {
+          "title": "Is it AI or SI? Neither seems fully right. | Opinion",
+          "title_zh": "是人工智能还是SI？两者似乎都不完全正确。 |观点",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWW14TjI1ejFiQ0Y0WjZRc19RNm9aemNmR2w1X0FzSG1zWktFUzMyVElSa2hiOC1nSEFOSTJYcVBJY29qd1RPalJ6aWNSOWVEY05EcUpPb21ueVF3cmw0VlA1aE1rOWw1S3pFVUE0djhDckVVU0RMQTJaUWNLTzd4YUpKRGFLZDU5ZWV2UG91Z0hUWXhRWHF3aHVTU0V6YnFLdTZUZE05WmFXY1ZfSnhBd1diMlNkNjMxSzVrcXQyRWE4RDNiRmFlaVJaMGhxN0xsQ2Fv?oc=5",
+          "source": "The Des Moines Register",
+          "published": "2026-11-14T20:00:00+08:00",
+          "summary": "Is it AI or SI? Neither seems fully right. | Opinion The Des Moines Register",
+          "summary_zh": ""
+        },
+        {
+          "title": "The Future of Tax: Finance, Digitalisation and Artificial Intelligence",
+          "title_zh": "税务的未来：金融、数字化和人工智能",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU1pscEcwMlZtVklOaGdPYnZJM2NrdTE0VUtTa24tQVVLa05pMHdtUWFTSjFLU3JsaFR4eWs4WUxjdEhRNGhNMUF2T3RJOVlLVmxxRzM4aHlYSlNRTTNlLWh4aEJ4UlF0ZnNKbEFEV05hNGdtZUpZVVN0V1ZQQUxkVV9XeEtUQXJLcjZURjA2R2U3MjRGbklidUVJSndsSVpqamVKZVpyazZLRTd6RW56MzVUcHlLbXF1TEVJX3VudnV3SElKRHBVdVk4a2hjWEIxT2dBRzg0OA?oc=5",
+          "source": "kpmg.com",
+          "published": "2026-11-15T00:18:40+08:00",
+          "summary": "The Future of Tax: Finance, Digitalisation and Artificial Intelligence kpmg.com",
+          "summary_zh": ""
+        },
         {
           "title": "Prior Authorization in Medicaid: Regulating Artificial Intelligence",
           "title_zh": "医疗补助预授权：监管人工智能",
@@ -207,75 +243,39 @@
           "summary_zh": ""
         },
         {
-          "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-          "title_zh": "美联储调查发现人工智能风险是金融体系的最大威胁",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
-          "source": "CNBC",
-          "published": "2026-11-14T05:00:12+08:00",
-          "summary": "AI risks are the biggest threat to the financial system, Fed survey finds CNBC",
+          "title": "New awards show celebrates AI music and its creators",
+          "title_zh": "新颁奖典礼庆祝人工智能音乐及其创作者",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGtiYXF6RWUzZFVXRm9lUTc0QlRNQ1pfLTZGZTZUeXlJdTFtZll2WUdrMmRGdy1oT3RzN3djckdpSHJ3OWRxZnJXSlByWnFNcXlJQ3VJOS1kblRmd1NCRFhYRThOWl9RRVhvUDJMZHpZQkU5RVRJcV9VTzJoUFF1aU1UTXBkQW8zOWR4S2h6RkYxTUxDVXpyLU5CQ1R5cU42RjFN?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-14T17:05:46+08:00",
+          "summary": "New awards show celebrates AI music and its creators Reuters",
           "summary_zh": ""
         },
         {
-          "title": "From Soldier to AI Expert: Fort Buchanan's Transition Program Helps Veteran Find New Mission",
-          "title_zh": "从士兵到人工智能专家：布坎南堡的过渡计划帮助退伍军人找到新使命",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSU1TcXJQLTlFYzhLVFlpOEVsNkdTX1BFWFVmWGxoV1FuTVFqRF9oaGQ4aGpMUnJ1UDlNQkFtVGt2ZHRvaDZRUTYzdmRBTFFCaTdJcVliMF9HNF84UmQ2cWxiVGxvakE0MzNPUE5tT05zM3BTUURfdjlRVFl6Nm1KNmZPTERVQmJvZmx4UWNOdmZQVlZyUmVIVmJoemtxcGcyaVJhWDJhU09pNkx4U05ZTGJaS1I5VWNVUm5HVjFsN0ZiYWUyTk1RSERR0gHKAUFVX3lxTE5JTVNxclAtOUVjOEtUWWk4RWw2R1NfUEVYVWZYbGhXUW5NUWpEX2hoZDhoakxScnVQOU1CQW1Ua3ZkdG9oNlFRNjN2ZEFMUUJpN0lxWWIwX0c0XzhSZDZxbGJUbG9qQTQzM09QTm1PTnMzcFNRRF92OVFUWXo2bUo2Zk9MRFVCYm9mbHhRY052ZlBWVnJSZUhWYmh6a3FwZzJpUmFYMmFTT2k2THhTTllMYlpLUjlVY1VSbkdWMWw3RmJhZTJOTVFIRFE?oc=5",
-          "source": "Army.mil",
-          "published": "2026-11-14T02:42:22+08:00",
-          "summary": "From Soldier to AI Expert: Fort Buchanan's Transition Program Helps Veteran Find New Mission Army.mil",
+          "title": "Seven questions with technology expert Dr. Benjamin Anom",
+          "title_zh": "技术专家本杰明·阿诺姆博士的七个问题",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWpvdWZvNXBGSEtJRWlQeVlFbU14alE2aUhsWnd1MWJUSHFrVU5UVEJZNTdHdTVLS1AyalQ1Ny1pU09nRUdBczZ0eTZuTklFeHpGd0hhVUZ5NjJvVm5MQVRZeXBxWVY1RTJxSUd4aGswX2pnUkl6aktud3l0bjBQU2RLaDBBbFkxQklNOWcyRm9ac0VCMkVhVg?oc=5",
+          "source": "The Edwardsville Intelligencer",
+          "published": "2026-11-14T20:22:30+08:00",
+          "summary": "Seven questions with technology expert Dr. Benjamin Anom The Edwardsville Intelligencer",
           "summary_zh": ""
         },
         {
-          "title": "Fact Check Team: Is AI replacing American workers and how hard is it to find a new job?",
-          "title_zh": "事实核查小组：人工智能正在取代美国工人吗？找到新工作有多难？",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORWdjVmk2aEVwdkJUZ05ZRXpUTi1VLW9ldXpscXM5NDhhOUlwM2hoalBEQWhxVXZ0blJvNXlfdmZzWnc2SG1SeGwxbHVLUHVsOXh0X2oyUnJEZVVJbmpTVDRtQVpXZ0xBeEN5elJhRHplNWNSbk83N3g2SEFYN3VoVDNEdXNGMjRNMHpLd2FWcWhvYllGR2ZCempUM1RaX1NYcVNEbEhXTERhc0hxLTlhTW1MSk9UYWhaX2RRR3NXbGpjZWJ4V3VWXzE0dUpTVlFmbU1WQlh6TGlWWXp5MmVoajVYVGY1ZkUxcThJTEN2UUI5LWxLalIxMldrTHVjb1pkVGYydzJZb21KQlU?oc=5",
-          "source": "KOKH",
-          "published": "2026-11-14T14:26:01+08:00",
-          "summary": "Fact Check Team: Is AI replacing American workers and how hard is it to find a new job? KOKH",
+          "title": "New private school in downtown Chicago using artificial intelligence to teach students",
+          "title_zh": "芝加哥市中心的新私立学校使用人工智能来教学",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYXc3eG56WGZTclp3SFBYWU1YTVNkaWswejFRU1NRd3Nrc1Fod1h1RVh6VHQwR2pjeUFPYnNOaFl3ZEFuLW9YZnVKZ2dpR1FmcXZkbHZ1OE5xTTFlMUVjVHhjWHlrbUxWYXlwb3pCam9oQm9ybWRicUc1QTVmZmtDaXVkU01UMFZJUTBxTU54dGtaOHNnaEt5ZTNzNGZFSDVuY0x2aGhuMF9vNXBJRko4LVZhbXFvX2w3SW1DNlE4UTk2TnBIekFhOWhGNHBsVVkwQURtc19oU2g2LXkzXzNJU0xTNkRuWXIxMFNrLVV3YUZLWEUtdVhMc2hXaU44aUkz?oc=5",
+          "source": "WXOW",
+          "published": "2026-11-14T20:00:00+08:00",
+          "summary": "New private school in downtown Chicago using artificial intelligence to teach students WXOW",
           "summary_zh": ""
         },
         {
-          "title": "First Parish Hosts Free Community Conversation on Artificial Intelligence Nov. 21",
-          "title_zh": "First Parish 于 11 月 21 日举办关于人工智能的免费社区对话",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSE5ZUzIydm5Dc2ZrS3ZNR3VFTmJPNkdycXFjYTA2ODdfUFRKWjdXUXhQaEZPQWI5YUtSN19TSnVVcDJDdHN4M1U2OXVEVTRIVTdpMi1mRzFNdE9Jb2hGRTRGMEt1Z1NEZVh2dlp2WTkwd1FJc3VqN2Jlb1lGVzZkNnl3amZkTTBWQlUwRGZXb3JyUl9Idm16ekNTYzREZk5EazRJeUJjVWp5NW0ydlBTYXI2Y3d1UjZXZ3Jr?oc=5",
-          "source": "The Bedford Citizen",
-          "published": "2026-11-14T04:48:41+08:00",
-          "summary": "First Parish Hosts Free Community Conversation on Artificial Intelligence Nov. 21 The Bedford Citizen",
-          "summary_zh": ""
-        },
-        {
-          "title": "Inside the algorithms: How artificial intelligence is enhancing traditional pathology practice",
-          "title_zh": "算法内部：人工智能如何增强传统病理学实践",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnpLYVpDRmlCWUpiTEJsN1Bya3lQTUVDNjRDZTgzRGJ3UEFndGxtSGswcjVRVHViSWhyaVpuM244aHFkMWgtUWJWclBwd3BpYXBLTWZkZ2h0SjdCWFY0Rjl6amVJOExfOVBhaml4SkxFMHhGQzBPT1praEFPZjZaMUxvbUJ0eE1STEZ1cWN5ZERpMjR3X2I2SDRqUXdMaFlLaEFZMHo4YnI1Xy1tOWp3eWZaYl8yMTRfRnhrdGo1Um9hLTNqNjN0SDhPVWVNeXBMNzNIcU5R?oc=5",
-          "source": "Northwestern University",
-          "published": "2026-11-14T08:13:06+08:00",
-          "summary": "Inside the algorithms: How artificial intelligence is enhancing traditional pathology practice Northwestern University",
-          "summary_zh": ""
-        },
-        {
-          "title": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
-          "title_zh": "特朗普访华之前，英伟达丑闻加剧了美国与中国的人工智能竞争",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTdIb1dVWXp1MFVRQmJfY3lVelBQN0RDZzJoQnI4V19GQVAyZ0Fkdk9JdU5LenRnY3lYejRzdy1UYVRjVXh4SmVrb09rbjFxLU96d0pGN0NYdmJQT3BwaVNLdjVJSjNBUzFwcUhXVDZYNU9QYWdMWURzQWNfd3dUbnZORGlROFFWaENQTjNOcE9vdmtPanRQWEpzUTdmV1dMSy1j0gGoAUFVX3lxTFBIdGZpRWxLclBvWlBpQkt0OURmdXdSYklEZHp6bVhORWFkMDQ3NDFuUzVoQkRrRks4ZW8ydF83UmhJOFdrTV9GN1d4UWtjYlRmX3owYXRpaW9OZEl5VDZWdUwybUdZLXlHNWpsNWFLMzNwRTgtRG1RUXFLdUYyVHBmcGNkdF95Q3o4Tm1SN1laeFdZQmwwY1BVRncyMjIzblRfaTE3OGgtOQ?oc=5",
-          "source": "ABC News",
-          "published": "2026-11-14T13:51:32+08:00",
-          "summary": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit ABC News - Breaking News, Latest News and Videos",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial intelligence is scary. But history reminds us that tech makes lives better, not worse.",
-          "title_zh": "人工智能很可怕。但历史提醒我们，科技让生活变得更好，而不是更糟。",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNang1SV9DYXYxazFLSThrNy11WDRLVDRPcndXMERvWWJMN2cyMmlVRm1CS2dpMU81cmcxd0o3TTdGcHZDNXU4RnpNS1JibHNkamVUU252UmxnVnAxbmt4OVFqTTl2V0JTZkpoZ01yT2pKOUlBUGRIdkpJQl9OLVc4S3ZNbVFMSHYtSVd5NUNRSlRlbVlubVU0NjY3WFl5bThjRDgzb3FlZTFJYlQ1dEdUaHhBcE83RWZxVk1qV2loWHk1c0d6aVJaLUtod3dtdw?oc=5",
-          "source": "New York Post",
-          "published": "2026-11-14T04:35:00+08:00",
-          "summary": "Artificial intelligence is scary. But history reminds us that tech makes lives better, not worse. New York Post",
-          "summary_zh": ""
-        },
-        {
-          "title": "PATENT NEWS: Anthropic’s artificial intelligence systems accused of infringing neural network patents",
-          "title_zh": "专利新闻：Anthropic的人工智能系统被指控侵犯神经网络专利",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa09ZQllGRFA4eTctdzhDMFk4VmkxeGhZcTNpcWQ5SXhSVU83akhfT3lTMDZoMG00U3NTNHl4amhsTjBTYjhmbi1hZGtVZF8xSTFqZ29aZE02WEZvcXpzbW9Zb2s0azROS25sZHpCUlNGbFQ5WHhBRlpja3ZwcktkREZmMDNFbGVDcnlvdHdkeTNFRVV6N21rc3hlQTJUSUk1WFFiM1FidlRfT2RpWVByR2ZYN2lUVU1EUXB1R0JGQkdWaWRzQXFhaERnaTljZDN3QUN0V05WOWtnbkl2ZElqYTAtcVE5TU5NaGItcEctQ0x0SnhBUnBuU2tUdUw?oc=5",
-          "source": "VitalLaw.com",
-          "published": "2026-11-14T07:03:29+08:00",
-          "summary": "PATENT NEWS: Anthropic’s artificial intelligence systems accused of infringing neural network patents VitalLaw.com",
+          "title": "Customer-Facing Artificial Intelligence Strongly Correlates With Brand Bonds in Hospitality",
+          "title_zh": "面向客户的人工智能与酒店业的品牌纽带密切相关",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONFR4WVktWGFqS2FkRFFDT2o3Mk9UWWU0SUJ6bXppT0QtOUFsOFBLR1Y2U1hrV0N5LWEzUGNlU0QwVzJoLW5xLWtRYVJUT1FhTjVGYUZFcVJPWjI5ZlAxeXRqbVk2ODVSODNZaEdWSzg0TkdaYm1xS2R5RlJXZ3dBX2FqdF9WLS04cjZ0WV9nSlJCb29KX0RybTFldUo4LW5PZUZzSnlDcTg3TVoxdk54U1FWNDdHY0k?oc=5",
+          "source": "Bioengineer.org",
+          "published": "2026-11-14T16:53:59+08:00",
+          "summary": "Customer-Facing Artificial Intelligence Strongly Correlates With Brand Bonds in Hospitality Bioengineer.org",
           "summary_zh": ""
         }
       ]
