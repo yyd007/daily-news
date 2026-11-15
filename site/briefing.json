@@ -1,193 +1,247 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "morning": {
-    "generated_at": "2026-11-15T16:23:17.749315+08:00",
+    "generated_at": "2026-11-16T01:39:25.761538+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "Fifth Canadian soldier dies of injuries from military training fire",
-          "title_zh": "第五名加拿大士兵在军事训练火灾中受伤",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXVic0tteXJQZFNLYUpUUDBUcnFSS2p4Z1lSbW04ZXljajhyVjRuTXNib0dvanhZMWxyUlFudTlZcXdGUkxKYkdKRHk5QWRwRWN2TjZ3bXRsTTZ4clhqSGwwLWhBZHRaZ0l4aHBld2swV255Y1VYZVVQSkprdXh2WEQ2Ny1laXA2aFdLTUlLTnZXY3pQOVRjaEVuUmpsUDNuUDQ0cXVuNDJvSHc?oc=5",
-          "source": "NBC News",
-          "published": "2026-11-15T09:52:00+08:00",
-          "summary": "Fifth Canadian soldier dies of injuries from military training fire NBC News Another soldier from CFB Wainwright fire dead: DND CBC Fifth Canadian soldier has died after fire in Wainwright, CAF says Global News 5th Canadian soldier dies weeks after fire on grenade launcher...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-          "title_zh": "沙特领导的联军拦截可疑的胡塞导弹和无人机",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
+          "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+          "title_zh": "给顿巴斯，占据北约席位：新的美国能为乌克兰和俄罗斯服务吗？",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5",
           "source": "Al Jazeera",
-          "published": "2026-11-15T14:18:06+08:00",
-          "summary": "Saudi-led coalition intercepts suspected Houthi missiles and drones Al Jazeera Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province Reuters Middle East conflict: Saudi Arabia intercepts Houthi missiles targeting Riyadh as Bahrain issues threat...",
+          "published": "2026-11-15T20:55:59+08:00",
+          "summary": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? Al Jazeera US has floated Ukraine ceding Donbas for Nato membership, Zelensky says BBC US floated idea swapping Ukrainian territory for NATO membership: Zelensky The Hill Zelenskyy says a new European...",
           "summary_zh": ""
         },
         {
-          "title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says",
-          "title_zh": "库什纳表示，美国在推动乌克兰和平的过程中促进欧洲和俄罗斯之间的直接接触",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
-          "source": "CBS News",
-          "published": "2026-11-15T06:07:08+08:00",
-          "summary": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns The Guardian The dangers of revising Europe's security architecture DW.com US envoy...",
+          "title": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon",
+          "title_zh": "教宗在回国之旅的最后一站穿越秘鲁，探访安第斯山脉高处和亚马逊深处的羊群",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTjlFUDFrd25XM3lQRjBEVXNDcXpsd1pRMlpCVklHa0JOLVNLMHluNUJ5ek1WMmYyeUgzQWhfUlBwZXVJYVVYTzlRNDZ0akVxQkxNWEJKSFZSeWRBQTFWaHA4YlFyOVZvZFBiU1ZhQU1nSGxKWlpqUXZSLUJiV0N1a3NB?oc=5",
+          "source": "Politico",
+          "published": "2026-11-15T20:45:00+08:00",
+          "summary": "Pope crosses Peru in finale of trip home to visit flock high in Andes and deep in Amazon Politico See more headlines & perspectives on Google News",
           "summary_zh": ""
         },
         {
-          "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-          "title_zh": "教皇利奥在访问安第斯山脉偏远小镇时谈到社区“苦难”",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSVEtNVRFaG5hcno2YnlYR1lwRDJhSXV2OGJNVGY3cU1aVzNPaHNjdUIxcHp5RXJ2RWVGQV9DRmR1cUx6ZkptMi1KSWlVeXhwWkp5S2xLZ2tCYzQ?oc=5",
-          "source": "BBC",
-          "published": "2026-11-15T10:49:45+08:00",
-          "summary": "Pope Leo speaks of community 'suffering' on visit to remote Andes town BBC Pope Leo is welcomed back to Peru, a country he called home NPR A look at Cusco and its devotions as Pope Leo travels to the Imperial City Vatican News Pope Leo entrusts Chiclayo and his papal ministry...",
+          "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+          "title_zh": "在班夫，一只被称为“老大”的灰熊统治着国家公园",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjJhTWdYQ0hFN0VPVk0xaTZvSVZkb2R4Zlp1WHZOVDROSGZucnRiazB1M0ZmUnh0Z0R0Ylo5dmxVQXdIMFNlT1o4Q0hlMUdkQ2FGMXdDWHdybjA1bGRCUjFiQWpGNDJTb1dEeXJPQXVONGU4YV9xNnBqak9hVUxyNmZhRFFJWjBRblpWcS1rUV9OLUVYdllrNlBRb2h1TDg?oc=5",
+          "source": "The New York Times",
+          "published": "2026-11-16T01:07:07+08:00",
+          "summary": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park The New York Times",
           "summary_zh": ""
         },
         {
-          "title": "Trump, Xi and Putin to meet in China, White House says",
-          "title_zh": "白宫称特朗普、习近平和普京将在中国会面",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHprMDZOSFVJbjlUVk9oYVl0czEzcHk0eHFpR3NBUGhRMWpDU1BvdTlQLVFTdE9EOXdYRVpWT1hfVzg4dkljS2NLYmVOUm9vcWs0QVRiRTVQdkttOFZXT0xPUFZwazJmQzhVWEpzZzdrX2kydUF4T2owbDIyU0trMnlmV1EzbXJJY21HSWdKS3Vhdw?oc=5",
-          "source": "Euronews",
-          "published": "2026-11-14T17:00:58+08:00",
-          "summary": "Trump, Xi and Putin to meet in China, White House says Euronews Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says",
-          "title_zh": "乌克兰战争简报：泽伦斯基表示，美国提议将基辅土地割让给俄罗斯以加入北约",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5",
+          "title": "‘It is not unusual to go 48 hours with little sleep’: what it’s like to cover a Cop climate summit",
+          "title_zh": "“48 小时睡眠不足的情况并不罕见”：报道警察气候峰会的感受",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTU1OTTUwWDUyQmNzbU1RdGxOOTVvczRhQ1liRVM4S2pfdGlQcWU5Y2V1NUpLd01CU2xLcGxBM1AtWjN6RDdoekpHcHJJUm56LWdrNVZYUVhUalU5dUJpbnNwV3NxLWxLYzFPaGZjMWUtSnQyQ05kYktpaWNVLXY2aDRjdE05cDQ?oc=5",
           "source": "The Guardian",
-          "published": "2026-11-15T11:41:00+08:00",
-          "summary": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says The Guardian US floated idea of Ukraine swapping land for NATO membership, Zelensky says CNN Zelenskyy says a new European security framework floated by US could benefit Putin...",
+          "published": "2026-11-15T21:02:00+08:00",
+          "summary": "‘It is not unusual to go 48 hours with little sleep’: what it’s like to cover a Cop climate summit The Guardian Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks The New York Times UN climate chief urges speed as COP31 confronts fossil fuel divide Reuters...",
           "summary_zh": ""
         },
         {
-          "title": "Finland publishes fossil fuel exit plan as COP31 dodges the issue",
-          "title_zh": "芬兰公布化石燃料退出计划，COP31 回避这一问题",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUHZaQ2tyN3k4V3NnNlN0bjhpWUptSkl1MUpyNFRIVnZWOEc4ZXViQWhiVW1HT3ZWankzODQxTnJ0RkdpNUd2SS1Hd2pfdW96TnRTcHBZMHpYT2ViMENVVXBkTEFmNDhUanRZa2lUbHgtTGlDbC1VSmNTdUJia3ZWMEtLTmZMNHBhOFFYQmlBZS1WMjM2WlV0S19hX0pQWFZrd1RXbVVVS3RDNG91dFNNNjByNjk4YU5wQ0VXd0tGZTE2TGhn?oc=5",
-          "source": "Euronews",
-          "published": "2026-11-14T14:02:31+08:00",
-          "summary": "Finland publishes fossil fuel exit plan as COP31 dodges the issue Euronews UN climate chief urges speed as COP31 confronts fossil fuel divide Reuters COP31: Protesters, UN urge swift climate deal DW.com The election climate diplomats can’t stop talking about. It's not the...",
+          "title": "Macron urges unity at Francophonie summit in Cambodia as DR Congo threatens to quit",
+          "title_zh": "刚果民主共和国威胁退出，马克龙敦促柬埔寨法语国家峰会团结一致",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0x5Q2lOZndIVjJXbFRaVURDRE1iTjQ1OVFobFlDNEpaUlBJeTUwdkZkZkZHT0YzQzd2ZEpqRlYtM1JwbnRDTjNBbkFHUDJQR3FLX0tobVlZd1hTZkhacy1meEFxSjNvOE1OSHNudERlbWQ2QW5qUDcteVpPckhZRlVicmVKdmU5OGF3LW9KbFljLXFid3U40gGXAUFVX3lxTFBBSlhLbm9XWjJlVEUyblN5S1pZaXk0TFd5aURvNFhkUnpyZ0VCbHdpaWdabW4zdTJlRTBtUUF2dmdiaTd1RE5mN2FhdmxSSTQ5eU1RWDBsWWxoYUFPZkFWdEEzMC12ZzQ5VXpiZUY4OEhzSTdsZGNoMF9rNkt4Q0tFVG9kNkMzaDhadFo5cHY2cElSLUtMbjA?oc=5",
+          "source": "DW.com",
+          "published": "2026-11-15T16:15:53+08:00",
+          "summary": "Macron urges unity at Francophonie summit in Cambodia as DR Congo threatens to quit DW.com Vive la Francophonie! The Economist Francophone summit opens in Cambodia amid Rwanda-DR Congo rift Al Jazeera French-speaking nations hold a summit in Cambodia as a conflict in Africa...",
           "summary_zh": ""
         },
         {
-          "title": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\"",
-          "title_zh": "实时更新：内塔尼亚胡表示现在是“一劳永逸”消除伊朗威胁的时候了",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc?oc=5",
-          "source": "CBS News",
-          "published": "2026-11-15T08:56:00+08:00",
-          "summary": "Live Updates: Netanyahu says it's time to remove Iran threat \"once and for all\" CBS News Netanyahu says only a unity government can guarantee Israel’s security Al Jazeera The U.S.-Israel Relationship Is Broken. Here’s How Eisenkot Could Fix It. The New York Times Netanyahu’s...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
-          "title_zh": "伊朗海军称三艘油轮在霍尔木兹触雷后起火",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-15T06:54:19+08:00",
-          "summary": "Iran's navy says three tankers on fire after hitting mines in Hormuz Reuters Iran reports three incidents of oil tankers hit by mines in Hormuz CNA Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems The Guardian Middle East latest:...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America",
-          "title_zh": "教皇利奥十四世访问南美洲时，大量人群和低疫苗接种率拉响了麻疹警报",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejU1WlA1TVEtUUMwTVd1Zmw1RGhkVmFXM3p0QUxSZDZINExaSWpOc1Z1dDJ4OER2Q19LTVdqT0ZKQ1FyTXJNdnptMURsOGhsOXM4clJhVjVQazFLNS1TTXppLV8yRXZQM2xPMEpOdGNVYzF4Vi15YkluSkt1dDRMNk1xZ1lMTzF5V1VlLWh3VmkxLXpXQzZNa29wTGw3VUJVMTloekpB?oc=5",
+          "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda",
+          "title_zh": "东南亚领导人开启年度峰会，重大冲突及其影响成为首要议题",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3dOT2Y2RVpRSFdZX1EzTmVkNkpPYVVNdTFRZ3VSb2JDRDRnMEJvNlVzUjV5QXh1TndkQnRtODdrZXhtd3ZmNXJqeUNXVHdHZzFUOGlZcWhmeXdBaXRNRUFRRTlfOGRZclRDSUw1SndkRFptdmkxTFd6dk9JQW54UUhmN01LVDN0QVhGcDZ0eXZQUG0zVktrV2E4eVV0bGhsTmpNYU5R?oc=5",
           "source": "AP News",
-          "published": "2026-11-14T13:26:00+08:00",
-          "summary": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America AP News Pope Leo helps Argentines embrace Francis, the pontiff who once divided them AP News Elder Soares Attends Argentine Interfaith Gathering with Pope Leo XIV...",
+          "published": "2026-11-15T16:05:59+08:00",
+          "summary": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda AP News Short of time at the ASEAN The Economist ASEAN summit: Who’s attending and what’s at stake? Al Jazeera Trump will attend a summit of Southeast Asian countries. What...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Israel kidnapped Iranian generals, killed one, in effort to locate Ron Arad — NYT",
+          "title_zh": "以色列绑架了伊朗将军，并杀害了一名伊朗将军，以寻找罗恩·阿拉德——《纽约时报》",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXhFcHFHZkd6ekJ1UHBnenpCdzR0Mkk5c25sMVpiSmRONXJ2bkFWOWdGZDZ3SFViVG95SGhadUlsQWJtNTVCVXJ5bHpDeTJPLW5UZjZMcjRxZ01FTnlLR3prOGZnZkVoc183ZW9jbDdmUUc3TTJabHdFdGM3VVktUG5pY3R0Zzg1YnBTWGg1TkRRZmRRVUlBUDlUMXZ2VG4wbG9yVWtXWUE2SnhU0gGyAUFVX3lxTFBVOWdiY3oweWg0RldiWW1ET2RJWTdVSEZ0em5BTEsxSWxiZGdLbjdiU2U0OGd0Ry10aGdveURrcHItYUFOSm1Mc3FYNGJWdDY3VTB0VFFfcXFFcG10aFJ6cmNDQ2hxaGoyVzVfcFJ0SzB5dDJvejZHRmJpbTFfVUkyQzluRmNPX1pxajNzNURseHdiLWdNcy1lV2xiZHBvcEdkbVhtR1B3UGlKTXlMaEFMelE?oc=5",
+          "source": "The Times of Israel",
+          "published": "2026-11-15T23:29:45+08:00",
+          "summary": "Israel kidnapped Iranian generals, killed one, in effort to locate Ron Arad — NYT The Times of Israel Israel Kidnapped Iranian Generals in Hunt for Ron Arad The New York Times Mossad Agents Abducted And Interrogated Iranian Generals In Hunt For Ron Arad - Report i24NEWS...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home",
+          "title_zh": "特朗普前往亚洲，希望在中期挫折在国内受到伤害后扭转势头",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1NqQ012SUxkSlBybGhjS290cUFLdzVaU0NabWlVbkN3Y3IzbzRqTGsteHlBOFMwUFF6M21sa0lhVGZsaUM2MkZwaHBCN3ZqRGVKSk5DWFdOVGhVR2JHcXo2OXFtQTNrUm9jSWxqWVZ0cndRMHB0UnRtWm1rc29heE9xLXdtRnhhZ0tCdW1yZHlhVEJTN0E?oc=5",
+          "source": "AP News",
+          "published": "2026-11-15T22:22:00+08:00",
+          "summary": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks hurt him at home AP News World leaders head to Asia for back-to-back diplomatic summits The Guardian Lame-Duck Trump Heads to Asia Foreign Policy Trump set to meet with Xi and Putin at Asia-Pacific...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Dominant Australia defeat New Zealand in Men's World Cup final",
+          "title_zh": "男子世界杯决赛澳大利亚队击败新西兰队",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04a2l3QXRFOGJHZ3kyZTJXMmVHSzNtaFo1YzhucmVwbTc4T0hvalFNTmJYZmtyazVkSmFwT1phSXJRN2FuSjhvTzU4MEFKdkhONk5ESEpQa01fOVR0bm1CeFgwbHZ3eDdHcjlqVmVR?oc=5",
+          "source": "BBC",
+          "published": "2026-11-15T18:51:11+08:00",
+          "summary": "Dominant Australia defeat New Zealand in Men's World Cup final BBC Kiwis blow World Cup shot as Kangaroos win Rugby League World Cup final 32-12 Stuff Australian speed kills as New Zealand fall flat in World Cup final fizzer on steamy November night ABC News & Headlines –...",
+          "summary_zh": ""
+        },
+        {
+          "title": "5th Canadian soldier dies weeks after fire on grenade launcher range",
+          "title_zh": "第五名加拿大士兵在榴弹发射器靶场起火几周后死亡",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1BNa1NzQnNVNEtxYzlac2NSYjlwRVdfMWc1VGdfUEt0UlFvQVBza1o4LXo5SHFGWWRsREtkUjdCb3BQdnctTEFoaXZLVVBaODU4TjFvWWVnWXNzenZvSVIxTlFlX3lQSEtGX2lOcXpDSmZQc2JYdWtQUlA4em5jV193?oc=5",
+          "source": "CBS News",
+          "published": "2026-11-15T07:44:46+08:00",
+          "summary": "5th Canadian soldier dies weeks after fire on grenade launcher range CBS News Fifth Canadian soldier dies from injuries caused by large fire at military base BBC Fifth soldier dead from injuries suffered in CFB Wainwright fire, officials say CBC Fifth Canadian soldier has...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "（深圳APEC）AI走上APEC：中外记者体验数智技术“福利”",
+          "title": "（深圳APEC）APEC盛会核心场馆“静待花开” 会场外围成打卡热点",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pbmo3T2c3aWpYT01EMVZqQ1JPOTBxaEIxazhQcDR5RlBKSWE1cjR1WHQ1MzJXTTl4LWh5cC1UakVtSE0yV05lRTFGbHFrdFJRSk96TlBxMVlKQk15RHhQdGJMYlpqbmFW?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XLXBvWFM0aUM5UW9hS3ZQNGJjTURCeldFX3BOVVVCNGY3S2ZKV2pudUFKeWExcmlvM1ptNDJ5OW5rOFVvelJ2X2ppS2N6bUpGQklZTHp3UFRDUjBmNGVocTY0TUNYRHhj?oc=5",
           "source": "中国新闻网",
-          "published": "2026-11-15T14:36:24+08:00",
-          "summary": "（深圳APEC）AI走上APEC：中外记者体验数智技术“福利” 中国新闻网 习近平：携手共建亚太命运共同体 新华网 时政微观察丨三个关键词解码APEC“中国年” 央视网 数说APEC丨APEC进口农产品丰富中国餐桌 中国青年网 在这里看见未来丨合作助亚太共享发展 留白让山海各有繁华 凤凰网",
+          "published": "2026-11-15T22:44:43+08:00",
+          "summary": "（深圳APEC）APEC盛会核心场馆“静待花开” 会场外围成打卡热点 中国新闻网 大雁、地瓜、船……习近平妙喻APEC合作 中国网新闻中心 （深圳APEC）一杯咖啡里的“APEC浓度” 光明网 聚焦APEC｜察势而变向新行——习近平主席推动亚太创新发展的故事 Sohu “为全球经济稳定发展作出积极贡献”（APEC中国年：开放 创新 合作） 新浪新闻_手机新浪网",
           "summary_zh": ""
         },
         {
-          "title": "马斯克SpaceX创造历史：“筷子夹火箭2.0”，星舰飞船首次被发射塔捕获",
+          "title": "大风降温、大范围雨雪天气轮番登场 多地将有暴雪 近期天气一览",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83c0pWVGpwcWFkNlo0Y003WEprcklHU01WOUh4SDJHUlRKQ2d1TC1UcFAxVTRVZDZkcEdrQkFTeFNWVGdBTF8tX2dscTE?oc=5",
-          "source": "凤凰网科技",
-          "published": "2026-11-15T11:16:05+08:00",
-          "summary": "马斯克SpaceX创造历史：“筷子夹火箭2.0”，星舰飞船首次被发射塔捕获 凤凰网科技 星舰成功接住背后：工程师说没有美好回忆，只有死磕|Jay Nagy|SpaceX|星舰|隔热盾_新浪新闻 新浪网 创造历史：美国SpaceX首次实现筷子夹星舰飞船 凤凰网 刚刚，马斯克再创历史，人类首次用“筷子”夹住星舰飞船 爱范儿 美“星舰”飞船首次被发射塔机械臂捕获回收 观察者网",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oM09ZYXFlcXhYbllrQ3NSckVrWkpmc2VMZWVkTjAxX29nczRwOUNjdmxPUEhhTGJXUThSQnVXYU42c2J3ckk1cWtORVI0MTM5MHc3LUtRclVsekV6NzN3QlFaeWxyQS1xTnc?oc=5",
+          "source": "紫牛新闻",
+          "published": "2026-11-15T18:48:00+08:00",
+          "summary": "大风降温、大范围雨雪天气轮番登场 多地将有暴雪 近期天气一览 紫牛新闻 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "伊朗称打击巴林境内美军防空雷达",
+          "title": "美国航空停摆，祸起路由器？",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJSy0zcF83U1owRC11MnRNekhnaGg2OF9VWnBVSHhFYlZMbksxTHFlRjZCVFBhRDE0RmxEVVJTVmQ4c21Eay14ZFpHZ3A0QkJYQXhIaWw1c0RBVldrbTYyc0tHdzVsN0tYZDJCcVRwR1QtYUJwZkNrU2tlUERjZW8?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40NmF1NG16NGdwczZ3WG9ua0owV1RDVzlwNjVIYXY3R3B6WGsxRTdvUzlDODNHMHh5akhqTUJfcEpSaExUY0FxbVRaaldpSHdjY2lMYWl5S19XRjQtMzE4a2swQTZ4TWhYWFZETHJwNA?oc=5",
+          "source": "中国网",
+          "published": "2026-11-16T01:11:00+08:00",
+          "summary": "美国航空停摆，祸起路由器？ 中国网 热点问答丨美国为何发生航班大规模停飞事件--国际 人民网 设备用了50多年，事故波及全美，美交通部长：给500亿才能解决 凤凰网 美航空局解除全国航班停飞令 新华网 美国全国停飞5小时，竟是一个路由器惹的祸？ 观察者网",
+          "summary_zh": ""
+        },
+        {
+          "title": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCc2sxWllHQjNRN25WZENvQUlJRDRRMEYyenRESFJwRV9JMzJ2TVdGdlFFV2lQWTlzZnBMZkcyNUN3aWx3UUpZT3o4TmJWQTlBOFhON1NMb3RsSzVPY0NXc2xOMWxPVU1JUFlYek54VktpRWdfNFN5UEI0R0V6WVE?oc=5",
           "source": "新华网",
-          "published": "2026-11-15T13:46:50+08:00",
-          "summary": "伊朗称打击巴林境内美军防空雷达 新华网 巴林称拦截摧毁伊朗多个空中目标 新浪网 伊朗革命卫队称打击巴林美军雷达设施 新浪网 美军中央司令部否认伊朗发动新袭击并摧毁美军在巴林境内雷达设施的宣称 美国之音 伊朗革命卫队称击落一架美军MQ-1无人机 ThePaper.cn",
+          "published": "2026-11-15T19:56:28+08:00",
+          "summary": "伊朗：就霍尔木兹海峡航道与两个沿岸国家达成协议 新华网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "天津大雾升级为红色预警 境内高速、部分景区关闭",
+          "title": "老板开零元面馆 被挤压的生计谁买单 善举引发商户争议",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuREJVd2FWOFF0dHhVU0ZvVEliWGhPRUxpaWxqbWZGV0dlZEZqalozYzlYOXRsOHFRMjNxSWxlNWpzZjd0VE9WUGppRmZPTVA2QkJoX1FGRVFOODdRcXl3YmJQLVZFbmkzOUNpejVzcXE0R2UxLTZKbw?oc=5",
-          "source": "央视网",
-          "published": "2026-11-15T10:30:21+08:00",
-          "summary": "天津大雾升级为红色预警 境内高速、部分景区关闭 央视网 天津特强浓雾局地能见度不到50米，有航班备降北京大兴，居民称部分路口看不清红绿灯 凤凰网 京津冀局地将有强浓雾 中央气象台发布大雾橙色预警 中国日报网 大部分地区能见度在1公里以上 北京市解除大雾黄色预警 新京报 天津大雾升级为红色预警，境内高速、部分景区关闭|天津市|天津滨海国际机场|航班延误|气象预警|天气_新浪新闻 新浪财经_金融信息服务商",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KUEZZTFpzSXV6dVFPQW9CVnlRXzh2ajkyQUxVek9QTGNrd0NoNTkwMzFaQm5mRnJWVWdtei1uM3A4MEJGSmlSZEhoQld5MjVWWkhTa0hFenZueVY0QmxyXzNZN2lEaHJWU2s1NFEyckc?oc=5",
+          "source": "中华网",
+          "published": "2026-11-15T23:57:17+08:00",
+          "summary": "老板开零元面馆 被挤压的生计谁买单 善举引发商户争议 中华网 “零元面馆”是民间慈善，不应被错位解读成市场竞争 新浪财经_金融信息服务商 未来仅对4类群体免费，南京“零元面馆”老板：不然矛盾太大 观察者网 “零元面馆”内外众生相：一碗免费素面，真难住了一条街？ Sohu 二奢老板开办“零元面馆”，被挤压的生计谁买单？ 金融界",
           "summary_zh": ""
         },
         {
-          "title": "纪念孙中山诞辰160周年国际学术研讨会在广东中山召开",
+          "title": "新闻加油站｜泽连斯基抱怨乌军使用“星盾”再遭限速",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aR0swck56enkxdTVDYjlZU2x6SUhlTXBBWkNOUVM0VzJOeWtfdmEwTlBIc3ExNDl3cDRGTUg4by1HbkVZbE1tcmpNa0hIX1pjTGZKam9ibTc5dkI2ZFBuZS1LZGRYdnBfNGc?oc=5",
-          "source": "人民网",
-          "published": "2026-11-15T09:15:00+08:00",
-          "summary": "纪念孙中山诞辰160周年国际学术研讨会在广东中山召开 人民网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "给深圳算一笔“鸟账”：超级都市与十万候鸟的生存博弈",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TSzVXeU1mNE5GdUN6MkRaYkhha0ZnN3RvY2F2dWpnZGd1eUpRN2NQRU1TamFaNERreHh6LWR3b2NKQUxvY3VRNnB2OGY?oc=5",
-          "source": "凤凰网",
-          "published": "2026-11-15T10:53:32+08:00",
-          "summary": "给深圳算一笔“鸟账”：超级都市与十万候鸟的生存博弈 凤凰网 聚焦APEC丨公园城市绘就人与自然和谐共生之美 中国经济网 深圳吸引了谁？他们为什么选择深圳？ 新浪财经_金融信息服务商 从一片红树林出发：深圳的“生态名片”成为亚太绿色合作纽带 Sohu 一把卷尺、一段方言、一段小剧场 他们在深圳书写平凡微光 杭州新闻",
-          "summary_zh": ""
-        },
-        {
-          "title": "【理响中国】把对党忠诚摆在党性修养的突出位置",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yRzF3T2JBTVhxWjBIbjRNSU9oMHYtZzJPQmpCVDFQWDhHTnpmZUxUQXRXbHk4SUVsa1ZrVmpITEVTak5qenA4RV9XckE0czV3U0d3TTJSZTVWajZZeEYtXzN6VEdKV2tSbkp0THhwV2w3azYyQzRKWDQ3MTdiUQ?oc=5",
-          "source": "中青在线",
-          "published": "2026-11-15T11:27:00+08:00",
-          "summary": "【理响中国】把对党忠诚摆在党性修养的突出位置 中青在线 学习贯彻党的二十届五中全会精神中央宣讲团深入基层与干部群众交流互动 凤凰网 时政微观察丨用党的优良传统涵养党性- 中国日报网 China Daily 经济日报评论员：为担当者担当、为负责者负责、为干事者撑腰 新浪财经 学习贯彻党的二十届五中全会精神中央宣讲团报告会在乌鲁木齐举行 人民网",
-          "summary_zh": ""
-        },
-        {
-          "title": "雾气散去冷空气到场！北京周末再迎弱雨雪，下周寒意加重",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwQzdSc3N2Yjh0ZzZjUGcteWZycmJjZVJ0YS1OTFFKTEUyM0VuRXN3TGpUZUNBUEhJekp0WHowaWwtYWgwQ3oxSC1pMzJQUlpwNjA5Q2FxSHNnQS1YTGc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwdGVhcFZ3TGw2VjNWSVVlZWZ0T2tFSkNFM1A0cURraGxFSGRpZ09uQnB2bnpBcUVKYlRrYjF4LTFhUHhRbUI5YTdGcUpPbUJJREtLWVJfSzlEX0lQSFE?oc=5",
           "source": "京报网",
-          "published": "2026-11-15T12:56:52+08:00",
-          "summary": "雾气散去冷空气到场！北京周末再迎弱雨雪，下周寒意加重 京报网 雾天过后迎雨雪，北京下周气温将走低 北京市人民政府门户网站 北京大峰峰 新浪网 早安北京1113：今晨有轻雾或雾，早晚气温低迷，注意添衣保暖 新京报 今天夜间和后天白天北京有雨雪天气，明天气温下降最高气温将创新低 Sohu",
+          "published": "2026-11-15T12:27:19+08:00",
+          "summary": "新闻加油站｜泽连斯基抱怨乌军使用“星盾”再遭限速 京报网 盯上马斯克？美民主党人要求保留“星链”限速记录 新浪财经 马斯克被盯上了？美国民主党议员要求保留“星链”“星盾”相关记录 驱动之家 美方代表赴俄见普京 乌军使用“星盾”再遭限速 新华网 乌再次指责SpaceX对乌星盾系统限速 拦截难度增加 中华网",
           "summary_zh": ""
         },
         {
-          "title": "2026年联合国糖尿病日主题活动在荔湾区举行",
+          "title": "纪念孙中山先生诞辰160周年活动嘉宾团在上海参加纪念活动",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFT3Vyd3JrS3UzU2pTb1JRMldFeXRmVER0RnNyQ3hXNXlGR0NVZmF6cWlWRVhOVTUzTmJXeTNDZ0Z2aWlrZS1ScnF6ZGtiM2c0dWJkSzNJZVh3U3VQRjNuV2Z5aVVVSW1xcjItMXg1NA?oc=5",
-          "source": "大洋网",
-          "published": "2026-11-15T04:17:00+08:00",
-          "summary": "2026年联合国糖尿病日主题活动在荔湾区举行 大洋网 上海市委、市政府高度重视！全市累计登记高危人群257.4万！这个病已成为全球性重大公共卫生挑战 凤凰网 控糖不忘防疱疹，糖尿病患者共病防护需重视 科学网—新闻 糯玉米和甜玉米哪个更“升糖”？“无糖食品”就能敞开吃？听医生细数“控糖”的认知盲区 新浪财经 联合国糖尿病日｜赵家军：糖尿病防控要趁早，别忽视体重和脂肪肝 新华网",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5Ry1oc0w4OUxGaXlfa21JMTZ4U2VDYU91N0lkNTNpYTh4ZENUa3doSUttYUZTZFlndHB1Vmsxd3hxS3J2SDMzcm5SYUpaQzYxRVE?oc=5",
+          "source": "军网",
+          "published": "2026-11-15T22:00:01+08:00",
+          "summary": "纪念孙中山先生诞辰160周年活动嘉宾团在上海参加纪念活动 军网 驻越南使馆举行纪念孙中山先生诞辰160周年活动--国际 人民网 海外和港澳台嘉宾来宁晋谒中山陵- 中国日报网 China Daily 纪念孙中山诞辰160周年国际学术研讨会在广东中山召开 新华网 一见·缅怀孙中山先生，感悟“振兴中华”的必由之路 新浪新闻_手机新浪网",
           "summary_zh": ""
         },
         {
-          "title": "奇台县创新载体推动“新疆两史”学习走深走实",
+          "title": "第二十三届中国国际农产品交易会农业品牌推介活动在浙江杭州举行",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSG9iS0VfeGhVNlJSb1Y4UGxpLXJvOGI2OTdJTndQTzlaX2pXeFBsU0VYdWdwRnZCYUxhQkR0V2YySTI1Wmc3UGswMldoU3lfYzJSR3JicU9uUXpjbklLYnpkdmMwZm1IS0d0UWJZVlY1dWZMQ1dxNlJHNnFTc0RFNF9wOA?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-15T11:04:50+08:00",
-          "summary": "奇台县创新载体推动“新疆两史”学习走深走实 中国新闻网 我国新疆地区历史研究的新突破 人民日报 阿热勒边境派出所依托“一片雪”公益服务队 扎实开展文化润疆暨新疆“两史”宣传教育活动 中国新闻网 【“新疆两史”】伊犁州直机关举办“新疆两史”宣讲报告会 伊犁日报 自治州“新疆两史”宣讲团走进阿拉山口市开展示范宣讲 ThePaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LTWFJZzhIY3ViS2J1U1FUeGVJSnI0YkdPZmhPcmR3Tm5sYk54NDg1Z1ctTlRFcXpWNUNPVEtIMzBWbHN6NG4yM1J1d2J4d1JmNHhrM0lkU3VJRGlRZ291dW9mWQ?oc=5",
+          "source": "http://www.jingjiribao.cn/",
+          "published": "2026-11-15T18:59:42+08:00",
+          "summary": "第二十三届中国国际农产品交易会农业品牌推介活动在浙江杭州举行 http://www.jingjiribao.cn/ “大连39°鲜中国行”走进杭州拓市场 新浪财经_金融信息服务商 农博会上看新尝新 智能装备、特色物产亮出浙江农业新面貌 浙江新闻 苏味飘香 鲜动农交——“时味苏州”专场推介会亮相第二十三届中国国际农产品交易会 中华网 内蒙古农畜产品对接会落地多项合作成果 Sohu",
+          "summary_zh": ""
+        },
+        {
+          "title": "天津正式供热 清洁能源占比达98.6%",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VV2UxVlBaQnN5dEZrb29oSzM4aTdzS2c2VnlYREgxS2JXcDZGRTQzWVN5YldGUEhqNzNzS2RWcDhQbDVRcUE?oc=5",
+          "source": "财联社电报",
+          "published": "2026-11-15T23:43:15+08:00",
+          "summary": "天津正式供热 清洁能源占比达98.6% 财联社电报 北京今日起正式供暖 新浪新闻_手机新浪网 尹力在调研检查供暖保障工作时强调 把惠民生暖民心顺民意的工作做到位 殷勇一同调研检查 北京市人民政府门户网站 准备好了！天津供热进入热备 11月15日零时送暖到家 人民网 今起北方多地供暖！不热怎么办？注意这几件事 Sohu",
+          "summary_zh": ""
+        },
+        {
+          "title": "中国工程院举办学习贯彻党的二十届五中全会精神中央宣讲团报告会",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2UW5yZnF4My1BVE1YRFdBMWprZVVFVDdKYXpCTVZhYXhoMG80c3djd3JQSG1uNzUzbG1ZUUtxMUlvdENGei1aMlR4SVc5TWF5cUdWdjJSb19YVUczaDZROHptVFZ3QQ?oc=5",
+          "source": "科学网—新闻",
+          "published": "2026-11-15T15:27:00+08:00",
+          "summary": "中国工程院举办学习贯彻党的二十届五中全会精神中央宣讲团报告会 科学网—新闻 学习贯彻党的二十届五中全会精神中央宣讲团深入基层与干部群众交流互动 凤凰网 时政微观察丨用党的优良传统涵养党性- 中国日报网 China Daily 经济日报评论员：为担当者担当、为负责者负责、为干事者撑腰 新浪财经 【学习贯彻党的二十届五中全会精神】中央宣讲团在各地宣讲党的二十届五中全会精神 央视网",
           "summary_zh": ""
         }
       ],
       "ai": [
+        {
+          "title": "Collection policies | Innovation in Digital Surgery: Artificial Intelligence Across the Surgical Care Pathway",
+          "title_zh": "收款政策 |数字手术创新：整个手术护理路径中的人工智能",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wUktETEpvOW1VaVVPb3I1cThzUUVzZzdueXFuenlHY1ZyV1VvdXdhZTBVVW5XSFM1eUlwWG5FUy1NOHoyT0UzOTB3MlAwd1lYV1lFN19TRGJMc1NNSzRwaWZPZ05DeC14a0QxZmxYRHBMSjA?oc=5",
+          "source": "Nature",
+          "published": "2026-11-15T23:43:24+08:00",
+          "summary": "Collection policies | Innovation in Digital Surgery: Artificial Intelligence Across the Surgical Care Pathway Nature",
+          "summary_zh": ""
+        },
+        {
+          "title": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
+          "title_zh": "证据越来越多：AMD 可能是抛售中最值得买入的人工智能 (AI) 股票",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV212VERNUTlDS3VueEZDd19WaG12V3FseS0ydmZITFhmWi1kcEpsQVVOSE43cXYyWWJUbllDUzltNGZyTWk1VWRzS2JnVE13bkNRamFTQ0hWMkZNY3NITHl6VmlUMk10cWFsODJrWGtGMjNLSEpsN3VuMzNwNi1UMEg3TEEyRkRSWi1rcTJMaHZvNFU3ODRwMFZxVmhIMzQxeFJLeHZtcGFQaWxSakZBblY0eHY2SkE2TF9TT21zYURrbDNEOWRtV1dVV29qSTBsQUEyeU91WDhwYTg4c01hdHFn?oc=5",
+          "source": "The Motley Fool",
+          "published": "2026-11-15T21:25:00+08:00",
+          "summary": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off The Motley Fool",
+          "summary_zh": ""
+        },
+        {
+          "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+          "title_zh": "英伟达公司 |历史、GPU 和人工智能",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
+          "source": "Britannica",
+          "published": "2026-11-15T21:23:00+08:00",
+          "summary": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence Britannica",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial Intelligence: Why are traditional industries adopting it?",
+          "title_zh": "人工智能：传统行业为何采用人工智能？",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zY1FGalNabjR6cEZNQUtfeGZ5RzhJZDU3aUJiTGVZeFdZeEctRWx3QXNremY1VGwtSU8xUmNBdnhINGFmdE5UQkxfNmFxWUVPcWEzd2p3TDhLTWc?oc=5",
+          "source": "BBC",
+          "published": "2026-11-15T17:10:07+08:00",
+          "summary": "Artificial Intelligence: Why are traditional industries adopting it? BBC",
+          "summary_zh": ""
+        },
+        {
+          "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+          "title_zh": "五角大楼将 CDAO 更名为“超级情报办公室”",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU25JdFE2amt1U2tZaUc3RzJFYU9hSkVydG84ekRXVldXNnk4c180TFVfZDk4dzdDbV9aeDhrbVpVUFNUMUN5MXBzV1RPZm5RUVZVVDlOa29YcVU0LXFRLTBqQ0NCYTFER3dPTlZMUHZ1VzVab3hTLUI4bDl2SG1feFItVQ?oc=5",
+          "source": "SecurityWeek",
+          "published": "2026-11-15T20:51:33+08:00",
+          "summary": "Pentagon Renames CDAO ‘Super Intelligence Office’ SecurityWeek",
+          "summary_zh": ""
+        },
+        {
+          "title": "Opinion: Trump administration shows no ‘super intelligence’",
+          "title_zh": "观点：特朗普政府没有表现出“超级智慧”",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUjNLVGVSbDNjdW90N1poZjhTb2JNX3lyWGdjbml4b1V2NGtnU3NncTEtM09PNGRqQnAwdnYxNzFKNUpCM0FRaWFtbnM3eE9tc0xTZ2pKWEJRMzI1WVFSelA0SHBvc0I3YVo5YmNUcHE2NWJFU3NxYzFvc2RrUm5MOWtFWEVmRklYREd1eWZiRXBoTzJnSXNrc2FOZUxKWlI4ZG1pbVAtNzZYaFYxTkl0blVXeXF3bFBPQU53VjA1QkZNMGJpYjJzM2didmFoc25LRjJfb2xRZV8?oc=5",
+          "source": "The Gazette",
+          "published": "2026-11-15T23:43:00+08:00",
+          "summary": "Opinion: Trump administration shows no ‘super intelligence’ The Gazette",
+          "summary_zh": ""
+        },
         {
           "title": "Advocacy groups sue to stop development of artificial intelligence, citing dangers",
           "title_zh": "倡导团体以危险为由提起诉讼，要求停止人工智能的开发",
@@ -198,12 +252,21 @@
           "summary_zh": ""
         },
         {
-          "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
-          "title_zh": "韩国税务考试最高分者承认利用人工智能作弊",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-15T12:29:00+08:00",
-          "summary": "Top scorer on South Korean tax exam confesses to cheating with AI Reuters",
+          "title": "Microsoft's AI Journey",
+          "title_zh": "微软的人工智能之旅",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1lDaFJNS1VkSHdKQU1LSEFCenFpSDI3ZXF2bU9aZ1N3M2t2WndNTEZLeEdyejJYRWxKcndGOFdnOU81TzZtaHUzRVBSd0lsN3BQUnpjN1N5VUV4QldiVF9mb3Y0TGkydVFsXzBDbkVZaHlDYWFQNFBQRGFua0ZjaS1UUFJuVUhTWkFkX1JCbmViYkprZVl4TmtxcUdXckU1NjZQT0JmSWd5eWp5aGR4NFBGNA?oc=5",
+          "source": "SupplyChainBrain",
+          "published": "2026-11-15T16:09:57+08:00",
+          "summary": "Microsoft's AI Journey SupplyChainBrain",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial Intelligence and the Limits of Private Power in a Democracy",
+          "title_zh": "人工智能与民主国家私人权力的限制",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNamRZNmRrWTFkLXdyZ1BNdDhtY3k1ZS0yZWZERWNuLTg2T3pVOXlzenlHUTZ4em5IUG92dUs3YzBFcXd3VTZ6ZC1OemMycEVwSXJVNmFadlZWMVNqVndoUjFhZm04TEFHSFN4VVNSbVdIZXZnWFZCb2NJbXVPenlZVi1KWGZlanpHaTRnVzVDeWZRdlR1N0owXzV4Z1RhZFQ1UC00UlJn?oc=5",
+          "source": "tovima.com",
+          "published": "2026-11-15T22:05:54+08:00",
+          "summary": "Artificial Intelligence and the Limits of Private Power in a Democracy tovima.com",
           "summary_zh": ""
         },
         {
@@ -213,69 +276,6 @@
           "source": "10TV",
           "published": "2026-11-15T12:37:00+08:00",
           "summary": "Franklin County students shaping conversations around artificial intelligence 10TV",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial Intelligence: Why are traditional industries adopting it?",
-          "title_zh": "人工智能：传统行业为何采用人工智能？",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zY1FGalNabjR6cEZNQUtfeGZ5RzhJZDU3aUJiTGVZeFdZeEctRWx3QXNremY1VGwtSU8xUmNBdnhINGFmdE5UQkxfNmFxWUVPcWEzd2p3TDhLTWc?oc=5",
-          "source": "BBC",
-          "published": "2026-11-15T08:00:55+08:00",
-          "summary": "Artificial Intelligence: Why are traditional industries adopting it? BBC",
-          "summary_zh": ""
-        },
-        {
-          "title": "What Jensen Huang’s Downfall Teaches Us About Human Nature",
-          "title_zh": "黄仁勋的垮台告诉我们什么是人性",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVYxaXV2LWh2RXVYRTh1enVMUXRLdU1QWnVuZ3hfaTBYMEltWlEtc0g3d281ZEJscmF4NVNJOFBMa0Z3WmsxTjFHVzlxbXMyNEkyRWdLQWxKdm1RUGdOZVJXRmJaVmEwWnRZRzJraGZfU0lTZ0c1dklBZ0h3TF94eA?oc=5",
-          "source": "Aish.com",
-          "published": "2026-11-15T15:18:45+08:00",
-          "summary": "What Jensen Huang’s Downfall Teaches Us About Human Nature Aish.com",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial Intelligence and the Things That Matter Most",
-          "title_zh": "人工智能和最重要的事情",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVhLa051RWlnYVJYWlZTeUxwRUhYUVQtcnU4YkhZZm5mcXIzcXN1X0hCNk5kMWxJS3NnUVctalBaVENaWkR5RWtqb0dTVVJadHkxakV0cXFNQkpzWEJrQzlUZ2ktbG9TdG1URUlJVWoyNk05aDgtcHNVNmNFdXJRTnh2Y0xCYjQ?oc=5",
-          "source": "Good News Magazine",
-          "published": "2026-11-14T19:44:58+08:00",
-          "summary": "Artificial Intelligence and the Things That Matter Most Good News Magazine",
-          "summary_zh": ""
-        },
-        {
-          "title": "How Artificial Intelligence Is Reshaping the Legal Profession",
-          "title_zh": "人工智能如何重塑法律职业",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkZlZ0V5R1dVdnBsOTUteGxWdjFtZDRVcUhwYmRJZ1BLeE9maF9ZWXhXeXZEZXl2VG15cUdGdU1fU0ZKN2FHa3pYUFk4QUo0TWRScFBMUFBsWHhZb25PWVdTNm9ZRDhRcFBRSG5rOVdtTnNoSWtCeHZ1MHBKeEFlejhGblByZmJ4OEZsTUxHU0dZZ2RFWDNjRDc0dlNyMDg?oc=5",
-          "source": "TechSpective",
-          "published": "2026-11-14T23:40:20+08:00",
-          "summary": "How Artificial Intelligence Is Reshaping the Legal Profession TechSpective",
-          "summary_zh": ""
-        },
-        {
-          "title": "Integrating Artificial Intelligence into Neuroscience Accelerates Brain Research and Model Training",
-          "title_zh": "将人工智能融入神经科学加速大脑研究和模型训练",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjVTUHdLYnhaTnR3el9rQmN5aVQ1aGJudlB1b0JrSUx4YUw1eXBodXpBV25fdlVjVnJ6NGUwR0doUjR4UDlycHZDX2RSYlBYRzRJRjFwME8xYktBLWQxLVJTYk9yeWxCc28xZHN5Zm1VYXFVaFhxRi03Ny1USk52RThhRExfalZpaGs1cFhvOVh6YmlId0g1anRYUjBDd1JpTU5VWGlkdGxOSXlnRHN2d25iOThfMEg3bWlibXRqOHh1UQ?oc=5",
-          "source": "Bioengineer.org",
-          "published": "2026-11-15T06:00:31+08:00",
-          "summary": "Integrating Artificial Intelligence into Neuroscience Accelerates Brain Research and Model Training Bioengineer.org",
-          "summary_zh": ""
-        },
-        {
-          "title": "Is it AI or SI? Neither seems fully right. | Opinion",
-          "title_zh": "是人工智能还是SI？两者似乎都不完全正确。 |观点",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWW14TjI1ejFiQ0Y0WjZRc19RNm9aemNmR2w1X0FzSG1zWktFUzMyVElSa2hiOC1nSEFOSTJYcVBJY29qd1RPalJ6aWNSOWVEY05EcUpPb21ueVF3cmw0VlA1aE1rOWw1S3pFVUE0djhDckVVU0RMQTJaUWNLTzd4YUpKRGFLZDU5ZWV2UG91Z0hUWXhRWHF3aHVTU0V6YnFLdTZUZE05WmFXY1ZfSnhBd1diMlNkNjMxSzVrcXQyRWE4RDNiRmFlaVJaMGhxN0xsQ2Fv?oc=5",
-          "source": "The Des Moines Register",
-          "published": "2026-11-14T20:00:00+08:00",
-          "summary": "Is it AI or SI? Neither seems fully right. | Opinion The Des Moines Register",
-          "summary_zh": ""
-        },
-        {
-          "title": "Global economy to grow 2.8% in 2027 as AI spending, lower oil prices support outlook: Goldman Sachs",
-          "title_zh": "高盛：人工智能支出和油价下跌支撑前景，2027年全球经济将增长2.8%",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUXI5LURJcVJrU2NVeWlKeFZ0NUxseVRTZjlwMWdqYkJ5WXZ6dmtNQWxhRFdtSWdGd09TOHFWTTRkZVlGX3RXOTdBdnZNbzR1QU9JSldkRlRtNzBNaC15NExqYTVXZnBsRC1nLUM4VE5MX1owM1dSSDBEQVkxX0RGOGNwX1FKS05kMDJKVUFvVmtaUnpES0RUMXVvbjRYMVhuUzhEVnF3S3B0dFNTRXJiMW9OdGJpWm5LYVlMR3ZaQW1kNk5WcVVTNDlRckhiTmJIZmptUlRzV2EwNGxtU3o2R25hbXRnU2Y1NUtyb25rUkxXOTJJS3Y5azlsVk9makhtWVRVZ2JDWGtGdVRJZ1NxWW00SzFkWk1wZ1HSAZ8CQVVfeXFMTS1ndWxudVYzNTZ0N1dJSWtjNnExeGNvcWFWNy1lVjJJcVZScHlMck0zZmtFSG5mV2tjaXN3MG16NXZBMGNZZ25Walg3Y0Y4ZFUxQ0F1UFNmMW1RMkl0ekhrWHBMX0k1TkFzTDI0VE9QNkNiZVdLeFZEWkdFdU5tTDAwMG5kTUoyUVVlNlJrT19JbWtjRDdWa1MzT2VJZGhBdjBJWm11aFZxc1otcnRRX2xDSGNlTk5yMWJjYjBPR1JNOXRwNlNYcE94WjdBd3VGRVZjQW5rclQ0NUozSERhemZnZzhiT204LTMxb09Ba0dYSEJVSW5Ga21KVmVzQkhxdzh2Z2daZ0hpbVRWR0hJdVh1YWl3Z2FLTGp0SlJ2SlU?oc=5",
-          "source": "The Times of India",
-          "published": "2026-11-15T13:00:00+08:00",
-          "summary": "Global economy to grow 2.8% in 2027 as AI spending, lower oil prices support outlook: Goldman Sachs The Times of India",
           "summary_zh": ""
         }
       ]
