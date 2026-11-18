@@ -1,193 +1,256 @@
 {
   "date": "2026-11-18",
   "morning": {
-    "generated_at": "2026-11-18T03:59:28.234917+08:00",
+    "generated_at": "2026-11-18T16:26:09.530526+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "How the attack on Putin's prized Crimean Bridge unfolded",
-          "title_zh": "对普京珍贵的克里米亚大桥的袭击是如何展开的",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tT0E3X0RYMnVJYXk0OFFzT3hiZW1TTl9VcndSWXR0eDdGS2d0Vld5Sm1xZ0hfUWZfWXBQblFoRnlncWg4bEl4V2Q2YnVZZUxPdjZTbzZEWjRkNXM?oc=5",
-          "source": "BBC",
-          "published": "2026-11-17T23:38:10+08:00",
-          "summary": "How the attack on Putin's prized Crimean Bridge unfolded BBC Ukrainian Strikes Send Large Section of Crimea Bridge Into the Sea The New York Times Ukrainian Defense Minister On Crimea Bridge Strike: 'We're Just Getting Started' Radio Free Europe/Radio Liberty Russian...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Trump arrives just as Southeast Asian summit is ending, but still looms over talks",
-          "title_zh": "特朗普在东南亚峰会即将结束之际抵达，但谈判仍悬而未决",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzNpMHl4YWlFZVFsYW1qNFZmcEVyV2p5QnNiRzczWlhBa1QxZ2lYV1p2c1gwRUp2VzNaNjl6WkU3Y2tENnJ3N0hRMlhkRHd0cGNGc21vU3hiRlVyZFNBV2JzYUU1UV9lUVJkWWhfVEZRVmJrQWRMY3h5NHhqZDJRYW1aa3otdEhXT25XOHg3M2cwRmt5SzdCNXRrcXVreGJHZF8tRVQ3Ul96dE5GY1k5Mw?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-18T03:10:38+08:00",
-          "summary": "Trump arrives just as Southeast Asian summit is ending, but still looms over talks The Washington Post Trump Wasn’t Just Late to a Southeast Asia Summit. He Was Really Late. The New York Times Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank CNBC...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Live Updates: Iran claims new attack on U.S. radar system in Bahrain and says tanker hit near Strait of Hormuz",
-          "title_zh": "实时更新：伊朗声称巴林的美国雷达系统遭受新的攻击，并称油轮在霍尔木兹海峡附近被击中",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEJURjBQYXVkNTJSWEMyUlRrbFJ3NjJETGptNjYxX1JSS3lob1NOekp3WkZYcDdWVUtEaFRHYlpzUGg5d1FlNDE0QWdhMmtoUzBJb2piaWZFZWF3OFBaNjY1dTJMMldkdTVtNE1lWFJadlhpRFdFeWZYam5zN3RwWmFiSUw?oc=5",
-          "source": "CBS News",
-          "published": "2026-11-18T02:20:00+08:00",
-          "summary": "Live Updates: Iran claims new attack on U.S. radar system in Bahrain and says tanker hit near Strait of Hormuz CBS News Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet NPR A 2-month lull ends with Iran’s third strike on U.S. targets in Bahrain...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Europe fears what Trump, Xi and Putin might discuss behind closed doors in China",
-          "title_zh": "欧洲担心特朗普、习近平和普京可能在中国闭门讨论什么",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oMkdocXkyWjJnQ0dBTXplTy12RkVHdVNzWHF1ci1FT1hldWlvbWtUV3FRcXdTZmF6a04zSGtOV0dRblllcm9IZDZnMF94V1p6N1FNaC1wOU92YV9NekdWb2twUVFYMzRqM2VPTQ?oc=5",
-          "source": "CNN",
-          "published": "2026-11-18T01:52:30+08:00",
-          "summary": "Europe fears what Trump, Xi and Putin might discuss behind closed doors in China CNN Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps Reuters A Photo Shoot Won't Solve Asia's Polycrisis Bloomberg.com Trump’s unprecedented trilateral meeting in...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Why Neither Trump Nor Xi Is Likely to Raise Nvidia at Their Summit",
-          "title_zh": "为什么特朗普和习近平都不太可能在峰会上提及英伟达",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGh0bmJObHpuamE0THBab0FlVkplMFE2SmlzWGliRkZad2JIdVg0bkMxVUNPdi1TSDlic2J3R1JoTEtpTXlHVlNTcG5XeVZLRDY0eWpOOVpDYUU3M2hPOHBoSUNlWl9FY0NkOF9oNUgzR2VUdWtnaFlET1UwRnpnYXhmVFA0aHdmX0VXckVkdVJSU2xxNWpMZWlCaFRsWVdvWmJyN3ZscENTZ0E?oc=5",
+          "title": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+          "title_zh": "伊朗袭击科威特和巴林，海峡争端进一步升级",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
           "source": "WSJ",
-          "published": "2026-11-17T19:55:00+08:00",
-          "summary": "Why Neither Trump Nor Xi Is Likely to Raise Nvidia at Their Summit WSJ Trump is taking Elon Musk on his Asia trip, but he plans to avoid talking about Nvidia scandal AP News Trump travels to China for meetings with Xi, but one major topic isn’t on the agenda MS NOW Musk...",
+          "published": "2026-11-18T12:36:00+08:00",
+          "summary": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait WSJ US carries out ‘self-defense’ strikes on Iranian missile launch site CNN Iran war live: Bahrain, Kuwait intercept attacks, Manama blames Iran Al Jazeera Iran says army targets U.S. drone and missile...",
           "summary_zh": ""
         },
         {
-          "title": "Trump touts multicountry AI push in Manila",
-          "title_zh": "特朗普在马尼拉宣扬多国人工智能推动",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzBabDVUZHZXanZnVjZaanJ2ZjZUVnhSUmw5eUhGSlVfZk9WSnJOZ3UyUlVSZWpJSVNtd0ZxR0VWOWxfWkR2MkVsQmdUUmxQeEdGZjdJaW9ZcG9rdngxRUhoY3JWeW9QXzI2d2hfM2t6NjVIMlBiM2VqYXprT202UXBqSW03Zw?oc=5",
-          "source": "Politico",
-          "published": "2026-11-17T21:55:00+08:00",
-          "summary": "Trump touts multicountry AI push in Manila Politico See more headlines & perspectives on Google News",
+          "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+          "title_zh": "普京在与特朗普和习近平会面前表示，欧盟正在失去工业，落后于竞争",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43MjJzamdYck4wb3Y3cGFVbjB5OHNKQUlKRlE5Mmo0OVpRdXNSZ0FWcktLNlNFTlZMdXlfWFVzRWstT3V1RGNPTzZVV0ZKTkdhOG50UU1iMHNkSVZnTmtSZ0VoMnAxTkFBdVFUSVBBbU9pWHpkX1HSAXtBVV95cUxPT2szZ1N1VHFiMzJ3VWE1N1dSRWM0T3B4WU9oSXBMdldUeXBOLWp3U0NiTGVlQ2NjTUZ5RzBvXzJwV05LX29oVFZ5eFlnRHV2WVUwaFA1OE5DNVdKVllDTXNFQmp1OWRva0ktazFoYkd4YnVpVmZGZmdJZlk?oc=5",
+          "source": "CNBC",
+          "published": "2026-11-18T11:45:00+08:00",
+          "summary": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi CNBC Xi meets 'old friend' Putin ahead of Trump's arrival in China BBC Trump, Xi and Putin have a shared vision of global power – with no place for Europe | Rafael Behr The Guardian...",
           "summary_zh": ""
         },
         {
-          "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
-          "title_zh": "森林里藏着现金？匈牙利在欧尔班领导下严厉打击腐败",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0NEbnkteTlrejNPYU9Gd2oxMm5JSzhSUXpUN3R6U2Z0SWw0ckRpQ3hVcVZJQy1PTDJ6RDhtcmlYQlpSa2NxQV9Rc0xibWRkWHZjaC1OVWtYaHltbHdUb19wcFFHNVZ2Ymx3MXc4dDF4WVhZOURibFkwRV9IdVJXOVZNWmN2TFlzdHQ0ai1LZklnUEE?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-18T00:00:01+08:00",
-          "summary": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban The New York Times Hungary recovers $20 million cash in probe of Orban minister Reuters A $20 Million Stash Sends Viktor Orban’s Party Into a Tailspin Bloomberg.com Nearly $30 million of buried cash was...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Watch: Millions of Christmas Island crabs begin their annual migration",
-          "title_zh": "观看：数以百万计的圣诞岛螃蟹开始一年一度的迁徙",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXdBbmtXekRsZXpiS1Znb1g5QWdDOUdHd0lUa210WEo1U1NxVHM3RDNqWnBnT3pVbHhXWENlRDdFXzZOQ1RISXlXMll3NDA3UnhZNUtGcnUyLW9LTzRGdVVydEUxYUhMRGVjZ0VkVXZPWEFSYWI0NFlTUmt4eW1uZFhPVTFOZDBWQTdFeGlGS0h2UTMtUHU2TVVR?oc=5",
-          "source": "Yahoo",
-          "published": "2026-11-17T02:53:53+08:00",
-          "summary": "Watch: Millions of Christmas Island crabs begin their annual migration Yahoo Millions of red crabs are on the move in Australia. Here's how rain and the moon set the pace Yahoo WATCH: 100 Million Red Crabs Take Over Christmas Island in Annual Migration KDRV Millions of red...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Israel under pressure as winter rains lash Gaza",
-          "title_zh": "冬季降雨袭击加沙，以色列面临压力",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWZySm5MTUxYYV9CNW5GaElTTDZHeHdNN0dmVUg3aXRueHNFXzlVS1dIR0pySkxkOGhUNHVkWDNJYzduR3UyVXNtNElaYWpTbnliSUNsb3NaQnd2d3NSSTUwazRhYmplVmRuUE5yQU9OLW9CZUlnTDJBOGY5VmwwY1Z5SzE?oc=5",
-          "source": "Financial Times",
-          "published": "2026-11-16T19:58:17+08:00",
-          "summary": "Israel under pressure as winter rains lash Gaza Financial Times ISRAEL/PALESTINE: Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza Council, European Union UK and allies call on Israel to allow rapid humanitarian...",
-          "summary_zh": ""
-        },
-        {
-          "title": "UK sanctions firms over Israeli West Bank settlements",
-          "title_zh": "英国制裁以色列约旦河西岸定居点公司",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obnNFbkotNFRLSk8tb05PUTJwcnJjbVhOSDNuWVpmWmF1bDlBdTRtWjVpY2c4V3BjZnRDOEJqbFFzS3k2TzRYdjBzMHdxZ1kycDliSTBtZVA2U1U?oc=5",
+          "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+          "title_zh": "特朗普在与俄罗斯和中国总统会谈之前访问亚洲",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43eTNySUF6Qk5WeER2eTkzNGpTb3JpZFBpZGppak80Q25WYm9LMlVLRVZ3UGJIVDN4aXZsX2N4c2l2ZFBQV2xBdDlySTgwZENrNzhybW82djVGYlE?oc=5",
           "source": "BBC",
-          "published": "2026-11-18T02:27:27+08:00",
-          "summary": "UK sanctions firms over Israeli West Bank settlements BBC Ed Miliband announces first sanctions on Israeli firms working in West Bank The Guardian Britain sanctions Israeli settlement firms in push to protect two-state solution Reuters UK sanctions eight Israeli construction...",
+          "published": "2026-11-18T04:25:46+08:00",
+          "summary": "Trump in Asia ahead of talks with Russian and Chinese presidents BBC Trump Will Miss Most of the ASEAN Summit The New York Times Trump Asia trip live updates: Trump joins Philippine president for bilateral meeting ABC News - Breaking News, Latest News and Videos Trump lauds...",
+          "summary_zh": ""
+        },
+        {
+          "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+          "title_zh": "乌克兰如何撞上象征普京统治的刻赤大桥",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmwweVVNNGxibWplYWRqN3FyS1A0MWM5OFRhTTlOR2F0MnM5aDNOOUFOeGhJSGpqc0t0TzBjcF9BaWxfZnpMQkhHeWxMeXJ1S3cxMkZVZGFyS21FXzRHVjhBaDZjZTd0R2NxaTY1aW5JOUVJTlJjalRGTmIzNGdnZ2xzc1EyZU5WNm5McF80Y2tPWkI3SlFQTVpWeE1MMVpVRFRsUTl0MA?oc=5",
+          "source": "The Guardian",
+          "published": "2026-11-18T10:30:00+08:00",
+          "summary": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule The Guardian Russian Offensive Campaign Assessment, November 17, 2026 Institute for the Study of War Close-up footage of Crimean Bridge from occupied Crimea shows road section destroyed but railway operational –...",
+          "summary_zh": ""
+        },
+        {
+          "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+          "title_zh": "英国将被指控俄罗斯间谍活动的北约派驻美国士兵移交给美军",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeG1nTVJCSWdrQ3ZnTVhwRTVwSnM4QmRpQkg3bnpLMC11ODR1c0hvQXl2c010MWlvekoxMWdkWGhyeDVNZTNteHJpalE1a1Qxdk1BTF9jeHMyNFNhRWJ1cm02RzFWSTV5Y1RtcEVncWFDTVJfRHJhTnJLYzNPaEk3ZElCZkZRbkF4YXE2dnNrak9WdzZha1BCRFlyaWVJYWIxMEg4YkM3eVdydFJkNzFCUl9UbXVJd9IBuwFBVV95cUxOM2c1Y3h6ckFMeEdkQm5Xd2J2X19lQ1VEWTZNVk1kX3E4QjVpV2VwMVloSnhtWjBnc3JTMlVFaGV3dFRJRU5WM2F0dER4bW9acFhSM3EtRjdpeVktRjA4T09LQjJLTjF1VTlVeGZ2RUdOcFVBOEZZMjUyRHZwQUZJVW5iaUFFOWVybVh5WG1lYzdTazZTS25BNkdLUV9TR2dMZWJnM2p6M0I3YVpSMl80eUN4QnNEWkwtY2NR?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-11-18T05:41:55+08:00",
+          "summary": "UK hands NATO-assigned US soldier accused of Russia spying to US military Al Jazeera American soldier arrested in UK taken into US military custody BBC Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran The New York Times American soldier held in UK...",
+          "summary_zh": ""
+        },
+        {
+          "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
+          "title_zh": "伯纳姆所关注的欧盟与英国留下的欧盟截然不同",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZjNZNjNuTFNXeTd6SnppWFd0ekk2YlJEdVJPU1V1Nnk0WlJqZWNBN1Fyck1TSVdTWm45U1FtZnJ6eE9OWDdzaVY0WFc1YW9EYjQ5dXl3cGIxckk?oc=5",
+          "source": "BBC",
+          "published": "2026-11-18T08:39:06+08:00",
+          "summary": "The EU that Burnham is eyeing up is very different to the one Britain left BBC Burnham says Brexit hasn't worked ahead of EU reset summit, Trump appeals hush money conviction AP News Hoping for Britain to rejoin the EU with Andy Burnham? You may be waiting a long time |...",
+          "summary_zh": ""
+        },
+        {
+          "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+          "title_zh": "中国习近平在与特朗普和普京会面之前呼吁消除贸易和投资壁垒",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kN1VQeHRmSWJFQ2NzTW9IS1hUczJuM0Fqa01jMW1ZRkwxT2JVV2xLbllJRVBoc1gtQklCT2FRNVpNWElEeFpneDlaTDdHOVhsZGtHRXZJSEUyQjE1OUpFY2FvbDFKbk15OFdaZFI4ZjRSN3laTkFRQ3BLQdIBgAFBVV95cUxOeUtIeUtSU29VbDRRbWlQclJXOW5jVmNpbW8zYlFNbmRhem8yN1lDWU5adEhraFlXUjFCZlZDeEExUVJaRG9WZGl4bTlNUEw3Y2xvemg4V2RvZmsxREZFNWNGXzE4Z3VIUGNEeWducjZaSkpGYUxpbXNsekdIeW9jUw?oc=5",
+          "source": "CNBC",
+          "published": "2026-11-18T10:23:00+08:00",
+          "summary": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin CNBC Xi and Putin blast sanctions before meeting Trump in China Reuters China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions Al Jazeera ‘Witness the...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Modi Tries to End Photo-Op With Trump in Awkward Quad Briefing",
+          "title_zh": "莫迪试图在尴尬的四方简报中结束与特朗普的合影",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXpEU0doZ3owNEhTcVh6aDJHNlBjX0h6NXo3Q3Qtbm5XTUxFNEd3WThTUVREU2lzZHIzRWhXMWxFakRXNTZ5ZFdJSm03TEZKRUxJNFg4LXFmTmJIaXVwSWVfdFUxcmpBWUpMYjh4SHdMa3ZwSWJ4eUR3U28tem1LWWpPblI2aWo2TWFkQkx3YjFENHV6SzZwQnNvek1iT1lLSmxud2pJMHdFSXpZVERfYThSZw?oc=5",
+          "source": "Bloomberg.com",
+          "published": "2026-11-18T14:22:00+08:00",
+          "summary": "Modi Tries to End Photo-Op With Trump in Awkward Quad Briefing Bloomberg.com Trump announces critical minerals agreements at Quad meeting in Manila Al Jazeera Quad leaders flag 'economic coercion', oppose unilateral actions undermining peace Reuters Trump announces AI,...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Knesset votes 66-52 to elect Yashar’s Matan Kahana as speaker, in boost to Eisenkot bloc",
+          "title_zh": "议会以 66 比 52 投票选举亚沙尔的马坦·卡哈纳为议长，提振艾森科特集团",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzRVLVJmR1BsTTNKazc2dXZMOUlvX2xBdVcxbVROcmd5cXpLcW5hdktyTlFjNThuTmIwX2U4SkRmWW1VbHdxY0o0dlFPNGFaaUg5OWFXQ3FKX3oycmpaa002LXNON25TbGQzYTBWVDE5VjVrTkU0S2FfdkxHbVpoTW93Y3g0VndwemNnT1FCTktOeC1NQ2VybHd4OGg3YjY2VFJSeVY5bUh4bW1kNko0SEFESG1rWHhK0gG-AUFVX3lxTE5oYmNVYlM3bFNuaXJuWlpCV295N29WT2QwVDktaFpueS1IOURmdndFb0I1X0NRMF9QQlVoVTBDRklSU0lzbjNpQkZCcXZQMVI1czQ3ZjZoQnZ1MFRDaURFQlJnWDhlNFVMdFJXcHdnaVY2OFRjNDZaQ1VTUzhSdXJOTy1kNU9NRFZObGRuc1l5SUJ3dnBSY2pUa2UzeG1udVJzckg4eVFuczdHM2p4Qjd2VmRaVV9faU4zeE1LMGc?oc=5",
+          "source": "The Times of Israel",
+          "published": "2026-11-18T10:56:30+08:00",
+          "summary": "Knesset votes 66-52 to elect Yashar’s Matan Kahana as speaker, in boost to Eisenkot bloc The Times of Israel Israel’s parliament elects new Knesset speaker, weakening Netanyahu’s grip on power CNN Deputy AG: Ohana can’t be made strategic affairs minister without Knesset okay...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Home secretary plans to tackle 'perception of two-tier policing'",
+          "title_zh": "内政大臣计划解决“两级警务的看法”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUWk5ZTXF0Y0hLWnY5TjhMcU9QeGhDNG5PUXdxeW52T0ZFZjkzVFg1cVVqNjdpTnNOWWtIb24xMExCeEt5NC1ZMkswb3J1S0RKZUprRDBkVmtNOEE?oc=5",
+          "source": "BBC",
+          "published": "2026-11-18T06:31:32+08:00",
+          "summary": "Home secretary plans to tackle 'perception of two-tier policing' BBC See more headlines & perspectives on Google News",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "聚焦APEC｜共绘亚太经济新图景的企业样本——APEC工商领导人峰会一线观察",
+          "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sOHNNWWJjRklRejBIVnp0MnY2X05OX29WblpnSjlNMllySmxweTBTYXFzQXo5Qmd6R19BcmdDbzdsYzBDbmUweXNBUGVUZEFfc0ZGbkJhWGhBMnlLQlZFVm4ya2R3MExidGxRRExacFlMQkhvTFhoY3BwRUh0TE0?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZm91aUpLNEEyVVNXbHlNYXc3VVdaN0FZV0V5eFFxSDJWZnZXRXV0RnZsdWp5QjZ3cWtDMkxHcGhOSWF6R2NSTjJyVlpfYTNQT1ljeHR5dHliMVZoM2gxTXZ4cF9WZXV5bnUyN0tkTXJ0RkVEUDZjZU9acW1qU00?oc=5",
           "source": "新华网",
-          "published": "2026-11-17T23:25:39+08:00",
-          "summary": "聚焦APEC｜共绘亚太经济新图景的企业样本——APEC工商领导人峰会一线观察 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "published": "2026-11-18T11:10:50+08:00",
+          "summary": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文） 新华网 《求是》杂志发表习近平总书记重要文章《携手共建亚太命运共同体》 北京市人民政府门户网站 亚太青年眼中的APEC“中国年” 凤凰网 日月谭天丨这场举世瞩目的盛会再次让岛内震撼！ 凤凰网 APEC现场｜西班牙企业代表：在波动性不断加大的背景下加强与中国合作尤为重要 ThePaper.cn",
           "summary_zh": ""
         },
         {
-          "title": "习近平会见智利总统卡斯特",
+          "title": "习近平总书记视察广东时的重要讲话在南粤大地引发强烈反响",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRZlVSc2FQYjJMR1QtUDVRWW5xQ0Y4eUV3T3phZzBhdzJXSnZLb3Q3YzRXSV9VSHlocC1oU3pNeWZHQnNrY3I3UEF0aVJ1bWdjVHlqZw?oc=5",
-          "source": "第一财经",
-          "published": "2026-11-17T17:18:00+08:00",
-          "summary": "习近平会见智利总统卡斯特 第一财经 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rQUZjMk9zbks1c1VkQzd0UHg1M1E2U3o4T3VKVUJXYy1jakJpamE4X1BRQTNoNTUxZG5ZSkEybVFacFhPN1htV0R4STEzZHhyX3l1OWc0c2VRMEtaaEcyeEtCSWJYd0V2OW5SM2ZGWHJzc2RR?oc=5",
+          "source": "粤港澳大湾区门户网",
+          "published": "2026-11-18T14:54:14+08:00",
+          "summary": "习近平总书记视察广东时的重要讲话在南粤大地引发强烈反响 粤港澳大湾区门户网 热解读｜打通“黄金内湾”的关键一横 光明网 奋力开创粤港澳大湾区高质量发展新局面——习近平总书记在广东中山考察时的重要讲话引发广大干部群众热烈反响 China Daily 总书记广东中山行︱记者手记：大潮起珠江，大道向未来 凤凰网 深中通道：推动珠江口东西两岸融合发展的重要交通枢纽 中国网新闻中心",
           "summary_zh": ""
         },
         {
-          "title": "第一观察︱开局之年，习近平总书记调研指导粤港澳大湾区建设",
+          "title": "俄媒：普京感谢中方出色主办APEC会议",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xRzZKUHJkYTVOZ0NGMzdDTlZ2ZlViWUpRWnZ0RF9kQjBrd0xwU0dpZE1OTGxuaE9vNjJvajItcFVBVTdQUUJUblc2VmkwOVVyVUtxamF3ZldxNUhVNlE0?oc=5",
-          "source": "人民政协网",
-          "published": "2026-11-17T19:15:00+08:00",
-          "summary": "第一观察︱开局之年，习近平总书记调研指导粤港澳大湾区建设 人民政协网 习近平在广东中山考察 北京市人民政府门户网站 总书记广东中山行︱记者手记：大潮起珠江，大道向未来 Sohu 近镜头｜两次眺望，同样的期待 光明网 时政微观察丨从信创园到科技城，总书记心系科技创新 凤凰网",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVDhQV0JId1YyRWU4Z2xOSkFDSml4N01oak1wakx4Mkt1V3N3bUpKY01uTFpkY1I0cEk2cDRNdEZpcEk2QVNZMXlOMnU2dXUzSFZOMkVrNmU3bDVrajQxUUhoUndYSVpx?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-11-18T12:40:34+08:00",
+          "summary": "俄媒：普京感谢中方出色主办APEC会议 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "为中国式现代化提供更加有力司法保障——习近平总书记重要指示激励法院队伍在新征程上砥砺前行",
+          "title": "中俄美元首即将会晤，释放强烈政治信号",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoSTRZazZITmxkd2IwSXpFWGx0ZngxSkNEWFRrd2dBd19qVTJvV2QxR3hwdHg0aTRoQWpIcGRZYXlFVG5GdUN3NlNqS1JxQ01UWjloYlVQYWhBVi12UUgzenVrdnlpY01ZMEFNTFRZZjFHQQ?oc=5",
-          "source": "人民网",
-          "published": "2026-11-17T23:47:00+08:00",
-          "summary": "为中国式现代化提供更加有力司法保障——习近平总书记重要指示激励法院队伍在新征程上砥砺前行 人民网 【央视快评】以高质量司法更好保障高质量发展和高水平安全 央视网 习近平对人民法院工作作出重要指示强调加快建设公正高效权威的社会主义司法制度以高质量司法更好保障高质量发展和高水平安全- 中华人民共和国最高人民法院 中华人民共和国最高人民法院 让人民群众切实感受到公平正义就在身边 人民日报 2023年1月至2026年9月全国法院结案1.61亿件- 要闻 济南新闻",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mZzAxZXh4UEVNNEU3TGRXaGJwSjNwRGw3US1oVVVVc3J0YzRlSlo0NEtQc0ZQb1psRDVjYVllallPTjl6NFNMRDRnVmJ3dGdfb0NlbURGem5qc29WNmZRSldmWjlpWnRMckZUUF9EbUhQbjNRcUx6dEtB?oc=5",
+          "source": "中国网",
+          "published": "2026-11-18T09:00:00+08:00",
+          "summary": "中俄美元首即将会晤，释放强烈政治信号 中国网 APEC深圳峰会：特习会与中美俄三方会晤背后的大国博弈 DW.com 外交部：中俄美三国元首将就事关全球和平的重要问题深入交换意见 ThePaper.cn 史无前例的美中俄三方会谈，不容错过的几个关键问题 美国之音 中俄美元首会晤是否会讨论台湾问题 国台办回应 中国日报网",
           "summary_zh": ""
         },
         {
-          "title": "特朗普出访亚洲团队名单公布：15名以上美政府官员陪同出访，包括国务卿鲁比奥、财政部长贝森特等",
+          "title": "从无人驾驶出租车到智能机器人 深圳科创亮点吸引外媒目光",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByS0lubER4RFBRbUUxekZtVGNJTHlQUW5NakNuV1RzejlpaVpkVGNxVFF0ZFdTSmM1cUlhcVFZY3JLSS1WbGY5QXdMSnhsS3M3Z05XOTZzRXkwQTgzaUVkWQ?oc=5",
-          "source": "四川在线",
-          "published": "2026-11-17T23:00:54+08:00",
-          "summary": "特朗普出访亚洲团队名单公布：15名以上美政府官员陪同出访，包括国务卿鲁比奥、财政部长贝森特等 四川在线 特朗普出访亚洲团队名单曝光 凤凰网 外媒：深圳何以成为“奇迹之城”？ 中国青年网 特朗普总统启动亚洲之行 首站：菲律宾东盟峰会 美国之音 APEC期间特朗普与普京将在中国会见金正恩？外交部回应 ThePaper.cn",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Xa3ltdGp0eTM3V2ZPSHgxUXNyVVMtdEdUMEpTZ3gtMElUcHRLT0NxQ1N2WGVuWGQtQnFmeEtySUc0TWUwSjdlY1lTR1V0eUhQT2U1bGtvVnlEY3ZrVHRXaS03RnNzUmNGV2NqbWRjNEZ2VE0tQlE?oc=5",
+          "source": "数字中国建设峰会",
+          "published": "2026-11-18T10:41:00+08:00",
+          "summary": "从无人驾驶出租车到智能机器人 深圳科创亮点吸引外媒目光 数字中国建设峰会 中国以AI奇境接待各国领袖，但他们看不到的另一面是什么？ BBC 外媒：深圳何以成为“奇迹之城”？ 中国青年网 美媒记者深圳体验自动驾驶汽车 外媒点赞中国科技创新，见证发展活力 Sohu 中国之外，另一个更大的深圳！ 金融界",
           "summary_zh": ""
         },
         {
-          "title": "聚焦APEC｜俄罗斯总统普京抵达深圳 蔡奇前往机场迎接",
+          "title": "以一己之力，爱尔兰男子“彻底拆毁”大力神，美军机报废",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05NnNyOG9Rbkh5d1I4eVFWeVpfc3NiOHJRVVFxdUdGczBfZEZBaDVVcnVrSXBLVTNvUWc0LXpPZ1BMVjNSTnZ0cS11alFmLXJ3aTMwSmxyeFh0UVpiY1cxUmJkcHlmVUQwN1doREpSeTVLcGJzc1pvQ0dOUG5UZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LbWhRZ1ZvTHZ4NnJ4Rm1saGY2aVNJZEdjOGdpSkpVeWpyMkN3eWoxUEJPN1BkMmVteW9tMklCQVJUaFFxUXNiNFBPS1BWdml4WWFGNmhENlVxeUw2czlkVl96dThyTzZkeHVrYXlqaHdFcEU?oc=5",
+          "source": "观察者网",
+          "published": "2026-11-18T13:33:00+08:00",
+          "summary": "以一己之力，爱尔兰男子“彻底拆毁”大力神，美军机报废 观察者网 爱尔兰男子涉嫌损毁价值6000万美元美军“大力神”运输机使其报废，被美检方起诉 凤凰网 一己之力毁掉价约4亿的“大力神”运输机：爱尔兰一男子被美国起诉 驱动之家 爱尔兰公民因涉嫌在香农机场破坏美国军用飞机遭起诉 Mezha.net 男子持斧闯机场狂砸 美军C-130运输机全毁 China Press",
+          "summary_zh": ""
+        },
+        {
+          "title": "台陆委会称两岸交流应“去统战化”，国台办回应",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZVBaVzNjWkhSSFJ3LW9pLWVLbUJTbFFEbFpwNVMzYjJSNDI4cEJfc1BNZzZ5Tmk3SzBDc3AtenBnM3VsQ3lrdGpPMnVIbzg0ODVDZnRsNXgyTGJKU0s0dUxSU0hIM0JLUkdVSFJsTEM1TjRqVjc0Z3lKbFJyX2cwMGtEQjVfbTJjUHc?oc=5",
+          "source": "广州日报新花城",
+          "published": "2026-11-18T13:16:18+08:00",
+          "summary": "台陆委会称两岸交流应“去统战化”，国台办回应 广州日报新花城 国台办：实现祖国完全统一功在当下 利在千秋 福泽万代 中国日报网 揭批“台独”祸根、凝聚统一信心：国台办发布会释放哪些信号？ 凤凰网 台陆委会称两岸交流应“去统战化” ，国台办回应 ThePaper.cn 国台办回应“邱进益建议2032年两岸统一货币”：只要有利于两岸关系和平发展的主张我们都欢迎 凤凰网",
+          "summary_zh": ""
+        },
+        {
+          "title": "科学把握推进制度型开放的战略意义和实践要求（深入学习贯彻习近平新时代中国特色社会主义思想·《习近平谈治国理政》第一至五卷通读） --观点--人民网",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcHJhcmU3dEpUazg3MVZLVWE1MXNSY0xmWl9mU2xZdnlpV2hOR0IyYXd3LXpwVHlPY0paQ0g4RHo4ZHR3SVNoMWlJdVhkdFZVRTVqdzVvY0dTRnhrbk9SdjkyU0VrN1JLRjFVX0dhNEg?oc=5",
+          "source": "人民网观点",
+          "published": "2026-11-18T06:11:00+08:00",
+          "summary": "科学把握推进制度型开放的战略意义和实践要求（深入学习贯彻习近平新时代中国特色社会主义思想·《习近平谈治国理政》第一至五卷通读） --观点--人民网 人民网观点 经纬线｜世界越变，中国为何越开放？ 新浪新闻_手机新浪网 外交部：欢迎亚太工商界共享中国式现代化机遇-36氪 www.36kr.com 2026年11月18日外交部发言人郭嘉昆主持例行记者会 中国驻爱丁堡总领事馆 习近平呼吁消除贸易和投资壁垒，并承诺降低关税；此前将与唐纳德·特朗普和弗拉基米尔·普京举行会晤 Informat.ro",
+          "summary_zh": ""
+        },
+        {
+          "title": "全国人大常委会副委员长肖捷率团访问埃及",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbF9JY01MU093dkdHcS1DT0oyaDNnTGpMRC1rR3RPeHRZcWtobGZnc2NCbkZrMVJ4aDdMeWFOeHFqS1FJX3M5VjNVWUNfaU00RVZBWDNkd09ieUxPM3dSU1JjWlBnSWlaSTZjTEdPdHBaejBpUWE2REh5aWpSLWtZRy1hTzJqZldHVmFfUnBoSGlHXzdieWIyOXhR?oc=5",
           "source": "新华网",
-          "published": "2026-11-18T02:12:26+08:00",
-          "summary": "聚焦APEC｜俄罗斯总统普京抵达深圳 蔡奇前往机场迎接 新华网 APEC峰会即将登场 三巨头聚首深圳 DW.com 俄罗斯总统普京抵达深圳 新浪网 2026年11月16日外交部发言人毛宁主持例行记者会_中华人民共和国外交部 中华人民共和国外交部 联合国秘书长告诉VOA：如果美中俄能致力于实现无核化议程，那将是一项重大成就 美国之音",
+          "published": "2026-11-18T14:12:06+08:00",
+          "summary": "全国人大常委会副委员长肖捷率团访问埃及 新华网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "聚焦APEC｜马来西亚总理安瓦尔抵达深圳",
+          "title": "智能汽车当“考卷”：全国职工职业技能大赛首次增设汽车装调运维赛项，32 支队伍570 名选手比拼新兴工种",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WeFR2dHJGczh4V0hWMUpJajQtU3hDSmc4ejVzV1ZlVnZDS0pKZFpMMVpiOGZ2ZDQ1TUEyYW0yaU16V0FUM3V5Rld3NXBWdDVPNXNuajB3bzIzWC1uazE5eEI3MV9EVF9pdXBB?oc=5",
-          "source": "中国网新闻中心",
-          "published": "2026-11-18T00:34:00+08:00",
-          "summary": "聚焦APEC｜马来西亚总理安瓦尔抵达深圳 中国网新闻中心 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "王小洪会见越共中央政治局委员、越南公安部部长梁三光",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGRKNXBnMGxHTnB5eUhMUExNc0ZMNExxZUR5aTJERkU5cnk2UWdXbWdLc0wtM1VkVGFLaDZkNzZCQkQtWExmNXpOd2ZBUzBVQW5iUnFGTWNXRHMtb1B5UThDakQ0Z3lhS1djNkx4TjlyMUVGM0t3amo1aHBaR1FWc195MHZrRWc0OGc?oc=5",
-          "source": "中国长安网",
-          "published": "2026-11-17T21:28:00+08:00",
-          "summary": "王小洪会见越共中央政治局委员、越南公安部部长梁三光 中国长安网 习近平会见越共中央总书记、国家主席苏林 新华网 越南领导人苏林实探大湾区高科技，欢迎深圳人形机器人尽快去越南 新浪网 越共中央总书记、国家主席苏林抵达深圳 观察者网 黄坤明孟凡利会见越共中央总书记、国家主席苏林 Sohu",
-          "summary_zh": ""
-        },
-        {
-          "title": "财经聚焦｜从系列展会看农业发展新气象",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2VIdDRXRUVab3ZHRGJEYlM1eGU3VWZiTGFwMXNlZFpXTjctUXY3ZGl2U3VYSFpCdXNNVXozNkhZc1VfS1F2VF9qWlJ0dlR1NnNvbG1QVXdxd2VBOW9jY1ZDS1QtTllkdWtRZ2pqZUZjNk5tWDVpN3lTeDBxTm8yLUN2ampMMlND?oc=5",
-          "source": "Sohu",
-          "published": "2026-11-17T23:30:20+08:00",
-          "summary": "财经聚焦｜从系列展会看农业发展新气象 Sohu 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "第九届全国职工职业技能大赛决赛在湖南株洲开幕",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0dqS3NncHlfbEtQQzQyVUtHOG9UUDk0Nkc5SGZSeDVOZlZkSVprc3RZdXNRb0pWclA1QkFYczUzSHhNWng5NXVKTUktSVdhVmRXbXNYNk50Q19kcDJBMkJOR1haaWlZUmU3eDJjNXRSRXNUTndSSkNjQ1JodlJPc2RmTFg3dw?oc=5",
-          "source": "新华网",
-          "published": "2026-11-17T20:39:37+08:00",
-          "summary": "第九届全国职工职业技能大赛决赛在湖南株洲开幕 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3UmJXTHJDRXI1M004VkZjSnhIY1BoQjI5Y3daM3JvcDNiVGNZZ2lvZWZrQTY4NE9qTWZhNkFPMWlXakU2RjN2VV9TQm4?oc=5",
+          "source": "IT之家",
+          "published": "2026-11-18T09:15:51+08:00",
+          "summary": "智能汽车当“考卷”：全国职工职业技能大赛首次增设汽车装调运维赛项，32 支队伍570 名选手比拼新兴工种 IT之家 第九届全国职工职业技能大赛决赛在株洲举行 新华网 运维高手齐聚赛场 120分钟为智能汽车“现场把脉” Sohu 570名高手齐聚 第九届全国职工职业技能大赛决赛开赛 中国青年网 第九届全国职工职业技能大赛决赛在湖南株洲开幕 人民网-图片频道",
           "summary_zh": ""
         }
       ],
       "ai": [
+        {
+          "title": "The UAE’s Federal Authority for Artificial Intelligence and Data",
+          "title_zh": "阿联酋人工智能和数据联邦管理局",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkFfbkV0MEdSOVp2YVYxa25xS2JBZlRMcXFNTHBlM0RiR3hPbXBWTGI1SzV6WUphZThWalkwNEZQYVAwNnJ2NWppeWpzZTFmemphLTlOVjExS2lkSGlxaDNKR1hMV28yMGNnWmE2MUZHc2Z2cFQzdjFoVlRqdkNaXzBvdXh3NUcxUm03czhOamgydzNLVldjQXdyZU5sQk5KQlJuYlhlSUJVdm9zMXBEZg?oc=5",
+          "source": "FTI Consulting",
+          "published": "2026-11-18T10:54:09+08:00",
+          "summary": "The UAE’s Federal Authority for Artificial Intelligence and Data FTI Consulting",
+          "summary_zh": ""
+        },
+        {
+          "title": "Hiding beyond the visible: How artificial intelligence is enhancing multispectral camouflage",
+          "title_zh": "隐藏在可见之外：人工智能如何增强多光谱伪装",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZF9LMkJwcDBHNlhOZkU3TUQxdkk0S2lmR05Fc2xINGFBSEpzdHZfVXkyWHJvSmFCZ3M1Q3JiSzIyUFhRMkxhNEotdHVCNU1SSmRaUVJHSkZybnFzc2ZUcjJLUDlUdGFFXzd5MklqYmd0X19YWVR1TGFqUVU5NFA3T0h3NDBSZFpfVmhiQ1ZncG5QSlJSVHZlRkFxLWRoSnhORlkyQXVIQnd0bXdSWEYyNHpjRG4zVjJ4bWVpbTd3?oc=5",
+          "source": "AIP.ORG",
+          "published": "2026-11-18T13:04:31+08:00",
+          "summary": "Hiding beyond the visible: How artificial intelligence is enhancing multispectral camouflage AIP.ORG",
+          "summary_zh": ""
+        },
+        {
+          "title": "Cut generative AI costs: Code for rules, models for judgment",
+          "title_zh": "降低人工智能生成成本：规则代码、判断模型",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVg3V1dEQVNwMUFueGFmczVVUzE2RUd4UUtkNWtBakFoMG9ILVhNU1M3WXVZSXNXdlpYRzFfVWx0X3pKX3NuM1RXckowRzktMUpzWHphbUJZWlJXX2ZOTk9JOE44U1hnNDZudU10dVI2UWhQV3hWcHNWVHpTLU4zV2VUZFAyZkFhYS1BWUVET3h4SHpyNW96aXdYVUxpMHZPeXRUMVc5LWM?oc=5",
+          "source": "Amazon Web Services (AWS)",
+          "published": "2026-11-18T05:14:55+08:00",
+          "summary": "Cut generative AI costs: Code for rules, models for judgment Amazon Web Services (AWS)",
+          "summary_zh": ""
+        },
+        {
+          "title": "How To Ensure Artificial Intelligence Is Enriching Student Learning",
+          "title_zh": "如何确保人工智能丰富学生的学习",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOenpUcDZJekVHMjNVMWNEQ3NXLWlEZUhhdFB3N3VTV1lGa0owTzlKLWZBXzhJM0FsV0Y3RHdVSlJjU0FJejdmRXJIN1BmLUpXc3BPandEc09yZ1VkVXNla0RHdUlveXh5M0JRcGhqR2JGSVhUcy1DRU1IbXpuampFZVNYRVZ3bUt6dXBzd2hkZlhKUlBObWRvWF85OHc2QzNyUU1DYWF3YXlvYmdR?oc=5",
+          "source": "EdTech Magazine",
+          "published": "2026-11-18T04:51:58+08:00",
+          "summary": "How To Ensure Artificial Intelligence Is Enriching Student Learning EdTech Magazine",
+          "summary_zh": ""
+        },
+        {
+          "title": "BigBear.ai vs. SoundHound AI: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+          "title_zh": "BigBear.ai 与 SoundHound AI：进入 2027 年，哪只人工智能股票更值得买入？",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYl9zYTgxbk5MMHVYeTA0VnFvUVM0bWJpZjZYRlFTX0dQbUlGUjRTWlRuSl9QQzVDNlRyTl9SVUlsZWt0V2NzY2FYMWFDdm9yQnFVcnpnTzRxdzE4ZTJoZWJsdU1lV1dGVGZYZ3hCVVFhMExwcjdQYjNVYmR6QVlIMHl2UmlXMk94TjRwaDI1YlJNYlZqWFI0VG02X3A1eFVkWVQ2MXpmNFFOYXNuS3FZM0pYZk4zdUFhay1TNmVNQXlhcEpOem5UR2l3cEU4dkZWeWp5YWJQQUN4M1hLT0RXX2FR?oc=5",
+          "source": "The Motley Fool",
+          "published": "2026-11-18T15:20:00+08:00",
+          "summary": "BigBear.ai vs. SoundHound AI: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Motley Fool",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial intelligence for antibiotic discovery and design",
+          "title_zh": "用于抗生素发现和设计的人工智能",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2NnlidTR2VG5veXJqSnhDTVA2ZUN1SUdZR2RRc3U5NkphUkVTb0pMTTZhX1lCc3pMWklJVWhscGZYWmpJYUdadFRnNDJNZU01aTRTbFNRWERaem1HUzlB?oc=5",
+          "source": "Nature",
+          "published": "2026-11-18T06:11:47+08:00",
+          "summary": "Artificial intelligence for antibiotic discovery and design Nature",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial intelligence may limit entry-level jobs, Kentucky official says (Video)",
+          "title_zh": "肯塔基州官员表示，人工智能可能会限制入门级工作（视频）",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yM0dhbHp4ODhBdnBLeWJDM3h3WDl6R3ZPWHp6V2tJTXotVnlVbUVqQWNXT05fN2QtMzV2TDV5MDZWSmpDdTBZRDVlOXZnLWt3NlFIUHNldnkxQ2ljcXNCMHhRT284dEdz?oc=5",
+          "source": "Lexington Herald Leader",
+          "published": "2026-11-18T06:17:07+08:00",
+          "summary": "Artificial intelligence may limit entry-level jobs, Kentucky official says (Video) Lexington Herald Leader",
+          "summary_zh": ""
+        },
         {
           "title": "Circular Finance May Set Up Systemic Risk in Artificial Intelligence",
           "title_zh": "循环金融可能引发人工智能系统性风险",
@@ -211,71 +274,8 @@
           "title_zh": "人工智能时代的托管：打造未来信托",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVmFRLUZsb1lYVUpfTzJRZXFIazkyLTAtd0c4QjhvcGJxVHlxX011Qi1xVmUxbnZpVGhvVkk3eXZFWU5kNDNXUGVKZWlhMmpSSzUzN0FIdDNTcEJaeFVpY0NSNDZLSHdnTndjV3NBdkpqNTRDd0stX1Z2VXE2WFJmM0M2a1QtaGM1QWVCTWJJM012N2lzTGlyRjhBMFZOR2FER2tnYXNlakI3dGVEMVZLcnhPZnBULWFBMHpMVw?oc=5",
           "source": "Teneo",
-          "published": "2026-11-18T01:42:45+08:00",
+          "published": "2026-11-18T01:44:38+08:00",
           "summary": "Trusteeship in the Age of Artificial Intelligence: Building the Future Fiduciary Teneo",
-          "summary_zh": ""
-        },
-        {
-          "title": "Getting AI out of the demo and into businesses globally",
-          "title_zh": "让人工智能走出演示并进入全球企业",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGx1eXVHdks2cG5HcHVCN243amZJUzRSNUlsS2NQT0w4YmRPRHpXTE1ZM1VYdmhlTFVIYkhvVHNOM2o2NllTbzJ5NVZJZmJvZlUxQlM4WXVSVVg3emF2MGdzWFRTZGw4cFdEUDFRN2ZOeFpLRFJmMVkyeE5fZ1VUbW5uNEJGWFV5N25vMVZZZFl0dzZmUjRaeWd3UWE2YTJZSDBIdA?oc=5",
-          "source": "Amazon Web Services (AWS)",
-          "published": "2026-11-18T03:05:22+08:00",
-          "summary": "Getting AI out of the demo and into businesses globally Amazon Web Services (AWS)",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial Intelligence (AI) in Healthcare",
-          "title_zh": "医疗保健领域的人工智能 (AI)",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlMySWVQR1FvLW9UbVlTaXc2WkJtS3ptTi1WNUNWT3VLRGh2THlSclVzRzVqYUgtalNVblFhM1RZS3FMVFdxRHhDQ1ZHeEF4TG9QQ1Zxc05FOXF5aTJLWG85eThBMWpzeGpWTDcwaThsTWhYLVM3cktTbjB4UGwxRHp0SlBCdw?oc=5",
-          "source": "Cureus",
-          "published": "2026-11-18T02:16:28+08:00",
-          "summary": "Artificial Intelligence (AI) in Healthcare Cureus",
-          "summary_zh": ""
-        },
-        {
-          "title": "Beyond detection: How artificial intelligence is transforming clinical dental hygiene practice",
-          "title_zh": "超越检测：人工智能如何改变临床口腔卫生实践",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZWQ2OE9OMmYwa29WX1h6cVhvMEtkSmR0bWV2M1lIR01GQ1pqNmQ0anpvY1NxVk1UV293WDZpLVZSZlNwRlFKOE5WTW9SN3R1SVYxQjVEQWk2dWJIcmFId1B4NVU1bzdFaVNUUEJhYTg4UnRHY0kwel9OV2R2czU3ZGJTMFJRcW9oTlplaGhHaXd2S3JoV01meF9BOFpYMEJpOXJfT291UzBjT0thZ2ZzcWF2N3FyYVB5bXlIU0xzeC1HNTBad3hHYnMzNVY0X19KT2Myc0pnTmZNakRpMnA0?oc=5",
-          "source": "RDH",
-          "published": "2026-11-17T22:27:40+08:00",
-          "summary": "Beyond detection: How artificial intelligence is transforming clinical dental hygiene practice RDH",
-          "summary_zh": ""
-        },
-        {
-          "title": "Inside the Secret Race to Build Artificial Intelligence | The Gray Area",
-          "title_zh": "构建人工智能的秘密竞赛的内部 |灰色地带",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDBETXRyU3RhZnJvQUxHZUF4a0JWal92REstM09Hb0tpdFdtTjR1MlpOZ0RkOTJyNzJ5bjctclFXTDNkaDFYUmd1UnlXSWE0Z3ZLbnpibEFOcHdYZHd4cWt5cDFhbm55S3JYZ2ktblpRQ2lkOUNTc2gydlZ1emlPN3VqZVZYNTlZZmJ2UF9BdUdvRGRrYWRIaDJBdE0wVllBWnh3?oc=5",
-          "source": "American Enterprise Institute - AEI",
-          "published": "2026-11-17T20:57:21+08:00",
-          "summary": "Inside the Secret Race to Build Artificial Intelligence | The Gray Area American Enterprise Institute - AEI",
-          "summary_zh": ""
-        },
-        {
-          "title": "Slaves and Other “Artificial Intelligences”: What the Classics Warn Us About AI",
-          "title_zh": "奴隶和其他“人工智能”：经典著作对人工智能的警示",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdk5pOWdaSHZSN0dWekk0eGk5eTNEbkR3T3FDZzVHYlFTcGZBRmQ5ZUdtQW5pT0xUN1h4bmZleWNKYXBEZFYxRzRUM1ZTM2cyMzd1U21JQ0FWaDJfZExwOUMxaEJOSHJZemUzc29lX3R4TlBsQTl1VEdpb3JlVXNKOUdISUJLUXB4bzRscy1UaE9XRGlFOWxqY3ZZM1FGTzN1Zk9xMExqMm0?oc=5",
-          "source": "Public Books",
-          "published": "2026-11-18T00:00:00+08:00",
-          "summary": "Slaves and Other “Artificial Intelligences”: What the Classics Warn Us About AI Public Books",
-          "summary_zh": ""
-        },
-        {
-          "title": "California sues OpenAI, says it put public at risk by developing AI without safeguards",
-          "title_zh": "加州起诉 OpenAI，称其在没有保障措施的情况下开发人工智能，将公众置于危险之中",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVDUyUWJxQ21xTm9UblI2QmZKc2JBajhidWVtTXRvbDYxdDBmZF9KYUdiNExtMUlIZUo0LTlfTjNrNUN6RGxvMG94N2xyRXhIMGhHWGI5MWRBcmJDa3QxUG45VWh2ZkVvMzhGLWt4cm5VbTh4elR6S1E3eE9IUWFvUXVvc0hQT2lvQWxaRUJERHhCTEEyT192bW9zUW9jQnNFSDM0RmJ6RDA1a3l0Ykh6MThXNGYxRGh2WFRVT2lFanBvWnpwNWpqVURMS2k5SGVhbnAxQzU3TQ?oc=5",
-          "source": "Los Angeles Times",
-          "published": "2026-11-17T22:14:00+08:00",
-          "summary": "California sues OpenAI, says it put public at risk by developing AI without safeguards Los Angeles Times",
-          "summary_zh": ""
-        },
-        {
-          "title": "Is the AI boom reminiscent of the 1870s railroad boom, bust and ensuing financial crisis?",
-          "title_zh": "人工智能的繁荣是否让人想起 1870 年代的铁路繁荣、萧条以及随之而来的金融危机？",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VTHpmUjRLQmxCQllleWxZV2FEOEpPTVB3TUNNWno0elo0MkJZWHJuOG5hSk9SRC15a1RBYW5zWjNJMDllc0tjeU1uaTdscEFnRVJ4eTZZTE9VUXFCeXA2dFNtRVdGa1FJVjY0?oc=5",
-          "source": "WBUR",
-          "published": "2026-11-18T00:56:36+08:00",
-          "summary": "Is the AI boom reminiscent of the 1870s railroad boom, bust and ensuing financial crisis? WBUR",
           "summary_zh": ""
         }
       ]
