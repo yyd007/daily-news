@@ -1,193 +1,265 @@
 {
   "date": "2026-11-20",
   "morning": {
-    "generated_at": "2026-11-20T03:36:31.146330+08:00",
+    "generated_at": "2026-11-20T16:21:38.388789+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-          "title_zh": "特朗普、普京和习近平在历史性会晤后发表“和平宣言”",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BblY0ODJpaUlrOGdtV1g4YjAyQzhZLS1TaFIxTDRRSUQ1X0lpcGgyZ18tMDVrZG0zNHJhSmMwampkaG1YNmh2dlRQN3kwM3lzbGtNMEtRYWVYZk0?oc=5",
-          "source": "BBC",
-          "published": "2026-11-20T01:38:22+08:00",
-          "summary": "Trump, Putin and Xi release 'peace declaration' after historic meeting BBC Trump, Xi and Putin sit down for a rare 3-way meeting in China, but appear to achieve little CBS News Trump touts ‘unbelievable’ summit with Putin and Xi, though peace deals remain elusive NBC News...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Ukraine strikes Putin’s prized Crimean bridge for third time in a week",
-          "title_zh": "乌克兰一周内第三次袭击普京珍贵的克里米亚大桥",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9vN21QMXRyQm9yLWM5Y181eS1Va3R6RThxNjdRS3NKVzU4QnRNSTE5ZnBJRTBnUzVYUzhvVElnTW1aTGplYVJjbGtHTjZuYXYwVzJHS0dCUUsyM1hzai0zTTUtV1NyZHVDbXRMTnJJWVE1N3d0U0pJOEV3enFpV0VnaFVNWXp4MDlrdkh5NFg1dEpQN2FkSzRvMXBRbFhtZS1QOFpXcGcyRW4y?oc=5",
-          "source": "NBC News",
-          "published": "2026-11-19T23:00:08+08:00",
-          "summary": "Ukraine strikes Putin’s prized Crimean bridge for third time in a week NBC News Putin Vows to Retaliate After Crimea Bridge Attacks The New York Times Putin vows ‘painful’ response to Ukraine’s bombing of Kerch bridge The Guardian Crimean Bridge has been attacked again,...",
-          "summary_zh": ""
-        },
-        {
-          "title": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
-          "title_zh": "联合国法院裁定缅甸对罗兴亚人实施种族灭绝",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qLUhZWS1IeE93REZvbWFfdUpvcnEyOG1kZjU5M2dMV3N2TFFtZEZsVll5eUx4MWxhcTRaWFlqSndxaVhtRWNrel94QVVCcWgtSGdvd2xvRHZNdm9rNDhJbmhpeWNmSW41bnRZaHo1a0xuRTZmODVXc3Yxemh3QQ?oc=5",
+          "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+          "title_zh": "特朗普炫耀与习近平和普京的友情，但没有什么表现",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GdFotQkIzYXF6QzFVMTJ6MUFZaEFNa3BaSlVHRWNoQXEyaTR6QXRFM3pwWW56RUVZRlMxQXJSOHR5X2hsVVVWU0dScWhmeGJPc3RrNnpNTmFpbGZqUnZ0Y3R1Qnd4ZXFEcElodjJJaDRFVFk?oc=5",
           "source": "The New York Times",
-          "published": "2026-11-20T00:16:29+08:00",
-          "summary": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya The New York Times A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide. The New York Times Top UN court finds Myanmar committed genocide against Muslim Rohingya Reuters UN top court rules...",
+          "published": "2026-11-20T10:10:57+08:00",
+          "summary": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It The New York Times Trump, Xi and Putin sit down for a rare 3-way meeting in China, but appear to achieve little CBS News Trump's personalized diplomacy hits its limits with 3-way summit Reuters Trump’s...",
           "summary_zh": ""
         },
         {
-          "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-          "title_zh": "随着伯纳姆前往布鲁塞尔，新的脱欧战争即将开始吗？",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2ZWcWVqTk5QVkVCNmRKdEtQVDh2M2FaUzl5RkRsRWhSVmpSRjRURDJNSFFFbjRhdUZzNTZ3MnozZFVzX3hHVExnTUVqZ001MUhXZEhqZU1fWTVudzVXLXJMOWJpTExxcm91ekJiSFRXS1FJQ0tuR0p6aTNLQVpjQzdXdHZrNTlMN29KT0xhaDBZam80d3RKUGx4Ry1TTnF5Si14OG0wWGnSAa4BQVVfeXFMTXRZUTdiRGloLUtCd1pXbnpBc0xLRHhueHNWbHVmSngtNi1YdjZpY3dRMDR6WHlnaTB3ZkozTXp1SnNKaTJ5VThid0ZubDVwQ1JhTFpWbWNaQVVTTEk4bWYyTzdlbDNuckltZ2x6WldEeVV6OW53Q2lKU3JnWGJaZGlieE1DX2xSdTVITWdBT1N5cE9HRFZSMXVxaWJFTVZVX2lzU1dnb2hXdTJKeXpR?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-11-19T23:33:33+08:00",
-          "summary": "As Burnham heads to Brussels, are new Brexit wars about to begin? Al Jazeera The Brexit debate is back – and there are nerves about what happens next BBC The UK and EU are holding a summit to patch up ties after their bitter Brexit divorce AP News EU ‘to close door’ to talks...",
+          "title": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
+          "title_zh": "胡塞武装袭击沙特财富基金总部 利雅得最高摩天大楼被击中",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2VHNWZ0cC16RTRrem5TYWkxMFYxMlVTb1JwM0xuTGdtS2pidkhEdkxjTGNHdjVzX1pyejhVRlAybFk2UndOcWw2VWdUcl9veFcySVF3RkZuNXBSbVlSTG40eUlDNHd5UU42MDNqWXpBM3FaLVIxYjZHYlZ2MmxXTVo5d0VMUmdSLWRILWRFYWFkSU9YSnpBbDBEUFRxMlhsX3pXM0ZYWGhLOG42NnFNR2tEVDJOdzMzWm93?oc=5",
+          "source": "NBC News",
+          "published": "2026-11-20T11:46:00+08:00",
+          "summary": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ NBC News Iran war live: IRGC says missiles ready for use in ‘new geographical areas’ Al Jazeera Houthi Attack Damages Saudi Capital’s Tallest Tower WSJ Saudi's tallest skyscraper damaged in Houthi attack...",
           "summary_zh": ""
         },
         {
-          "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower",
-          "title_zh": "胡塞武装袭击摧毁了沙特首都最高的塔楼",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0hZSmpRQXJwM2pNbUxHY01JZUd1TkdjdU5YNGZYd1hqMmNES3RoTWRCVm9GYjMwX0x5NkMwb2FicHNjWkhMZ1dQUVNsUW1hblVuQjVLVkhlVUZZRDFiMlcxdWNweTV0NjR6TG43MmFYMjczckZ1SmhzSlZtOFdtZVVsNHZpSk1UVWdRZ0phakNPT05NRUxmOFFmNGtMZw?oc=5",
-          "source": "WSJ",
-          "published": "2026-11-19T23:32:00+08:00",
-          "summary": "Houthi Attack Damages Saudi Capital’s Tallest Tower WSJ LIVE: Tower in Riyadh hit by Houthi attack, Saudi authorities say Al Jazeera Iran-backed Houthi 'terrorist attack' hits Riyadh's tallest skyscraper and HQ of Saudi Public Investment Fund Fox News Riyadh’s tallest...",
+          "title": "Putin says Russia won't negotiate limited ceasefire with Ukraine after bridge strike",
+          "title_zh": "普京称桥梁袭击后俄罗斯不会与乌克兰进行有限停火谈判",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yNHJ2ekFIeGFSWktPUmVMSF85amtLLV9kQ1RRSXRBUVNVZDFndHRFcUd1aDByY0VQeG91TzFlMDVJdU85aWJ6V2g5cDBQaGg3Q0JUTjhlMkt3a2c0S1Q3UHZURkZWcHFZZGVGM1NoLURSQQ?oc=5",
+          "source": "CBS News",
+          "published": "2026-11-20T01:22:00+08:00",
+          "summary": "Putin says Russia won't negotiate limited ceasefire with Ukraine after bridge strike CBS News Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again CNN Ukraine's destruction of Putin's prized bridge a 'major hit to war effort' ABC News & Headlines –...",
           "summary_zh": ""
         },
         {
-          "title": "Putin invites European leaders to Moscow for talks on Ukraine",
-          "title_zh": "普京邀请欧洲领导人前往莫斯科就乌克兰问题举行会谈",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUdyalF0dDNtdC1paTl2b3JFTXQ2TW5zd2MzSVY4dENyZ2dLT2tadTdkZ3ZTblNabnpZNUxpa043NU1iOWdhb21HWDVLQk9YZ1padFJ2TGxhVFNDX0tpdTRPVlpzcEFzTlc1by1hOVY1bDhfZTJQOUZJV3R1bjV6R2FVc3I?oc=5",
+          "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+          "title_zh": "美国对缅甸种族灭绝裁决反应谨慎，欧盟赞扬联合国最高法院的“关键”作用",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUszNnItRFg4bG9QMUhWUUhmRVhJT3hldnVnLTNWLU8wdWFDZWs5WWlnbFRKRmo5aUR4TURuVjdtMFd5T0JQcWsyWnYtTVhBS05tWmRGREhUZEdMbGV6b056NGhaNnAybXhrR1FSYlh1WXl1RFJIR3NoZ0dIVzMtMlk3U2w2THhLY0tiTFlyYkZIX0dIZFlod2Q2RVp0d2VMbWlJbGQwQWVfSHRmeC1ienF0M0k4RGpiYmFV?oc=5",
+          "source": "The Guardian",
+          "published": "2026-11-20T12:20:00+08:00",
+          "summary": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court The Guardian Jeremy Bowen: Myanmar genocide verdict is historic and could have far-reaching implications BBC The Gambia stood up for the Rohingya, now the world must act Al Jazeera...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Xi hails 'comprehensive turnaround' in China-Australia ties",
+          "title_zh": "习近平称赞中澳关系“全面好转”",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHhaMkRlWERNdEhzanBwSHBJVVU4eUFLSUUzaXF6OFRnOTczX29tdnlhZEM0ZlhNZnBRTmpjcXVKQVZyOUxycnhVMmRwQzBUSlhwS1pDOG9KZ2V5dlhoaW40MWJUQ0RVTmNVY0xhWTd4Sm52QmhGSnp6M3NvSHBsU2RDbFV2WGV1dk9KTm1TYTdpZUcydUtNc3M3MzhVWFRJSHVQRA?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-20T12:49:00+08:00",
+          "summary": "Xi hails 'comprehensive turnaround' in China-Australia ties Reuters China's Xi praises 'turnaround' in relationship with Australia DW.com Xi Jinping declares 'complete turnaround' in China's relations with Australia ABC News & Headlines – Australian Broadcasting Corporation...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Hours after Trump-Putin talks, Russia hits Ukraine with massive, deadly attack",
+          "title_zh": "特朗普与普京会谈后数小时，俄罗斯对乌克兰发动大规模致命袭击",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpV3JjbDVibllndkIzNWN4U2xkeE5rLWdqNEFMbDlERFQwQWl6OTI2bkJNSXF2bFB4NWpGUnlraEZYVGYybXFPa2hSMmh5Yk1zandSY3MxR1gwMWhnVDZNdkpYU3U2eHVvWVpMYTlGeWY3eVBoeE1DeVVYNzRmdw?oc=5",
+          "source": "CNN",
+          "published": "2026-11-20T15:40:34+08:00",
+          "summary": "Hours after Trump-Putin talks, Russia hits Ukraine with massive, deadly attack CNN Three killed in missile strikes on Kyiv, mayor says, in biggest attack on bridges Reuters 3 Kyiv bridges struck in massive Russian aerial assault on Ukraine, at least 5 dead The Kyiv...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Islam to surpass Christianity as world’s largest religion by 2035, Pew data shows",
+          "title_zh": "皮尤研究中心数据显示，到 2035 年，伊斯兰教将超越基督教，成为世界第一大宗教",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd29hOUZvZ2xqZDVnd2poNnpkb1V2WGNKbHU1a0JPaV9MMzkxb3VZTWtMUENmVlQ1OEdPYzlzTVpOWWNKRnR2NjRFWk90SGQwOE02WEZ1bGJqYk8yNzVEdWRrSkhzb1JRaTFxUjhzR1d3aXgzWXgwNFBTcGg4WWhyWjlJWm1FelEyaWUwajBobXRlTUNibmdETm9HUlhBelRpUFhCZHFlN1ljMnNFWlkw0gG0AUFVX3lxTFBXMWYyUXhPY0d3bzhGbnd4TDBiOWU5TUdXMW9GRDhHWFZBMWJPTFNwYlJvcjQwT0RLWkgyZkhsQ0xkNU5lTUVDM25KRjhJMXFUdTdtYzV1U2s5ZGtRV3NvYXV2VWJUeFlMSE1SSGZCZ0gxRVhqendHNndHYVZ6WVNtOUo1RGJkX1RZSWdUMm9uemgtTUdhNEpMRGZYTHNqelNKQ0Ryb0JKeURheVBTR09qeXZNMw?oc=5",
+          "source": "The Times of Israel",
+          "published": "2026-11-19T22:37:00+08:00",
+          "summary": "Islam to surpass Christianity as world’s largest religion by 2035, Pew data shows The Times of Israel The Future of World Religions: Population Growth Projections, 2020-2070 Pew Research Center Islam set to be the largest religion by 2035: Where will most Muslims live? Al...",
+          "summary_zh": ""
+        },
+        {
+          "title": "The UK and EU are holding a summit to patch up ties after their bitter Brexit divorce",
+          "title_zh": "英国和欧盟正在举行峰会，以在痛苦的脱欧离婚后修复关系",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT1k5cTV4b0QxYUc0QVZMampZWHJXUXo0QWlaLThQMjBMa3gySXVHN2diWUJDT2VQRmZ4MXB1WnR5eUZXdnozZFZIenVQX2gwOGZDRWxnSlFPVmFtZzZDWURlRFRHXzZKOFlCN2pucW9zNzdZcG9GeGcwa1JBNTJHOEtNMk5LYW41WkE5eTFqd3A?oc=5",
+          "source": "AP News",
+          "published": "2026-11-19T16:12:30+08:00",
+          "summary": "The UK and EU are holding a summit to patch up ties after their bitter Brexit divorce AP News Ten years on, is the UK preparing to undo Brexit? CNN Jason White on Andy Burnham’s overtures to the EU – cartoon The Guardian Easing Back From Brexit: What to Expect at U.K. Summit...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Everyone is a friend: Trump's meetings in Asia show his varied approaches to shifting world order",
+          "title_zh": "每个人都是朋友：特朗普在亚洲的会议显示了他改变世界秩序的不同方法",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzNUZ054aWcxUXBpUmpxaXRRY0ZfTE9ydE54WFNzR2ladXF0Y2xQYzZONHprYTVfTEFzcjA3UUNUTEJtQWpJSjZ5MURIUmdXTGZPYW0zbG1tYkFfT1FPNW55eHdIUTNXZHpBLUYwLTU4bnZUMUJsSUlSMENtR2tiVGdYUGlhYzllLV9VMy1JWFNuRzdiRzNuLQ?oc=5",
+          "source": "AP News",
+          "published": "2026-11-20T05:25:00+08:00",
+          "summary": "Everyone is a friend: Trump's meetings in Asia show his varied approaches to shifting world order AP News Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps Reuters Trump Escapes Turmoil at Home by Seeking Out a Friendlier Audience Abroad WSJ A...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+          "title_zh": "气候谈判放弃逐步淘汰化石燃料并转向碳捕获",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3BWdzJYX3pyUm1XeE1sRlZsMm5BZGQ2clNzNjlfWlNXZmctME0yTnV0a3RBSVFoUVlSd0xPSHd3NVVMNXRLdzBISFV6QmNoazhIem01dUk5d0xJb2ZTYTVMa0x1aTdaZks2MHlldHZ6Qm5xTHdGaDk2QVBkRFJHekZpQjI?oc=5",
           "source": "Financial Times",
-          "published": "2026-11-19T23:24:55+08:00",
-          "summary": "Putin invites European leaders to Moscow for talks on Ukraine Financial Times Putin says Russia invited Europeans to Moscow to clarify position on Ukraine talks Reuters Europe argued over who would talk to Russia. Agreeing what to say is even tougher. POLITICO.eu Ukraine...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Taiwan eyeing US-China-Russia talks",
-          "title_zh": "台湾关注美中俄会谈",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93X2RrcW94LXo3eVhHMUhuTjJfZ0RKX0NfbndydW1zanlCdkRPX1h1OHVrZ01kbDAxNUt5aXZRQXQzVXJwSTNuMGFhNnQtbnlRcko5Nk5feVpJWE40dGJtME40R0RUemVxVEYyTXJvVHB6U2J1bjFsMg?oc=5",
-          "source": "Taipei Times",
-          "published": "2026-11-19T00:00:00+08:00",
-          "summary": "Taiwan eyeing US-China-Russia talks Taipei Times China's Xi says US should do 'right thing' on Taiwan to avoid setbacks in relations Reuters Xi tells Trump US must do 'the right thing' over Taiwan to avoid 'great turbulence' Yahoo Xi tells Trump to 'do right thing' on Taiwan...",
-          "summary_zh": ""
-        },
-        {
-          "title": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure",
-          "title_zh": "从停机坪到 APEC 峰会桌，日本首相显得孤独",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2lFRzhLTFFzUDAyQlFERWhQTjQwbzExSnlMaEVMYnhnOEdTRm9yNTJxWWgwRjluUHkxZVFWUnJYTXVOaVhoRGtGRE5PRXhiRF9WX3RtVVJGTkVIV3BLRDZPWVJQUFN0RjY3UXBpUktQSlNHQzlmS1N5Q0lCQkpLSjU4c29PQTM3bXI1cDlzSjAwTG95Vkt1Sk90NGlid0ptUG1v?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-20T02:37:42+08:00",
-          "summary": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure Reuters Takaichi gets chilly reception in China on first Japan leader visit since 2019 CNBC Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome? The New York Times China gives Japan PM...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Italy set to introduce social media curbs for teenagers",
-          "title_zh": "意大利将对青少年实施社交媒体限制",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTMxUFZ4ZGV6NlFxTmZLUUVpcVc5ZFNzaVJUZ0VJbVc0VkNhWUtiSDhmbEZMX1dlU1Y1MFFIbFM3dEZJUVZEUkd2dDBkaVg3STJlTE5qU0hORXYtN28zQnpjalpvYS1tQTFZeXJPR01zLWFDOXFjYlRacXl3OFktMzZfZkdJTWFWVmYxZXNHYXlpTXdERVotaDlOYnNocU1ORGZJ?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-18T20:02:30+08:00",
-          "summary": "Italy set to introduce social media curbs for teenagers Reuters See more headlines & perspectives on Google News",
-          "summary_zh": ""
-        },
-        {
-          "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-          "title_zh": "以色列军队完成黄线以外加沙地面行动",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVBjZ3ZTR2x5c0NaYmhGUl9VUUg0enFwUWNmUW9RR0hNSElNN1NfRWxMRkdDWkx6UFZNY0xlMG9WNUJfU0V4amltWU1WOGN6Ykt6WVktakgwaG8?oc=5",
-          "source": "BBC",
-          "published": "2026-11-20T01:03:23+08:00",
-          "summary": "Israeli military completes ground operation in Gaza beyond Yellow Line BBC Palestinians flee and Gaza ceasefire tested as Israeli tanks cross ‘yellow line’ NBC News Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza The Guardian Gazans return to...",
+          "published": "2026-11-20T02:16:58+08:00",
+          "summary": "Climate talks drop fossil fuel phaseout and pivot to carbon capture Financial Times COP31 draft drops fossil fuel language as talks near deadline Reuters Fossil fuels score 2 wins 5,000 miles apart Politico There’s a New Push at Climate Talks: Wire the World for Electricity...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "美中俄峰会 习近平呼应特朗普核裁减；普京大秀核肌肉",
+          "title": "习近平主持中俄美元首会晤",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1dtY1I2ZVl2UFJ5T3p6c09wZjBxMXowcllEYWxidW40bGNLTzI4Q0VqeGFld2ZCaXRHZzk0Y0dLTkZ1YkxwZEpndi1kX3NrLWJmekxPdWs3VFhHNlNYVFJ3cl8yMmE5ODVHNFMzcUZHUjNJT1dKVTQtWEd4UDVBU0ZZdXREOEFSeTlsNUEweWVJZVpldkFab0N6Q0JUWVZzbmlfNXlyb1M4eV94c0JxVWdBUjQ4Q2IyQk5lSDhIc19qbEp1SjBpaE930gHMAUFVX3lxTE1uZmhPcUM5engyOGk5NFVwLVhBQ3NYTER0d2oxeW9qNTBtV1ZfTmU1SE45bDJodjJUQUVxQTQ5cHJVbTFuU0FuSTQyWnZLS195Z2djWXBSOF9ZX1FRd0RYd3h2b0xOMS1ZOHh4bFR0TFJ6MXByUWR1di1seDdyTW9BMzFKMHZWZm9BREtlM0V3NVR1OHFtMjhTN01hckR3VlVldkRsQk4zMkxkUFQwWTN2MnFKUFBnbWlJSDNTSDUyMy1EMnRINkNPUWoteQ?oc=5",
-          "source": "美国之音",
-          "published": "2026-11-20T01:59:36+08:00",
-          "summary": "美中俄峰会 习近平呼应特朗普核裁减；普京大秀核肌肉 美国之音 中美俄“三巨头”坐在了一起，世界正滑向大国共管吗？ BBC 美中俄元首就核战争风险、增加石油供应以及联合国改革的必要性达成共识 美国之音 特写：大国外交的“深圳时刻” 新华网 环球时报：中俄美历史性会晤，是对“台独”的一记重锤 新浪新闻_手机新浪网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zdHFUT0pkQ0p3aEozVExwZTJ4eGdrSkFFUnN1SjZBc0ppNGJDUW5vYTVXa1V0OW5WbFdjbm1HNmhYb05VT3UwZjVmNzJQUGsxTE13bFkyclhRMjZTRDJLdFgwbDdTTG9iYW9z?oc=5",
+          "source": "中国共产党新闻网",
+          "published": "2026-11-20T08:24:00+08:00",
+          "summary": "习近平主持中俄美元首会晤 中国共产党新闻网 德语媒体：深圳峰会-特朗普为习近平当配角 DW.com 沈逸：三方和平宣言，给世界和平托底 观察者网 特朗普称三方会谈“意义重大且影响深远” 国会两党看法不尽相同 美国之音 从同场到同桌：中俄美元首历史性会晤为什么发生在中国？ 中国日报网",
           "summary_zh": ""
         },
         {
-          "title": "APEC“深圳展望”出炉：携手搭建亚太共同体“四梁八柱”",
+          "title": "深入实施积极应对人口老龄化国家战略",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DeUZMTVlnX19BWmNjMDRPZ1ZxdkdqU19oWU45OEVCOWRfOWpSczZkQTY4VFpTNG8xWFFlWENBazVjUGpTQ29icjJwX2NfWGozMTFZ?oc=5",
-          "source": "第一财经",
-          "published": "2026-11-19T19:38:36+08:00",
-          "summary": "APEC“深圳展望”出炉：携手搭建亚太共同体“四梁八柱” 第一财经 习近平在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞（全文） 中华人民共和国外交部 APEC领导人峰会闭幕，联合声明誓言建设亚太共同体 美国之音 世纪晚宴菜单曝光！特朗普、马斯克吃的啥 新浪财经_金融信息服务商 大国外交最前线丨在欢迎宴会现场，读懂何为“一湾锦绣通亚太” 中国日报网",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CckQyamQyT0FJNFJEaHNTbEF3anBLOHJlblJTRlU4MXZtZElvSkIwa0VIZ0Ztc1JKd01iOElQb1BHdUhvd28ycUtWNS1KZWU4MmthcGplanZxRGhCVzVBT2lwMllBZ2h0WnY3LXNKZ3lWM3VocnAtdlB3?oc=5",
+          "source": "中国网",
+          "published": "2026-11-20T11:10:00+08:00",
+          "summary": "深入实施积极应对人口老龄化国家战略 中国网 李强出席全国老龄工作会议并讲话 新华网 （图表·漫画）“老有所享” Sohu 新华时评｜从“养老”到“享老”，让老年人幸福生活成色更足 凤凰网 【央视快评】努力让老年人的生活更加幸福美满 国际在线",
           "summary_zh": ""
         },
         {
-          "title": "越山海｜在深圳，看见中国机遇",
+          "title": "以钉钉子精神保安全促发展 新海航长安航空深学笃行党的二十届五中全会精神",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GcUpiWjFQd1VTX0FDSklFQXJxTE5NOWxQMFdVOXNyOHp6ZkFCbmVsVEFXc3VsU1pTOUZtNzlSbWQtSEZLU0x1T0h3TWEzWGwxQ0NGMV9WUzBaOVN5TjZqM0FEQTJ0eDR0c0VfS3dzZTJrZw?oc=5",
-          "source": "人民网",
-          "published": "2026-11-19T12:50:00+08:00",
-          "summary": "越山海｜在深圳，看见中国机遇 人民网",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NYjZzcHptYU1LT2RseHQ3cmJrSHVoclRwZk93dUNSM3VxUEg3RHZkMnpkUmRYb1pTUDRUbFpCM0JTUnRkcUtNelpyR0tGZ00ybVlOTHdza29KclJhUVFSM2lSX21RMkJrajdERg?oc=5",
+          "source": "中国民航网",
+          "published": "2026-11-20T13:57:00+08:00",
+          "summary": "以钉钉子精神保安全促发展 新海航长安航空深学笃行党的二十届五中全会精神 中国民航网 北京市学习贯彻党的二十届五中全会精神宣讲团密云区报告会举行 北京市人民政府门户网站 增强党性鉴别的穿透力（思想纵横） 人民日报 江西省委宣讲团深入省国资系统、省国控集团、宜春学院、江西警察学院宣讲 凤凰网 陈小江在塔城地区调研 新华网",
           "summary_zh": ""
         },
         {
-          "title": "刚放晴舒服一点，周五阴雨又上线，广州最高温跌到17℃",
+          "title": "外交部：日方应在台湾问题上尽快纠正错误言行",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDJwTGlhbV9Gb21fTkdlYVFkQmVfclVvNEZzd0ZYS2xIVW1hUmRwVGhqaFlHR2VUU0N1TVZPaThpZldycHQzd3plZnJiZjAzNzF0RG9UMG1jRHF3UEh2THJEM0VLTEFrZFg4ejBjcHpBTXNmRmc1U0Nfbm1lQy1GZU9WTWZ3WjlmOEE?oc=5",
-          "source": "广州日报新花城",
-          "published": "2026-11-19T20:28:22+08:00",
-          "summary": "刚放晴舒服一点，周五阴雨又上线，广州最高温跌到17℃ 广州日报新花城 冷空气持续补充广东气温跌跌不休 新浪财经_金融信息服务商 广州将迎大雨、暴雨！新一波冷空气又要来了 Sohu 最低10℃！广州或迎“湿冷模式”，今晚开始降温，间中有小雨 手机网易网 你的“晴冷”余额不足，13-14日广东有雨 ThePaper.cn",
-          "summary_zh": ""
-        },
-        {
-          "title": "省委宣讲团走进泸州：把贯彻落实全会精神与做好当前工作结合起来丨宣讲进行时",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51bnhXdkhicUhxaktZWU9nSHJRODNlbDAwM3BuejZYVTE5Q0twaHBXTmMxbmN0cjQ0ZWt2eFptZ1FhY0piWTNJOGd3VWtiSmR6dUNMZVJXYzVDa2FKWHBtWFhVNA?oc=5",
-          "source": "四川新闻",
-          "published": "2026-11-19T22:13:10+08:00",
-          "summary": "省委宣讲团走进泸州：把贯彻落实全会精神与做好当前工作结合起来丨宣讲进行时 四川新闻 陈小江在塔城地区调研 新华网 江西省委宣讲团深入井冈山大学、全省教育系统、江西科技师范大学、南昌大学、上饶市、省投资集团宣讲 凤凰网 学习贯彻五中全会精神·板报微课堂③：群众的钱一分都不能截留 光明网 丰台区委理论学习中心组开展学习贯彻党的二十届五中全会精神专题交流研讨 北京市人民政府门户网站",
-          "summary_zh": ""
-        },
-        {
-          "title": "江苏首批8市秋假成绩单出炉！5天吸客1594万人次，“行走的课堂”带热深秋文旅",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVQlhVTkdpSERtRGtmRVhJRWsteWw2T19yUmxKNFQ5UUo5cTV4U2JndmFZdVB4SDE0Y0JDRHg0R0hLSk1fSHJJdERCX0FTRDB1Ymp2bHZZbDZnOUNEREtYcTZqTGJ2cGtZ?oc=5",
-          "source": "紫牛新闻",
-          "published": "2026-11-19T21:53:00+08:00",
-          "summary": "江苏首批8市秋假成绩单出炉！5天吸客1594万人次，“行走的课堂”带热深秋文旅 紫牛新闻 “活”起来、“动”起来 秋假“偶遇”初雪趣味多孩子们乐享“童”款快乐 央视网 秋假解锁新玩法，江苏多地研学游成首选 凤凰网江苏 江苏省教育厅发布“十个严禁”！ 新浪财经_金融信息服务商 “小神兽” 热闹出圈！看看你家娃去哪撒欢了？ Sohu",
-          "summary_zh": ""
-        },
-        {
-          "title": "聚焦APEC｜亚太经合组织互联互通蓝图",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lTmVhRjJ3QUJiMEZpV3FiSENwOGs4Ui1pVnc3MjhpbDJHQW51UEN2U2Y2R3B2QzlVZXJjcnpISmpEcW1xQTFna2lMZk13eU9LS292b2FxQzdQQW96cFgyLVZZN1doQzh6VE1PazRQWlVQQnRWUlBV?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tejVxT3VrbllVZVMzNGF3b2JNMF8ybndPdWVnQUtMVHo0aW5sTHFmSE51SndRcmFDQkxLNTk2dzlod0pnUFhYRUhtR2Y2S0s1VnU5ZU5CREJQc09ESlVMYVZNNlRJYVU0emdqWjRLTDhXWkdUSFRxcUp3OA?oc=5",
           "source": "新华网",
-          "published": "2026-11-19T22:53:40+08:00",
-          "summary": "聚焦APEC｜亚太经合组织互联互通蓝图 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "published": "2026-11-20T15:18:20+08:00",
+          "summary": "外交部：日方应在台湾问题上尽快纠正错误言行 新华网 高市是时候收回“台湾有事就是日本有事”错误言论了 新浪财经_金融信息服务商 高市早苗在深圳就台湾问题表态，中方回应 Sohu 外交部回应日方最新表态：在台湾问题上尽快纠正错误言行 新京报 朱邦耀：中日关系能否等来破冰？ 联合早报",
           "summary_zh": ""
         },
         {
-          "title": "习近平会见美国总统特朗普",
+          "title": "特朗普从中国返美途中发文",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QcE5hQ0V2T1poUmhQbE53WDlDSkJVdmNSX1FzQzVnY2RBa3ktU2lrR0hjR2hwc0NmWTUwd1BjQjEzQXRibHVFbFNiRDlYNU0wYXZnOTJ4R3hmdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWlBnLVRqd29fOGNDVC02RjhZT3dRR0cxZnNWN2VLNE9hbU9YT1lQSVNMaVY2VGxHVUJkZ0UtMHBzRk4wTmZQOGlCLVFPQzdaVGIweWZEd3NpTVRUMm51dFZhaDNEM1N6ejRtXzNUSFpBQWViRVZqQVRnUTJWTllNQ3hn?oc=5",
+          "source": "网易新闻客户端",
+          "published": "2026-11-20T12:05:00+08:00",
+          "summary": "特朗普从中国返美途中发文 网易新闻客户端 结束中国之行后，特朗普和白宫接连发文：非常精彩、影响深远 中国网 随行记者从深圳返美前手机被收走 川普回应 大纪元 特朗普：我打12分！并在返美途中发文，“这是一次伟大且意义深远的访问” Sohu 传特朗普离开中国时 白宫收走随行记者手机 联合早报",
+          "summary_zh": ""
+        },
+        {
+          "title": "APEC观察｜深圳APEC：愿景之下，亚太合作有了清晰路线",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uZ2w0R3Nnd2g4RTkwd3pBd1NXWUdtWXV4Z0hCWUNraE96aUM0Sms4Vi1mMTNXM0lKcU92Ynl4NzVBVU15REdFanJVd0dOWnN0aU5TY0k4V3FCdXNEczFqZVp1ZS0?oc=5",
+          "source": "新京报",
+          "published": "2026-11-20T10:11:00+08:00",
+          "summary": "APEC观察｜深圳APEC：愿景之下，亚太合作有了清晰路线 新京报 中方如何评价中俄美元首会晤，王毅回应 凤凰网 以创新汇聚增长之势——推动亚太共同体建设的中国“科技力” 新华网 时政微观察丨从习主席的妙喻读懂亚太共同体 央视网 习近平在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞（全文） 中华人民共和国外交部",
+          "summary_zh": ""
+        },
+        {
+          "title": "习近平会见马来西亚总理安瓦尔",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTGpzMGZPb0J5UFRYWUxlalpHUFUwOURxYVpaY183T25PV0pSNkw4Vk92ejJEc1JicEdKcmtJVE41NGFrbEFHNng4U2puOHJXeS1QV3dmRWN0UVp6RW1ReTVnNlZaMnkySWJWaEQ5ZnRYWW1URklvTnhveUdWNmM?oc=5",
+          "source": "新华网",
+          "published": "2026-11-20T14:52:09+08:00",
+          "summary": "习近平会见马来西亚总理安瓦尔 新华网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "陈云纪念馆亮相第七届长三角文博会_上观新闻",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5V2YzbnItNjdzeTRvQzN6am5QTUpLMjZvUHFPVTF1U1NjM3VnbFZpZ20wZlNNeUtpVDVaV0xOSjBiamlEcG1FWWh0cUNRZ0JCZ3NaSWxQQm4?oc=5",
           "source": "上观新闻",
-          "published": "2026-11-19T22:26:00+08:00",
-          "summary": "习近平会见美国总统特朗普 上观新闻 在Google 新闻上查看更多头条新闻和观点",
+          "published": "2026-11-20T11:16:00+08:00",
+          "summary": "陈云纪念馆亮相第七届长三角文博会_上观新闻 上观新闻 2026长三角文博会江苏展区秀出数智赋能“加速度” 新华网江苏频道 山海台州“潮”动上海滩！台州文创精彩亮相第七届长三角文博会 台州新闻 恺英网络从“造游戏”到“造文化”：一家游戏公司的AI能力外溢样本 凤凰网科技 长三角文博会丨小展位链接大市场：视觉艺术小站为创意打开商业化通道 ThePaper.cn",
           "summary_zh": ""
         },
         {
-          "title": "APEC新闻中心里“打工”！机器人咖啡师日冲千杯不累",
+          "title": "APEC迎宾规格大不同 高市早苗遭冷待？",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KbjdWQlFzUEZiazNIZGpKbU51U0h6NzRWWC1lNUpRRWlwNmlWOW9pV2E1SXZrM0VoQ1NpRmhLbTFPZkdZaTh5NV9CQjdCT3hKd2NkMHlBZFR1MDQ?oc=5",
-          "source": "极目新闻",
-          "published": "2026-11-19T21:18:30+08:00",
-          "summary": "APEC新闻中心里“打工”！机器人咖啡师日冲千杯不累 极目新闻 今年第7次转发！外交部发言人向全球推介“成都高新造”机器人 China Daily 亚太目光下的深圳：从机器人企业看见创新的中国答案 新华网 外媒看APEC：在深圳的“未来天际线”下，见证史无前例的三国对话 中国青年网 世界聚焦深圳：邂逅一座没有“科技焦虑”的未来之城 中国网",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2Q0cVZBTEhWSS1rYkFBNGdmTVhvNjVmdzhRTHB0VE1BeFpEdVM2cGt1N0xOU2kybEdQWkRhblNDM0NIRmVnNlh6WUxuRHpwSUlMMXBOTlRvU200TVktRzlhYTIxTUZzV1BlVTJnNmFjalJpRkxzNlpnMmprV1NTNm9sX0N0aEJ2SHVrdGV3UGxHdm5DdFJoVDl6T0FwWlp1Y2tkX3Y3N3JPX0VUSU11a2tR?oc=5",
+          "source": "8world",
+          "published": "2026-11-20T09:36:15+08:00",
+          "summary": "APEC迎宾规格大不同 高市早苗遭冷待？ 8world 高市早苗在深圳表示：日本对台立场“完全没有改变”，“充分理解和尊重”中国主张台湾是其领土一部分的立场 DW.com 中方回应高市早苗礼宾安排 凤凰网 习近平与高市早苗简短会面，中日关系无解冻迹象 纽约时报中文网 APEC会议期间中日领导人是否会举行会晤？中方回应 中国青年网",
           "summary_zh": ""
         },
         {
-          "title": "【受权发布】北京11月19日19时45分继续发布大风蓝色预警信号",
+          "title": "杭州冷出今年下半年新低 气温“过山车”要来了",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wLUNlOEcyVGtCbGZPR0NvY2hUTFNwS3Y5Zm9iem5Nci1wLWs2eG9iYlVYT0lCenN2TWxZS0x4cEJTN3JCZTh1X2xrMVE?oc=5",
-          "source": "凤凰网",
-          "published": "2026-11-19T19:52:00+08:00",
-          "summary": "【受权发布】北京11月19日19时45分继续发布大风蓝色预警信号 凤凰网 北京今明两天，北风强劲！注意防寒保暖 北京市人民政府门户网站 故宫现在天气怎么样？11月19日阵风7级实况+游览建议+FAQ 新浪财经_金融信息服务商 早安北京1119：白天阵风明显；海淀今年“上新”41片运动场地 Sohu 早安北京1117：最高9℃；云居景区、古北口古御道旅游基础设施将升级 新京报",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PQkVTdmJraDlVN1ItYlFraU13YmZKamdlOWlXVGk3X2FTYmJNTG9NRS1OQmlQa1NubVpxYWZ1dFpYMk01WFhVVzlsdnRsWkRDdjdTOUVBUQ?oc=5",
+          "source": "潮新闻客户端",
+          "published": "2026-11-20T13:02:11+08:00",
+          "summary": "杭州冷出今年下半年新低 气温“过山车”要来了 潮新闻客户端 2.9℃！又要冲击20℃！大转折，下周冷空气再扑浙江 浙江新闻 浙江最低0℃，有霜冻，今明早晨气温成本轮冷空气影响“谷底”；白天阳光回归，晴好持续至22日 凤凰网 冲向20℃，浙江回暖时间定了 Sohu 部分山区最低-3°C！这波冷空气太猛，浙江天气“大翻脸”，冷风和薄冰来袭，厚衣服该翻出来了 腾讯新闻",
           "summary_zh": ""
         }
       ],
       "ai": [
+        {
+          "title": "Governor Hochul Breaks Ground on Permanent Empire AI Supercomputing Center, Marking Major Milestone in New York’s National Leadership in Using Artificial Intelligence for the Public Good",
+          "title_zh": "州长 Hochul 为永久帝国人工智能超级计算中心破土动工，标志着纽约在利用人工智能造福公共利益方面的国家领导力的重大里程碑",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWVdqNHRVcGw2amM1QVZ4SkxNZzNtdTBmb0JZdkNMYXZTRlZia0tJdDVTWHVoNnJBUWFlcUtjQXQ4NGZYMEZKNEkyUi02eWcwN214QTdtOWdRVkxUS0lobmY3SklZUUthR05TWnJUcGZXampFbjU0b0NqTGVxazJsS0phSjB1d0R0QjdDd0ppQW5hck82WTNCdEt1LVZxc0ZacFhONnE1V1pvRS1TM3JZRkY2dDZMV2RTNkE?oc=5",
+          "source": "Governor Kathy Hochul (.gov)",
+          "published": "2026-11-20T05:34:26+08:00",
+          "summary": "Governor Hochul Breaks Ground on Permanent Empire AI Supercomputing Center, Marking Major Milestone in New York’s National Leadership in Using Artificial Intelligence for the Public Good Governor Kathy Hochul (.gov)",
+          "summary_zh": ""
+        },
+        {
+          "title": "Plasma etching demystified with explainable artificial intelligence",
+          "title_zh": "通过可解释的人工智能揭开等离子蚀刻的神秘面纱",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVhEZU02Rjh0U0YzcjJGbThVeWxTY0N4UW94ZTNNa2lkWGNpblJ1b3pyeWFsbWQ4YlRtaFpFMy1sSHcxakdkaU95OHFuOXp6MVR2RDVySW9CM2ZRU1l6X3luNDJmb2lFd1RISmpVZW5ZTUVLQnZTSnZham5VMk10eXUxSWJ3QXNNRE9ZV0hfd1VQZ253RFplREFXTTNSZw?oc=5",
+          "source": "AIP.ORG",
+          "published": "2026-11-20T13:11:20+08:00",
+          "summary": "Plasma etching demystified with explainable artificial intelligence AIP.ORG",
+          "summary_zh": ""
+        },
+        {
+          "title": "Securing Elections in an Age of Artificial Intelligence: Workshop Recap",
+          "title_zh": "确保人工智能时代的选举：研讨会回顾",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUk1sZnlrVUtPNjlZTEtTdmNzX2tFTm54cVRkOFpYdjFfR0NqdzNRdGdZak82cVFzMGkyRXNKeVJFSDRvVVdoa3lVZllsZzFwX3lBRlNXT1dVaU5jQmlkSGk1U0tkZjM0RXNfcUNVWDZuaG1zNl9UUGpIWXJlUjRCWDVuOUtxY1pmbFMtNEdmR2Zzc29QNVFwZjRBdFNyOEF2aURCNk9IS3NRQ2RiNGV5eHIydUdHSlh6TlZCa1BTYzRBcjFpNGJlSmtsSWM?oc=5",
+          "source": "The Electoral Integrity Project",
+          "published": "2026-11-20T10:59:08+08:00",
+          "summary": "Securing Elections in an Age of Artificial Intelligence: Workshop Recap The Electoral Integrity Project",
+          "summary_zh": ""
+        },
+        {
+          "title": "Orangeburg forum explores artificial intelligence, data centers",
+          "title_zh": "奥兰治堡论坛探讨人工智能、数据中心",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOei0xZ3VIS1JVbzk0Wnd5ZVQwM1I4V19WYmxmT0RjUzhhcDhvemhIblBYZDd4bXBibG1TSnA0dUk3bko4Zko0aVBZQ1U4OGs0UVprWFBONXpiWmVnQW11YWhyU3NtTUNQUWtpZFVuOEhxTU13U1VXTjZMb0lkTnFkWko5aEdLdWlxM3ZGVk94NGFhMU0yWVZha2p0WFHSAbABQVVfeXFMT05YRTRtZzRydnhreEdZMmlqMTE3N1puNWV2SU9xSVNodGlqanNYdzB6VWYzOEtKS3d3QU9FVVV6UFZRQkMzMjFsLURnZ0R0b1hpMTlXcFBMUjJDb25uc255a0taaFYwOUo5R2ZWNjZfS3MtSm8teDBsMVRLdzZ5d0lOaE5fMUNPZS1MdEJzN194akNtT0s3dlJOR18zenBMWWxIb19QSGNkRWJnREpkNjI?oc=5",
+          "source": "WIS News 10",
+          "published": "2026-11-20T11:45:00+08:00",
+          "summary": "Orangeburg forum explores artificial intelligence, data centers WIS News 10",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature",
+          "title_zh": "资源有限环境下人工智能用于心血管疾病预防：文献综述",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTG5BY2Z1dkVOVE8wNkZtTkpnUjMwZjFENkJLNHVISElCVDJXbzdmbS1qTmhwMHJQY3BFelEzUWJ2UmRiVVNjdnVRYkIyY3p2SWpFZS12cWFqTkMtcUFPNDdIdTQ2VEdXdjNNOEhpN0NxUDI0WUZvVXhEa2JnNTN3MWJWa3V2WFRYc3lnY1hDX01mVk00dDdsZjl0X3R0NWZhS2MyYzg1SGc2QlVraTZUZEZ3cWxKUHQ5TVVldHFFZmFIZ25xMHFFdXdmakJMa25GSXZObzhiblpxNE5tSjZEdDdpUUh3SXJwa3c0Ug?oc=5",
+          "source": "Cureus",
+          "published": "2026-11-20T12:54:16+08:00",
+          "summary": "Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature Cureus",
+          "summary_zh": ""
+        },
+        {
+          "title": "What Is Pax Silica?",
+          "title_zh": "什么是 Pax 二氧化硅？",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kYUpsSnlONG5aTXZ1eHZybVVRUTFXRDV6ei1oa3hSRkI4cEk2WmZxZE9xZlRWVmN6eE95SGJEWGpIRHNYY1Q0b0EtOU1vMFRTdlkwaWNWdVZmRnp6dzQ1MA?oc=5",
+          "source": "Britannica",
+          "published": "2026-11-20T11:20:47+08:00",
+          "summary": "What Is Pax Silica? Britannica",
+          "summary_zh": ""
+        },
+        {
+          "title": "Exclusive | Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products",
+          "title_zh": "独家|雀巢与微软、波士顿动力公司合作开发工厂和产品中的人工智能",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5",
+          "source": "WSJ",
+          "published": "2026-11-20T15:10:00+08:00",
+          "summary": "Exclusive | Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products WSJ",
+          "summary_zh": ""
+        },
+        {
+          "title": "SFMTA approves $55 million contract with Hayden AI to use artificial intelligence to help ID parking, transit lane violations",
+          "title_zh": "SFMTA 批准与 Hayden AI 签订价值 5500 万美元的合同，利用人工智能帮助 ID 停车、解决交通车道违规问题",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM084U21SbTNOMDgtTk1LWTZDbFM5TTlpTU92aDBLNFhVUmFfVXVvQTlKSWVpOW51S1VDYW5zeU5yX25TTjVyZURCQnE0OEpKRU1OUFIybk5rOWFVT1djY25oWkh5a1liSjNlMEZ1QlNVRTV4ZkJGZUVPa3pYWUY3eUJWTXlwOU82bWlBVUpLV2ViaTViZ0lqY0xjOHAzMzhnblRmRV9IRUQ1bTA4cWhuazlQcXJsZDVVNjlEZVBhLVBoejBNVWtESnJPU1dROVRja1FBcU01SmpxdlNRc2t6Znln0gHnAUFVX3lxTE90U01DeU80MGVJc1pIeF8wMG1DYlhXVEJHNHFMUkdDcmhSRl9ySDdXWDJxUXdqY1dEWHhSck9pSWlMbHhuRTZZY1VYSmpHVGJqQndRTUthb0xPVm9Bbkp1allBRTdxSjJ0U1ppeGMtQTFNYTRSSWFnNEREeGo3NHR0ME1aTTdpYV96Y215TGVCdUVKd3c3X0tIcl80cWVKWUxKOVlOcTRlWTJhUUpyaWJOSWZJaHAyb1Y3a05oR2lidkJWckNZbURiN2dFZTlaVmZhVWtwMEpreGxEaTNhZHR3N2VsVE9SWQ?oc=5",
+          "source": "ABC7 Bay Area",
+          "published": "2026-11-20T07:09:50+08:00",
+          "summary": "SFMTA approves $55 million contract with Hayden AI to use artificial intelligence to help ID parking, transit lane violations ABC7 Bay Area",
+          "summary_zh": ""
+        },
         {
           "title": "In Print: ‘Korean Studies in the Artificial Intelligence Era’",
           "title_zh": "印刷版：《人工智能时代的韩国研究》",
@@ -198,84 +270,12 @@
           "summary_zh": ""
         },
         {
-          "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
-          "title_zh": "利用 Accenture 的排序方法优化 Amazon Bedrock 上的 AI 经济效益",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1hXYzNBYld2UHJXclpZOE1LWkFJb2VvUlUxN2FHQ0ZMZS1MQld6eGNGbUlNZURrMnNwR1FlemMwTzJ5Y201aXM4bEt0TkhkY3pwWG5tT2tJQ0dtYmVtWk1OejJDWkFzUkxvRGlxSnR2YVNtWl9ybl85c2pCekIxc3BYc1o4RExINUlpcVVfd2p1UF9fSEdHeFVKenlDcEVkbjhZY1YwU1Z0T2duM3VZZzdhNzZpd3ZWTUk2RTln?oc=5",
+          "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+          "title_zh": "将 Kimi Code CLI 与 Amazon Bedrock 上的模型结合使用",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEd2ZmhadFZGeTN4NTlHcm5lbW01Mm42cWJpV1ZLRHZmT3c0N2duQ3NNQWJPTmFqamhHcnlvVTl2cGoxVzViRVlpUkRNUlFjSW5FeXFvYmtHZjZkOURsX3VDaXI5Y1dKTF9DdVBXNWRpdXhhaUJuYVlYSksxbUoyN1lacmpfb3R2NHNFXzFzaGhISW1HdmZxdy1n?oc=5",
           "source": "Amazon Web Services (AWS)",
-          "published": "2026-11-20T02:48:55+08:00",
-          "summary": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach Amazon Web Services (AWS)",
-          "summary_zh": ""
-        },
-        {
-          "title": "Ending Violence Against Children: Risks and Opportunities of Artificial Intelligence",
-          "title_zh": "结束针对儿童的暴力行为：人工智能的风险和机遇",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zUEFMSWpCd3E4enE1MUVYeGZ3SzRvY0w2M1ROMHpCcktXb3JDYlZyMGhjVHg0MUpoRVJjYkRhQnY0SEt6a0FHazNsOGJqNl9ac2JFaGNsVGkxUDlEcXc4TXpn?oc=5",
-          "source": "UN Media",
-          "published": "2026-11-20T01:44:40+08:00",
-          "summary": "Ending Violence Against Children: Risks and Opportunities of Artificial Intelligence UN Media",
-          "summary_zh": ""
-        },
-        {
-          "title": "3 Dirt Cheap Artificial Intelligence (AI) Stocks to Load Up on Before 2027",
-          "title_zh": "2027 年之前将买入的 3 只极其便宜的人工智能 (AI) 股票",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeU1ZNW1YamJLRUJzVF9RZnB2bFN4RnkwT1dBT2hBa045bXBDdlFKb2xINVUtT211SFNwNWxKRnZ0VVFvdFpfeDNublV4UXU0eWhjeVQzRTFCUV9LdGFXOVBoZFBNblFBVUc5NG9lZ2d3T292c0ZTUDR0SE9OZnByZ0hKb0t2VWtfZnh4UFBnTVE0N1A0VndTN2hKekVZWm42VTN4NmpOVkZQb1d0Mm5GZ0xrcHd0QQ?oc=5",
-          "source": "The Motley Fool",
-          "published": "2026-11-20T03:14:02+08:00",
-          "summary": "3 Dirt Cheap Artificial Intelligence (AI) Stocks to Load Up on Before 2027 The Motley Fool",
-          "summary_zh": ""
-        },
-        {
-          "title": "What Exactly Is AI? A Computer Science Professor Unpacks the Mystery",
-          "title_zh": "人工智能到底是什么？计算机科学教授揭开谜团",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWYtWGRjcHc2M1V1RmpDYk9UbEFzbkF5ZjNzMURkTVFQbm8yODZLWl8zQTlkMmh6Q2d1ZzBLU3M3UVdEVXI0NkhFaThhQkNhckpFcFZVeWs1ckpuZGg0a1d1cTZyM29NdVhIRUVGajluUVlZZm9JaGwwQ0JscklZODRRNGRSa3RRTWRBTDYtRENIQXgtODBhSC1rQVdldw?oc=5",
-          "source": "Pomona College",
-          "published": "2026-11-20T00:13:42+08:00",
-          "summary": "What Exactly Is AI? A Computer Science Professor Unpacks the Mystery Pomona College",
-          "summary_zh": ""
-        },
-        {
-          "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
-          "title_zh": "官员称，10 月份针对欧盟的一次使用人工智能的网络攻击",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0tRODhJd1JieUhoRFhza0VzbFZ5WnpGUndaTmtVM2x5VGZwLVphM00xQkxwOXRLTTZuSjdLanplam1QekhXVVdmQmx6ODBVTXFFNFlZTGhyZXpmVllFVmhpenc5R3k5MDhaM2JGZ0dNZzI3YWtFUEUtN0I4M3BMeU1TQWFBMlFmWHZrVHBEOXphNmJldm53SU1ocw?oc=5",
-          "source": "WBAL-TV",
-          "published": "2026-11-19T21:07:00+08:00",
-          "summary": "A cyberattack using artificial intelligence targeted the EU in October, official says WBAL-TV",
-          "summary_zh": ""
-        },
-        {
-          "title": "Curators approve Missouri S&T to offer state’s first bachelor’s degree in AI",
-          "title_zh": "策展人批准密苏里科技大学提供该州第一个人工智能学士学位",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHR6OFZDM3A5RFZZb3ZiMVB3eVRmSGRrN3UyNnJKNVo3S1NqVk5NaXVkWXhMR0pjR0hpc3A4bzUwNDIyWHoxRDJXVnZ1LVhpWk1NZUF2RG10VUU1SXdYb2xXem9HUnBCTFpkQnlZdmFqT2V6emlsb1BiakZ2amhNOEJqcmstc19FZWk2eS0xbHFsYUVWTF8yUVRCQUlicG9OVXF5Z3NCaw?oc=5",
-          "source": "Missouri S&T",
-          "published": "2026-11-20T00:18:45+08:00",
-          "summary": "Curators approve Missouri S&T to offer state’s first bachelor’s degree in AI Missouri S&T",
-          "summary_zh": ""
-        },
-        {
-          "title": "Amid Anthropic’s IPO, Google, Microsoft and OpenAI Drop New AI Models",
-          "title_zh": "在 Anthropic 首次公开募股期间，谷歌、微软和 OpenAI 放弃了新的人工智能模型",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnhfSEI1RENvMW1jMExyT2ZQSjNabEF3dGgxQjc2RHVacnJYN2VadzJMSURlTDhNbk05aHJ5cXBMbWZRWFJjZ3U2WUwyMkhBRDZlQVdWc19tV3BxQ3Q0amxxWnpLUDdSU3JiQmVzamU4RURlTlZDZmxkZDBLUmFYZjJJM3dnWnR1RnpQRHdPdk42RjhjZ0pLTW90SQ?oc=5",
-          "source": "CNET",
-          "published": "2026-11-20T00:53:00+08:00",
-          "summary": "Amid Anthropic’s IPO, Google, Microsoft and OpenAI Drop New AI Models CNET",
-          "summary_zh": ""
-        },
-        {
-          "title": "Could Artificial Intelligence Decide the Outcome of the 2028 Presidential Election?",
-          "title_zh": "人工智能能否决定2028年总统选举结果？",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR0cycTdJRkN2bW5ON3FkbHVtb3NkdXE1MVFYSFhwQXdwNnJsUDU2eGdxMlRUUUczLVdmUkdMNGZ0Z1dXUFFBaXJWSTJPaG5rcl9IemhEZWdqVkNZMnBXdTFzc3ZmdHpJZVJGQlV1bm1uRUtvQ3BFby1TUkVXazVlcHduNTdPRlh1dXNNbmFNbFZSbXlWVkxvdTlPRVg1U0F5ZlFnZmRXYlNpYVdlMVJkeXphaGYwSU84RDJlQTgyZUo5b3EzOUxWOFJvOERLdWZ5ODRF?oc=5",
-          "source": "www.rnews.news",
-          "published": "2026-11-20T03:25:44+08:00",
-          "summary": "Could Artificial Intelligence Decide the Outcome of the 2028 Presidential Election? www.rnews.news",
-          "summary_zh": ""
-        },
-        {
-          "title": "10 Frontier AI Labs to Know",
-          "title_zh": "10 个值得了解的前沿人工智能实验室",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85QjZKQjdBNHVER1JVNGg2eU5zbWY0cVB3OW1wZl8zYUFXb0htTkxZeWdxckFWelpZV19ibGJCTkc1eExPdHNfRXBVSF9vVVNRZzBXUmFyQkVzaHNvZkJONF8zVlZHa3pJX2c?oc=5",
-          "source": "Built In",
-          "published": "2026-11-20T03:33:12+08:00",
-          "summary": "10 Frontier AI Labs to Know Built In",
+          "published": "2026-11-20T08:33:30+08:00",
+          "summary": "Use Kimi Code CLI with models on Amazon Bedrock Amazon Web Services (AWS)",
           "summary_zh": ""
         }
       ]
