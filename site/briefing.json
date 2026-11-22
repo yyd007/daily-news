@@ -1,25 +1,25 @@
 {
   "date": "2026-11-23",
   "morning": {
-    "generated_at": "2026-11-23T02:25:23.465132+08:00",
+    "generated_at": "2026-11-23T02:38:10.260682+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-          "title_zh": "COP31 谈判因化石燃料冲突在土耳其破裂",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaktnVmVBTFR4NlBwcmNmLVlkQXlUbDJnM20tam1MaGZmeGF1YTBQSDVjMkM3U21sVWdrRER5a2UzZ3ZrQkF1Sm5kd1U5UXBzNGdMRTlWcVprNVF3M2xjRUV5SmlZMGR6VXU1OVh4M2RXOGFvY25hN1Z3MTJWWXNiWE5ESk13U0o0?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-23T01:42:49+08:00",
-          "summary": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels The New York Times Global climate talks have collapsed. Here’s what just happened. Politico Global climate summit collapses as countries fail to agree on moving away from fossil fuels CNN COP31 climate talks in...",
+          "title": "Climate change talks fall apart in final hours over fossil fuels",
+          "title_zh": "气候变化谈判在最后几个小时因化石燃料而破裂",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEN2LWdsQ0xfZmJMcHRRNmdhd0FlSjNlZzVnbG1xbzl3SE9UMTNSZnU1UTU1WWZfLUd3UEJVUnY4Q2c2ODk3aGtEQ0w2QTF2YUUxVDlfRlhKU25xQVpoeUN2RzFlOURpaUhHT2JTWWttT1g5UVg3cWhRWThfTDlOX0NKOGF3QmRhOXdlNlVn?oc=5",
+          "source": "NPR",
+          "published": "2026-11-23T00:33:22+08:00",
+          "summary": "Climate change talks fall apart in final hours over fossil fuels NPR U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels The New York Times COP31 climate talks fail to reach deal amid fossil fuel and money rows BBC Global climate summit collapses as countries fail...",
           "summary_zh": ""
         },
         {
-          "title": "Russian cargo ship still on fire off Finland after drone attack",
-          "title_zh": "俄罗斯货船在无人机袭击后仍在芬兰附近起火",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-11-22T18:45:26+08:00",
-          "summary": "Russian cargo ship still on fire off Finland after drone attack Al Jazeera Russia-bound ship still on fire after attack in Gulf of Finland BBC From ship strikes to assassination plots, the war in Ukraine is increasingly spilling over NBC News Russian Offensive Campaign...",
+          "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship",
+          "title_zh": "利比亚东部政府怀疑无人机袭击导致俄罗斯船只爆炸",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-23T01:17:43+08:00",
+          "summary": "Libya's eastern government suspects drone attack caused explosion on Russian ship Reuters Russian vessel docked in Libya hit in suspected drone attack, authorities say CNN Russian warship struck by suspected Ukrainian sea drones at Benghazi naval base, Libyan officials say...",
           "summary_zh": ""
         },
         {
@@ -36,8 +36,17 @@
           "title_zh": "金正恩如何制造核武器并欺骗特朗普",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hWHMyLURHX3hOZjhTbW5pRC0zWTduOWJpQS1hME9uSGhoZkF2MTFTcFZjYXhzejVkWTlmaWNHWjAyNURsTFJLcEFBdEk0UDhuRnJQT1BWOWQwMjl3VVcyT0NWTS1ORm1HVVQ0ZHk1OWVGZTlyVjVCSA?oc=5",
           "source": "WSJ",
-          "published": "2026-11-22T10:00:00+08:00",
-          "summary": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump WSJ North Korea Keeps Building Nukes—and Ghosting Trump WSJ Trump Has Repeatedly Tried To Contact And Meet Kim Jong-Un In Second Term To No Avail: Report Yahoo South Korea sees no particular sign of imminent...",
+          "published": "2026-11-23T00:31:39+08:00",
+          "summary": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump WSJ North Korea Keeps Building Nukes—and Ghosting Trump WSJ Trump Has Repeatedly Tried To Contact And Meet Kim Jong-Un In Second Term To No Avail: Report Yahoo Kim ghosts Trump while building up nuclear arsenal...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+          "title_zh": "前往俄罗斯的船只在芬兰湾遭到袭击后被拖走",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
+          "source": "BBC",
+          "published": "2026-11-23T01:18:26+08:00",
+          "summary": "Russia-bound ship towed away after it was attacked in Gulf of Finland BBC From ship strikes to assassination plots, the war in Ukraine is increasingly spilling over NBC News Russian Offensive Campaign Assessment, November 21, 2026 Institute for the Study of War Russian ship...",
           "summary_zh": ""
         },
         {
@@ -55,25 +64,16 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
           "source": "Al Jazeera",
           "published": "2026-11-22T19:49:36+08:00",
-          "summary": "What’s behind Iran’s escalation of attacks in the Gulf? Al Jazeera Bahrain says Iran strikes industrial facility as air defences intercept attacks Reuters Live - Saudi Arabia warns Iran of consequences after attack on Bahrain injures two Iran International Opinion | Shock and...",
+          "summary": "What’s behind Iran’s escalation of attacks in the Gulf? Al Jazeera Bahrain says Iran strikes industrial facility as air defences intercept attacks Reuters Live - Trump eyes Iran strikes after new year, threatens to sink blockade runners Iran International Opinion | Shock and...",
           "summary_zh": ""
         },
         {
-          "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship",
-          "title_zh": "利比亚东部政府怀疑无人机袭击导致俄罗斯船只爆炸",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
+          "title": "As Trump basks in summit pomp, China's Xi strengthens his hand",
+          "title_zh": "特朗普沉浸在峰会盛况之际，中国习近平加强了自己的实力",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?oc=5",
           "source": "Reuters",
-          "published": "2026-11-23T01:17:43+08:00",
-          "summary": "Libya's eastern government suspects drone attack caused explosion on Russian ship Reuters Russian vessel docked in Libya hit in suspected drone attack, authorities say CNN Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities The Guardian...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Off the Record: Europe shrugs as Trump's Yalta knockoff flops",
-          "title_zh": "私下记录：特朗普的雅尔塔山寨失败，欧洲耸耸肩",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUlsZFVlSEVVZWN1ckZaeHdPVmYtT2hRR29sSDRkWURJZHF5Y0d2Y2pBdElxdHgtSENzbmVCZ3pMV0JYNkVKVWhMNG92TDJJMUNMZzJWZGplNHRpUlhXNU9qb21GSGVIZ0FrN1BYMWdtSHJfMU92ZzZGa25mQlV0ZDdvVVpjWTlPb2xUczZ1SElxM0JQOExYaC12cw?oc=5",
-          "source": "Euronews.com",
-          "published": "2026-11-21T18:00:15+08:00",
-          "summary": "Off the Record: Europe shrugs as Trump's Yalta knockoff flops Euronews.com As Trump courts Xi and Putin, middle powers make their own moves Reuters The enraging hypocrisy at the heart of the Nvidia scandal The Seattle Times Brooks and Capehart on Trump's summit with Putin and...",
+          "published": "2026-11-21T17:12:54+08:00",
+          "summary": "As Trump basks in summit pomp, China's Xi strengthens his hand Reuters As Trump courts Xi and Putin, middle powers make their own moves Reuters The enraging hypocrisy at the heart of the Nvidia scandal The Seattle Times Brooks and Capehart on Trump's summit with Putin and Xi...",
           "summary_zh": ""
         },
         {
@@ -81,7 +81,7 @@
           "title_zh": "乌克兰正在竞相防止其蓬勃发展的国防工业陷入停滞",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUllLRmxobEp4dElCMVJrTnhoTjVjc3p3YTd1blNlR2YyZUUzRWlOelNZb0JVeWVxR3hkXzhWLU51eEU0N1E1NVhhRXJPM09KLVVzRDVXRmp0YUJnby1WZXZ2QVBfaUl6ckVTSnJ6RE1WRDhVRlVpb3FTZnJKQ19CUjR3ZjJCUmR2cnNrNTY1MkN5RGV2VlByc1FlZ0dPSnBUZVNrS2dn?oc=5",
           "source": "WSJ",
-          "published": "2026-11-22T23:13:22+08:00",
+          "published": "2026-11-22T23:31:45+08:00",
           "summary": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling WSJ EU funding is too slow for modern warfare, says Ukrainian defence tech boss EU Perspectives Ukraine’s EU Accession Must Not Be Part of Peace Talks With Russia, Kubilius Says UNITED24 Media Ukraine Will...",
           "summary_zh": ""
         },
@@ -97,12 +97,12 @@
       ],
       "china": [
         {
-          "title": "特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一",
+          "title": "要闻解说 - 台学者郭育仁看中美俄峰会：美总统完全掉入中国设计好的陷阱",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wQzhzRTVndTV1QjA2cjYwNG1FNjRVZXlhMG84MDBNX3VqdE1iU1lVSWpteG1aNTNMS2RrdUlINjZRRGY3c2VtUmhBVjlwNF8tbVlGamxsb0I4aDlyZ1hYTUVYQk9SXzdn?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-22T19:12:46+08:00",
-          "summary": "特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一 中国新闻网 分析：APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利 BBC 普京扬眉吐气，欧洲妒火中烧 凤凰网 一见·两个维度看中俄美元首历史性会晤 新浪新闻_手机新浪网 一周军评：都有原子弹协议不放弹 观察者网",
+          "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQSDUxd0lYb3Y3bE5zV3E0cElvaXRqZ1pYRHA1emt3TmJuRmM0TXNfaVV0M2Z2aWFobjJjV1dob2VycTA2QWdGR0dLeWo1REx1T1diU1BMb3dYTjNNa2VkRkpXWXpTR2VuM0h5TUtCdFJsYUFFMlhoUVFtV01jQlo3Z1ExSjRfcW5wUUdXMjlUaXc2TldOUWdlS1pEYUExODVIWm15ZEItNFdRcGRRRVo3aUdDYmJwMVV4UWRHd0VDS0VJNjZnNUFKVU9NbDcwb1l1aGluVy0zWjZvdVdfX1dFMmtxRmFkOW1GbVFNSHZDcXNuVHNodlhNQmRJdVdFdFByTk5JeURjblZYRlA1dzlZWGM5LXpkTGFWMnRkbHhkVEg3Z0pCUDkweXFMSWtEdHI0dlhvLU1mNTBhWHlKbElKQmh3WlBzSUFfWHhkQk40ZVhucEp6ME9QV0ZEeTItb1htX3dIdnlPdTVRdExlVzdJQnRmUGRUNUtJcVRIT2ZxLVhrTlBKbmg0aGF6c0xwdzF6ME41T244M1pqQ0lwaUItdTQ5RnltZHlOTzFKVTQ3cVQtLTlrc3htLXNBbkhjbFJaaEx5YklJVkJhT0hIMHJyT01qem92UnBhTTRGRVpxM0ZJYjF5cXlDc25EMnpXdw?oc=5",
+          "source": "RFI",
+          "published": "2026-11-22T23:17:51+08:00",
+          "summary": "要闻解说 - 台学者郭育仁看中美俄峰会：美总统完全掉入中国设计好的陷阱 RFI 分析：APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利 BBC 普京扬眉吐气，欧洲妒火中烧 凤凰网 一见·两个维度看中俄美元首历史性会晤 新浪新闻_手机新浪网 一周军评：都有原子弹协议不放弹 观察者网",
           "summary_zh": ""
         },
         {
@@ -111,7 +111,7 @@
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UNjJwcUUzTTQ1RHVBRTZ4aEF2cWRIRHcySjdqeXdxUjA0M3RrU2xvXzVaVmJGTl9SNUo2SEM5ei1YSjJNM0dZRGpMc2o4MDlBcEhZelE2NVNiN2tJMlNTSTdlcUdoNnF0OHh3aUJ0VkhIQQ?oc=5",
           "source": "人民网",
           "published": "2026-11-22T09:40:00+08:00",
-          "summary": "【学习小组】习近平：看五十年的中国就来深圳 人民网 学习进行时｜“深圳的成功，给人们许多启示” 新华网 中国超大规模“试验场” 助全球技术迭代 创新优势赋能亚太共同发展 中国青年网 习近平主席的深圳APEC时间 新浪新闻_手机新浪网 创新之城涌“新”潮 人民日报",
+          "summary": "【学习小组】习近平：看五十年的中国就来深圳 人民网 学习进行时｜“深圳的成功，给人们许多启示” 新华网 中国超大规模“试验场” 助全球技术迭代 创新优势赋能亚太共同发展 中国青年网 共享中国式现代化机遇 新浪新闻_手机新浪网 独家视频丨习近平：看五十年的中国来深圳- 中国日报网 China Daily",
           "summary_zh": ""
         },
         {
@@ -133,12 +133,12 @@
           "summary_zh": ""
         },
         {
-          "title": "新闻加油站｜AI作弊频发，韩国有高校要求考试穿围裙",
+          "title": "尹弘当选中共江西省委书记",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6WVFTZ18xTkduYm9JQlFMS3NPSzR3M21wanN2aXlmVURPeWxWTUp5UHlwTW14MWZrQnlFdDdYaVlCMU55V3RfS1oxeHY4SnFGTFROOFhSXzVGUmFaRmc?oc=5",
-          "source": "京报网",
-          "published": "2026-11-22T22:25:25+08:00",
-          "summary": "新闻加油站｜AI作弊频发，韩国有高校要求考试穿围裙 京报网 韩国总统李在明受理教育部长官崔教振辞呈 新浪财经 防用AI作弊，韩国一高校要求学生穿围裙考试，长发考生必须露出耳朵 凤凰网 韩国高考AI作弊事件发酵 教育部长引咎辞职 中国日报网 韩国悬赏重金查处高考作弊者 中国青年网",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYWNUQ1JkODdOQV9uMFNRcEg2OEZMZzZrVGVjSXFhd05PaWF6MXRUNVM0Mkpmc2NGaDVQMVhVVmVKem1LZWNMa0RDMF9SSURhUWRhZjVwWUU3MDVFcG1jQlhOTm1mRDctVmpwSWJhLXR6akdhT05UOGNXcm1EQzk3SVIycw?oc=5",
+          "source": "新华网",
+          "published": "2026-11-22T19:52:18+08:00",
+          "summary": "尹弘当选中共江西省委书记 新华网 尹弘看望省第十六次党代会工作人员和新闻记者 新浪财经_金融信息服务商 江西省财政厅厅长许南吉已升任江西省委常委 新浪财经_金融信息服务商 以产业之进，筑上高之强 人民网－江西频道 省第十六次党代会主席团举行第六次会议 尹弘主持 新浪财经_金融信息服务商",
           "summary_zh": ""
         },
         {
@@ -147,25 +147,7 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UVFVYZHlDX2MyVlNxVHUxSDhrNXFDSnFxMEFkVkRZTzc1UFY5TFdKOVBvNm00UXJ0Z3dYTmZ1UkczdDIwaUVBLVJ3Ql9wRVA4VnlGc3pNMnl0NU83bzdqOC1iQ2hnXzlNNFB2blluVlZPOG1PZGhR?oc=5",
           "source": "新华网",
           "published": "2026-11-22T20:43:38+08:00",
-          "summary": "聚焦APEC·记者手记丨亚太合作的“深圳印记” 新华网 特朗普、李在明、黄循财、阿努廷、藤森庆子、辛鲍姆、阿尔巴尼斯、普拉博沃、马拉佩等多位外国领导人，均公开重申坚持一个中国原则的立场 凤凰网 时政新闻眼丨“深圳之约”圆满收官，亚太合作留下哪些鲜明印记？ 新浪新闻_手机新浪网 【和合共生】习言道｜密集会见多国领导人，习近平频繁提及这几个词 光明网 第一观察｜从这些关键词读懂习主席在深圳的繁忙日程 昆明信息港",
-          "summary_zh": ""
-        },
-        {
-          "title": "记者手记：在深圳，人类命运共同体具象化了",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aUzRicnB4NWJNT0ZnZlVLS3RsdnpOanE4Nm1sZ1ZZQVZ1V0FYR2d0MHdxY2E3Rkdka2JxSkVpUXkySFdJVHRQaHBtM3M?oc=5",
-          "source": "凤凰网",
-          "published": "2026-11-22T20:47:40+08:00",
-          "summary": "记者手记：在深圳，人类命运共同体具象化了 凤凰网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "尹弘当选中共江西省委书记",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yVTlmZ0QwMnBUNzlDeE5vMmozbWhpOFlNWHp4eE9xWS1zRlRiRHk2MERWLU5YU05mTHdlSGtmSkhqejBOSmlkTTV3eDJIOHRaUHFUbWM0OFp5QTg1MnlYUjJMWUFJZDR3NzYyZHd2dHZhT2tjeW1FUnRJV0xHUQ?oc=5",
-          "source": "新华网",
-          "published": "2026-11-22T19:52:17+08:00",
-          "summary": "尹弘当选中共江西省委书记 新华网 尹弘看望省第十六次党代会工作人员和新闻记者 新浪财经_金融信息服务商 江西省财政厅厅长许南吉已升任江西省委常委 新浪财经_金融信息服务商 以产业之进，筑上高之强 人民网－江西频道 省第十六次党代会主席团举行第六次会议 尹弘主持 新浪财经_金融信息服务商",
+          "summary": "聚焦APEC·记者手记丨亚太合作的“深圳印记” 新华网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
@@ -185,6 +167,24 @@
           "published": "2026-11-22T11:24:09+08:00",
           "summary": "中医支招小雪节气护阳防寒 新华网 舌尖上的小雪！冬藏美食地图带你寻找儿时家乡味 中国青年网 图说节令丨在小雪时节体验过冬的仪式感(3) 凤凰网 视频丨冬季如何正确养生？一起听听老话怎么说 Sohu 今日小雪！大庆的冬已就位 ThePaper.cn",
           "summary_zh": ""
+        },
+        {
+          "title": "中国第二艘国产大型邮轮首航",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqWUVrUWl3ajFmZHFYclBMcHhLVS15eEFHRjNqTmkyZVNYb3dtUE96Z1FKT1JuejF4VVR5Z1JWNDMtMk1XcXZQVFBpQl9yWFF3MzNLb2NkaVo0eDhnSXZsVW1qNjJNOWZsWlgw?oc=5",
+          "source": "联合早报",
+          "published": "2026-11-22T15:44:23+08:00",
+          "summary": "中国第二艘国产大型邮轮首航 联合早报 第二艘国产大型邮轮首航 激发海洋消费新活力 央视网 “爱达·花城号”开启商业首航 释放上下游需求助推本土供应链建设 中国日报网 今日开启商业首航！“爱达·花城号”最新乘船攻略来了 浙江在线 14.19万吨海上巨无霸！第二艘国产大型邮轮爱达·花城号今日商业首航 驱动之家",
+          "summary_zh": ""
+        },
+        {
+          "title": "从“种”蚕茧到种下一条产业链，历史经典产业长成乡村好物",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11enh6bm52Y3lJYUxIV1hVRkYtaHBxSGVNWmo0QjFOaHdzNlo2YVVseWJWbVBIOVJ6eC04eWJGX1ZLYlF5RDhjRmJScnJIcEtHd1RVSUFkYw?oc=5",
+          "source": "潮新闻客户端",
+          "published": "2026-11-22T18:04:21+08:00",
+          "summary": "从“种”蚕茧到种下一条产业链，历史经典产业长成乡村好物 潮新闻客户端 郭晶晶，有新身份 新浪新闻_手机新浪网 千年匠心 何以焕新——首届历史经典产业博览会观察 新华网 千年匠心遇上AI 老手艺如何“活”在当下 人民网 亮相首届历史经典产业博览会 龙泉剑瓷秀出古今双面 光明网",
+          "summary_zh": ""
         }
       ],
       "ai": [
@@ -199,20 +199,11 @@
         },
         {
           "title": "Artificial intelligence | Latin America | Global law firm",
-          "title_zh": "人工智能 |拉丁美洲 |全球律师事务所",
+          "title_zh": "人工智能|拉丁美洲 |全球律师事务所",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LaGdIZElvZlFSd0J3bGJOMXBOUExLTFEwUjFhODFhbTFrVDd3TTJkZUY2UXhuX0RzRWhNbXRTemQxRDdERXJfMDhEUFBadnI4NmgtY1R3WVBaSGxTdDA3SDdRekxrb0JnazV3R1Rn?oc=5",
           "source": "Norton Rose Fulbright",
           "published": "2026-11-22T21:18:22+08:00",
           "summary": "Artificial intelligence | Latin America | Global law firm Norton Rose Fulbright",
-          "summary_zh": ""
-        },
-        {
-          "title": "Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence",
-          "title_zh": "密苏里科技大学即将提供该州第一个人工智能本科学位",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUJHMmxoR3N5c1lFdzY1NW5WLXlBbXRfYmxmbFQyTmIwc05CVDZuTEFPZ18zUVZaTmtIOFRtUkJHMmc2S00zLXZ1X1Jpbng1b01EMGxjT20wSEZkSGdYSFhVQTRqLVRTR3BCQzc3ZUxpSDZrbDAyeUpqcndGMThPdWFyM1VleUFkbWt3b25paHFucl9SSkk5T3lsYWtYcE9mcVdGUHY1Szl6NmpTTFNUSnlMdnRlQ0V6cUMtZnIxZFladjhlRnBhZUhHSUp1TlBL?oc=5",
-          "source": "KCUR",
-          "published": "2026-11-22T18:01:10+08:00",
-          "summary": "Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence KCUR",
           "summary_zh": ""
         },
         {
@@ -222,6 +213,15 @@
           "source": "Bioengineer.org",
           "published": "2026-11-22T20:34:03+08:00",
           "summary": "Italian Citizens Favor Farm Artificial Intelligence While Expressing Notable Response Uncertainty Bioengineer.org",
+          "summary_zh": ""
+        },
+        {
+          "title": "Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence",
+          "title_zh": "密苏里科技大学即将提供该州第一个人工智能本科学位",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUJHMmxoR3N5c1lFdzY1NW5WLXlBbXRfYmxmbFQyTmIwc05CVDZuTEFPZ18zUVZaTmtIOFRtUkJHMmc2S00zLXZ1X1Jpbng1b01EMGxjT20wSEZkSGdYSFhVQTRqLVRTR3BCQzc3ZUxpSDZrbDAyeUpqcndGMThPdWFyM1VleUFkbWt3b25paHFucl9SSkk5T3lsYWtYcE9mcVdGUHY1Szl6NmpTTFNUSnlMdnRlQ0V6cUMtZnIxZFladjhlRnBhZUhHSUp1TlBL?oc=5",
+          "source": "KCUR",
+          "published": "2026-11-22T18:01:10+08:00",
+          "summary": "Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence KCUR",
           "summary_zh": ""
         },
         {
@@ -243,8 +243,17 @@
           "summary_zh": ""
         },
         {
+          "title": "Call for Proposals: Joint Research and Innovative Projects on Artificial Intelligence (Malta)",
+          "title_zh": "征集提案：人工智能联合研究和创新项目（马耳他）",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRVpkZFhqLUM4Y0s4XzF2MlNPU1FUN1FmbkJDbDlKZloyTzh3MEw2SmJaZms3OHRQMWJ6Z0wyaVRQQUZzTEZfcVIyN3VxaTZibUgxSDRnWG0yOGRKbkFpd2w0dk5KM1Z5TXFVSklnUEluOEt5ZkFiWlgwemh2bW5PMmVYLWl4dHRxU2pnUnpIS2doejdiNERkc2p4S2pmVmZ6TWtWZTZGNnpwaUtDSUNBcjRZZXNMN0pqcXdBZ2JXSUhmb2dzcjZQQ3A2clrSAdIBQVVfeXFMUE5uaHFHcFU1a1N3OW9IZDRRdGlKRVFTeFJwVzhrWlBvck14eXA4bnJGWldkTW1UNkI0UEp6N0pnNXNSWXAtTTVfcDRlQk4zUGFxRkJwclZGZlBoNndnOGdCSTF6N1FhUnUwOTFNX0c4aUZCd2F3YWs3aEFQakxNLUlsZE1pMlFudlFVclgyNnVZeWZjVzdmT256a2lQQk5WSlFYcFotV2UwUU56SS1HMnVPMURPa2doNVJZZ09XR1Nrc19CcWJlSlZtTWlJOXYyRXFB?oc=5",
+          "source": "fundsforNGOs - Grants and Resources for Sustainability",
+          "published": "2026-11-23T01:21:51+08:00",
+          "summary": "Call for Proposals: Joint Research and Innovative Projects on Artificial Intelligence (Malta) fundsforNGOs - Grants and Resources for Sustainability",
+          "summary_zh": ""
+        },
+        {
           "title": "Andrew Garfield on Becoming Sam Altman in 'Artificial': 'I'm Dying to Understand This Person'",
-          "title_zh": "安德鲁·加菲尔德谈在《人工》中成为山姆·奥尔特曼：“我非常想了解这个人”",
+          "title_zh": "安德鲁·加菲尔德谈在《人工》中成为萨姆·奥尔特曼：“我非常想了解这个人”",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjdJcXg4azk5QVAySEt6UU5GMW52bUpTTVBNN3M1M0owcUNONHdWS2dsNmN6WDVkLVczNDBFclZHSkZWYXZrVDJDY19kYnJKbUFnQ1l4aVlobHBMdFhndHhwanBRd00xYVFhU1pOSjFxZ3RKTHZ2emdvUjlfQV9nQkFSTkFVNm9zektsaHVHeGxaajNX?oc=5",
           "source": "CNET",
           "published": "2026-11-22T21:00:10+08:00",
@@ -261,21 +270,12 @@
           "summary_zh": ""
         },
         {
-          "title": "Morocco explores cooperation with Oracle on cloud computing and artificial intelligence",
-          "title_zh": "摩洛哥探讨与甲骨文在云计算和人工智能领域的合作",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdGU2Xzl5SEhkbnJDRFpNYTliVS1wTjIxMGtJYzdKc3dlU3V5U0UtUU4wUFdPME1WTUJDX0NLLU1nTWE1ZVhWMFpSXzZ1QlBYOFFkX3V0Ykdad2dpWlFHLUQ3enZaUEl0akhyQ1hjVDkwNDBFN3hma0NERjduSmhpWTduUW9zSWpHNV9HVFlfZ2lFanJxaDV6MjlMWlloQ3hWNWV6OXFCOFFxb1RGdGVLRWJpblJRQUx5UWpROGxlSGJPY0ZD?oc=5",
-          "source": "Tech Review Africa",
-          "published": "2026-11-22T22:14:31+08:00",
-          "summary": "Morocco explores cooperation with Oracle on cloud computing and artificial intelligence Tech Review Africa",
-          "summary_zh": ""
-        },
-        {
-          "title": "Keynote speaker at UK Islamophobia conference is former IRGC commander",
-          "title_zh": "英国伊斯兰恐惧症会议的主讲人是前伊斯兰革命卫队指挥官",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wSjhwVUNLQTVGckJfNnBCZG1LNlFjR1F3cnRZWlBBN1MzN0piX295TzlMZWRvWGRMbVM0NnV6eWxXM3hTYndmVnZJLTViRFdYdmxLRzR5SU0xWE42dUo0?oc=5",
-          "source": "The Jerusalem Post",
-          "published": "2026-11-23T00:14:13+08:00",
-          "summary": "Keynote speaker at UK Islamophobia conference is former IRGC commander The Jerusalem Post",
+          "title": "Signal Is Blocking AI Agents From Reading Your Screen",
+          "title_zh": "信号阻止人工智能代理读取您的屏幕",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOXlLaURHYWlxOG1ZWmNrRXppRUYxY1A4aG50dnFNTTZvMWNRbmRqSjZBYlpaNWdEbFpVaXAtbXlKSXpsRmlBSTRqdm0xR2IybzdBazh1QjBvVVZManNFdzFMY0JvaXRnZzlmYW5OREJseUxlTERDaFZKT0QxM0RGRU16d0dkeW5vSGtVcThQLVR0UkN4YXUtVEJWYU7SAaIBQVVfeXFMT0ViVkJhek9LWXlFM2FhVUxEYmFodlhNS2xTMG1OOG9VTndjMDJVSDhIZ1pSRW5fNU5ab3U5NVA5aEJwd2ZRbHhLa1JYYlBWRmhSVE1pcm5oV2F2cUZSUmpWdFpmMlZSM3FtQ2ZLTmctMVZhdEVpTVpVN3FyWlZYaGdEUS1YZkY0Z3NQOU1NanpkUHlXUWxIQTYwNXRIZ2xkdTVB?oc=5",
+          "source": "Security Affairs",
+          "published": "2026-11-23T02:24:42+08:00",
+          "summary": "Signal Is Blocking AI Agents From Reading Your Screen Security Affairs",
           "summary_zh": ""
         }
       ]
