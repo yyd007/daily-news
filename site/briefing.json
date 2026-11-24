@@ -1,389 +1,126 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "morning": {
-    "generated_at": "2026-11-24T18:49:02.987836+08:00",
+    "generated_at": "2026-11-25T05:05:21.359731+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "The temptation of Pope Francis: Private diary reveals torment, visions of Devil",
-          "title_zh": "教宗方济各的诱惑：私人日记揭示了魔鬼的折磨和幻象",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEkxUWFUNFVCOFIxR2k5X2xXZnhXNEJERmRDY2J1ejg0NWlLUV9RNUNhREVudF91V29fb1UzanhkeEtuRHhselFzaTV0NE9hcVp4V0tOZ2NKck5VVWR2dThYazVtQ2Y4Z25BTUhxTlZfb1FOTEw3Z0FDTVo3aGVPeWxhY3B6Z1U4elBvNGVNVmlQY0EyUGEwWUtFZEdnZ3Y3cHh3a3NhemQ?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-24T18:33:27+08:00",
-          "summary": "The temptation of Pope Francis: Private diary reveals torment, visions of Devil The Washington Post Pope Francis battled visions of the devil during a two-year spiritual crisis, diaries reveal CNN Pope Francis had visions of the Devil and Hell, diaries reveal Reuters Diary of...",
+          "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
+          "title_zh": "支持乌克兰的企业被告知“立即行动”以防止俄罗斯的破坏",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qbHhRaVRPVzFQWmtWbS1Dc1RHSE9hSmJxVnhaR0tKREtLYXdicDBmTjZqU0lpUElRTnNjSFZGUmZhY1hVdFF2QzMxVFdJV0d6Y2xyZFdnbl8wUWs?oc=5",
+          "source": "BBC",
+          "published": "2026-11-25T00:48:59+08:00",
+          "summary": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage BBC MI5 warns UK companies supplying Ukraine military about Russian sabotage risk Financial Times British officials warn UK firms aiding Ukraine to brace for Russian sabotage threats ABC News...",
           "summary_zh": ""
         },
         {
-          "title": "Chinese official sentenced to death for spying and leaking \"top secret\" information, state media reports",
-          "title_zh": "官方媒体报道，中国官员因从事间谍活动和泄露“绝密”信息而被判处死刑",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zcEhJeWFvdDhjUVFFYUw5dklpLV9JeXA0eWFxSjgyclZWRW8tWnpNNzZTcExiQTFZSlB6V0JDdkJwbVZ0STZJNTY3MWNkdkpNeXpFd2U4VXl2dC1nTGZCd0w4a1B0Yjdy?oc=5",
-          "source": "CBS News",
-          "published": "2026-11-24T15:15:30+08:00",
-          "summary": "Chinese official sentenced to death for spying and leaking \"top secret\" information, state media reports CBS News China sentences official to death for spying for foreign country The Guardian China sentences official to death for passing state secrets to foreign spy CNN China...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news",
-          "title_zh": "乌克兰海军无人机在利比亚袭击一艘俄罗斯新军舰以及其他中东新闻",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkttSjlveXdrMHJKLVNYMWNTMFh3YlJtLXRtTXcwUnI2Z3VMOWJPajRpelJzRDk0ZG0xekVqSlpoM1dac1RwU045bjdjREd3NENUYTdHcHFiMEt3WWdVcDA4S3JMOVBfR2hNdV9YLXpiNTd6OC01QzctQmxaX2I4TmNmLXd4MVJxZkZ5T09NT01uZHhpYVNKQ052YVUybll3SHl1MTBNMGx2Um1vekdPTVptQU1XUQ?oc=5",
-          "source": "AP News",
-          "published": "2026-11-24T05:23:00+08:00",
-          "summary": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news AP News Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks Al Jazeera Ukrainian foreign ministry says Russian corvette Merkury was a legitimate target Українська правда...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Mossad’s researchers see no urgency for Iran strike as chief pushes military action – report",
-          "title_zh": "摩萨德的研究人员认为，随着酋长推动军事行动，对伊朗发动袭击并不紧迫——报告",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjFkN1MzVzIxRWxUQXNFc3V6RlVpYlpBaDVHTnlsT3hRekJacUh0N3dpc2VpdTI5VG5IOXpZbnRsMk9lWTVidENvMllWWWRlSEwya2NfdFk3S0Z3d21ickk1MWV6V29JTm5oVVJGQndXMVZ6YWhuZFVKS3ppWDRhcXJrTW5aZDVYd1hKZXpFRFdwejdTczg2SGgzUTZHU2pvUDNablFJTHlBTnpYQVdUWkJLZUFRUFFzbGtN0gHAAUFVX3lxTE5SRHJRb1gzWEE5QVAzbTNKdVY1T1JBUURFQXllejlxRmRGVWtPRG9hd2t3S0Y2eHh2dGZwYV9ydVBHRl80MHRVbUlaSHB0bzRsMU5kY0xBQ0lYTVphRlBsMTdDQlBPdDVlcE5fVWlSZ0U4UDhqWTNvblFxbHpuTkRCdWcwREZ5emJpeTV4b0c4SXdfVFc0ZXVENGJHWkZFRU45Q0ZiVEh0MnQwQy1xV2dmT3B5OUs0dVZKYmJFd285Vw?oc=5",
-          "source": "The Times of Israel",
-          "published": "2026-11-24T05:46:00+08:00",
-          "summary": "Mossad’s researchers see no urgency for Iran strike as chief pushes military action – report The Times of Israel Netanyahu Wants to Attack Iran. Does That Serve Israel or Him? The New York Times Trump Holds Off On Iran Strike As Netanyahu Presses For Joint Action - Report |...",
-          "summary_zh": ""
-        },
-        {
-          "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-          "title_zh": "伊朗在海湾袭击升级的背后原因是什么？",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-11-22T19:49:36+08:00",
-          "summary": "What’s behind Iran’s escalation of attacks in the Gulf? Al Jazeera Tiny Bahrain Is Paying a Big Price for Its Ties to the U.S. WSJ Bahrain says Iran strikes industrial facility as air defences intercept attacks Reuters What Is Trump Up To Bombing Iran's Qeshm Island Crude Oil...",
-          "summary_zh": ""
-        },
-        {
-          "title": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace",
-          "title_zh": "俄罗斯飞机飞近空域后韩国发出“避难”警告",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnMyeTNTLWNPT1JoWVRGdTZmb2hnVi1USk9WNldKUVNfVWkzRk5RSjI5UlVIYkprbnEtOFplWGdpd2JoWmtZeEVZQTF6TGJJU0tEZXhsYVVNaHl1OVlfOF9sc3lHUUdzNXBpeHNqUTF0ZXY2VTcxbHEwbHluRF9sR3N0WnR1T3R1cmRKa1FDSnpOeGJwVVIyN0NhYmF4QmlyZHZjT2JNXzB4ZlY1cTJRNVZtTTluY3lYbmd0TEtlXzA3WUZwTVk3Uw?oc=5",
+          "title": "Ukraine says attack on Russian ships in Libya was self-defence",
+          "title_zh": "乌克兰称在利比亚袭击俄罗斯船只是自卫",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzIzWjZLTEdiVXRtR0I1cEJ3MFVCUzF5ZktKdWRUQlNtMEVDTnQ4Mk5xU2tvODVlRUJFeE5KOGlieGxsYkp5c1dhZklONzRZNW1VWTR4OVM1MGFQM0cxRXBaQm93b1lhWG1qR3F0ZGV2VTRRRGxtbTRkU1VYQ2c2dEtHckpXQmJCbmpYZlNKeFVrNW8zVjBldDFEWGc1TmIzRTJTM0ozNy1yanVq?oc=5",
           "source": "Reuters",
-          "published": "2026-11-24T07:25:00+08:00",
-          "summary": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace Reuters See more headlines & perspectives on Google News",
+          "published": "2026-11-25T02:36:07+08:00",
+          "summary": "Ukraine says attack on Russian ships in Libya was self-defence Reuters The Ukraine-Russia war is seeping out across Europe and there are two reasons it will get worse CNN As Ukraine sinks Russian ships, some NATO nations voice anxiety over war's spread to new regions CBS News...",
           "summary_zh": ""
         },
         {
-          "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
-          "title_zh": "14个国家承认国际法院对罗兴亚人进行种族灭绝的裁决",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXZWcVR5SXE3TkpKcXJFaGhwczRGMHJMTDZnYXB4c3oxalBtbEkzY2xWa0pmeGphVlNOTUQ2SmVXQ1RnOGlGUmJhanJodEZla2o4aWlha3pac1pGLWFfc3NLVlptcVRxSko1Q3lfNHZ1cU82a0hEUW5vMnNyLURYVHhxQXo1OTMwbGVCZGhHYVNJQm9VUFctc3NVdktwb1JTTXNSM0pRajZDS08zU3Q3bDIyOGE?oc=5",
-          "source": "France 24",
-          "published": "2026-11-24T07:10:00+08:00",
-          "summary": "14 countries acknowledge ICJ ruling of genocide against Rohingya France 24 Words are not enough after the Myanmar genocide ruling. The world can do better – but it must take these steps The Guardian Opinion | Defining Genocide Down at the International Court of Justice WSJ UK...",
+          "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
+          "title_zh": "日本领导人与美国决裂，为国际刑事法院辩护",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2pwdGlHY05MZ1FBb2gxNGt6TlI2ZGpjX2tnX0ozSlMzUDZBWkNEbDVRMmZjX1lQZVlweG5nR01fN0FkNTJIUFNoQ2NQT3VxRjNKMURObTlCcktfX3hQRmQtT2R0bW1pejFjTHd4VHR3ZGMydUJBTWlfTWdzcUwwNmM5YVdGc1U4bjlyMHZPT0pvd0lrcHBuNDhmM3BkWEJtWHc?oc=5",
+          "source": "The New York Times",
+          "published": "2026-11-24T18:35:29+08:00",
+          "summary": "Japan’s Leader, in Break with U.S., Defends International Criminal Court The New York Times Japan accelerates ICC funding as US sanctions threaten court Reuters ICC president thanks Japan for early 2027 payment as US sanctions squeeze the court AP News Takaichi moves up ICC...",
           "summary_zh": ""
         },
         {
-          "title": "How Chris Bowen blew his global climate moment",
-          "title_zh": "克里斯·鲍文 (Chris Bowen) 如何吹响他的全球气候时刻",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVTkwSklLUEtpZUtiZFB5YjVXS0ZLQTZDdnRLUE9zX2pJZUp5UFVoTTFsWnhBLW9XMENaM3ktX1RnY2lBVlIwQ1VkZXJvdzVleE5YVmJ2cHAyQXk3cjVXb3VwaU1lSV9kcWZWLTI1b3hSeTlCRE11eUxKQVhaa0hJR0o5X3ZLZWx4QU5zWGhXQ0FPQjl0QkFiOWQza0Q?oc=5",
-          "source": "Politico",
-          "published": "2026-11-23T18:20:00+08:00",
-          "summary": "How Chris Bowen blew his global climate moment Politico Global climate summit collapses as countries fail to agree on moving away from fossil fuels CNN COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels The New York Times COP flop triggers backlash in Australia;...",
+          "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+          "title_zh": "中共中央政治局委员、上海市委书记陈吉宁立案调查",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMG44bXNIbVRoRkdsc1FsaEg0ajBQekRydkVTeDZTbWN0TnBCSWZ1MFQxTzMxc2p0VWFTQzBQRWhHdUVrQUItOC1FNGlVQlZkeVRQWjFRRTZUTkFUeHIyWkRIOXIzbktKZk5HdGxNWGFTSldPN1p3QUtFSEM2dUJHYmRXN0g4UVAzSW9rTkZGOTd3cmZJYU1VdEJJNFE?oc=5",
+          "source": "AP News",
+          "published": "2026-11-24T21:16:00+08:00",
+          "summary": "China investigates Politburo member and Shanghai party chief Chen Jining AP News Key Chinese Communist Party figure placed under corruption probe as Xi’s purge escalates CNN China Takes Down Shanghai Party Boss Once Seen as Potential Leader WSJ China Investigates Chen Jining,...",
           "summary_zh": ""
         },
         {
-          "title": "EU proposes package of Russian sports sanctions, visa bans, and a Krygyzstan crypto blockade",
-          "title_zh": "欧盟提出对俄罗斯体育制裁、签证禁令和吉尔吉斯斯坦加密货币封锁的一揽子计划",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFRxZTZXcjFnY2FrcGZhNF9WbzVLdS1IelA1ZmV6Zm1jOVJicVJMRWR5aFlrS1MxcVo1Vlc5T1VOTEJrSXhJSjluSzVYZkdwc3pYd0Rza1JhVzRINXp2X3Jhd0FHSkJucVlMVXF1bEJHaVZhdDB6dEhoNjFxNEQ2b181QVFqNl9fSzdwb29DMHR6Vm1kWVVQTjZZTlpocGdLOUNNTzlKNEROT294TDlSalExQWxpMnlOQXhF?oc=5",
-          "source": "The Kyiv Independent",
-          "published": "2026-11-23T23:12:37+08:00",
-          "summary": "EU proposes package of Russian sports sanctions, visa bans, and a Krygyzstan crypto blockade The Kyiv Independent EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened The Guardian EU Commission...",
+          "title": "Denmark: Supreme Court backs hardline immigration law against 'non-Westerners'",
+          "title_zh": "丹麦：最高法院支持针对“非西方人”的强硬移民法",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjAtbklTYkxzVEtoQVk0YWVLdXVoeGE2OWdmejFkcUYwajUyQW91QTlFUHhCY0hEeWk4am1rWDVPN2xweldfUHZodU1LUkNCQ096SFNHeVFjM1cwQmNiU0F6b2ZzVklKdU14OXhmaDV4YWdtUWpEeWFzVFRtQ0xldHVRNUxXR2toZlluaHdyLUQ3Z9IBkgFBVV95cUxQcHZLS0E1LVBLNzkzWTBCLTdpZ1NhZlBfNTNKckttX05QaVVUQnlDWnkzVTZwUVZ6NDFkN21vZG9aRC0wd3pUdnBZckp4dW1Ta01FS2U1cEotSUtfZHRpVzd1bFFsUDdVY2xDUjZWcDhyeERVWU9IeG1QbGFLR0tYR2x2VE52bDZSMlFreEVQb0xjdw?oc=5",
+          "source": "DW.com",
+          "published": "2026-11-24T22:50:56+08:00",
+          "summary": "Denmark: Supreme Court backs hardline immigration law against 'non-Westerners' DW.com Top Denmark court upholds law allowing eviction of \"non-Western\" residents from \"ghettos\" CBS News Denmark's top court backs 'ghetto law' evictions in boost to country's hard line on...",
           "summary_zh": ""
         },
         {
-          "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
-          "title_zh": "一系列事件加剧俄罗斯紧张局势，北约召开紧急会议",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
+          "title": "Don Toliver Concert Evacuated After Airborne Substance Released Into Crowd",
+          "title_zh": "唐·托利弗 (Don Toliver) 音乐会因空气中物质释放到人群中而被疏散",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOME1fQ2JzRFlfZC0wbXRsQld0d3h1Y0NRU0kxNjAzc1VhaVBycWRDNEE1b01BZ1Zsd3ByTm5MQUJLbGNuV2lLN1pVLTktcC0tYnAwQVkyMEY5MWdrcjJCUWFMZk45ZWdEZGNvY2o5Q19mOUx1dlVGYmRUcG9BSDhRY3J0NFFNRWM1TUFuZHJULTBENUZwX1d2aFlxeklMeG4yZzFaVHhn?oc=5",
+          "source": "Pitchfork",
+          "published": "2026-11-23T20:48:14+08:00",
+          "summary": "Don Toliver Concert Evacuated After Airborne Substance Released Into Crowd Pitchfork Manchester Co-Op Live: Don Toliver concert evacuated as ‘unknown substance’ fills UK arena CNN Substance release at Don Toliver concert may be linked to robberies, police say NBC News...",
+          "summary_zh": ""
+        },
+        {
+          "title": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests",
+          "title_zh": "新数据显示，自乌克兰战争爆发以来，每四分钟就有 72 万名俄罗斯士兵阵亡",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVBjNlZFWUJMUVpTQVp6cWFja3JQckhuYzZFaGpxODl5U2hzRG9SSV9vQ2VJdHVuak4zSHZWYXpIeHhOMXZRb0JpWmQ0c3FhNDJKTnNkOFBKNlFWRzB3dXpBbmI0UnlVcXlRVVg0aW9GNHBSSWdXNC02RjdDaV9VNEkxLUg?oc=5",
+          "source": "CNN",
+          "published": "2026-11-24T20:45:07+08:00",
+          "summary": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests CNN See more headlines & perspectives on Google News",
+          "summary_zh": ""
+        },
+        {
+          "title": "‘Menacing eyes’: Pope Francis’s diary details three encounters with the devil",
+          "title_zh": "“险恶的眼睛”：教皇方济各的日记详细描述了与魔鬼的三次遭遇",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHFEQjlsZE81aHd0c1hqdUVtcXdjd205YkwtM0NJZXVvbU1BUUtuTXFpaWJ1X3FKZGFfamQ3eC1fT1hwSVlLbmZVOUY2TGVrX2dHcUJ1aGRwUXE0eXM1RmlGcmRVdk9fdUdPbHVnM1h1OTlsOFNvbVZvMFdnSVJLbHVmaDR3SUxxTS14czI2TWM5YkRZVndONi0tMTZmZHJkeHk2UDZkeDBsN0xSSkotQmZHSER2UGUtRl9VY2RKMElTUQ?oc=5",
+          "source": "The Guardian",
+          "published": "2026-11-25T02:43:00+08:00",
+          "summary": "‘Menacing eyes’: Pope Francis’s diary details three encounters with the devil The Guardian Pope Francis battled visions of the devil during a two-year spiritual crisis, diaries reveal CNN The temptation of Pope Francis: Private diary reveals torment, visions of Devil The...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Nixon had a tell when he lied. His lawyer told Bob Woodward all about it.",
+          "title_zh": "尼克松撒谎的时候就知道了。他的律师告诉鲍勃·伍德沃德这一切。",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWVZVGNsSUt2TndYSWxqRDZ0RlRFSFdfZFA3c0JQR3NKMks0eHR5azlXTlNYQ3BaMnE3MEtFc29ubWhxLW54Qjl3SUNaTHdJc3VqVUQ0bFkyUmJremFRRkZta3RLV3F3REpXRlNtS2lnN0k1SVFScDJBRlplVHQxZDdsUEc?oc=5",
           "source": "The Washington Post",
-          "published": "2026-11-24T10:58:51+08:00",
-          "summary": "NATO calls urgent meeting as string of incidents escalates Russia tensions The Washington Post Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live The Guardian Three Russian missiles flew into Poland Friday, prosecutors say Reuters...",
+          "published": "2026-11-25T02:00:00+08:00",
+          "summary": "Nixon had a tell when he lied. His lawyer told Bob Woodward all about it. The Washington Post Bob Woodward spent a lifetime uncovering secrets. Now he's revealing his own NPR Turning the Lens Around: Bob Woodward Takes On Bob Woodward The New York Times Nixon Had a 'Tell'...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Prince William and Catherine’s Country Home Is Broken Into; 2 Men Held",
+          "title_zh": "威廉王子和凯瑟琳的乡间别墅被闯入； 2 男子被拘留",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0xwVmpNSC1jcE9CMGlFS2tlTmk3c040QmJFYW52NllvTWtuMnhRVWMxTTZ4WFM1a2tHRE1JX1k1T21aZkdBNnV2OEdwbnYyNmV3aG5zSlF6bEFXR1RXNU54TWhDWGE0M3FmVmI2RVhEWmxDZm1CZVhTU19LUmdZbHlVWkVtZ0FnWndvekVsa0pvTl9EdGF2eVNHQ19HVTNtRWc?oc=5",
+          "source": "The New York Times",
+          "published": "2026-11-25T00:31:07+08:00",
+          "summary": "Prince William and Catherine’s Country Home Is Broken Into; 2 Men Held The New York Times Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home BBC Kate Middleton, Prince William burglary is ‘incredibly distressing’ for royals as break-in raises...",
           "summary_zh": ""
         }
       ],
       "china": [
+        {
+          "title": "天天学习｜全球之治_新闻频道",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sdDMxY1hRYUgwQnNGOU1pVG45ZVhGZjZNRTZDQURneGdKRHlxNHNSUUdPNVp3dUhwcS1naWpwS19iYUxCOE9aTXNKRjhtNW04eHZBZW1WRmJiblA1Tl9zR0pqVndDbWZCeVE?oc=5",
+          "source": "厦门网",
+          "published": "2026-11-24T20:45:00+08:00",
+          "summary": "天天学习｜全球之治_新闻频道 厦门网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
         {
           "title": "共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3OFJuNndUUkhJRFZhQ2JGQldualpuSUhXLWdjYlRKcXBnWVlpVTZLT3FuVWRGWXpfWWItTF9GTkRtNkMtcWtQbkt0Mk9jVkJUMG5aWFZmZmlrQUh1QzRiWlJ2Zzh0aDg0cGJnbXhBRllQZw?oc=5",
           "source": "人民网",
           "published": "2026-11-24T14:45:00+08:00",
-          "summary": "共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪 人民网 APEC背后，探寻深圳速度的另一面 新浪财经_金融信息服务商 亚太经合组织深圳会议蕴含深刻启迪 凤凰网 为共创亚太美好未来汇聚信心与力量——习近平主席APEC深圳会议期间系列重要讲话引发全球热烈反响 央视网 【1分钟快问大咖】安博集团全球副董事长：中国能够在解决全球性问题方面发挥重要作用 Sohu",
+          "summary": "共同建设一个更加美好的世界——亚太经合组织深圳会议蕴含深刻启迪 人民网 聚焦APEC·记者手记丨亚太合作的“深圳印记” 新浪新闻_手机新浪网 大湾区每一寸土地，都涌动着向上生长的力量（望海楼） 人民日报 亚太经合组织深圳会议蕴含深刻启迪 凤凰网 和合共生｜以湾为媒：习主席首倡亚太合作新路径 央视网",
           "summary_zh": ""
         },
         {
-          "title": "德语媒体：习近平主导 特朗普普京陪衬",
+          "title": "民航桂林监管局深入学习贯彻党的二十届五中全会精神",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQeklSRG5jb2FkTWlrVHBmaUFJWGJtOVBQNE1tQ09ZTjJqSnFsN1VaOVB5RjN2M0g1MUp6VlA3MTR1UjM2Qk5KdjZvWGxNOGc5TVNPUFl6YjEwRzdhNWl5dHR3Q21Pa2xuMmhWQnJESjIxR1JCR3ZjUFcyUTZYaWNTWHhYWmYwSHQyQlE0cUxxbl9MS0tseW1Xcmx2bXAwbmgzdURjSlR2d2tVSTN6c05EVDBMREFFZVNwTWEzNXk2b2c0TlQ0QS1kOC13OVkxbUhmWjRhSHNDcVBSSE1DX3pVZG03MnlxN2lVajZadmJXeXh1eEdUT2lOQkdvLVRpeTVjX2xHdGUtSDZnUzVsZE54a29wcmMxU3JjTVFaYTlBaklaRm9wREhVaUVhbzl1Wm1rcUVFMjdNZEEtRDlsdlJaT0FBR3ppaWxkSmljRFllMEhTYW0tU3NCM0xYUnNaOEXSAd8CQVVfeXFMTW1vU25BZWdpaXpOS0RJXzdzc0phUGtVT05vRmJrM2NmcGViZjhvVVVJdWlyNEhIaU84LUxveVUzOFJJdEhOdXBqc1lSNG45eGNrX3E2MlFHWDlua0RMd0hzYmg3THRrbGNHVjdYc1hNRDBjcnNMVG5wUzZWb1k5Y2wxb0F1a051OGp2OGtEb01ubnUzcWZoZ1JmNVZpczRncTFPbjdZeUdhbGFrRkNZcVhPa0E1YmplVWFGQVlOZGo0cHJNa04tY05DNFVuMzNnaDlSamFjQXhRaXlydE1WeGRPZ2xWbGtwZ3F4eEU5a3NyVTl5RG8xU0hEdXVhclJyUVdGQnJTYU1OQkZyZmViamNnQnRDTjYzZ1BOanNmRlhWTjJFZEpfUVlhZEk1Y3pabmFCRGdVdjNtNVY2NXJpNm5zVVBLdF80V0k5enh1bUtfaUZONEs1emxpclFpYlU0?oc=5",
-          "source": "DW.com",
-          "published": "2026-11-23T23:24:47+08:00",
-          "summary": "德语媒体：习近平主导 特朗普普京陪衬 DW.com 国际锐评丨这场“开创性”的中俄美元首会晤释放哪些信号？ 新浪新闻_手机新浪网 时政微观察丨答好大国相处必答题，共同为世界和平托底 光明网 一周军评：都有原子弹协议不放弹 观察者网 【和合共生】习言道｜历史性会晤里的历史与未来 中国青年网",
-          "summary_zh": ""
-        },
-        {
-          "title": "“天宫”将迎首位外籍航天员",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JaFpQR1BUNDc1aEhGdnNWUGFvSmFBLWM4U1ZzTnctX0NLT0QxRHZDVV9OVWI2RGxNWnRfOF9nVUJlTkxsQWN1UXRjVW9QdXBiTllZaTRwNTZ2WGJydDBQYUtpU0I3WEJLRjN6VElnNUE?oc=5",
-          "source": "中国科技网",
-          "published": "2026-11-24T17:31:23+08:00",
-          "summary": "“天宫”将迎首位外籍航天员 中国科技网 首位外籍航天员：所有训练中最具挑战的是“中文” 观察者网 全球媒体聚焦 | 巴基斯坦媒体：中国航天国际合作为发展中国家打开太空之门 光明网 神舟二十四号瞄准北京时间明日08时18分发射 央视网 神舟二十四号载人飞行任务航天员与记者见面 中国日报网",
-          "summary_zh": ""
-        },
-        {
-          "title": "【和合共生】习言道｜跟随习近平主席推介 从四座城市感知千年中国",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zUTl1cXltclN1VEUtaEN5UEljdl9oNUY0YjNhWTFmcW9FYWJBNWdMbW5IRkJfN20zVFJVZWZIaGxSamdZczB3eUNIVDBIMVc3X2I0Wm9BM3pycFZjb3VqOWRmYzhEVld5aDEzUXFsbjRUUUYyRUE?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-24T08:33:00+08:00",
-          "summary": "【和合共生】习言道｜跟随习近平主席推介 从四座城市感知千年中国 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "伟大长征淬炼中国共产党优秀特质",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlTE1DcklUSXZ5T0pERVdlQWtHRGJvREVOZnRjRzVQaE8ybVA2RF9OdEpRQU94SFg1alJ5elo2UVJ2azBRWFlTSjRpNi1jeTdwb1o4blUxQnRFdVpaaFdvdjhaUQ?oc=5",
-          "source": "光明网理论",
-          "published": "2026-11-24T09:56:27+08:00",
-          "summary": "伟大长征淬炼中国共产党优秀特质 光明网理论 文艺赓续长征魂 光影逐梦新征程 ——沉浸式数字戏剧《红色郧西》献礼长征胜利90周年 中国日报网 第八届大别山红色文化学术研讨会暨湖北省大别山精神研究会第二届会员大会在黄冈师范学院召开 中华网 讲好“人”的故事，才能讲好长征故事 Sohu 一路丰碑｜读懂长征胜利的力量 ThePaper.cn",
-          "summary_zh": ""
-        },
-        {
-          "title": "国际观察丨COP31落下帷幕 气候多边主义承压前行",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MV3d2bzFsRl90TUFrRElpc29wTjAzOVp2MUpUMXNFYVA2YnJUT3dyYUhiWnhRZjJ3a1hNeHdYY2tGMXZ3dl90WjNLOFBtMVU1NWhKN3B5cm5QZjRkTHd6SV9LTEhINGVtMjBTVXlNR2E0aFNhLWJKOHEwc0ZZVmM?oc=5",
-          "source": "新华网",
-          "published": "2026-11-24T13:21:36+08:00",
-          "summary": "国际观察丨COP31落下帷幕 气候多边主义承压前行 新华网 COP31谈崩了，“但世界需要中国的绿色技术” 观察者网 中方谈COP31未能就政治决定达成共识：失望但不应丧失信心 新浪财经 COP31联合国气候峰会结束，未能达成协议 美国之音 中方：不应丧失对多边进程的信心，呼吁各方合作应对气候变化 凤凰网",
-          "summary_zh": ""
-        },
-        {
-          "title": "刘小涛参加徐州代表团审议",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qWlFnaWl0RWVFblpyZnhrV3p4N2w0aTRxWkVyNHlNenpick9FTFBfWU1qN3R5ZHFTRmI3emVCcmhna1lZTDYtNi1EUm8zMUlWcFh5TEt3emRXUlotSEVLRVk4SHk2MXBQ?oc=5",
-          "source": "紫牛新闻",
-          "published": "2026-11-24T10:56:00+08:00",
-          "summary": "刘小涛参加徐州代表团审议 紫牛新闻 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "所罗门群岛将与澳大利亚签署一项新协议 外交部：有关合作不应针对第三方",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IUWJHSk5ONFVVYzBUd2EzcjlNV2pIbElqY0VQeXEzREhxV0pxeVZncGxoaC1FWlhWZlpheGt1UW00Z2EwWmc?oc=5",
-          "source": "财联社电报",
-          "published": "2026-11-24T15:24:22+08:00",
-          "summary": "所罗门群岛将与澳大利亚签署一项新协议 外交部：有关合作不应针对第三方 财联社电报 所罗门群岛将与澳大利亚签署一项新协议，外交部：有关合作不应针对第三方 ThePaper.cn 外交部：中方始终秉持相互尊重、平等相待的原则发展同所罗门群岛关系 Sohu 澳洲将与索罗门群岛敲定条约 因应美中竞争升温国际局势 SWI swissinfo.ch 所罗门群岛已告知北京不再续约中所安全协议 将与澳方签署新条约 RFI",
-          "summary_zh": ""
-        },
-        {
-          "title": "广西开展非法销售野生鸟类排查整治行动 将建交易暗语监测词库",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VZ1hqZnRVanhoR2lzRkxsWE83ZGpabTYydDR0WkZSdnhqVDNrZzl5ckhHZmk5MWlWcWhwY3J4MlBhcjdkTTJvSm5veXExd1J4d1E0X2pfbzFiSW1CNjl4cVlvVUFIM2dO?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-24T13:39:56+08:00",
-          "summary": "广西开展非法销售野生鸟类排查整治行动 将建交易暗语监测词库 中国新闻网 举报有奖！广西多地公开征集线索 新浪财经_金融信息服务商 广西将开展非法销售野生鸟类排查整治行动，建立交易暗语监测词库 ThePaper.cn 红烧“小鸡” 88元一盘竟是野生候鸟！捕鸟网距派出所只有500米 Sohu 爱鸟护鸟正当时！这份行动指南请您查收 news.qq.com",
-          "summary_zh": ""
-        },
-        {
-          "title": "瑶族最盛大的节日！湖南江华各族民众巡游共庆盘王节",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KN2tBakhqVktBRUd5QlRoVXIzVkN1T0JpLV9aRkthVGNsdUV1dW9RT3d1TWpBalJsbk11RVJLSndIOGl4MllrS2tFWGhiTUtVX1ZzZHNLb3JiaHFoTkhhT3FrWDR4bWpUVWhsejhGQ0Zma1k4b0dxUTBPbnRZZw?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-24T14:58:00+08:00",
-          "summary": "瑶族最盛大的节日！湖南江华各族民众巡游共庆盘王节 中国新闻网 2026年金秀盘王节开幕式暨瑶族文化盛典举行- 中国日报网 China Daily 湖南江华开展“同心奋进·康养江华”职工健步走活动 央视网 打好“文化牌” 唱活“经济戏” 金秀以节会经济赋能县域高质量发展 新华社广西分社 湖南江华深化民族团结 激活地方发展动能 Sohu",
-          "summary_zh": ""
-        }
-      ],
-      "ai": [
-        {
-          "title": "Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I’d Buy on Sale",
-          "title_zh": "黑色星期五降临科技股：我想买的 3 只人工智能 (AI) 股票",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1NzTDV6Q1R4MHNnYXgzRVZDdmdTX1dIWTNMOFloVFNjUEEycWhCVGJ6TGlVcFd3VVVXamFMdXdrMUh0c09UQjNqUURqQXV0ME15NkpHUjRiQUhlYUlGbUFSOG5JbTJ1Q2ZFU0V5ZWY3YlV1bkxtSmUxb05peWw5RmJ6bmNYWklQUzg4RmpJNmdJMDZLU0VrYmgyaG1xSGJ4eEs3a3BHRU5pT2dkRm9KSzBxMk8yVDFZdWJscHZqcHFMZV8w?oc=5",
-          "source": "The Motley Fool",
-          "published": "2026-11-24T15:34:02+08:00",
-          "summary": "Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I’d Buy on Sale The Motley Fool",
-          "summary_zh": ""
-        },
-        {
-          "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
-          "title_zh": "人工智能如何为最后前沿的中风患者带来新的希望",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkVfZVlKWlN6M00wcE1ETkdKVTh2VkcxN2dCQWZueGlkMnM2X2pUdWxMSkdTY09qZmpvd0JncTRfUEhCZld3SUN0NEN6YkR2bVdzVDUtdHdBNjNPQlp3bDhGU0Q1cXlyMGVGeDNyMUFiNGw0WnJja3hiTm5ibzhtZjBFZnUyNjQ2SVpnQklRek83LW8yRXhnZXgzQlA3SmJJTFA0LQ?oc=5",
-          "source": "STAT",
-          "published": "2026-11-24T17:35:39+08:00",
-          "summary": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier STAT",
-          "summary_zh": ""
-        },
-        {
-          "title": "Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027?",
-          "title_zh": "Innodata vs. IonQ：人工智能或量子计算股票是 2027 年更值得买入的股票吗？",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXlGUTRCcHplT2pLSUlwT1NDMVZWOW81UDAtMWE3ck9pMUh4aU93dmZNdkpaT0tYZlBGZWktRWljRElzcHBHVjB0VEhxeUd4Q05lUFFtT1FqNVNZclMyOEZ1LUFxM2J0VWFTV0R1eFBIZmdBdDNIMTVVajhpemlINi1YbjNYQlNWclZYU283YWptWXc0UFlDU2tmOWM1ak9nMnM4aTJxcw?oc=5",
-          "source": "Yahoo Finance",
-          "published": "2026-11-24T13:22:00+08:00",
-          "summary": "Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027? Yahoo Finance",
-          "summary_zh": ""
-        },
-        {
-          "title": "Digital Production Channels Artificial Intelligence Capabilities Into Corporate Green Innovation Outcomes",
-          "title_zh": "数字化生产将人工智能能力转化为企业绿色创新成果",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ01ldjBZOUcyMTYzMzZLWTE0YVJYbVhGeGp2NU1VWlNlTlU3cmhVeGpvLW4wX0ZESVR4UldlaDMwTXJGYnNlOEQ1bjY2YktvOF9oY2xPNmlmcHoyejQwR2tmcEQ0U3pTR1RkTTBDZkNabW9NM1JYUDRvcnVyRXhsMnp6YzdmT2I5MS1RamN2S1RGaDN6S1dkajBvV0kyVzdNU25YaF9nTkQ1Qm5mYnh4OHVBdERFQkR0NzRQX3NPUllOYTQ2R1lVSkN3?oc=5",
-          "source": "Bioengineer.org",
-          "published": "2026-11-24T18:02:40+08:00",
-          "summary": "Digital Production Channels Artificial Intelligence Capabilities Into Corporate Green Innovation Outcomes Bioengineer.org",
-          "summary_zh": ""
-        },
-        {
-          "title": "Performance Evaluation of an Artificial Intelligence-Assisted Mobile Application for Dietary Oxalate Assessment in Kidney Stone Prevention",
-          "title_zh": "人工智能辅助移动应用程序的膳食草酸盐评估在肾结石预防中的性能评估",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQYzdCYnBsX3drR2FBbGpMQ2dxaE1icS1neFU3UTluZUNpY2hNUC1MSkR5RWJiZkNmTFVHVjRDOU1mYmh6T2JXNlVJYjVEMU9EdHppTnZuUHpVTTFKU0RJcFF2ZktlWW9ES0k0RG1jaXQ1MmJadHhBbjZrYktrRGdxUVI0RE9pYm01UTZIS0FUM3J5cVluaElCSTNmRmxhdjRGazR2X3Q3cTZfa2xVajZMeEthTlNsbllmYm43VDZjQTNTNk42SURyclhsVGpxUm84M1dnaHpTdTBOeU5hVEFwQUR4UF8yVHRhbHh1a2RXb0RpMDdqaUxYMjREeXJCSE1uTG14OWJyZkFzVUQ1UnJjTF9IN29VR3hKT1hzMlk1ODcxUQ?oc=5",
-          "source": "Cureus",
-          "published": "2026-11-24T16:57:28+08:00",
-          "summary": "Performance Evaluation of an Artificial Intelligence-Assisted Mobile Application for Dietary Oxalate Assessment in Kidney Stone Prevention Cureus",
-          "summary_zh": ""
-        },
-        {
-          "title": "Inside the Black Market for America’s Artificial Intelligence",
-          "title_zh": "美国人工智能黑市内部",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWVHLWI2RnpUOEpLdGVnTkRidUdXUmVZMHJmaTk5QmM0c2E1U0FWNjZzTnRfVWtxcDA1V1EyTjNjUi1oTjV0YUpBVWFBaVNiY0YzR2szN2hubkgyUzJwQk9hTVdoSm5zRTZtZzY2S2ZRLWc5dWNJSUxiQkpIWXpuRXlNZnZQNS1LbF8xalVWUEJidlFsYTFMYnNLMXVLSUU?oc=5",
-          "source": "Lawfare",
-          "published": "2026-11-24T03:09:53+08:00",
-          "summary": "Inside the Black Market for America’s Artificial Intelligence Lawfare",
-          "summary_zh": ""
-        },
-        {
-          "title": "Translational artificial intelligence in therapeutic-era metabolic dysfunction-associated steatohepatitis: The ACTION framework",
-          "title_zh": "治疗时代代谢功能障碍相关脂肪性肝炎中的转化人工智能：行动框架",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1idUJDTmtJT180RGRTYnlLQWQwSl9CQVdJek9qYzNLb0pXcU8wWjdhdVZFMGg1Tm9wRzRJZ19MeUNjZnYtTUtTRzJlbnowYVR5QnFnVGNZeU5WU2xNRnVwRGx4QWZhQzVBMDVj?oc=5",
-          "source": "Baishideng Publishing Group",
-          "published": "2026-11-24T15:42:42+08:00",
-          "summary": "Translational artificial intelligence in therapeutic-era metabolic dysfunction-associated steatohepatitis: The ACTION framework Baishideng Publishing Group",
-          "summary_zh": ""
-        },
-        {
-          "title": "The Grid Under Siege: How AI Is Creating New Risks to America’s Energy Infrastructure",
-          "title_zh": "被围困的电网：人工智能如何给美国能源基础设施带来新的风险",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1Ixc0IzRGZiVmJ4a2JDdlFnT2IyTmRaSFhSVHE3SWpWQU5qYUxfTEdveDN2akc5MkZnYXlha2lMSHFWSkxVcWQ0RnR1bnUwQzU5UU9sNV9nd2ZrN2k5ekh6eVFOQ0tRWndEaGhqS2tueDlkNmVacEdJMzNMS1E1UXJKb1hpc3JCVnBuTG13M3JXc3FIaEltZFZfbDVIang4anFXUFVxRFNzSnZWNUE?oc=5",
-          "source": "GovCon Wire",
-          "published": "2026-11-24T18:19:27+08:00",
-          "summary": "The Grid Under Siege: How AI Is Creating New Risks to America’s Energy Infrastructure GovCon Wire",
-          "summary_zh": ""
-        },
-        {
-          "title": "Silicon Speech: Should the First Amendment Protect Artificial Intelligence? – A Respectfully Dissent Series Debate",
-          "title_zh": "Silicon Speech：第一修正案应该保护人工智能吗？ – 尊敬的异议系列辩论",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV1NxYlFkRTlldU1BTXF3bHFzcEpUOFRqUkRwRHEzLWU0ekZROF91UGVOTFdTTzhlWnpGbFBWd0p6SlhwZlVfRDFyZDZRRGFBSVZRaUxUdUdGSU9LTkdDdzcwNEk2dHJFVlpUcnNIbm9PSjBJRGFUNWNlNUR2WFhCcDRpNUZsUDdVOGhhNFFJVXVRTEhSLTZUMlFMV2tDRWladDV2Tk5wZUFVMUNObWdLUWRscTduanpwNy1Tb0JsT2dpQmtYYjdEZC11UjhYVTlhT1VIQQ?oc=5",
-          "source": "Vanderbilt Law School",
-          "published": "2026-11-23T23:30:20+08:00",
-          "summary": "Silicon Speech: Should the First Amendment Protect Artificial Intelligence? – A Respectfully Dissent Series Debate Vanderbilt Law School",
-          "summary_zh": ""
-        },
-        {
-          "title": "Jensen Huang's spectacular comeback at Nvidia, under pressure from Trump and markets",
-          "title_zh": "在特朗普和市场的压力下，黄仁勋在英伟达的惊人回归",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc0NRaGNXQlJ0QVF4LWgzMlpsMS0tSDZ3RzlUdkM5THNfWEFhSmo2ZnZWeDhQWk1jZWpMLUtkdHQ2S3B6YldkczUwcVNGNklJSjZiY2ZTRE1fLTVnZ0FLd0dtd0pFaDVhWXlVd2JoaVE0OHNtTm1rb3VtRkZMRHVRM0w1cGk5YkpXTXVKa0h2VlJicUlFc0JCc3RUNWJqc3pHS3g3QmxFcHE1dU1PNDItckR4TEdfbTE1cGduZ1lRa1VqSHZVRVhmTnNQcVVPemg0WkVwWUxfc19CWE9CbG1BcWl5M2Jmb1E?oc=5",
-          "source": "Le Monde.fr",
-          "published": "2026-11-24T17:34:57+08:00",
-          "summary": "Jensen Huang's spectacular comeback at Nvidia, under pressure from Trump and markets Le Monde.fr",
-          "summary_zh": ""
-        }
-      ]
-    }
-  },
-  "evening": {
-    "generated_at": "2026-11-24T19:33:41.472811+08:00",
-    "sections": {
-      "worldwide": [
-        {
-          "title": "The temptation of Pope Francis: Private diary reveals torment, visions of Devil",
-          "title_zh": "教宗方济各的诱惑：私人日记揭示了魔鬼的折磨和幻象",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEkxUWFUNFVCOFIxR2k5X2xXZnhXNEJERmRDY2J1ejg0NWlLUV9RNUNhREVudF91V29fb1UzanhkeEtuRHhselFzaTV0NE9hcVp4V0tOZ2NKck5VVWR2dThYazVtQ2Y4Z25BTUhxTlZfb1FOTEw3Z0FDTVo3aGVPeWxhY3B6Z1U4elBvNGVNVmlQY0EyUGEwWUtFZEdnZ3Y3cHh3a3NhemQ?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-24T19:09:55+08:00",
-          "summary": "The temptation of Pope Francis: Private diary reveals torment, visions of Devil The Washington Post Pope Francis battled visions of the devil during a two-year spiritual crisis, diaries reveal CNN Pope Francis' diary claims he saw the devil three times BBC Pope Francis had...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Chinese official sentenced to death for spying and leaking \"top secret\" information, state media reports",
-          "title_zh": "官方媒体报道，中国官员因从事间谍活动和泄露“绝密”信息而被判处死刑",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zcEhJeWFvdDhjUVFFYUw5dklpLV9JeXA0eWFxSjgyclZWRW8tWnpNNzZTcExiQTFZSlB6V0JDdkJwbVZ0STZJNTY3MWNkdkpNeXpFd2U4VXl2dC1nTGZCd0w4a1B0Yjdy?oc=5",
-          "source": "CBS News",
-          "published": "2026-11-24T15:15:30+08:00",
-          "summary": "Chinese official sentenced to death for spying and leaking \"top secret\" information, state media reports CBS News China sentences official to death for passing state secrets to foreign spy CNN China sentences official to death for spying for foreign country The Guardian China...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news",
-          "title_zh": "乌克兰海军无人机在利比亚袭击一艘俄罗斯新军舰以及其他中东新闻",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkttSjlveXdrMHJKLVNYMWNTMFh3YlJtLXRtTXcwUnI2Z3VMOWJPajRpelJzRDk0ZG0xekVqSlpoM1dac1RwU045bjdjREd3NENUYTdHcHFiMEt3WWdVcDA4S3JMOVBfR2hNdV9YLXpiNTd6OC01QzctQmxaX2I4TmNmLXd4MVJxZkZ5T09NT01uZHhpYVNKQ052YVUybll3SHl1MTBNMGx2Um1vekdPTVptQU1XUQ?oc=5",
-          "source": "AP News",
-          "published": "2026-11-24T05:23:00+08:00",
-          "summary": "Ukrainian naval drones strike a new Russian warship in Libya, and other Mideast news AP News Ukraine’s Attack Off Coast of Libya Shows Reach of Its Naval Drones The New York Times Russian navy licks its wounds as another warship is sunk Financial Times Russia warns Ukraine of...",
-          "summary_zh": ""
-        },
-        {
-          "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-          "title_zh": "伊朗在海湾地区不断升级袭击的原因是什么？",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1owT2pOYVc3bXd5Z0RTeGlaemVoVXVReXNLeHcza0U3aVo2RW5FWDJjUTFGdGtrNm9OVEY4VVZCYXh6aTZ3bzZaVG1NYzdwZGRYOHRlUXVyanBTVzNTQ0FPNnpLbFl5WDBSamUxQmkxRHVUMG1sMk5xMm9sbmZKOEpwMUxVSHJCamsxdFJEZ3dKUWRoSy1SaGJn0gGfAUFVX3lxTE1sMGtPREkyMU1XR0dvQ0pkM2hraWFPblNyWGtsNC1fY1REcjFELUU2Sk9hNFNpT2dxVmxoU3JZQU9QMmlVWlladjlCRW95bEx6MGItcFNjN1VuMHJQSTZwWm1SQ3pLN28zbE05ZHo4cnBGWFZwZXhUR0VYUC1DMGFkTnV2XzlnZTRubzJtSzJ6YzhwUzgwRk1HdnhpVlNNWQ?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-11-22T19:49:36+08:00",
-          "summary": "What’s behind Iran’s escalation of attacks in the Gulf? Al Jazeera Tiny Bahrain Is Paying a Big Price for Its Ties to the U.S. WSJ Bahrain says Iran strikes industrial facility as air defences intercept attacks Reuters What Is Trump Up To Bombing Iran's Qeshm Island Crude Oil...",
-          "summary_zh": ""
-        },
-        {
-          "title": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace",
-          "title_zh": "俄罗斯飞机飞近空域后韩国发出“避难”警告",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnMyeTNTLWNPT1JoWVRGdTZmb2hnVi1USk9WNldKUVNfVWkzRk5RSjI5UlVIYkprbnEtOFplWGdpd2JoWmtZeEVZQTF6TGJJU0tEZXhsYVVNaHl1OVlfOF9sc3lHUUdzNXBpeHNqUTF0ZXY2VTcxbHEwbHluRF9sR3N0WnR1T3R1cmRKa1FDSnpOeGJwVVIyN0NhYmF4QmlyZHZjT2JNXzB4ZlY1cTJRNVZtTTluY3lYbmd0TEtlXzA3WUZwTVk3Uw?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-24T07:25:00+08:00",
-          "summary": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace Reuters See more headlines & perspectives on Google News",
-          "summary_zh": ""
-        },
-        {
-          "title": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
-          "title_zh": "14个国家承认国际法院对罗兴亚人进行种族灭绝的裁决",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXZWcVR5SXE3TkpKcXJFaGhwczRGMHJMTDZnYXB4c3oxalBtbEkzY2xWa0pmeGphVlNOTUQ2SmVXQ1RnOGlGUmJhanJodEZla2o4aWlha3pac1pGLWFfc3NLVlptcVRxSko1Q3lfNHZ1cU82a0hEUW5vMnNyLURYVHhxQXo1OTMwbGVCZGhHYVNJQm9VUFctc3NVdktwb1JTTXNSM0pRajZDS08zU3Q3bDIyOGE?oc=5",
-          "source": "France 24",
-          "published": "2026-11-24T07:10:00+08:00",
-          "summary": "14 countries acknowledge ICJ ruling of genocide against Rohingya France 24 Words are not enough after the Myanmar genocide ruling. The world can do better – but it must take these steps The Guardian Opinion | Defining Genocide Down at the International Court of Justice WSJ UK...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Finance, fossil fuels and the ‘overshoot’: six key takeaways from Cop31",
-          "title_zh": "金融、化石燃料和“超调”：第三十一届缔约方大会的六大要点",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm50ZjJub3NFR1hNeTBfNTVpUm9sWG03Zi1zZnpiWDJDQXNtOC1DckFxRlp6QW94MXV3YjNzRVBEYnNqTmN0NzVVWk9xcU9wem1DYXotSGQwNldTdXBuc0ZSWUNEdlAycUtUcV9pcXdrS3g4QTV5c3ZJcHNhM2JTdkhldVhWcXJaV2hvX2FEcTd6Ui1CeEZGWWlGWGI5ZFZtRnB2R3p3ZnZHQQ?oc=5",
-          "source": "The Guardian",
-          "published": "2026-11-24T02:39:00+08:00",
-          "summary": "Finance, fossil fuels and the ‘overshoot’: six key takeaways from Cop31 The Guardian Global climate summit collapses as countries fail to agree on moving away from fossil fuels CNN COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels The New York Times A year of deadly...",
-          "summary_zh": ""
-        },
-        {
-          "title": "EU goes after Russia's banks, soldiers and athletes in new sanctions package",
-          "title_zh": "欧盟在新制裁方案中追查俄罗斯银行、士兵和运动员",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMUtLVjRUMndNbGoyQU1aZmNHZEI3TVJyeFhLMzVfcG1qOGNHa2FwakpZTVcxRVpPMU96Ni16NzFfQnRrRE1pNi1yenZwMmQzYnlnQTltc3hGRUN6cGxCdjV0T1ZnbExaU2c3QUJybXl6V2tJWDA4YmZtZ0h4U3lROUV6d3JMczZta2x1Wkp1ak9JYmhMUkNsTkFPTTVnclk5Rjl1OVI5WjJubEJYd2lj?oc=5",
-          "source": "Euronews.com",
-          "published": "2026-11-24T00:03:18+08:00",
-          "summary": "EU goes after Russia's banks, soldiers and athletes in new sanctions package Euronews.com EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened The Guardian EU Commission proposes ban on Russian...",
-          "summary_zh": ""
-        },
-        {
-          "title": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
-          "title_zh": "一系列事件加剧俄罗斯紧张局势，北约召开紧急会议",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-24T10:58:51+08:00",
-          "summary": "NATO calls urgent meeting as string of incidents escalates Russia tensions The Washington Post Three Russian missiles flew into Poland Friday, prosecutors say Reuters Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live The Guardian...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Pakistani pilot to become first foreigner to fly to China's space station",
-          "title_zh": "巴基斯坦飞行员成为首位飞往中国空间站的外国人",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTjlOOEE2ZGVBYmJLbmlvRXdLTzF4UjNOVXFoY0J6c29vSDF1cDZBTk02QTFDWlRwbk9ESThyeGI0dzdKUFhhMmRyb0ZmVWlsLXlUR2ZNTHJjckdybTRlMTRYOWNwcDhSV2duaTI4ZXB5dFlCNlBTSnlCYTNQN25ZdThTS3NHVUtlZ1NIQ2Z1cWZLLTgzQ3VocjZNcFRBMmJQZjZ0dFZ1UXRCcU0?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-24T10:49:00+08:00",
-          "summary": "Pakistani pilot to become first foreigner to fly to China's space station Reuters Pakistan’s Zeeshan Ali set for historic flight to China’s space station Al Jazeera China unveils new space mission crew, with a Pakistani astronaut set to board its space station AP News China...",
-          "summary_zh": ""
-        }
-      ],
-      "china": [
-        {
-          "title": "马来西亚前部长：APEC深圳会议指明方向，“新一代互联互通”成亚太破局关键",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxUXJWUDlxVVBOZFU0N2tyQjNNRVo3dU5pNTRrTkJlN3FLcU9mSVhPSDg1NUpRdjJVcU9KNmxQd3pjaDNPOV82Tk03dmtxMkxnV3JONjdYbTdrU0pHVWdROGJfQzZkRExF?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-24T16:07:14+08:00",
-          "summary": "马来西亚前部长：APEC深圳会议指明方向，“新一代互联互通”成亚太破局关键 中国新闻网 APEC背后，探寻深圳速度的另一面 新浪财经_金融信息服务商 为共创亚太美好未来汇聚信心与力量——习近平主席APEC深圳会议期间系列重要讲话引发全球热烈反响 央视网 亚太经合组织深圳会议蕴含深刻启迪 凤凰网 务实合作释放亚太经济增长潜力 中国经济网",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LX25odGpVdDBEODRiZ0wxMERTM3R5MVlCbnpTZ0xSR0w4SzRnTGlxRzg1b3Vfd1BqUXVZWXpwbTQ3eXppSW1jaHlBMjE4bEVrZnRFTGpZUlZIbHZ3Z0NSQUNHVHpNa1gydDRsUA?oc=5",
+          "source": "中国民航网",
+          "published": "2026-11-24T22:12:00+08:00",
+          "summary": "民航桂林监管局深入学习贯彻党的二十届五中全会精神 中国民航网 市领导宣讲党的二十届五中全会精神 北京市人民政府门户网站 林武在山东财经大学调研并讲授思政课 凤凰网山东 我国东部和东北地区持之以恒推进全面从严治党观察 新华网 学习贯彻五中全会精神·板报微课堂⑤：脚步沉下去 实事一件件办 光明网",
           "summary_zh": ""
         },
         {
@@ -396,170 +133,153 @@
           "summary_zh": ""
         },
         {
-          "title": "“天宫”将迎首位外籍航天员",
+          "title": "特朗普、普京与习近平进行三方对话",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JaFpQR1BUNDc1aEhGdnNWUGFvSmFBLWM4U1ZzTnctX0NLT0QxRHZDVV9OVWI2RGxNWnRfOF9nVUJlTkxsQWN1UXRjVW9QdXBiTllZaTRwNTZ2WGJydDBQYUtpU0I3WEJLRjN6VElnNUE?oc=5",
-          "source": "中国科技网",
-          "published": "2026-11-24T17:31:23+08:00",
-          "summary": "“天宫”将迎首位外籍航天员 中国科技网 巴基斯坦航天员将进入中国空间站，“承载2.5亿人的希望，整个巴基斯坦民族都值得骄傲” 观察者网 超长驻留+中外联合飞行 神舟二十四号任务看点拉满 光明网 神24航天员说播出来就不神秘了：不能告诉你！ 新浪财经_金融信息服务商 （图表）神舟二十四号丨神舟二十四号任务计划开展90项科学实验和技术试验 Sohu",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnk2UTZHRXJyZnl4SE5jcnhQSDRDZUxEMXlhNGdlQlhDc2liZEl6aXRRUG1KaXJwMXB6cldRTFhJSmdxcDViMl9BZTF1S0tUNjg5YmFQR1k2bHF0b2ttMG1oOFhlOE9Tcm54Y25SNGowal9jemNPcUNhOGhBbDQzb1h0aHBRcXZ5Y2RqM1d3NkpNYUN2eHNnSGFQQUtiYUN0MkR4b096d0U0dldWMWs1VV9fMFFGUdIBuAFBVV95cUxQNW5IWmNTc1pqUWs2cEV5TlY2SFRwZUtvNlB5TGVlUnZ5Z0M3VFFja3Q4aXVGYmVpSG83Nm1hb3JJdERHZG84UkFLNHZ1aDAwc3E1TmJ5R1NHbTJRZW5QTmkwY2pWcElzWFpXUXN1eE55QXJHbjBpX1JreDJqY1NPc28tdWFwbzA3SE9kTnlkLXFkaXdHbzdKUzROQ2ZCOTlzd1RjMG1wNTZQaWFxX0ZyWTlOa0xNYWxk?oc=5",
+          "source": "VOA - Voice of America English News",
+          "published": "2026-11-25T02:26:49+08:00",
+          "summary": "特朗普、普京与习近平进行三方对话 VOA - Voice of America English News 时评丨中俄美元首历史性会晤 为什么在中国？ 新浪新闻_手机新浪网 时政微观察丨答好大国相处必答题，共同为世界和平托底 中国青年网 APEC深圳会议期间中俄美元首举行首次三边会晤并发表和平宣言 虎嗅网 【和合共生】习言道｜历史性会晤里的历史与未来 央视网",
           "summary_zh": ""
         },
         {
-          "title": "德语媒体：习近平主导 特朗普普京陪衬",
+          "title": "冷空气携狂风暴雨影响广东",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQeklSRG5jb2FkTWlrVHBmaUFJWGJtOVBQNE1tQ09ZTjJqSnFsN1VaOVB5RjN2M0g1MUp6VlA3MTR1UjM2Qk5KdjZvWGxNOGc5TVNPUFl6YjEwRzdhNWl5dHR3Q21Pa2xuMmhWQnJESjIxR1JCR3ZjUFcyUTZYaWNTWHhYWmYwSHQyQlE0cUxxbl9MS0tseW1Xcmx2bXAwbmgzdURjSlR2d2tVSTN6c05EVDBMREFFZVNwTWEzNXk2b2c0TlQ0QS1kOC13OVkxbUhmWjRhSHNDcVBSSE1DX3pVZG03MnlxN2lVajZadmJXeXh1eEdUT2lOQkdvLVRpeTVjX2xHdGUtSDZnUzVsZE54a29wcmMxU3JjTVFaYTlBaklaRm9wREhVaUVhbzl1Wm1rcUVFMjdNZEEtRDlsdlJaT0FBR3ppaWxkSmljRFllMEhTYW0tU3NCM0xYUnNaOEXSAd8CQVVfeXFMTW1vU25BZWdpaXpOS0RJXzdzc0phUGtVT05vRmJrM2NmcGViZjhvVVVJdWlyNEhIaU84LUxveVUzOFJJdEhOdXBqc1lSNG45eGNrX3E2MlFHWDlua0RMd0hzYmg3THRrbGNHVjdYc1hNRDBjcnNMVG5wUzZWb1k5Y2wxb0F1a051OGp2OGtEb01ubnUzcWZoZ1JmNVZpczRncTFPbjdZeUdhbGFrRkNZcVhPa0E1YmplVWFGQVlOZGo0cHJNa04tY05DNFVuMzNnaDlSamFjQXhRaXlydE1WeGRPZ2xWbGtwZ3F4eEU5a3NyVTl5RG8xU0hEdXVhclJyUVdGQnJTYU1OQkZyZmViamNnQnRDTjYzZ1BOanNmRlhWTjJFZEpfUVlhZEk1Y3pabmFCRGdVdjNtNVY2NXJpNm5zVVBLdF80V0k5enh1bUtfaUZONEs1emxpclFpYlU0?oc=5",
-          "source": "DW.com",
-          "published": "2026-11-23T23:24:47+08:00",
-          "summary": "德语媒体：习近平主导 特朗普普京陪衬 DW.com 分析：APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利 BBC 一见·符合世界期待的“大国良性互动” 新浪新闻_手机新浪网 时政微观察丨答好大国相处必答题，共同为世界和平托底 光明网 中俄美元首会晤能否常态化？吴心伯：没理由不搞第二次和第三次 凤凰网",
-          "summary_zh": ""
-        },
-        {
-          "title": "国际观察丨COP31落下帷幕 气候多边主义承压前行",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MV3d2bzFsRl90TUFrRElpc29wTjAzOVp2MUpUMXNFYVA2YnJUT3dyYUhiWnhRZjJ3a1hNeHdYY2tGMXZ3dl90WjNLOFBtMVU1NWhKN3B5cm5QZjRkTHd6SV9LTEhINGVtMjBTVXlNR2E0aFNhLWJKOHEwc0ZZVmM?oc=5",
-          "source": "新华网",
-          "published": "2026-11-24T13:21:36+08:00",
-          "summary": "国际观察丨COP31落下帷幕 气候多边主义承压前行 新华网 COP31谈崩了，“但世界需要中国的绿色技术” 观察者网 中方谈COP31未能就政治决定达成共识：失望但不应丧失信心 新浪财经 COP31联合国气候峰会结束，未能达成协议 美国之音 安塔利亚的裂痕：从漫长加时到协议流产，COP31为何最终谈崩？ ThePaper.cn",
-          "summary_zh": ""
-        },
-        {
-          "title": "冷空气“杀”到广东，深圳“湿冷魔法”又来了……",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc014MlUyRmZ0UXJvT0xKX1JzTTNNSmRuaV82TEJwRVppZENYcEM0RTB3VzhhN0RhT3ozYkJ5VGt2LU1tTGI2NURmU3hxTVJGWG1VR2lWYWF5NzRlczJ1aXhQdWdEekVfQkxoRzl0dE8tbU5aSWZqSm9sTU1NeVpxLTdRVW5PS1lWeEdiMUpzelhGSDZqOFdRUEcyamdhR2RIdDIteTk3M1lXMlBVVHJCQWRnQmRZcGVxMzRocXJoY19tS3kxenNTaTVFeXJueGV4V3JPVkdUZmc?oc=5",
-          "source": "新浪财经_金融信息服务商",
-          "published": "2026-11-24T15:41:15+08:00",
-          "summary": "冷空气“杀”到广东，深圳“湿冷魔法”又来了…… 新浪财经_金融信息服务商 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "贵州省委原常委、毕节市委原书记吴胜华受贿案一审宣判",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBabVlVd2FtOXpBeVB2ZkE2djFwRm43bVVzWlF5VXhGUEwzVnc2N0hUUjhGZVNnalhEdG5LdzhJZzVITVR4aEZnNmRELUtiLUd4RnlXclRhQVVhM2t0SF9EZXF6am1HQTh0RDNtbkNKeTVXc00yVF9B?oc=5",
-          "source": "新华网",
-          "published": "2026-11-24T17:01:24+08:00",
-          "summary": "贵州省委原常委、毕节市委原书记吴胜华受贿案一审宣判 新华网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "全国政协委员吴志良：融入粤港澳大湾区，澳门文化产业大有可为",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OSkhVdjlBLXEya1Jyc0xjTXNsbU85WjNXUGY2dnR1MUJJYm9aQTJuUnlESXZzeW5ucGxnOGExc0taNE1leTNEaUJDWmtfUW5icWJja2gyY2hXUGp3eGJ2WXk3TUltdw?oc=5",
-          "source": "东方财富网",
-          "published": "2026-11-24T13:43:17+08:00",
-          "summary": "全国政协委员吴志良：融入粤港澳大湾区，澳门文化产业大有可为 东方财富网 国泰海通陈铭：广东文化智造如何从产线长出下一个华为、腾讯 手机新浪网 2026粤港澳大湾区文化产业投资大会，为何落地琶洲？ 手机新浪网 从“活动聚合”向“产业共生” 2026广州文交会举行 央视网 广州100个“美空间”出炉！阿那亚、炳胜、莺屋都上榜了，有你心水的吗？ Sohu",
-          "summary_zh": ""
-        },
-        {
-          "title": "瑶族最盛大的节日！湖南江华各族民众巡游共庆盘王节",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KN2tBakhqVktBRUd5QlRoVXIzVkN1T0JpLV9aRkthVGNsdUV1dW9RT3d1TWpBalJsbk11RVJLSndIOGl4MllrS2tFWGhiTUtVX1ZzZHNLb3JiaHFoTkhhT3FrWDR4bWpUVWhsejhGQ0Zma1k4b0dxUTBPbnRZZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85VUFleDAwYzhobFBveVpWbWlqcVg0VHJMTnUtcko2VnZxZk1FLWZKNmkxUDRyRzJsNE8xeWdNaFRUVXUtTjJuTGJfUHJvRGNxWE1tVzgxdjFSbzl4T2ZSLXdSZGtiSUcy?oc=5",
           "source": "中国新闻网",
-          "published": "2026-11-24T14:58:00+08:00",
-          "summary": "瑶族最盛大的节日！湖南江华各族民众巡游共庆盘王节 中国新闻网 2026年金秀盘王节开幕式暨瑶族文化盛典举行- 中国日报网 China Daily 湖南江华开展“同心奋进·康养江华”职工健步走活动 央视网 打好“文化牌” 唱活“经济戏” 金秀以节会经济赋能县域高质量发展 新华社广西分社 湖南江华深化民族团结 激活地方发展动能 Sohu",
+          "published": "2026-11-24T20:28:18+08:00",
+          "summary": "冷空气携狂风暴雨影响广东 中国新闻网 冷空气“杀”到广东，深圳“湿冷魔法”又来了…… 新浪财经_金融信息服务商 新一轮冷空气将影响广东 全省气温继续下降 中国网新闻中心 广州再次降温，郊区晚间在10℃左右，28日再有冷空气补充 Sohu 冷冷冷+雨雨雨！下周深圳还有冷空气…… 凤凰网",
           "summary_zh": ""
         },
         {
-          "title": "刘小涛参加徐州代表团审议",
+          "title": "王毅同英国外交大臣米利班德通电话",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qWlFnaWl0RWVFblpyZnhrV3p4N2w0aTRxWkVyNHlNenpick9FTFBfWU1qN3R5ZHFTRmI3emVCcmhna1lZTDYtNi1EUm8zMUlWcFh5TEt3emRXUlotSEVLRVk4SHk2MXBQ?oc=5",
-          "source": "紫牛新闻",
-          "published": "2026-11-24T10:56:00+08:00",
-          "summary": "刘小涛参加徐州代表团审议 紫牛新闻 中国共产党江苏省第十五次代表大会开幕 China Daily 谋在长远 干在当下 成在实处——勇担使命，推动高质量发展继续走在前列 Sohu 话心声，道期盼！省党代表们这样说…… ThePaper.cn 管党治党一严到底清障护航勇挑大梁——深学笃行习近平党建思想，我省持之以恒推进全面从严治党④ 江苏先锋",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XQ1lEQU1FTnBQUmFWQnpacmc0OFN2VTNZa1RZN3NMNTJldThZejRiR3YtdXdiWElZXzlncW5QQXljNkhaaVEyRmRnc3V1WF9GNGdHckc3LXU5Q0duLS0tRHlvT1czTzRFRWNKU19aSQ?oc=5",
+          "source": "人民网",
+          "published": "2026-11-24T22:28:00+08:00",
+          "summary": "王毅同英国外交大臣米利班德通电话 人民网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "来自酒泉的浪漫：神舟二十四号与“超级月亮”同框",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1b0RwSUJ3VUZYbkJyX3k1NHVfLW1SNW9LbG9pclNLS2pILWVKX2gtYS13aVUwaU9pSnRvVWRJa0o2alEwaFBEaUl1b0o1Zw?oc=5",
+          "source": "川观新闻",
+          "published": "2026-11-24T21:06:00+08:00",
+          "summary": "来自酒泉的浪漫：神舟二十四号与“超级月亮”同框 川观新闻 仰望星河 亦守大地：共同仰望一场发射奔赴一场守护 新华网 巴基斯坦航天员将进入中国空间站，“承载2.5亿人的希望，整个巴基斯坦民族都值得骄傲” 观察者网 中国空间站将开展四项中巴合作实验 聚焦生命科学与航天新材料 央视网 入选的巴基斯坦航天员：最具挑战的不是离心机，而是中文 凤凰网",
+          "summary_zh": ""
+        },
+        {
+          "title": "（粤港澳大湾区）大湾区“AI+文化”投资升温 智能硬件终端成重点",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU1pVRFhuXy04NkY3dXN0S1hleVJKdmJoUDd4ampXM0JMWjBNX1BPVWhkaGhQYUd6T2NIUU5obUlzUE5rU2IyTmVxS3JmV3VNR01GdGdZWDQ3aE9hei1GLXpOVmRCa1llZ3QwbVo2bHRiQVRTRjI4U05kZ25lazZ2SGtsdnRndEtuS3hr?oc=5",
+          "source": "Sohu",
+          "published": "2026-11-24T20:46:07+08:00",
+          "summary": "（粤港澳大湾区）大湾区“AI+文化”投资升温 智能硬件终端成重点 Sohu 从游戏体验到现实参与，益世界携跨界融合案例亮相广州文交会 新浪游戏 “大湾区对初创企业的支持政策最超前”！00后CEO携AI项目亮相文投会 Sohu 从“活动聚合”向“产业共生” 2026广州文交会举行 央视网 广州文化产业能级跃升 展现多元文化新成果 中华网",
+          "summary_zh": ""
+        },
+        {
+          "title": "哈尔滨：打造“冰雪+艺术”“ 冰雪+运动”两大文旅消费场景",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdU5venpfTi0yZWlXLW54c19FSFJCb1NBQ19zYjVjSld3aUVpXzZSbGFaa0RMQ0Vnd2syWDFmaFhlVFY0R1pGeTk3UmI2clQ1TnJJMTlFN0RXRnVKTW9XQlRKVDEzbmhWckRRZHp3eTZhNlRCZ2NGaEhvV01IQ0VMTTVkUC1Bcko0N1htVw?oc=5",
+          "source": "21财经",
+          "published": "2026-11-24T23:08:00+08:00",
+          "summary": "哈尔滨：打造“冰雪+艺术”“ 冰雪+运动”两大文旅消费场景 21财经 哈尔滨冰雪大世界存冰启用 园区冰建建设即将开工 新华网 哈尔滨市宾县：整合冰雪、温泉、民俗优质资源 培育三大特色冰雪体验 Sohu 剧透 | 雷峰塔、断桥、三潭印月将化身冰建，今冬来哈尔滨冰雪大世界领略冰雪中的江南诗意！ 新浪财经 20万立方米存冰启用！冰雪大世界亮点抢“鲜”看 央视网",
           "summary_zh": ""
         }
       ],
       "ai": [
         {
-          "title": "Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I’d Buy on Sale",
-          "title_zh": "黑色星期五降临科技股：我想买的 3 只人工智能 (AI) 股票",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1NzTDV6Q1R4MHNnYXgzRVZDdmdTX1dIWTNMOFloVFNjUEEycWhCVGJ6TGlVcFd3VVVXamFMdXdrMUh0c09UQjNqUURqQXV0ME15NkpHUjRiQUhlYUlGbUFSOG5JbTJ1Q2ZFU0V5ZWY3YlV1bkxtSmUxb05peWw5RmJ6bmNYWklQUzg4RmpJNmdJMDZLU0VrYmgyaG1xSGJ4eEs3a3BHRU5pT2dkRm9KSzBxMk8yVDFZdWJscHZqcHFMZV8w?oc=5",
+          "title": "USI receives $8.5 million artificial intelligence grant through Lilly Endowment",
+          "title_zh": "USI 通过礼来捐赠基金获得 850 万美元人工智能资助",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1lBVzdKYlRyYVJZOFF1XzczMk5HczRKekFFNjZqWnpxT1FXbW1VTjZVMTNNVkZWN1FvYlNqVTRNTXpSeERtbVVaM01zNERhYmg4V0o5dl85T3BOYkJ6bTJvdTN3b0pkSTZ4TXRMeHlFQUUzOGNEem01VDdzcTRjc3NaNTVqSHY1dDduUmlWSlIwdnN0YWF1c0k1eU5FLWR2ZkhXRXZJcWVqdWlfbWk5UXczaWpXRWtadHhV?oc=5",
+          "source": "University of Southern Indiana | USI",
+          "published": "2026-11-25T02:56:15+08:00",
+          "summary": "USI receives $8.5 million artificial intelligence grant through Lilly Endowment University of Southern Indiana | USI",
+          "summary_zh": ""
+        },
+        {
+          "title": "Anthropic's IPO Raised $81 Billion. Here’s Which Artificial Intelligence (AI) Stocks Will Benefit From Where the Money Goes.",
+          "title_zh": "Anthropic 的 IPO 筹集了 810 亿美元。以下是哪些人工智能（AI）股票将从资金流向中受益。",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYXNrd19NSzVMdGFnQzZ6OFV1M3Jjd2dZdlNlM29WQmtSU0E1OWZsTFRHTXJFNjQ4X2c3blBzNk04UWtjTVdYVEZ3OU9aVEhIMmRZbVdJc0dvQWZOSGpnWWlLYUlfRTBPS3RpZEVKWGtHWkl0TjdIU0s1TUJPTWFWY0RIWnNXSkF2NHhrRlctYUlIZjAyamw1QWJzNFJxeDZVOEVVT0t0UU1KY29xNXpKTGQyT1BLaUNaaW1ubnE5TWNoRHdFR0FiQTlGS042ZER4Wk9DbGJCdG0zdmRITmtnbnVpc093bnJVVFJOWFlYcmhrUkJoRlhteA?oc=5",
           "source": "The Motley Fool",
-          "published": "2026-11-24T15:34:02+08:00",
-          "summary": "Black Friday Comes to Tech Stocks: 3 Artificial Intelligence (AI) Names I’d Buy on Sale The Motley Fool",
+          "published": "2026-11-25T01:23:02+08:00",
+          "summary": "Anthropic's IPO Raised $81 Billion. Here’s Which Artificial Intelligence (AI) Stocks Will Benefit From Where the Money Goes. The Motley Fool",
           "summary_zh": ""
         },
         {
-          "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
-          "title_zh": "人工智能如何为最后前沿的中风患者带来新的希望",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkVfZVlKWlN6M00wcE1ETkdKVTh2VkcxN2dCQWZueGlkMnM2X2pUdWxMSkdTY09qZmpvd0JncTRfUEhCZld3SUN0NEN6YkR2bVdzVDUtdHdBNjNPQlp3bDhGU0Q1cXlyMGVGeDNyMUFiNGw0WnJja3hiTm5ibzhtZjBFZnUyNjQ2SVpnQklRek83LW8yRXhnZXgzQlA3SmJJTFA0LQ?oc=5",
-          "source": "STAT",
-          "published": "2026-11-24T17:35:39+08:00",
-          "summary": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier STAT",
+          "title": "Air Charter Association Forum Assesses Artificial Intelligence Impact",
+          "title_zh": "包机协会论坛评估人工智能的影响",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejZITnJuWUQ2ZzR2aWItY01ScnpBSXFldnloVV9KME5tamV5ZTNTTUJBN3hhclVoMm5UckVaTlU5M041bjNNNEZIN3drLVlENTQtUUI0c0NvMXhZdlB5c1VIWDNRcE9LMWtlR21iWlpDS0YwWWhrWldfMUJyNjJMdGFnc2ZrYndEeGFORVhkZWtjU2ZiRzlXLU9zdjBsUDFOb1lXOHhvSVZoLTNXODhKMmUwUnVDN3lxNEZXbTJwWQ?oc=5",
+          "source": "Aviation International News",
+          "published": "2026-11-25T01:18:37+08:00",
+          "summary": "Air Charter Association Forum Assesses Artificial Intelligence Impact Aviation International News",
           "summary_zh": ""
         },
         {
-          "title": "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late",
-          "title_zh": "Nvidia 为人工智能 (AI) 投资者带来了令人难以置信的消息。这是我最值得买入的股票，以免为时已晚",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR05Ub3hPVmduMjNLeGV3d2c0VDdjVG9fbmF3YnJOLVNnSVNlRU9SWHdWSWk5bjZKYkhlZDJpNlAwZjBfQ19PcUszZFVLelllTE1aM0tWcGhyT2x4Y0ZyRTVBSkdxR2o4ZmtpZXRvS1RYWUtzOEx3aGVQNkxqSk9NUzJURXotSFFqc2xCNGJIQ1FCOWR3Y1k0dmJ1SGMtb3hncTRyX0U4RElfcUZ6SzM0?oc=5",
-          "source": "Yahoo Finance",
-          "published": "2026-11-24T15:27:00+08:00",
-          "summary": "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late Yahoo Finance",
+          "title": "Local Leadership in the Age of AI: How Artificial Intelligence is Transforming Locally Led Humanitarian Action.",
+          "title_zh": "人工智能时代的地方领导力：人工智能如何改变地方主导的人道主义行动。",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkJiUzFzd3VvVVpFNXFpal9zNGpkbUR6eXRrcHRJbWxxNHZJejlkYjRCNnN5QldiTzFJVjR3NFo0aEJOQXBpcjlsNXd5RFpqd2NlcTRPQXQyV3RmdEVEZHhXX2l5Y0NsdXdQOHdYT3g0aENVNnBmVUVJRng4VmtwWHE0aENJODB4TG5IZ3RIVGxLcUNJM1k3dHFSQVlqdWJuMzdUVElBZ19IR2V5RHFTaTEtTnRJRG5TRXhyX0xLalI1SVNoWjltSnZzQQ?oc=5",
+          "source": "ReliefWeb",
+          "published": "2026-11-24T22:27:31+08:00",
+          "summary": "Local Leadership in the Age of AI: How Artificial Intelligence is Transforming Locally Led Humanitarian Action. ReliefWeb",
           "summary_zh": ""
         },
         {
-          "title": "Digital Production Channels Artificial Intelligence Capabilities Into Corporate Green Innovation Outcomes",
-          "title_zh": "数字化生产将人工智能能力转化为企业绿色创新成果",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ01ldjBZOUcyMTYzMzZLWTE0YVJYbVhGeGp2NU1VWlNlTlU3cmhVeGpvLW4wX0ZESVR4UldlaDMwTXJGYnNlOEQ1bjY2YktvOF9oY2xPNmlmcHoyejQwR2tmcEQ0U3pTR1RkTTBDZkNabW9NM1JYUDRvcnVyRXhsMnp6YzdmT2I5MS1RamN2S1RGaDN6S1dkajBvV0kyVzdNU25YaF9nTkQ1Qm5mYnh4OHVBdERFQkR0NzRQX3NPUllOYTQ2R1lVSkN3?oc=5",
+          "title": "Drake professors to host two generative AI events in December",
+          "title_zh": "Drake 教授将于 12 月主办两场生成式人工智能活动",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjVWM1NzLXUwczVCaGZUVW11czBtcEpoZlc5YkdyTlNPeWxMb3Z6LUozS3M2SFZlV0w5cmZ5S1Jzcms2Q3pDajRQcDNQRTlJSk9pZW41MV9FNXktX3lCQm96cnFXUzBpU0JXdHZsdmp1WldUYndCMjE3SFRaS0tSazA3UFlpQUxjdjBjZ3FQd1BBLTFmem5Ib0ZfbWk?oc=5",
+          "source": "Drake University Newsroom",
+          "published": "2026-11-24T22:16:24+08:00",
+          "summary": "Drake professors to host two generative AI events in December Drake University Newsroom",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial Intelligence Outperformed Nephrologists in Recalling Rare Kidney Disease Trial Data",
+          "title_zh": "人工智能在罕见肾脏疾病试验数据的检索方面优于肾脏病专家",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzI1T3N4V1pnTkdXcS1lWXVVdFFoOEp5VVQ3OGtCWFZjU1BrZTFtdmdtMzFkLTBmS2lNWDc3RXlxTXN0X19jNWtfV01lbFVHSjY5aFZ1dE11cjQzMVNLMzQySDN6X08zNUVsaWkxVlBTOFRlWHp2SjNCR1JTYmNOM0p0UkVfQjEycXRBTmdmZ3Vxa19NeEFudVpOUWJwZ0xXTXpaTWpUX2pFbDdROGlaYXFrY1VFcENKT0Zn?oc=5",
           "source": "Bioengineer.org",
-          "published": "2026-11-24T18:02:40+08:00",
-          "summary": "Digital Production Channels Artificial Intelligence Capabilities Into Corporate Green Innovation Outcomes Bioengineer.org",
+          "published": "2026-11-25T03:33:25+08:00",
+          "summary": "Artificial Intelligence Outperformed Nephrologists in Recalling Rare Kidney Disease Trial Data Bioengineer.org",
           "summary_zh": ""
         },
         {
-          "title": "Inside the Black Market for America’s Artificial Intelligence",
-          "title_zh": "美国人工智能黑市内部",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWVHLWI2RnpUOEpLdGVnTkRidUdXUmVZMHJmaTk5QmM0c2E1U0FWNjZzTnRfVWtxcDA1V1EyTjNjUi1oTjV0YUpBVWFBaVNiY0YzR2szN2hubkgyUzJwQk9hTVdoSm5zRTZtZzY2S2ZRLWc5dWNJSUxiQkpIWXpuRXlNZnZQNS1LbF8xalVWUEJidlFsYTFMYnNLMXVLSUU?oc=5",
-          "source": "Lawfare",
-          "published": "2026-11-24T03:09:53+08:00",
-          "summary": "Inside the Black Market for America’s Artificial Intelligence Lawfare",
+          "title": "Huntington University Receives $5 Million Grant from Lilly Endowment Inc. for Artificial Intelligence (AI) Programs",
+          "title_zh": "亨廷顿大学获得礼来基金会 (Lilly Endowment Inc.) 500 万美元的人工智能 (AI) 项目资助",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ1lZbG1rLS1xT0Y1cGg1bWhXQlA2MDRoMDVicU1ORWRTUUQxSGNqM1RoalF5dXNhSTZTYjNXTkFBZ2Z4RXBzSjctcDM3RXFvdDNLYXFxQks3WkpTTGw0MDlPUXZyUHBIcFZfYVJwRnZ0OVJWMW5JOU55cnRodFFObWU4OXhLU0F1aGVlMW1yWEozbVRSbjJEY1pvTzJGeGF5VFJFdjFmYVB6WDliVmRDbERfc2tuWFE0c2NtZG1OSzRMZ0ZSQU51aHpBeC1ORFYweWswcmxhZTVaUG8?oc=5",
+          "source": "Huntington University",
+          "published": "2026-11-24T23:34:00+08:00",
+          "summary": "Huntington University Receives $5 Million Grant from Lilly Endowment Inc. for Artificial Intelligence (AI) Programs Huntington University",
           "summary_zh": ""
         },
         {
-          "title": "Performance Evaluation of an Artificial Intelligence-Assisted Mobile Application for Dietary Oxalate Assessment in Kidney Stone Prevention",
-          "title_zh": "人工智能辅助移动应用程序的膳食草酸盐评估在肾结石预防中的性能评估",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcS1VR2hNZ05lRTBnMEo2OWlNamZBaExiazJyX2tCUlYwVUJ5YjlhWm9nNTB0bUcxS0RsaFZCRzJxbG1YaW92ZmlwTjd5akJJdHdaS3I2Z2g4QU05Qm9NUEVfV3lvTEV6Wk50Unk0eTBfVmlESDhtWHRWd0V5LV9HdVEwUnRQSUF0RlNPM2h5OFotRmJ2LVdQT1oyS2stXzNCVTRvamJKR0JBYjgzU3l3MEZmV3ZPZVJlbkU0bUw0dWpGSWxGWnlIb3pydHdTeDFSRjFBS1V1Zms2QjhkcFdSYTNjcVQ2QkxUQ0t2LWR3TW5GNXBNYW1aUzJlRE1aTkdLZTI3RlRzZXM?oc=5",
-          "source": "Cureus",
-          "published": "2026-11-24T16:57:10+08:00",
-          "summary": "Performance Evaluation of an Artificial Intelligence-Assisted Mobile Application for Dietary Oxalate Assessment in Kidney Stone Prevention Cureus",
+          "title": "Franklin College Awarded $5 Million Grant From Lilly Endowment Inc.",
+          "title_zh": "富兰克林学院获得礼来捐赠基金 500 万美元资助",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWS0waXhvZGl0N1RRb3dKbXh4WUw3eE9uMHU2ZFVqODYzTGhkQWdEb2JVd1hCODdER1hKNWpJTE84aVBEWjg0YmgtRFVLXzJUYm90QmJPRTY3ekJTMHc0d1hYclc1RWZObVYwQk5aNko3Qm1naENWUXhUMzBPQW9FeWFZcEFHSDRia1lrOEtWYU9nVjkzaUhMWjkwWnMzdWwwX2J4TkNIaDE?oc=5",
+          "source": "Franklin College",
+          "published": "2026-11-25T02:01:51+08:00",
+          "summary": "Franklin College Awarded $5 Million Grant From Lilly Endowment Inc. Franklin College",
           "summary_zh": ""
         },
         {
-          "title": "Silicon Speech: Should the First Amendment Protect Artificial Intelligence? – A Respectfully Dissent Series Debate",
-          "title_zh": "Silicon Speech：第一修正案应该保护人工智能吗？ – 尊敬的异议系列辩论",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV1NxYlFkRTlldU1BTXF3bHFzcEpUOFRqUkRwRHEzLWU0ekZROF91UGVOTFdTTzhlWnpGbFBWd0p6SlhwZlVfRDFyZDZRRGFBSVZRaUxUdUdGSU9LTkdDdzcwNEk2dHJFVlpUcnNIbm9PSjBJRGFUNWNlNUR2WFhCcDRpNUZsUDdVOGhhNFFJVXVRTEhSLTZUMlFMV2tDRWladDV2Tk5wZUFVMUNObWdLUWRscTduanpwNy1Tb0JsT2dpQmtYYjdEZC11UjhYVTlhT1VIQQ?oc=5",
-          "source": "Vanderbilt Law School",
-          "published": "2026-11-23T23:30:20+08:00",
-          "summary": "Silicon Speech: Should the First Amendment Protect Artificial Intelligence? – A Respectfully Dissent Series Debate Vanderbilt Law School",
+          "title": "Tidal to remove millions of AI-generated songs from its platform in sweeping crackdown",
+          "title_zh": "Tidal 将从其平台上删除数百万首人工智能生成的歌曲以进行全面打击",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZElwQzRhY0JjNzZFRWVGV2JTWXBXZEJ3a1VyeFh6RUtnZGJxVDJ3Uk9WeVRldDNvcFBGcjlXT003bDVrZ1JXYUJuUFlGb1VKcmRRam9EQkNpLWh1Z2ZqdDFzcUlTME5zT1BFQmpNVjJCa3J0OGhlRVV5UmZMcnlhdzYxOVNJeDlzZjRsQjVtM29hWGY0azB6RlI3dmxaeExRcmJKOWxacmZrdmlyYWg0aGo1QnlnY3IzV2c?oc=5",
+          "source": "TheGrio",
+          "published": "2026-11-25T04:29:15+08:00",
+          "summary": "Tidal to remove millions of AI-generated songs from its platform in sweeping crackdown TheGrio",
           "summary_zh": ""
         },
         {
-          "title": "New AI rule marks a first for US federal appeals courts",
-          "title_zh": "新的人工智能规则标志着美国联邦上诉法院的首例",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFpmUkVHc2JjTWYtenpNaDMtVUhVNHBRS1ExTFhJRnFMNU9vWHYwSFlvZmoxcmZXUXhieGl0UGRqdzdJXy1pUGY1Ul90QW93OTBET21hWkRDd1pOWUlhTWQtcGdwZE9fOTAtTmVjYU11VWZTOGpMQXhiUlg4bzh6bEtVOHhBWEFFZGJxLVdveUd3MEdMOU1RU2JjTktnSU1UYTNTVzlCTkJBdUVGUF8tblk0RQ?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-24T07:57:13+08:00",
-          "summary": "New AI rule marks a first for US federal appeals courts Reuters",
-          "summary_zh": ""
-        },
-        {
-          "title": "Opinion | Artificial Intelligence Can’t Replace a Doctor",
-          "title_zh": "意见 |人工智能无法取代医生",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSXhEdjctc3VpbHJWanoyZ1BfVzZQM3ZZLUdoVkVSMldUVVFKems1QXEtU3ZGaWVnNEZ2YVFVY2pzNFpUVVl2T0VjeTZmWEtlY2Vwd3pSeVNEbTJDZXpWdXp2NEVqWE1GTS0xSmhpMjVLcklrUDREU2l3Q0tjd0RpZUhPTVNvdzBYV1E?oc=5",
-          "source": "WSJ",
-          "published": "2026-11-24T01:34:22+08:00",
-          "summary": "Opinion | Artificial Intelligence Can’t Replace a Doctor WSJ",
-          "summary_zh": ""
-        },
-        {
-          "title": "From AlphaGo to AGI | Thore Graepel",
-          "title_zh": "从AlphaGo到AGI |托雷·格雷佩尔",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RalhFeEU2TkRQdWZmX2NXNWlUazBUeTJBclpBSWxCTTVNYWRRN005d1JKd1FEUDlFYmVWdnZpeE1YSVlicDFtMEtrdkZQcTE2aU9qOUhxUVdiUnNsTFp2Z2plWUFBYnExcFhpNw?oc=5",
-          "source": "The London School of Economics and Political Science",
-          "published": "2026-11-24T11:10:38+08:00",
-          "summary": "From AlphaGo to AGI | Thore Graepel The London School of Economics and Political Science",
+          "title": "AI Innovation Institute Partners with OpenAI to Delve into the Science of Human-AI Creativity",
+          "title_zh": "人工智能创新研究院与 OpenAI 合作，深入研究人类人工智能创造力科学",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDE5aDJZYXRnMkRMWUlKemJSTVFFa2xHQVl2Z0lYcVVsVElzQnkwNUFKU3FMTnNhcG5IUE03U2NBOUk4VWphZThieUtZXy1xUVZRY09KblVRd3AxUncteGlvbmxoQVJNZHVlYzFFRUphbkJiSkRENFlTQWpFSFEzanFuTHRaZUtkVzJfNE1tVmtJanVhNEpMdU5JUmxsVGlNOU1Sc1NNUjhLX1FzYUwwdG5LdGhWbzJGNzJwRV90Y0VySTRhUWZucmlWd3J0UQ?oc=5",
+          "source": "SBU News",
+          "published": "2026-11-25T00:12:44+08:00",
+          "summary": "AI Innovation Institute Partners with OpenAI to Delve into the Science of Human-AI Creativity SBU News",
           "summary_zh": ""
         }
       ]
     }
-  }
+  },
+  "evening": null
 }
