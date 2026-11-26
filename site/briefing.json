@@ -1,16 +1,25 @@
 {
   "date": "2026-11-27",
   "morning": {
-    "generated_at": "2026-11-27T04:05:08.153801+08:00",
+    "generated_at": "2026-11-27T04:30:01.016830+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31",
-          "title_zh": "埃及拘留一名涉嫌造成开罗油轮事故、造成31人死亡的司机",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2w0bC1tN2k4SU92bG9kc3U2U053dGZvZEh5WEs4U2IzRnVkRk9RdDlYSGZkekNQNy1WYmtKaHhWblI0U1F6SmxmVHJuWmhkRFJQV0xTaXRQRGFxUnd2b0tNMlNNZkszZy00cDNzazdNR1k4WElZTk5lSWNmR1dnQ1l1N2tCa1dtYmNoZmdZS21nd3NDVENDQ01XcDRCQXpocEpIeVhiMA?oc=5",
+          "title": "China and other US trading partners hit back at Trump’s new tariff plans",
+          "title_zh": "中国和其他美国贸易伙伴回击特朗普的新关税计划",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWQ3MnMzTlQ5Y2lUTW9RTzloTmp3MmtycjBUbmZUOTExYWNsVmlXX1JmLVJGYUYyRjNHSGV1b2hzLWhWclNBRDRZb2hyQ2UxSE9tYktjUTBKR2VDU2w1YlZlU0xaZ0JSMlQ1ZzhwMEJpSVk5N05XbHhnNi1ESktvTVNGNlZpMkNjX0dUNHdvLWJ2YTVqeDFv?oc=5",
           "source": "AP News",
-          "published": "2026-11-27T02:29:00+08:00",
-          "summary": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31 AP News At least 31 killed in fuel tanker fire near Cairo, Egyptian authorities say CNN Egypt detains driver suspected of causing Cairo fuel tanker crash and inferno that left 31 dead Fox News...",
+          "published": "2026-11-26T22:13:00+08:00",
+          "summary": "China and other US trading partners hit back at Trump’s new tariff plans AP News Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer Yahoo Finance Trump doubles down on his tariff agenda Financial Times Trump's new tariffs aim to prise...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Egypt tanker explosion kills 31 people as driver crashes into fuel truck in fiery highway crash",
+          "title_zh": "埃及油罐车发生爆炸，司机撞上加油车，造成31人死亡",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTJtLVRTTmczWXpYalJuY0hOeVNBWTFsU2xGVVc3TnhDVUFldHhCRU1lNEl6dFp2V0ROTTluYjQ4aFBUU0Y4SWF3NnNqWTkzQlg0NEFxMzI2RW9ibF9DTGVvZGVzVjFSX0lmem1ZR0V3Qm5kaGFFZHJxem9JbXJ0QQ?oc=5",
+          "source": "CBS News",
+          "published": "2026-11-26T19:27:25+08:00",
+          "summary": "Egypt tanker explosion kills 31 people as driver crashes into fuel truck in fiery highway crash CBS News Egypt detains driver suspected of causing Cairo fuel tanker crash and inferno that left 31 dead Fox News At least 31 killed in fuel tanker fire near Cairo, Egyptian...",
           "summary_zh": ""
         },
         {
@@ -23,12 +32,39 @@
           "summary_zh": ""
         },
         {
-          "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-          "title_zh": "两名意大利人在科威特袭击中丧生，伊朗否认对此负责",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82VmIyOXM0dFF5ZVFScjVxU0IzbUV3cU53d1JybkZ3eEJxaUFCTXR4Y0dmS3FjREhrcVZ4QW5GN3AtMHJNdWFDT1JaeWppVkZrXzkteDgzZ0MzTFk?oc=5",
-          "source": "BBC",
-          "published": "2026-11-27T03:27:45+08:00",
-          "summary": "Two Italians killed in strike in Kuwait, as Iran denies responsibility BBC Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement CNN Iran war live: Tehran denies carrying out drone attack that killed 2 Al Jazeera Two Italian workers killed...",
+          "title": "Passenger flights diverted as Kuwait intercepts Iranian drone attack",
+          "title_zh": "科威特拦截伊朗无人机袭击 客机改道",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTVRaEJwRjVGNTBMemFRQ0NEYlAyZktOd2lhbV9iV2tNbjFmVVBKR2ViSW51RzBKS003TXFXNl82TVBZYm5zUnJ0UzhOdjVHMXY5cVNjS0FXblVwcGdiMWxHU0taNjFNUi1LcFZKbzRKdVkyOGhSU2dWelpCTWNSZk0zcmI1bWZWWHYtNmlOd3hSbEgtLWJZVjd2b3ViVjlVVWlIR0tRbzdrd093?oc=5",
+          "source": "Euronews.com",
+          "published": "2026-11-27T02:50:53+08:00",
+          "summary": "Passenger flights diverted as Kuwait intercepts Iranian drone attack Euronews.com Iran war live: Tehran denies carrying out drone attack that killed 2 Al Jazeera Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement CNN Two Italians killed...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
+          "title_zh": "特朗普表示，他要求普京“撤回”整个欧洲的军事侵略",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-27T00:31:40+08:00",
+          "summary": "Trump says he asked Putin to 'pull back' military aggression throughout Europe Reuters Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened The Guardian Ukraine war latest: Trump calls on Putin to pull back all military aggression in...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+          "title_zh": "刚果埃博拉疫情已达 12,000 例，部分急救人员撤离",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uQzZ2Z05RVGJOSUNFUUc5MkFqWG01c2FkQjA0TllLdGY2cGc2MFplakYwWFVlcGFiWVlIdy1FWnAzVkJIejNtMk9FU0Z2QWhfUXFVSW9Qd2UwV1JiaGlKRjVVYi1qZ0NYOE1yT1BTRlNRdGc?oc=5",
+          "source": "NPR",
+          "published": "2026-11-26T21:47:09+08:00",
+          "summary": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate NPR Fighting in eastern Congo forces Ebola workers to evacuate, threatening outbreak response AP News Fields of graves: Hidden deaths reveal scale of Ebola disaster Reuters Ebola’s Death Toll Tops 5,700....",
+          "summary_zh": ""
+        },
+        {
+          "title": "Germany: 2 suspected Islamists arrested in Heidelberg and Cologne, suspected of plotting synagogue attack",
+          "title_zh": "德国：两名涉嫌策划犹太教堂袭击的伊斯兰分子在海德堡和科隆被捕",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTJjem9wYVZqdmdGdDlyX2c2YS1PX3N0SVRPNVlQb2xNTkxGNHg4dXhlVkF3Q3dMRTdmdE1GTWpLNEVILXA2b1ZEd2o1N1NHSzVPV3RVM19UY2dnSmx3TWtVb2hETDZ4eDNsdTBJNnkwOTI5c0d1VzV6STM4TFIzRUZWUHRPRmVMeTRvVDlhRmtmaDVU0gGUAUFVX3lxTE5WQ2ZSLVF6VTZ5WFNtYXRnUjFRcUNzMU90TWZrYzBnSlNVR2w0XzE1Vy1GbkRMZXRsTXVJbHpDNl90SWgtT0c1VVY5OWkxdTRnMnY3N0FhSlduRG1xXzVQcUw4Y1RKR3ZzVHFqRzJTaVRQS2R1Q2dtRWw2bGczamU5Q2RaVzdwOWExaGtUSFVrMTVIdWM?oc=5",
+          "source": "DW.com",
+          "published": "2026-11-27T01:05:49+08:00",
+          "summary": "Germany: 2 suspected Islamists arrested in Heidelberg and Cologne, suspected of plotting synagogue attack DW.com Germany arrests 2 Iraqi nationals allegedly tied to Iran-linked terrorist group CBS News Germany arrests Iraqi duo over alleged synagogue attack plots The Times of...",
           "summary_zh": ""
         },
         {
@@ -41,48 +77,12 @@
           "summary_zh": ""
         },
         {
-          "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
-          "title_zh": "特朗普表示，他要求普京“撤回”整个欧洲的军事侵略",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-27T00:31:40+08:00",
-          "summary": "Trump says he asked Putin to 'pull back' military aggression throughout Europe Reuters Trump Says He Told Putin to Back Off Europe, Calls Ukraine ‘Bloodbath’ Newsweek Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened The Guardian...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-          "title_zh": "刚果埃博拉疫情已达 12,000 例，部分急救人员撤离",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uQzZ2Z05RVGJOSUNFUUc5MkFqWG01c2FkQjA0TllLdGY2cGc2MFplakYwWFVlcGFiWVlIdy1FWnAzVkJIejNtMk9FU0Z2QWhfUXFVSW9Qd2UwV1JiaGlKRjVVYi1qZ0NYOE1yT1BTRlNRdGc?oc=5",
-          "source": "NPR",
-          "published": "2026-11-26T21:47:09+08:00",
-          "summary": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate NPR Fighting in eastern Congo forces Ebola workers to evacuate, threatening outbreak response AP News Fields of graves: Hidden deaths reveal scale of Ebola disaster Reuters Congo's Ebola cases exceed 12,000...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Germany: 2 suspected Islamists arrested in Heidelberg and Cologne, suspected of plotting synagogue attack",
-          "title_zh": "德国：两名涉嫌策划犹太教堂袭击的伊斯兰分子在海德堡和科隆被捕",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTJjem9wYVZqdmdGdDlyX2c2YS1PX3N0SVRPNVlQb2xNTkxGNHg4dXhlVkF3Q3dMRTdmdE1GTWpLNEVILXA2b1ZEd2o1N1NHSzVPV3RVM19UY2dnSmx3TWtVb2hETDZ4eDNsdTBJNnkwOTI5c0d1VzV6STM4TFIzRUZWUHRPRmVMeTRvVDlhRmtmaDVU0gGUAUFVX3lxTE5WQ2ZSLVF6VTZ5WFNtYXRnUjFRcUNzMU90TWZrYzBnSlNVR2w0XzE1Vy1GbkRMZXRsTXVJbHpDNl90SWgtT0c1VVY5OWkxdTRnMnY3N0FhSlduRG1xXzVQcUw4Y1RKR3ZzVHFqRzJTaVRQS2R1Q2dtRWw2bGczamU5Q2RaVzdwOWExaGtUSFVrMTVIdWM?oc=5",
-          "source": "DW.com",
-          "published": "2026-11-27T01:05:49+08:00",
-          "summary": "Germany: 2 suspected Islamists arrested in Heidelberg and Cologne, suspected of plotting synagogue attack DW.com Germany arrests 2 Iraqi nationals allegedly tied to Iran-linked terrorist group CBS News German police arrest two Iraqis over alleged Cologne synagogue bomb plot...",
-          "summary_zh": ""
-        },
-        {
           "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
           "title_zh": "英国净移民人数降至 1997 年以来的最低水平（不包括流行病）",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdFJ3YnVfVDdIay1IYTExN0MyU3cwM0dzSlN4ZENuLU9TVGVndF9YQ1BDVXhyczh6SVZZLXJERE1HRmpja0RKN1lOMWpXeEltWXRzeFBNa3FzLWZ6ZXJQR29uanc3VWpVOE84ZTZNdmVLYjJ3SkxLRUR3ZElOTjA?oc=5",
           "source": "The New York Times",
-          "published": "2026-11-26T21:51:57+08:00",
-          "summary": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic The New York Times How much of the sharp fall in UK immigration is due to Labour’s policies? The Guardian Shabana Mahmood is a winner Yahoo UK net migration figures drop to lowest level since 1997 BBC...",
-          "summary_zh": ""
-        },
-        {
-          "title": "China and other US trading partners hit back at Trump’s new tariff plans",
-          "title_zh": "中国和其他美国贸易伙伴回击特朗普的新关税计划",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWQ3MnMzTlQ5Y2lUTW9RTzloTmp3MmtycjBUbmZUOTExYWNsVmlXX1JmLVJGYUYyRjNHSGV1b2hzLWhWclNBRDRZb2hyQ2UxSE9tYktjUTBKR2VDU2w1YlZlU0xaZ0JSMlQ1ZzhwMEJpSVk5N05XbHhnNi1ESktvTVNGNlZpMkNjX0dUNHdvLWJ2YTVqeDFv?oc=5",
-          "source": "AP News",
-          "published": "2026-11-26T22:13:00+08:00",
-          "summary": "China and other US trading partners hit back at Trump’s new tariff plans AP News Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer Yahoo Finance Trump doubles down on his tariff agenda Financial Times Trump's new tariffs aim to prise...",
+          "published": "2026-11-27T02:52:50+08:00",
+          "summary": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic The New York Times How much of the sharp fall in UK immigration is due to Labour’s policies? The Guardian UK net migration at lowest level since 1997 as asylum claims also fall BBC Labour cannot claim...",
           "summary_zh": ""
         },
         {
@@ -97,12 +97,39 @@
       ],
       "china": [
         {
+          "title": "创意微视频｜鹏程万里",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByVi1yM2dwUjY3bHJWQlE3dmkxazNzUXpkS3FRX3I0T19Wd3o1WGpHNkV4SkhpUWF0SEpkNkc3MWsyOE9WdFRaNVNRWmo5MXNWeHhsVzJ1NjRCVW9VVjZmaE1VNnJYTEpQ?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-11-26T20:51:05+08:00",
+          "summary": "创意微视频｜鹏程万里 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
           "title": "呼和浩特盛乐国际机场正式投运",
           "title_zh": "",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQkpBQXJQam1zTUl0bThOczNsNUdyMGV6eWVHelRwai1vUzJlN2lrd2tqdmwwaVV6QlhGZUJLa1NDSHIxVGc5SXpGbFNTZnRMeTBJX2ZUbEdhV1JYTThxX2dzUkhJX3JwSEdXYQ?oc=5",
           "source": "中国民航网",
           "published": "2026-11-26T22:05:00+08:00",
           "summary": "呼和浩特盛乐国际机场正式投运 中国民航网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "神舟二十四号丨天宫日记：有朋自远方来",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TdDJscWpNNExESmZOb0ZCekFaaXpVRlAwQWRyeDR4UVoySHFZeXBPdkFLbHBha1BuV1VYZi1PcWxsWFY2TGZyeFRhd0wxX0YzWERZMmd1XzBiVWVXdVZCV29YcVhGVXdLeXdSUk1zMU5xeGRhOTE3WjZLZFBJQQ?oc=5",
+          "source": "新华网",
+          "published": "2026-11-26T21:13:27+08:00",
+          "summary": "神舟二十四号丨天宫日记：有朋自远方来 新华网 中巴航天员携手进入中国“天宫”在巴基斯坦引发热烈反响--国际 人民网 这些合影，意义非凡 新华网 这次“太空之约”有哪些新看点？ 新浪财经 日月谭天丨岛内舆论“扎心”追问：大陆在摘星揽月，台湾应向何方？ 凤凰网",
+          "summary_zh": ""
+        },
+        {
+          "title": "新华社国家高端智库发布《江河穿越千年涵养时代文明——从都江堰看江河治理的中国智慧》智库报告",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYmlfLS05OHNzS3BOdXVVQlV2ZVA2M0oySzM5SGNUVGdyaElOUnhjb2lEOXJmT1pkLXBFV1hxYjJHc1J1WXhNUldtV2RTVjBlY19pMnpLampmSHVyLXRhZlZuQ1JFYk1TQmhyWWVna0p5UURvTUl6Wk5aS21KUnlKcGVLbURhUQ?oc=5",
+          "source": "新华网",
+          "published": "2026-11-26T23:19:06+08:00",
+          "summary": "新华社国家高端智库发布《江河穿越千年涵养时代文明——从都江堰看江河治理的中国智慧》智库报告 新华网 “都江堰·江河战略论坛”在成都举行 新华网 中外嘉宾齐聚蓉城 求解“治水之道”如何通向“治国之道” Sohu 江河安澜 水润天府——四川治水兴水高质量发展观察 浙江在线 要点海报丨从都江堰看江河治理的中国智慧 中国网新闻中心",
           "summary_zh": ""
         },
         {
@@ -115,30 +142,12 @@
           "summary_zh": ""
         },
         {
-          "title": "学习时节｜深化航天国际合作，共享太空探索成果-国内频道",
+          "title": "李强会见亚洲开发银行行长神田真人",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjUS1MRmQxcnhjVFVCYTc1X2E0eTRzczNwVGNsNE03WElLTEhoM042MnN0eUNVTHFPcW5SWkV0Q2RiTzJVTm5PU1lPZGRDaFpmamNvMHRFZmlLYlJFQ3FTX0tWTmd2SFdNWlpncGpSYw?oc=5",
-          "source": "内蒙古新闻网",
-          "published": "2026-11-26T20:09:00+08:00",
-          "summary": "学习时节｜深化航天国际合作，共享太空探索成果-国内频道 内蒙古新闻网 中国航天探索国际合作崭新模式--国际 人民网 这些合影，意义非凡 新华网 哈产百余传感器助力神舟二十四号飞天_手机新浪网 新浪财经_金融信息服务商 巴基斯坦城市代表：在中国，看航天员进“天宫” 中国日报网",
-          "summary_zh": ""
-        },
-        {
-          "title": "新华社国家高端智库发布《江河穿越千年涵养时代文明——从都江堰看江河治理的中国智慧》智库报告",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYmlfLS05OHNzS3BOdXVVQlV2ZVA2M0oySzM5SGNUVGdyaElOUnhjb2lEOXJmT1pkLXBFV1hxYjJHc1J1WXhNUldtV2RTVjBlY19pMnpLampmSHVyLXRhZlZuQ1JFYk1TQmhyWWVna0p5UURvTUl6Wk5aS21KUnlKcGVLbURhUQ?oc=5",
-          "source": "新华网",
-          "published": "2026-11-26T23:19:06+08:00",
-          "summary": "新华社国家高端智库发布《江河穿越千年涵养时代文明——从都江堰看江河治理的中国智慧》智库报告 新华网 新华语典·“典”读四川｜成都都江堰：堰护千年 水兴百业 新华网 江河安澜 水润天府——四川治水兴水高质量发展观察 浙江在线 要点海报丨从都江堰看江河治理的中国智慧 中国网新闻中心 “都江堰·江河战略论坛”在成都举行 Sohu",
-          "summary_zh": ""
-        },
-        {
-          "title": "要闻解说 - 欧盟峰会聚焦长期预算：如何协调450亿对乌克兰贷款等的分歧？",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOOVcyaXR5aGpEcmxfSGJPc3RGNnE2cl9aUTEyY2k4QjBkbXVJaS1JblRteGh0MXJ1OW1hQ1FmOFh6TEZDaU5CMm1TTlZyR3lZTVhlR05sM3dYZG5jaE9YM2s2QjhVcUdlUFhNRWNNOG1qMWpISGxNZmRpaHI0YjJYWmZ2djcxRmktem9aUTN6S3BpTk4yRzFIRTc5T1NVcklLRFlYUFVjMXB0V3hZWGN3ZmpZRXJDc0prcUpodXVLMXp5MXpnOFEwUUlualg4SmdOVkNBNXpvSVptT2V0ODZOeDFfNjN4ZXJKd2E3TkQwY2tkajlvLXYtM0dmc240NUhmR252LUZ3YmpIaVRreDFvMVB4LWtIejVhVEFyRXczdTQ5bkNkOTRWWTA1clV2Uzl3bnk4OGNaRUpTeXoyNm9sT19mNjlvaUNROG5Rb0FXYVhUb3BsZ0NPeE1LYTZmVFdyUlNtNHJRbVljNmJKd0xocVhpMVlXWlROb3RTRUF5cGpQdmxPb2h0SHZnOVdpcTBtdFdTejlnVlA1cjl1bUNYeUI5S1VsRVBSQ0tMNm9CYXlCS0xNZk1qWmFTb0V6eXhDZXFFTmdfN3ljRkFRNEZTQV9COHhlR0JVX0E?oc=5",
-          "source": "RFI",
-          "published": "2026-11-26T18:34:43+08:00",
-          "summary": "要闻解说 - 欧盟峰会聚焦长期预算：如何协调450亿对乌克兰贷款等的分歧？ RFI 欧盟450亿欧元援乌贷款遭遇阻力，七年预算谈判分歧加剧 新浪财经_金融信息服务商 捷克、匈牙利、保加利亚等明确反对，“默茨的做法是教科书式的敲诈勒索” 凤凰网 法国外长：乌克兰投降的代价，将远高于欧洲为支持它所付出的代价 Sohu 俄舰，欧债，沉没的成本 广西新闻网",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EcVJLZGZZcTJkWEdmZFlCQldFcDlCSnVwVHNlcHg5OFFnWWtOSXRBdWRpN3hxZlllWTE5VjVzbEFIdmVKUDVXNnV3T2RrR0I2QkdLbmx0YW9rOTlvOW5XQWJCUk11VnVIdkdPXzV3T2E?oc=5",
+          "source": "中国新闻网",
+          "published": "2026-11-26T22:10:08+08:00",
+          "summary": "李强会见亚洲开发银行行长神田真人 中国新闻网 伊朗军队防空部队在波斯湾上空击落两架无人机 手机网易网 AI服务器制造商慧与科技美股盘前跌超10% 手机网易网 14万亿大震荡 黄仁勋复出背后的财富大洗牌 中国新闻网 中柬“金龙—2026”联合演习开始 中国新闻网",
           "summary_zh": ""
         },
         {
@@ -147,63 +156,54 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vU2RkMm1uQXM3MjhDYzNvbmp1a1ozWU1tSE4zVGRYOWdtZUdXU0lydUdDaWZpdXg4RzVoZHN6YnV5NVlOWTVsbXo3Uk1BWHBYTV9PVmNBQ0ZSbzQ1bWxta1VHTlRSLWl0b2x5d2hEb0JwaTNkZGUzQnU0c0ZLY1U?oc=5",
           "source": "人民日报",
           "published": "2026-11-27T00:15:04+08:00",
-          "summary": "福建 在中国式现代化建设中奋勇争先 人民日报 中国共产党福建省第十二次代表大会隆重开幕 新浪财经_金融信息服务商 赵龙郭宁宁看望出席省第十二次党代会代表 央视网 省第十二次党代会主席团通过多项名单和报告 凤凰网 东南时评 | 从五年实干答卷看福建奋勇争先的力量 Sohu",
+          "summary": "福建 在中国式现代化建设中奋勇争先 人民日报 福建省第十二次党代会报告，一图读懂版来了！ 手机新浪网 中国共产党福建省第十二次代表大会隆重开幕 新华网 省第十二次党代会主席团通过多项名单和报告 凤凰网 奋勇争先立潮头——写在福建省第十二次党代会召开之际 央视网",
           "summary_zh": ""
         },
         {
-          "title": "韩国学者：深圳APEC会议是凝聚共识的舞台_时政新闻",
+          "title": "中国共产党内蒙古自治区第十二次代表大会举行预备会议 王伟中主持会议并讲话",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIRzFTbHVtbVpIZ2FJRUdGajhyRW9TQ1QwbDdiSkQwQUNvLUpmczVaWk92UnVMWjVoZERfUXVGRHQ5YzkzX1o5Qjh4VlYxemdteHBMREtZVkFrek1xY2VwTnZ1VllDX1liakplamt4Z2l0R3ZMbExoaXZyQQ?oc=5",
-          "source": "大众网",
-          "published": "2026-11-26T21:12:00+08:00",
-          "summary": "韩国学者：深圳APEC会议是凝聚共识的舞台_时政新闻 大众网 【和合共生】习言道｜习近平在深圳的这四个比喻意涵深远 新浪新闻_手机新浪网 创意微视频｜鹏程万里- 中国日报网 China Daily 韩国学者：深圳APEC会议是凝聚共识的舞台 凤凰网 开放的中国，为世界能源提供稳定之锚 人民日报",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NNXhNVjI0VlZwQUcyVzdCTklwZXlXZ1gwRkZFTGw1bjZZVGxqdlk4VFlwVXRkeXdCQ2hyLUJtNnUtSG1KRHZSOUlYX1UzcndiRTZ4TVVLTTdyTTAwMmVYZU1n?oc=5",
+          "source": "手机网易网",
+          "published": "2026-11-26T22:18:19+08:00",
+          "summary": "中国共产党内蒙古自治区第十二次代表大会举行预备会议 王伟中主持会议并讲话 手机网易网 这五年 · 内蒙古答卷丨石榴花开 籽籽同心 Sohu 内蒙古自治区党委关于深入学习贯彻习近平总书记在乌兰察布考察时重要讲话重要指示精神的决定 网易新闻客户端 中国共产党包头市第十四届委员会第二次全体会议公报 包头新闻网 出席自治区第十二次党代会代表抵达呼和浩特 正北方网",
           "summary_zh": ""
         },
         {
-          "title": "中蒙俄国际旅客列车顺利抵达乌兰巴托",
+          "title": "多边跨境铁路客运再扩容 中蒙俄国际旅客列车开行",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MaDFBcWNXUGs3RFRTdGVjVUpiYnNEOHFxRnhYRk1CbkZjdWNEMzRxSlk3LU5EdjdHb25KanFWT3VpYmNKZi1LbEhqejFEQTV3VUFlRkxsWU04RllKRU5aQWtHQlJpN3NFNVdkc3Y0Ymw0d0NwSkFnVHU3SHdPTFk?oc=5",
-          "source": "新华网",
-          "published": "2026-11-26T22:45:31+08:00",
-          "summary": "中蒙俄国际旅客列车顺利抵达乌兰巴托 新华网 “新名”“新车”新期待，一路驰骋向未来 新浪财经_金融信息服务商 二连浩特口岸：保障中蒙俄国际旅客列车顺利通关 中国日报网 中国去俄罗斯的王牌火车，终于开通了 凤凰网 从长城脚下到贝加尔湖畔 中蒙俄国际旅客列车首发 新华网",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ocmd1N1A1Q09ieWhqdU9WRmxmSDdDdW9MQUY5NUhiRndyRWxtMF9hOFBvTVViOUsweXZyLUZiRU80SWwtM1dONmhGXzlxVmxqMUh3ZXVZWnZ3N3BONEY5NzRR?oc=5",
+          "source": "中国经营网",
+          "published": "2026-11-26T14:55:00+08:00",
+          "summary": "多边跨境铁路客运再扩容 中蒙俄国际旅客列车开行 中国经营网 “新名”“新车”新期待，一路驰骋向未来 新浪财经_金融信息服务商 二连浩特口岸：保障中蒙俄国际旅客列车顺利通关 中国日报网 中国去俄罗斯的王牌火车，终于开通了 凤凰网 从长城脚下到贝加尔湖畔 中蒙俄国际旅客列车首发 新华网",
           "summary_zh": ""
         },
         {
-          "title": "国家统计局举办学习贯彻党的二十届五中全会精神宣讲报告会",
+          "title": "冷空气持续发威 广东最低气温跌破10℃",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vTmtCUDRNYU1OQnpVYjlxbi1oT2R5TWdwdVBSM19QN0IxYl9kUms1anNYQVk4VnF5Mm56aFFicHFyV1VKV1BkSWxpT0lUSTZ1R0xadnJyWXpncDA2cHNFblotM28zdHY5a0w4Y2pGVW1tX2VXLWc?oc=5",
-          "source": "国家统计局",
-          "published": "2026-11-26T19:09:00+08:00",
-          "summary": "国家统计局举办学习贯彻党的二十届五中全会精神宣讲报告会 国家统计局 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "英国伦敦地铁司机开启冬季罢工",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rS214cTlpN2FtdkpVLVpNYmItNWdBNXRHRDlybXFSdnNwSHVJRF9PYkFEeE53WWc5UkpCYlUwSzZqZzEyRjFmUFl5X0xNSE9fV1NidGxSdWlIUEVmMkRhVE14dFVFdHo3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kdXUyUkhYQ1NnVnI4NldpWmFlMkFxckpRZDlLaFRoOWFYMWRlZTVUbTNPcjQwY3Q2TUZOVzkxSTB0Z0U4LXVMWmRSTUk2MXpQZEFzeDBfZ3NRb0JBUzYyMXhOZ3l0X0dM?oc=5",
           "source": "中国新闻网",
-          "published": "2026-11-26T23:34:08+08:00",
-          "summary": "英国伦敦地铁司机开启冬季罢工 中国新闻网 罢工导致“欧洲之星”多趟列车取消 Sohu [流言板]切尔西官方：伦敦地铁罢工或影响球迷前往利兹联客场 虎扑体育网 欧洲之星罢工致交通受阻，乘客可获赔偿！ 欧洲头条 欧洲之星员工突然罢工 法国英国双向列车取消 | 梅西感恩节 | 列车服务 | 巴黎 | 新唐人电视台 新唐人电视台",
+          "published": "2026-11-26T21:56:42+08:00",
+          "summary": "冷空气持续发威 广东最低气温跌破10℃ 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         }
       ],
       "ai": [
         {
-          "title": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI",
-          "title_zh": "人工智能与人权：人工智能时代保护人类尊严",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkNaQVc5dl80NUF0OE9TU0lIZ3ZGU19ZdGN6UHNTMW9mXy1PVVVKMzV5anZ3bTg3TDcyNE9qajRTOWxUaVl1TDZGazI2VGhFM2dZSkNJWHdhN3JKaE5DS1BVME02MDJlbmIwT0VqT1ZDVk5RaTg4M3U2TEFkTWlmeTVXTjQtVFpycWtXeUpxVUtXcG9nSHVFVTM4S1JsZUJUQmFTbDJaSFBQWGM?oc=5",
-          "source": "UNESCO",
-          "published": "2026-11-27T02:09:15+08:00",
-          "summary": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI UNESCO",
-          "summary_zh": ""
-        },
-        {
           "title": "Pentagon Hand Caroline Zier Now Leads OpenAI's Limits on Military Artificial Intelligence",
           "title_zh": "五角大楼官员 Caroline Zier 现在领导 OpenAI 对军事人工智能的限制",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHNyTTBaZE5ydGtvODFGS0Jra2F2Rl9lSUlnZVAzTWJfZndkWklTTFJ3UlQ5ckk4dnhyUzBUd3d4Q3JoWDI5M2M5dEs3VzdwLWk4cnBmVjBGby1WVnVoYmpsTnozaXJyWEVjRGEtcFRMSUVKRG1vUWpmNVh0RWNMR2M5RHZJNzd6VnU3TVV6V3oxMV9FZDVZOTNkbUNzSmtENWlPdXJERXpndEM3M1JaUlozNlF4b05faC0xSg?oc=5",
           "source": "Broadband Breakfast",
-          "published": "2026-11-27T03:50:58+08:00",
+          "published": "2026-11-27T03:49:45+08:00",
           "summary": "Pentagon Hand Caroline Zier Now Leads OpenAI's Limits on Military Artificial Intelligence Broadband Breakfast",
+          "summary_zh": ""
+        },
+        {
+          "title": "Do artificial intelligence pilot zones improve air quality? Evidence from Chinese urban panel data",
+          "title_zh": "人工智能试验区能否改善空气质量？来自中国城市面板数据的证据",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcUZnRmZqUXdscFI2V21KbWpiaEZxd3o2WHFCei03XzdZVlBpY3ZXTTYtWV8zY01xX2trRXB0UHJ0NnlCU0NSY0tTMnNWT2VTVjRPZmdtTGY1RW9ONjVr?oc=5",
+          "source": "Nature",
+          "published": "2026-11-27T01:42:20+08:00",
+          "summary": "Do artificial intelligence pilot zones improve air quality? Evidence from Chinese urban panel data Nature",
           "summary_zh": ""
         },
         {
@@ -216,30 +216,21 @@
           "summary_zh": ""
         },
         {
-          "title": "Amicus Brief in In re OpenAI Copyright Infringement Litigation",
-          "title_zh": "OpenAI 版权侵权诉讼之非当事人意见陈述",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNam1INzlZQzRkd0NpWWJaZ1NkOVJFMnhKdjdfcjUtSnBiWnlfSENOR3lwUnpYcU16UnJQLTBBVFVMUnctbUs4Z3pRUHN5TkNsb1VJLW5Vc25HbUVidkVuVlY0VWNsV0lHYVdPWXAyMkV3VWpoSXBMQl9WTk1vWEU1RHhPaS0wcldoMndnWEpkQTQ5dGIyOWc?oc=5",
-          "source": "The Foundation for American Innovation",
-          "published": "2026-11-27T00:22:54+08:00",
-          "summary": "Amicus Brief in In re OpenAI Copyright Infringement Litigation The Foundation for American Innovation",
+          "title": "Widespread Use, Minimal Training: Generative Artificial Intelligence Among Undergraduate and Postgraduate Medical Students",
+          "title_zh": "广泛使用，最少培训：本科生和研究生医学生中的生成人工智能",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa181eVU3OHBLZXUyOXhwOGlWQlJYUlFWTjctemIwS2NVeEJ4dFE1d2lYSnhPbWVDeUp1MWJ0MjB5TjdtQTVCQ0RCcnhBUFkzaTlsV204U0NvYUNtVEtGSzJXdXJUOXlvcm9qVElBUVA2YWNrODl4VTNmX0hMSFRmaXB1VTVFeGVtLS13THJLclV2ZnVUa1JRWWpPbHpxVGc2akN2US1BTU5QbzZ4ZDU0elFVMWpsWUtuX00ybXhXVUJuTWxUY2hhM2NEWkpLeTY2WUoxbWVXZzh6V245RHF3cmhnLTQtSXJ6NDNWc254dDQ?oc=5",
+          "source": "Cureus",
+          "published": "2026-11-26T22:07:09+08:00",
+          "summary": "Widespread Use, Minimal Training: Generative Artificial Intelligence Among Undergraduate and Postgraduate Medical Students Cureus",
           "summary_zh": ""
         },
         {
-          "title": "CoE contribution to UN Security Council High-level open debate “New and emerging technologies in the context of international peace and security”",
-          "title_zh": "CoE 对联合国安理会高级别公开辩论“国际和平与安全背景下的新兴技术”的贡献",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPQnhNRTJ5Um5XNWlPV1oyWV9adGpncURPOW9zd2V1dHVRQlBlWnYwLXdFRVFwYlJtVkVjODZuaTFwaHZQZTZLMzJOdXdqNlBQdkUxUFRmdlM1Y0Vhd1MxbW1rWXk1NTFjSjY1QVAwSF9fUzUtbDROcTZtS21yaGNmazBGRVlEbm1pbm5IVkt5bXNjcjdOODNLRkdOSWJCd2pJb3c1aUZYNGt2Z28zdmRQUTZ0Vnc2U25tanJtT2J5MmpSdWstRXNBTnZXLTBXT204Mmo3RUttbkhDbHBWdmlsTGRNWEFtTXFtOWpVOTdRSDBaVmt5ZXVwMjRTMkFlaWdRVkZrZlVISmlfb3ZaZE5pdXMzelY0NHNIN0IweUhDbTdZTEk?oc=5",
-          "source": "www.coe.int",
-          "published": "2026-11-27T02:57:55+08:00",
-          "summary": "CoE contribution to UN Security Council High-level open debate “New and emerging technologies in the context of international peace and security” www.coe.int",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial Intelligence-based hierarchical classification of parkinsonism using digital voice biomarkers",
-          "title_zh": "使用数字语音生物标志物基于人工智能的帕金森病分层分类",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yYk1vR3lpUzJsYWx0QllEMEw4XzRfTzVLMkdkdU1CVjhqdzBTN2p3RzQ4YVoxVTZhQ3dFZ3ZxcktldjVzLVZENXJPWVBmZ0YyYWhmcTFlcVgySC1tZ2Zv?oc=5",
-          "source": "Nature",
-          "published": "2026-11-26T19:14:56+08:00",
-          "summary": "Artificial Intelligence-based hierarchical classification of parkinsonism using digital voice biomarkers Nature",
+          "title": "Reliath AI Introduces a New Foundational Model for Artificial Intelligence",
+          "title_zh": "Reliath AI 推出新的人工智能基础模型",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDA1anRtOFJRT0dzMTduTHh1RFZvUnlEQzlVQ1I1SkhPN0tiUnJ2aGxyYXRacVNtdk9tVnUzQ3R0Tm1heEh0eWZOSkpTVFRjckFHcVB0b1BkVDZ4Q3VTTVFxaGM1MjhWeUV6SlZXZDZvT0hFaTVkRTcyaC1uWW41WmJuME54dXIwRkdORjJvSXh5Wm9ZUi1KUUpUZFk0Z1JFc1ZUVEtrckFLMXllbklHTi1YVWR5ZUotSUlXUTA3M1NXcWNFQ2dsUDB3?oc=5",
+          "source": "El Paso Times",
+          "published": "2026-11-27T01:48:09+08:00",
+          "summary": "Reliath AI Introduces a New Foundational Model for Artificial Intelligence El Paso Times",
           "summary_zh": ""
         },
         {
@@ -249,15 +240,6 @@
           "source": "Bioengineer.org",
           "published": "2026-11-27T01:01:17+08:00",
           "summary": "Scientific Artificial Intelligence Often Reprioritizes Existing Findings Rather Than Generating Novel Concepts Bioengineer.org",
-          "summary_zh": ""
-        },
-        {
-          "title": "Reliath AI Introduces a New Foundational Model for Artificial Intelligence",
-          "title_zh": "Reliath AI 推出新的人工智能基础模型",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdkx0clNBeF9ORl96ZFZnOTRMSF9mUFJrNTdXMEloTWlhZGMtRWFEclBrOF9YOHB3M0hLMUlLS2d6TFJWaDBRQnhNQkdwYUVud3MydzlsdnRqbXJ3N1FlNWZpaUgtQUpEWXZVb1VhdXg5cG1KUV85T3Rnd2hCcXp4dlZHSGg4bU5KcC1jQm1NNDhaMnF1VkhFeHVubkNKLXd3eG00SzVUQ3lTbmo2bFBJbXpwdHEtWmZEcmVEekZIMDB3eDQtZzVDVjVR?oc=5",
-          "source": "Bergen Record",
-          "published": "2026-11-27T01:49:02+08:00",
-          "summary": "Reliath AI Introduces a New Foundational Model for Artificial Intelligence Bergen Record",
           "summary_zh": ""
         },
         {
@@ -276,6 +258,24 @@
           "source": "Comisión Económica para América Latina y el Caribe",
           "published": "2026-11-26T22:37:04+08:00",
           "summary": "Ministers from Latin America and the Caribbean Will Meet in Sao Paulo to Define a New Digital Agenda in the Age of Artificial Intelligence Comisión Económica para América Latina y el Caribe",
+          "summary_zh": ""
+        },
+        {
+          "title": "Artificial intelligence could fundamentally change how we grow our food",
+          "title_zh": "人工智能可以从根本上改变我们种植食物的方式",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmQ4ZnJpN2lzTjJ0S1BzN2ZvWGxWSmgtUmc4MDFpUEs3X05RWm1kWE5YaTY4cWZ6TWhxOGx1WWFFUDBlTi1jYm1lTmdZQmpjc0dPMDJTZS1oTTNEQWVHWHU2eVNKQ1djZDk3UTFrU3d0UGtXUjctV2pIT3NFSkd2NzVwVEY0RlRmVE1NaVNMc01vTFJRbWh2WHFpZXpoXzlIcXgw?oc=5",
+          "source": "Earth.com",
+          "published": "2026-11-26T22:05:00+08:00",
+          "summary": "Artificial intelligence could fundamentally change how we grow our food Earth.com",
+          "summary_zh": ""
+        },
+        {
+          "title": "Estonia advises against using certain artificial intelligence tools",
+          "title_zh": "爱沙尼亚建议不要使用某些人工智能工具",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHY3Y0JZRkk1c0ZoaWFZSmlqY0dTTVRFeWVhZ2ltVmUtY3RRM0g3dnZnS3FHWG1qazhoLW93Qmh2T2NzRWRRNDRhem1VY2xSczMydnlLRVNuSUQyLXI5Ymlna3dwc0syeUN4NGR2Tm9PNkhFeFVCLXF3OFJBOTVFbFNUOVEtdWFuM29hRy1ENUQ5OWhtUHZwQWlBS0pHeFhjUGhHRA?oc=5",
+          "source": "Baltic News Network",
+          "published": "2026-11-26T22:50:04+08:00",
+          "summary": "Estonia advises against using certain artificial intelligence tools Baltic News Network",
           "summary_zh": ""
         }
       ]
