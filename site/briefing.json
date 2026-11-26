@@ -1,88 +1,70 @@
 {
   "date": "2026-11-26",
   "morning": {
-    "generated_at": "2026-11-26T04:37:11.459452+08:00",
+    "generated_at": "2026-11-26T17:21:44.974194+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "One Killed in Samara Region as Ukraine Strikes Oil Refinery",
-          "title_zh": "乌克兰袭击炼油厂，萨马拉地区一人死亡",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjJwaWRnVEtOSGxOZTlPMXlXRWh2S2pMQ2R0Q1N5aGhuM0xuSUNUZFhKOC1qaWxuYVRtZmlUV1BOdHB1ak9wM1hkU3ZIOXhDVHZ4YVFMa2l4d2JKbXN2MUV1VnkxVDdfaDYxbXBYdUQ3SmxBUFB6OVhWek1TYnY4SnJaOWY0NTlvZ0FoTDdjblp1V0VUam02TDhMRHIzMUVvM18zZ0ZXUHlnNFd3?oc=5",
-          "source": "The Moscow Times",
-          "published": "2026-11-25T17:34:17+08:00",
-          "summary": "One Killed in Samara Region as Ukraine Strikes Oil Refinery The Moscow Times Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation CNBC Russian Offensive Campaign Assessment, November 24, 2026 Institute for the Study of War Putin...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic",
-          "title_zh": "独家|避免与俄罗斯在波罗的海发生冲突的争夺战",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXU1WDdhS2huZHA0c0owNzRTTVpyZklia2VLbWNUMk1nWk52TFlieHdwZ2dNSEZ5LUdKTl83WU9iWkhwTHFWVHg4RkpudTM3WjlFa1lzbnY5YThqOTVyNU11cThCWWp0aTJGeU1wTVM5akVzeWRuQzMyaTROaDVXREdTOHRsQ0luM3VKME9DODhRZFVJLWxZSmEyU1VlbWlmME9YbEVBbGY?oc=5",
-          "source": "WSJ",
-          "published": "2026-11-25T20:47:10+08:00",
-          "summary": "Exclusive | Inside the Scramble to Avert Conflict With Russia in the Baltic WSJ Stubb and Støre assured Putin NATO would keep Baltic Sea open to Russia — report The New Voice of Ukraine Report: Nordic Leaders Seek to Prevent Baltic War Yahoo Nordic Leaders Seek to Prevent...",
-          "summary_zh": ""
-        },
-        {
-          "title": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation",
-          "title_zh": "南非总统从“农场门”弹劾调查中获得缓刑",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZjVpUFJBVGk1QkhhUFBaVjJ4TE5VOEhvd09DTktCb2VIeHlFYmRHYUV0bkFqRkdjalJYMmZlWHJWX3prSUNXRXdCS1VVY1RxaDhTYTdua0RCRFBwVVVNMG9wdWNVSk1LTkZVeHM2YUVlSmZIZEdZb3hqYzZtUU5ieUpwUTFaVFlCdzJ0Zg?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-26T00:22:17+08:00",
-          "summary": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation The New York Times Phala Phala farm theft: South Africa's Ramaphosa wins court battle over impeachment threat BBC South African leader wins reprieve in impeachment threat over cash in sofa Reuters...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Trump proposes new tariffs on China, Europe and other trade partners",
-          "title_zh": "特朗普提议对中国、欧洲和其他贸易伙伴征收新关税",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG9IZXZjbjBEQ2tzam5pT0FPZWNFc2hac3ZURjRUaTJITlQwQmt4RElZVGlnM0luQndHeXdRaGRwTUVVbHVqQlcyZC01OC1adzBLT3JWWlNadmw2N01zR3JZT1VwWG1mVVNaSkNUSWExNTlYRWtCejNRUE1KSXk0TFpjaUt5X0Z4LUFLMzB1c3QtRXNpUVc5UzNMeHY4d2paMjVEVGpveFlpM1BvZWRlZzFR?oc=5",
-          "source": "The Washington Post",
-          "published": "2026-11-26T04:25:16+08:00",
-          "summary": "Trump proposes new tariffs on China, Europe and other trade partners The Washington Post Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices The New York Times Here Are the Economies Hit by Targeted US Tariff Deal Rates Bloomberg U.S....",
-          "summary_zh": ""
-        },
-        {
-          "title": "French navy seizes 3.3 tonnes of methamphetamine from stateless tanker in Pacific",
-          "title_zh": "法国海军在太平洋无国籍油轮上查获3.3吨冰毒",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDJyc3JKbUM5a0hseldyeDVqQ1R3VnBZNlVtOHdrMUNrRFJGRnQzVG84cHk1TjcxS0kyVVpfRlFjNEZFQTVTYzhsYUl5bDgtdk82WFZfT2VsVVVxMW90dUdic1kyQ2Y1UlpUci1ucjYxdTdtdmlGR2lpeGtlalRhSWI5d2gwWnJ0eXRmYlZSZU5OTWJ1MU1sU2Q3TkRIZkl2SGpQMGJzWkZyNElqQkM2NVd2WEdsdEk?oc=5",
-          "source": "Euronews.com",
-          "published": "2026-11-25T18:37:06+08:00",
-          "summary": "French navy seizes 3.3 tonnes of methamphetamine from stateless tanker in Pacific Euronews.com Suspected \"narco sub\" intercepted in Atlantic Ocean but no drugs found on board CBS News MAOC-N supports the seizure of 146 kg of cocaine by French authorities in the Atlantic Ocean...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack",
-          "title_zh": "两名海军军官因乌克兰无人机袭击受伤身亡 利比亚军队誓言进行报复",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlhQMFFISGFSRC1TVkJtS2FtWXl1anZubHJfTnY1VzdiaG5fV2J3MGlWZk84RWUtQUQtRG1DR3Z2b2swWjdacE8zRG1xcHFHN0p3Q25GX3dMTHByRTBnSGl6dHBkcDQxZHF3VF8tMmVLVG5jRm50aGtndHBhWEFaUkFaaVJoZkp1aW8zMDFpVlZlODhqeXhwVG1TV0VNd2Frb2ZsUmg1R0wyb2VxclNscVVRMzc?oc=5",
-          "source": "AP News",
-          "published": "2026-11-26T00:26:00+08:00",
-          "summary": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack AP News Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers Fox News The Ukraine-Russia war is seeping out across Europe and there are...",
-          "summary_zh": ""
-        },
-        {
-          "title": "From stargazing to space: Pakistan watches its first astronaut take flight",
-          "title_zh": "从观星到太空：巴基斯坦观看第一位宇航员升空",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTlpJSC1pNHl1UjQwXzUwV0dtUnl6dElWcENYSkVPVFFKeWo1QkFEU1BfRHFDa2psOGhCWk5uNmNmb1B1aC04TWh2dU15WkNKbHFSeWtqOHJMLWlQQXRVbkZpeGlzaXI1Z2RfNVJMYkxkVGpPQ1RRSVRzMWJhY2pJek1yNi1kb1FpNUxDNVhyNkY3WjNnZ3B5aXQ5aTdhaDlHMEN1b2FhbGlmcmpYZ1B6QzYyem9ibW9mNzQ00gHAAUFVX3lxTE9aWjVRYVc5TnlPYm45bm96UnVlS0hhd095aGw2S1BSS2Vjaml6Q3U4RHpMWWZzb1VlSEZiWjczMEhoeDNMYjdMb3RTU25ZOGhLQ1N3V0doenJXTDZtZjFzeVNrd1g3R0JnWEVVVlItbDcwWGVOTFZKczNESUFkTmdwNlhJRGV0QlV2ajJhVXBJTUJTTDlNUHc1TlBRbTNiYmtkOVFYVXhaZUNvMWNIakh1QnZ5OGRwVF9TWW9nNi1vMw?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-11-25T16:14:44+08:00",
-          "summary": "From stargazing to space: Pakistan watches its first astronaut take flight Al Jazeera Pakistani pilot to become first foreigner to fly to China's space station Reuters China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut AP News Pakistan’s first...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-          "title_zh": "哥伦比亚警方冲进超市解救20名被扣押17小时的人质",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNcVN2Zzg2djN2R01WbU13YktjQVFYQTl1MzZPX3RqeWdONkJxaUtCNWNxNHBYU1FPOEx0TmhNRGNQcVVnY0VnREh0aTdjZVRuZE1fOVhBYkRsSzQ?oc=5",
+          "title": "US announces new tariffs on host of countries including China",
+          "title_zh": "美国宣布对中国等多国加征新关税",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
           "source": "BBC",
-          "published": "2026-11-26T00:20:14+08:00",
-          "summary": "Colombian police storm supermarket to free 20 held hostage for 17 hours BBC Armed men take hostages in Cartagena, one of Colombia’s top tourist destinations NBC News Colombia’s president arrives at scene of supermarket hostage siege in tourist city The Guardian Colombia hit...",
+          "published": "2026-11-26T11:01:40+08:00",
+          "summary": "US announces new tariffs on host of countries including China BBC Trump's new tariffs aim to prise global trade from China's grip Reuters U.S. tariff-hike threats pile pressure on partners to sign trade deals CNBC Trump Riles Trade Partners With Tariffs That Undercut...",
           "summary_zh": ""
         },
         {
-          "title": "Two men charged over ‘terrifying’ break-in at Prince William and Kate Middleton’s country home",
-          "title_zh": "两名男子因“可怕”闯入威廉王子和凯特·米德尔顿的乡间别墅而被指控",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGN2cnM4dURsWXQ3Z2tVVFNpS1BWVGhnV1ZKanZDY1dxdjUya2lPZXJYcnN5bnZJUE1BMmswaWl4OXp2dzZrcVZPcl9MRVl3bzNoNjFIaV9vaXZJckJWSlJqSVkyV1dqYmN1bjJFZXZVVkZ4M3JkVnAzSFp6Z0hZU0ZLM0pHbHRXaVJ0ZDV6NEVKNDltMmhtUEdoa0cxbFJQaWNFV0x1dGlyLTlRSzZ4a1BsWkp6cHN5?oc=5",
-          "source": "Page Six",
-          "published": "2026-11-25T21:03:00+08:00",
-          "summary": "Two men charged over ‘terrifying’ break-in at Prince William and Kate Middleton’s country home Page Six Cufflinks and clock stolen during break-in at country home of Prince William and wife Kate, court hears CNN Prince William and Catherine’s Country Home Is Broken Into; 2...",
+          "title": "Egypt: At least 31 people died after fuel truck overturns on Giza highway near Cairo",
+          "title_zh": "埃及：开罗附近吉萨高速公路加油车翻车，造成至少31人死亡",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzQta0htOVBwQy01aUdEVTZ6N3N4dTRlQU1xUEFmYVgzeEdDbFJBNHFDX0RtVUgyTTBBNmY2RnNRS190dllaWHlIMmhCa0ZHV25UeHVSbFdkdUJrMjJBS2RNYzV5TkJBLVA1THk3ekJSOUdTVnJ5RURCQ1RFMHFyWWt0M0lyazVpYTdwczVYVnhjZkdnSTBRZNIBmAFBVV95cUxQOUVZU2p2RGxzblpMSENLTU5YSFY4cnF4NThDU1piUWtFeEo0NWxXUFFkMnJZaXkwWHBteWVKOG5FQTNXZlYwc0ZhbXhlVGhVVTdMU2REbUxQOWtHeE5EdEtUcVhxTzRpazNWNHAyWm53UnNtdno2RFJ6N3I4Wm5VVHd3Y0N0dG5WRERFV0xLQjA1SGFmOG13Qg?oc=5",
+          "source": "DW",
+          "published": "2026-11-26T15:07:06+08:00",
+          "summary": "Egypt: At least 31 people died after fuel truck overturns on Giza highway near Cairo DW Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway BBC Fuel tanker crash ignites a massive fire on a highway surrounding Cairo, killing at least 31 people NBC News...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Wang Fuk Court: A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+          "title_zh": "宏福苑：一项翻修工程旨在改善这些香港房屋，结果却引发火灾，造成168人死亡",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pQTh1RE05UnluX1BiWEkwZzRZRGtyRFMzN0VoQ3B2N3cxWk9zcmk5eW95WXp4Z2pjaEVyUDctVjhJSHdWUU14ZWpyUGg3U3RYNHUtVFhWVFpSd2c?oc=5",
+          "source": "BBC",
+          "published": "2026-11-26T07:26:50+08:00",
+          "summary": "Wang Fuk Court: A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168 BBC Hong Kong Grieves Fire Victims Under Watchful Eye of Authorities The New York Times Hong Kong Fire Shows Accountability Under Beijing’s Shadow Bloomberg.com One...",
+          "summary_zh": ""
+        },
+        {
+          "title": "EU deal will 'give back some rights' lost to Brexit",
+          "title_zh": "欧盟协议将“归还因脱欧而失去的部分权利”",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UajBITTFNNFZZMk9PUEhPMW5keDVxWUY3U1o2WW5sbkpDTnhGdHBzZ0V4NkVsUmt2Rk9FcHVGVGJZaVJLSTVDR255Nm9xenVqVUg5cU5hcFBtcUU?oc=5",
+          "source": "BBC",
+          "published": "2026-11-26T01:26:08+08:00",
+          "summary": "EU deal will 'give back some rights' lost to Brexit BBC New UK-EU treaty has 10-year termination clause, BBC understands BBC Britain Announces Brexit Reset Deal at E.U. Summit: What to Know The New York Times The rejoin delusion The Critic Facing economic pain and Russia...",
+          "summary_zh": ""
+        },
+        {
+          "title": "How American Thanksgiving took root — and evolved — in Liberia",
+          "title_zh": "美国感恩节如何在利比里亚扎根并演变",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRjdQZHdYb0hYLXpiX2RNZmR0U1pOWHhPclJKRWJwMWc0Y0djTlRhV2xJc0ZzbzhzaWF6SXd6RnFJMXdpYkkydV82YmtrMlV3YzFfMjRHUDBfUDlQaDc0Zmt3U2hfNGpBQllweTZ1QjVfUGt2OHdMU2RTenFXNnFKLWpneHA0VXpReFE?oc=5",
+          "source": "NPR",
+          "published": "2026-11-25T22:14:34+08:00",
+          "summary": "How American Thanksgiving took root — and evolved — in Liberia NPR See more headlines & perspectives on Google News",
+          "summary_zh": ""
+        },
+        {
+          "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+          "title_zh": "内塔尼亚胡表示腐败审判“必须结束”，因为法院建议撤销案件",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzdLYVlFNVdkbElWa1dXLWVMcmE1WjlmaEhDQjQ4YVQyRXJ2T1BFdHVyNlA4NUd3RFpIemRlYVlsSVhkbnV5TzFOSnJTM0RQb3U1TkZlTzdVS1VuSWM4UUt3SG03bVEyT2FjbzhzUDlvMi1uSFNHZVA5aVl2NWtEXzFqakR1WEpuQzNhSkt3cGE3ZV9nMXJoSE5ZVWxMWE9CZGlXRE50WVhjaTJaV2NsQ1N0SHTSAboBQVVfeXFMTVcwcXpDcU5vbExPbkktNU5qQkRTOERtODF5bmZYTUZ3UmhnRUh4NTA1VW5wa295cC11RXV5WWdZa0lvYlB4cW9iY20zcXUzV210NFhKa3U3SFB0NWowTGprWnlyWVprS1BxLTFXcC1OdFN6TTkzT1lxNE45U0JYdkt1VVNfclgtNzhBOUtUanIxMWR0Q2pPbHFYTk5iVG1HbzZRYmxSSEczbGF1czdCak1kWmVHaU5FY3Zn?oc=5",
+          "source": "Al Jazeera",
+          "published": "2026-11-26T08:35:02+08:00",
+          "summary": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case Al Jazeera Israeli judges recommend dropping most serious charges against Netanyahu BBC Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu The New York Times Benjamin Netanyahu...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Ukraine tells Putin to ‘stop complaining’ about oil refinery attacks",
+          "title_zh": "乌克兰告诉普京“停止抱怨”炼油厂袭击",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGdnYnBDUmwzZ0xlMlFHdnY3Tm9EREFvaFlSRmRFcTE2LWdDUnE3Nl9ueFcta1M4WDQzWXllb0xyQnNJbHZIQXlUN2FOMzNPT0FqcWdmUEhFZV9TTHhGTV9vd1h1RHpBYW1Jek83U2NMODgxWllJaDMyMTlMd053SUJSYlJQZmpYUXE1eXFR0gGTAUFVX3lxTE03RUV5bFNyZF9MNTBIU1VsdHZpcXRvWkYzWnRpZnJOZGFpT0F1SmwxSXl1NzNSbllDeUh1TU1hNkRQZGdBM2xQUDFKanJLWG1iQ0l2U0JrYTNpTWd0aG1mN2lwMjVzaEJ0OVFzUFhhSmZLSXU2RzR2eDVyMERhOUx3MEp0d0NUWnJkQjlVSWhfVTEyMA?oc=5",
+          "source": "The Hill",
+          "published": "2026-11-26T05:11:00+08:00",
+          "summary": "Ukraine tells Putin to ‘stop complaining’ about oil refinery attacks The Hill Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation CNBC Russian Offensive Campaign Assessment, November 24, 2026 Institute for the Study of War Putin...",
           "summary_zh": ""
         },
         {
@@ -91,27 +73,45 @@
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQUVIMFdweENlM01xSnBkWi05cjFQSUd2TTB2UDhtMGFRSWFoV25mRTZFcGtvOGVDT0hxWnRidm1yVXlINmRUY0RwNUdqSmJmTVlpOXlwazRIejVNRXZreU1jT2VNMndhTVlwY1V4V0FrMC10OGdHZjdsQ1EwNENfS0dYSk9GN1RUR2x2cjRiR1BfUQ?oc=5",
           "source": "POLITICO.eu",
           "published": "2026-11-25T19:03:00+08:00",
-          "summary": "‘COP is a joke’: Backlash grows after failed climate talks POLITICO.eu The world is heating up catastrophically yet climate action is in chaos. What happened? CNN Cop31 collapse must be a catalyst for genuine climate action | Letters The Guardian Pope Leo: We must not forget...",
+          "summary": "‘COP is a joke’: Backlash grows after failed climate talks POLITICO.eu See more headlines & perspectives on Google News",
+          "summary_zh": ""
+        },
+        {
+          "title": "Iran-backed Houthi rebels claim attacks on major Saudi oil refinery, financial district in Riyadh",
+          "title_zh": "伊朗支持的胡塞武装声称袭击了沙特主要炼油厂和利雅得金融区",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHNUNmJtQTVyQjVKcE85cVBSQTNxVDRtNTRuYlpwckZqN2xFTkZMQXNOcTdjc3RQSWpGMm5Mbnk1N3FlMTR0QURGME9EZlpGelJIRUVocW8xWFNKeC0yOEFZaDFHZHY5eGFQWGZNWXA2QV9fWXhqYUtNRVFFaEdJU3U3OEhXZFpXdU82NWRkYldsaWYwdWfSAZYBQVVfeXFMTTFpenRKZjdMUzJFd2NwUkwyQUVDUjh0cXU4bUNseUFQUFNMQUZXTTNtVW5FbXZIY2JQZ0x3b1NseWhtS21jUFUzaDZpM2ZHOC1pTEJJR295c0drUmlpdk56VFNNdGhHNUN0ekhqazdMZGNqQmdwMmpkb1F5Q190dnktdEE1U3IzQUQtVVkwZkpwZzltNDhB?oc=5",
+          "source": "DW.com",
+          "published": "2026-11-26T03:49:04+08:00",
+          "summary": "Iran-backed Houthi rebels claim attacks on major Saudi oil refinery, financial district in Riyadh DW.com Yemen's Houthis claim attack on Saudi Arabia's largest refinery Reuters Saudi civil defence says 11 injured in Houthi drone attack on Riyadh tower Al Jazeera Yemen’s...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack",
+          "title_zh": "两名海军军官因乌克兰无人机袭击受伤身亡 利比亚军队誓言进行报复",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlhQMFFISGFSRC1TVkJtS2FtWXl1anZubHJfTnY1VzdiaG5fV2J3MGlWZk84RWUtQUQtRG1DR3Z2b2swWjdacE8zRG1xcHFHN0p3Q25GX3dMTHByRTBnSGl6dHBkcDQxZHF3VF8tMmVLVG5jRm50aGtndHBhWEFaUkFaaVJoZkp1aW8zMDFpVlZlODhqeXhwVG1TV0VNd2Frb2ZsUmg1R0wyb2VxclNscVVRMzc?oc=5",
+          "source": "AP News",
+          "published": "2026-11-26T00:26:00+08:00",
+          "summary": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack AP News As Ukraine sinks Russian ships, some NATO nations voice anxiety over war's spread to new regions CBS News Libyan officers die after Ukrainian strike, a highway fire in Egypt...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "“我们为同胞进入中国空间站而自豪”——巴基斯坦各界热议中巴航天员携手赴“天宫”",
+          "title": "学习贯彻党的二十届五中全会精神丨把严的基调长期坚持下去",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aNUNrbG9qRlpmQUNtcVdfWi15Ull1aGtpdzNabDh5RnBMWWV2MmZnbTA2Q2sxZ29WMHFxb2Y5T19EWmtnZGxBY0xJNVQtR1J3S2tmMFBHNXJmZFFXcWJSRFB4ZzJsWGVrajQ4QXlrNTBLTk9nWDkzU3VscVZma2M?oc=5",
-          "source": "新华网",
-          "published": "2026-11-25T23:37:17+08:00",
-          "summary": "“我们为同胞进入中国空间站而自豪”——巴基斯坦各界热议中巴航天员携手赴“天宫” 新华网 神舟二十四号成功发射 首位巴基斯坦航天员登中国“天宫”意味什么？ BBC 巴基斯坦航天员穆罕默德·齐尚·阿里：他的飞天梦 连着中巴友谊 中国青年网 三访“天宫”，汤洪波家乡小院这一刻沸腾了！ 军事频道 2026年11月25日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部 中华人民共和国外交部",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DaXVJblRHSXZpUFpaMUNxdk1nSjh3ekNZXzdUa1hyMU10ZWJrVWY2N3ZxTDdaNzU5YVVCY2NBR1JkTTRrVUtVU1h1by1RMDhweUJ5VE9sdG9KN1paN1BRRjdaeFQ1WkZX?oc=5",
+          "source": "中国政协网",
+          "published": "2026-11-26T11:10:53+08:00",
+          "summary": "学习贯彻党的二十届五中全会精神丨把严的基调长期坚持下去 中国政协网 市领导宣讲党的二十届五中全会精神 北京市人民政府门户网站 人民日报访司法部部长贺荣：推动依法治国和依规治党有机统一 ThePaper.cn 【好评中国·敦煌风】“两个答案”，写在百年大党的自我革命里 新浪财经 深刻领会持之以恒推进全面从严治党的指导思想和原则（学习贯彻党的二十届五中全会精神） 人民日报",
           "summary_zh": ""
         },
         {
-          "title": "USTR公布301调查结果，称中国、台湾和欧盟等贸易伙伴对美国商业造成“负担或限制”，将加征关税",
+          "title": "新闻8点见丨中外航天员首次“太空握手”；中蒙俄国际旅客列车开行",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM1pHV3l2NXB3clRvSG1GM0VfRExYUmRkdXVBT0F4WXNDNnZza0RiSEdoQW9zOGVsSVRNazQ1eC1RTnJvQXlYcWswUUxNYXNzZ3ZfM1hlR1BVTTU2SXlrTmtDRlo4bVdYVFhwMTlrQ3FjZTVCdTRjbElBRF8xUzBYTTB4eHNaWGh1MlhPN1RUX2duX1l3VTRNNUlEYWZQRVVxVjdtZjNpRHU3ZUtZbW1FcmtvSk11U3Q5NEJZMS1rbmZNUnpYOUs1T1ZmSWtYUnlnQml4UHVB0gHYAUFVX3lxTFBCdUxOUlhCdEJGVTAzT2ROYnRiS1BIMUhvQ3ZxX05FRWZFZXU3ZnEteE9KcmlBMy1UUTkxb3hCZzJnVWlOYXRtNzRMYUlUTjlGdXhQS0xDZTNWRkpKaEVHM2dlVnlGMDFHTXZsMDVybTVhN29iUEtZNkZTRi1FTjVmZThJTzhYM3M4SC10dlJ1S1B3RGFzbHNneFN4b3hKQmtMa1lRWm5DeDhsTFcwSGJYOFhqcXFOQ09Xb3B5QW5KckppTEpGNzUxaURNMVpBRUZONUlkSnNRMQ?oc=5",
-          "source": "美国之音",
-          "published": "2026-11-25T23:01:39+08:00",
-          "summary": "USTR公布301调查结果，称中国、台湾和欧盟等贸易伙伴对美国商业造成“负担或限制”，将加征关税 美国之音 美国计划对包括中国在内的有关国家加征关税 外交部回应 新浪新闻_手机新浪网 美方拟对中国等国商品加征关税，外交部：反对 中国青年网 美国拟对中国等贸易伙伴加征关税 中国商品面临最高税率20% 北京批“产能过剩是伪命题” DW.com 美国加征关税，会成为新一轮冲击吗？ 妙投",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PV08yMmFOSTZzUEFsaTItT3d0UFZUR2JzdGpVeWFQSEkxVFN3Umg1MHBjZHBoOG82UzVHd1RkQjFmcl9IR0NaM2p1YlNlNXQ1SXB6RnE4N252QmVfOHM2LWJrSnA?oc=5",
+          "source": "新京报",
+          "published": "2026-11-26T07:36:00+08:00",
+          "summary": "新闻8点见丨中外航天员首次“太空握手”；中蒙俄国际旅客列车开行 新京报 中国航天探索国际合作崭新模式--国际 人民网 巴基斯坦驻华大使嘴角都压不住了：好好学中文，万一能上太空了呢！ 新浪财经_金融信息服务商 这些合影，意义非凡 新华网 日月谭天丨岛内舆论“扎心”追问：大陆在摘星揽月，台湾应向何方？ 中国青年网",
           "summary_zh": ""
         },
         {
@@ -120,70 +120,70 @@
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1ZS1YOTJkRHg3Nnl0Qk9QODJBcEpEaHVlTVRmVDRPX1dIdXhGMHNKZzVGZzVZbXlRUnRzWU1sN1p3Zi1uY0pSekdkUFRFTHdka013?oc=5",
           "source": "第一财经",
           "published": "2026-11-25T18:30:11+08:00",
-          "summary": "深圳APEC开启亚太经济秩序新篇章 第一财经 开放的中国，为世界能源提供稳定之锚 人民日报 此行间·载入史册的深圳之约！100秒看习近平主席的APEC时间 新浪新闻_手机新浪网 潮起鹏城千帆竞，绘就亚太新图景 中国日报网 为建设亚太共同体贡献媒体力量（APEC中国年：开放 创新 合作） 光明网",
+          "summary": "深圳APEC开启亚太经济秩序新篇章 第一财经 【和合共生】习言道｜习近平在深圳的这四个比喻意涵深远 新浪新闻_手机新浪网 开放的中国，为世界能源提供稳定之锚 人民日报 为建设亚太共同体贡献媒体力量（APEC中国年：开放创新合作）——访马来西亚国家新闻社首席执行官努鲁·阿菲达 中国日报网 此行间·载入史册的深圳之约！100秒看习近平主席的APEC时间 央视网",
           "summary_zh": ""
         },
         {
-          "title": "原中央防范和处理邪教问题领导小组办公室副主任高以忱被判11年",
+          "title": "空军33型主战装备将参加第十六届中国航展",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oQURPSy1vVG5CQkNBa283cGJUOFpIT3AwRjNIZy10UmxoQkZnM1h6M1RIZHEtLTBmc3N0dWxkaGx4Y003VnQ0QlRYenRmakF3djdwbjVZNVRXWDNhMXFpN19tTzBYZw?oc=5",
-          "source": "观察者网",
-          "published": "2026-11-25T17:23:00+08:00",
-          "summary": "原中央防范和处理邪教问题领导小组办公室副主任高以忱被判11年 观察者网 获刑十一年 高以忱受贿、利用影响力受贿案一审宣判 央视网 高以忱一审被判十一年 ThePaper.cn 新浪网· 手机新浪网 退休后遭调查 中国国安部原副部长被判刑11年 万维读者网",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTlZb3FhaWFzRzh4bGJLZ2ZnMmxuekxzUnRZS2d5RGFGR0tRd3MtZ2xHRDdvX21CTFFOekhXdEZxMEVnN2NUUzd2dU5HbGdiOWowaG01WHV2WlhhckJoU0hMR2hlcF93ZkZDSkY0MkxsOExqRS03aGVpZTVJdjQ2VWdmbw?oc=5",
+          "source": "新华网",
+          "published": "2026-11-26T16:02:39+08:00",
+          "summary": "空军33型主战装备将参加第十六届中国航展 新华网 歼-20A、运-20B将首次亮相中国航展 新浪新闻_手机新浪网 视频丨空军33型60余件装备将亮相中国航展，运-20B首次展示 ThePaper.cn 第十六届中国航展首批境外参展物资顺利通关抵达展馆 Sohu “鲲龙”来了！本届珠海航展首架大型主力参展机型抵达 新浪财经",
           "summary_zh": ""
         },
         {
-          "title": "习近平对党内法规工作作出重要指示",
+          "title": "新任江西省委常委陈克龙，添新职",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdTJCUlRlTXNfN3FvMWFqODJPbGpkQV9TTWxvRlFvZkhJMFBYWnpZb0ZtaXBHdjhFNUo5QjNjSUJYemxKWlc5NmFBU2dscWxCdk1ZcDRmc0ZtX3ZCYXZodnk1UkQtX2RHejBWSlNfaHo2Q0JaQWViaA?oc=5",
-          "source": "央视网",
-          "published": "2026-11-25T19:24:00+08:00",
-          "summary": "习近平对党内法规工作作出重要指示 央视网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "卢卡申科谈领土历史渊源：按此逻辑整个俄罗斯应归蒙古国",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zYjlfRlRQVUt2TEhibmIyMUd0VS1LbEZsc3NwVWxvOGlTeHdla1VfcVFZd2NPaUszYm9xSjhISjNIN0ZyeVltTG1wWVdHdzNtUnc?oc=5",
-          "source": "凤凰网",
-          "published": "2026-11-25T21:06:52+08:00",
-          "summary": "卢卡申科谈领土历史渊源：按此逻辑整个俄罗斯应归蒙古国 凤凰网 在Google 新闻上查看更多头条新闻和观点",
-          "summary_zh": ""
-        },
-        {
-          "title": "研究新发现 十万年前华南地区存在多种古人类",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bVlkeURKUHE4Ymk4VkgwZC12YmdyNkxsZ1FjczByZ1JSakRlV0dmVmNjdHpESkE5dzVFeUs5NXBJLWx2WURONU14OUFFc0t2VDIwMXpLWVhodGs?oc=5",
-          "source": "极目新闻",
-          "published": "2026-11-26T01:11:27+08:00",
-          "summary": "研究新发现 十万年前华南地区存在多种古人类 极目新闻 研究新发现：十万年前华南地区存在多种古人类 ThePaper.cn 如何凭几颗牙齿化石发现中国年代最晚的直立人？考古学家为您揭秘 Sohu 我国境内最晚直立人化石被发现 改写直立人生态适应认知 新浪新闻_手机新浪网 中国岭南首次发现丹尼索瓦人和10.1万年前未知古人类 中国新闻网",
-          "summary_zh": ""
-        },
-        {
-          "title": "速览｜中国共产党江苏省第十四届纪律检查委员会向中国共产党江苏省第十五次代表大会的工作报告",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvdnZ4MVZiLXFqb1ZDVDQ2S0Z2VmFublBiekJEUzItYklwTkpmUXF5N3F1bWExRUxONkN3VjhGQVNMczNrMlRrMzhZM0diZUlaZ001a2ZsQTZnME1HbjFRTW5JRmd0eVk4ck9TY0w0RQ?oc=5",
-          "source": "紫牛新闻",
-          "published": "2026-11-25T20:31:00+08:00",
-          "summary": "速览｜中国共产党江苏省第十四届纪律检查委员会向中国共产党江苏省第十五次代表大会的工作报告 紫牛新闻 江苏省第十五次党代会主席团举行第二次会议 凤凰网江苏 信长星参加南京代表团审议 China Daily 掌声，两次为“实干”响起 Sohu 江苏省第十五次党代会开幕 信长星向大会作报告 人民网－江苏频道",
-          "summary_zh": ""
-        },
-        {
-          "title": "【五中全会精神在基层】夯基固本担使命党建聚力谱新篇——我国东部和东北地区持之以恒推进全面从严治党观察",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZUROWWVPUUdPc3RKR3RtWWZ1UVlVTE5VUTZzRXVjWDZVcVF2ejdvTnFWR1VkTU9WcFRaTEsyc0VnV3BXRFUwNTVkeW53YjZYV0l6cG5iN3hCcWUzWW1N?oc=5",
-          "source": "九江新闻网",
-          "published": "2026-11-25T19:02:20+08:00",
-          "summary": "【五中全会精神在基层】夯基固本担使命党建聚力谱新篇——我国东部和东北地区持之以恒推进全面从严治党观察 九江新闻网 市领导宣讲党的二十届五中全会精神 北京市人民政府门户网站 人民日报访司法部部长贺荣：推动依法治国和依规治党有机统一 ThePaper.cn 【权威访谈】充分发挥党的组织优势 Sohu 我国东部和东北地区持之以恒推进全面从严治党观察 新华网",
-          "summary_zh": ""
-        },
-        {
-          "title": "全国普速旅客列车和旅游列车车次变更实施 #",
-          "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2l5QWlzcXFzUmF3Q25kdzBhWWZiT2xrbU1oNGRGM0Ezc1RPTTBkVklPNFBjUHUzeHRKY0lHSndaLVFQSHE1QW1XUDBDb1ZRc0xBQkNyNFVFc1djTEJmZWVoQWRpMHh3ZTZJa0VqQklpT3I0bmJzaWRBS1lFSElSMzRaQU1ZR2dLbWVndEo4QTRoSkRvdllvcEJieXBhRWJU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0FkbHppLV80ekI2amh5aW54dGltYTJIbGNVMFNNVnhBdndrZEF5RTNfSlVsUVV3OWtzTTRIZ0lKd3o5VElPOGd6ejJ1NDFDOHZ4Ynl0bDhfZF9nNndFNzVpN2pKZTQ2Y2Q5Z1pEeGprams5U0pkRV8zQlJCbjMwQkFZaUY5dGJf?oc=5",
           "source": "Sohu",
-          "published": "2026-11-25T19:03:06+08:00",
-          "summary": "全国普速旅客列车和旅游列车车次变更实施 # Sohu 在Google 新闻上查看更多头条新闻和观点",
+          "published": "2026-11-26T10:27:11+08:00",
+          "summary": "新任江西省委常委陈克龙，添新职 Sohu 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "美国拟对中国等贸易伙伴加征关税 北京批“产能过剩是伪命题” 欧盟称是受害者",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQUjhZRS1SOTVNcHF0Z1FubE9HS09wQUNpSFBHRHZ2R3RTUEhXSUNNd2NDT1BmeWtFNE9XeVV5TE1mS2lDcGh6NVZkMWNTdjlJYkl5WjZjZGFnaFc4cXQ0M2RIRVBmS05HNGRlX1poaUVJUzJSZEhXdGR1NndUcHdXa3BIY2ZpdUZSNlBFVldRRTVVMERRT1BIaUhYOTdtTVpiUW5jQ2pXc3E0UGswdUU1TGJabUdVc1NqeF85LXlCQk1sd0tjZzBPQVEzb2pOTnpsNjdLV0EweWNFTU1sNDVsVmJBN1NCUWtsX25OelhMRGhiRVp3YXdOVktOYVhpTDZ6ejAxNllZS1FxNUJDNmIwMk1ueUNTOGktcDRpbnhHaWxHU3dnQ2FCd0NyakFsWjJYSDAweHk5eWRTd9IBugJBVV95cUxQMTZvaGE2QjcwNndkaDJSTm9KUEo3UkNjcjQ5aFJNV0ZlWmpzWTZWZTl6ZFdsV3hTZW5ybjVWREVpUklBZlRWQ2doby1wcWM4eDVqbndVX3YxLXljUWpyZUtlQkVxMHY3d18wVVkxVUZDUVc0WV91SGxtTDBzTTNCZ0dadHlhTGVRaHJrazJNN2dULV9HNDdhZm92NGtKX091bzZNQW5BVnVYT0x5UGJ4NXZjTWFIekhfcnZDT1lkVW1hbnA4UjhzVDJHS193cDNCb1FObW40ZjhYQVc2ek95dDBLWmI0TEhzekg1VWwtM1c2UnZ2MnV2UURrNzRfM1NQWVVRaWZiMkVGeXNiY3QwSDNnTEFfaVNaQzlOeTZZWTlnZjI4YzUwV0FuNDRoLWFOQVQ0c1VTRGtZZw?oc=5",
+          "source": "DW",
+          "published": "2026-11-26T13:05:27+08:00",
+          "summary": "美国拟对中国等贸易伙伴加征关税 北京批“产能过剩是伪命题” 欧盟称是受害者 DW 美议员搅混水：特朗普不长记性，反让中国主导 观察者网 印尼：正在审查美国在产能过剩倡议下实施的新关税 手机新浪网 牛市早报｜ 美国将宣布对中国商品加征关税，外交部回应 ThePaper.cn 特朗普新关税暗藏伏笔？台媒：美国也未必能走回自由贸易的老路 凤凰网",
+          "summary_zh": ""
+        },
+        {
+          "title": "日本船只非法侵闯钓鱼岛领海，中方：已提出严正交涉",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZb0JwTEYtZWFRdTNtWTJGZUpHem1XTndLVGdmTFpTVlRJdVR5OV9zNDlVODlQZWZvMnlOVE9hem5IenN4ZHdSSzZ2WFc?oc=5",
+          "source": "凤凰网",
+          "published": "2026-11-26T15:18:41+08:00",
+          "summary": "日本船只非法侵闯钓鱼岛领海，中方：已提出严正交涉 凤凰网 在Google 新闻上查看更多头条新闻和观点",
+          "summary_zh": ""
+        },
+        {
+          "title": "中国海军将举办2026年西太海军论坛人道主义救援减灾研讨与桌面推演",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHc5NVhuWHR3dWJTcWFPaF81TUVjTXhCaGdaV1k5bkVEZTlrdVdJVy1PNkJXWllwVHp1Vjd4RUhIX2xEdGlVWnNFbFNFTHVtVmJ4SVlEZjNFNDRKYkFSWEdvakNlVkV3Z2xKS0hVWmdQa1hJVEVtOVlwMnBRU1BRZ0NfR0tDY2ptT1Rr?oc=5",
+          "source": "Sohu",
+          "published": "2026-11-26T16:02:31+08:00",
+          "summary": "中国海军将举办2026年西太海军论坛人道主义救援减灾研讨与桌面推演 Sohu",
+          "summary_zh": ""
+        },
+        {
+          "title": "在新征程上锚定目标接续奋斗 江苏广大干部群众持续关注省第十五次党代会",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hZkZTSlhKOEpCZHE0S1Y3bDJhVFdrLW00NEYzRlpNMmh0ZEFxUDcxTnFJanVHYnRvMDAwSGsySlRaTkdFR0w3Sk9rYkZhemZ2bnRyQ2JmTXdSVEVkcHNjeEhxVTl0VU4z?oc=5",
+          "source": "紫牛新闻",
+          "published": "2026-11-26T13:04:00+08:00",
+          "summary": "在新征程上锚定目标接续奋斗 江苏广大干部群众持续关注省第十五次党代会 紫牛新闻 江苏省第十五次党代会主席团举行第二次会议 凤凰网江苏 信长星参加南京代表团审议 China Daily 以更高标准、更实举措推进全面从严治党 Sohu 江苏省第十五次党代会开幕 信长星向大会作报告 人民网－江苏频道",
+          "summary_zh": ""
+        },
+        {
+          "title": "河北各地党员干部群众收看省第十一次党代会开幕会直播",
+          "title_zh": "",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SVmVJVVRVaWV4YjlBSXVxRHdlYmpyOGFXdXdZV2tFQlJwM3FkZFZPUUxoczA1Y255VmNyTUUzNlVTZkxHcEZpb1dKZVRtS21BeGowalJwd0xKeXViVC1MTQ?oc=5",
+          "source": "河北广播电视台",
+          "published": "2026-11-26T13:14:14+08:00",
+          "summary": "河北各地党员干部群众收看省第十一次党代会开幕会直播 河北广播电视台 我是家乡代言人丨把“关键小事”办实 让民生答卷“更暖” Sohu 你好，这里是奋进的河北！_河北频道 河北新闻 喜迎省第十一次党代会｜向新向优 步履铿锵 张家口新闻 在推进京津冀协同发展中更好发展自己 人民网－河北频道",
           "summary_zh": ""
         }
       ],
@@ -193,89 +193,89 @@
           "title_zh": "人工智能与人权：人工智能时代保护人类尊严",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkNaQVc5dl80NUF0OE9TU0lIZ3ZGU19ZdGN6UHNTMW9mXy1PVVVKMzV5anZ3bTg3TDcyNE9qajRTOWxUaVl1TDZGazI2VGhFM2dZSkNJWHdhN3JKaE5DS1BVME02MDJlbmIwT0VqT1ZDVk5RaTg4M3U2TEFkTWlmeTVXTjQtVFpycWtXeUpxVUtXcG9nSHVFVTM4S1JsZUJUQmFTbDJaSFBQWGM?oc=5",
           "source": "UNESCO",
-          "published": "2026-11-26T00:11:30+08:00",
+          "published": "2026-11-26T12:51:09+08:00",
           "summary": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI UNESCO",
           "summary_zh": ""
         },
         {
-          "title": "Artificial Intelligence Bargaining Rights",
-          "title_zh": "人工智能议价权",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZTmFuQTRMQ0lRUUlUcDNacFlUZWo3R0NCRHV2Q0w5T25aSkV3d2xJQ09VRmVkaUpGZkk0SS01Wk14WU9DemRBQzI3MkxtUTJwaTZ6ZnQtRTE3cDlNZXZvTVV0MDNtbVVENmc?oc=5",
-          "source": "Washington Federation of State Employees",
-          "published": "2026-11-25T17:22:12+08:00",
-          "summary": "Artificial Intelligence Bargaining Rights Washington Federation of State Employees",
+          "title": "Widespread Use, Minimal Training: Generative Artificial Intelligence Among Undergraduate and Postgraduate Medical Students",
+          "title_zh": "广泛使用，最少培训：本科生和研究生医学生中的生成人工智能",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa181eVU3OHBLZXUyOXhwOGlWQlJYUlFWTjctemIwS2NVeEJ4dFE1d2lYSnhPbWVDeUp1MWJ0MjB5TjdtQTVCQ0RCcnhBUFkzaTlsV204U0NvYUNtVEtGSzJXdXJUOXlvcm9qVElBUVA2YWNrODl4VTNmX0hMSFRmaXB1VTVFeGVtLS13THJLclV2ZnVUa1JRWWpPbHpxVGc2akN2US1BTU5QbzZ4ZDU0elFVMWpsWUtuX00ybXhXVUJuTWxUY2hhM2NEWkpLeTY2WUoxbWVXZzh6V245RHF3cmhnLTQtSXJ6NDNWc254dDQ?oc=5",
+          "source": "Cureus",
+          "published": "2026-11-26T15:17:08+08:00",
+          "summary": "Widespread Use, Minimal Training: Generative Artificial Intelligence Among Undergraduate and Postgraduate Medical Students Cureus",
           "summary_zh": ""
         },
         {
-          "title": "AI Becomes an Annoying Friend Who Won’t Go Away",
-          "title_zh": "人工智能成为一个不会消失的烦人朋友",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOXFpOHJUTUlPdENsc2d1TU5UQjZrZm54Z0UzU0R4Z2xkOV9tYnZWOTR3emU2Q09MeEcwNnZEU3NUNHJZdHoxbW56bGJtQUJEX29QU29xbFBLRXFKdUdnT2JUY3RySWFUaVVaaTFvUDNCUV9lcGlQQVNmSDh5UXQ4RkZHcFBFaU1DdlY5Vk5GMVN6dWRROEJNSWRlZXdIWFJ1NFFZN1hURHBBcXpVaDRIUkxWTTFtQkNJ?oc=5",
-          "source": "Bloomberg.com",
-          "published": "2026-11-26T01:49:05+08:00",
-          "summary": "AI Becomes an Annoying Friend Who Won’t Go Away Bloomberg.com",
+          "title": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says",
+          "title_zh": "独家：研究人员称，中国人工智能公司 MiniMax 的数据被身份不明的人士获取",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXlXQVE4enJyRWstWjJvUGdBczBMWHdfZHRmYTNSN3I0eFpqeXBfVU5tN3NRSERpcjBPeE1rV1kwWTBwWnY3U2s1TnlpY2EtakM5TmItUW1UdnVFZXJWTWVRQk1paVhJeTBpSlB0eHJyWERRdnZ1bVctUmctdGJZOXpZMnFMdkxYVlZ3UHI4OE1wZEhocHBGNW0wU1Z3S2VxQ0x6a1pablJOUzlTOXlMSkxUYjRFcWtIc2tB?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-26T14:16:00+08:00",
+          "summary": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says Reuters",
           "summary_zh": ""
         },
         {
-          "title": "A research agenda for integrating artificial intelligence in mitigation scenario workflows",
-          "title_zh": "将人工智能集成到缓解场景工作流程中的研究议程",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUb3JjOFZLXzRBazBrdlVUQzJ6MUJtUlQ0ZF9tVkZRYVBZbmMtSHFTSElmYlhDMFZUUmVIVkdMV3pPTFppVXROVW8wSzZTenRTZGtwZWZfbHE1WktUZ1Qw?oc=5",
-          "source": "Nature",
-          "published": "2026-11-25T19:18:40+08:00",
-          "summary": "A research agenda for integrating artificial intelligence in mitigation scenario workflows Nature",
+          "title": "Amicus Brief in In re OpenAI Copyright Infringement Litigation",
+          "title_zh": "OpenAI 版权侵权诉讼之非当事人意见陈述",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNam1INzlZQzRkd0NpWWJaZ1NkOVJFMnhKdjdfcjUtSnBiWnlfSENOR3lwUnpYcU16UnJQLTBBVFVMUnctbUs4Z3pRUHN5TkNsb1VJLW5Vc25HbUVidkVuVlY0VWNsV0lHYVdPWXAyMkV3VWpoSXBMQl9WTk1vWEU1RHhPaS0wcldoMndnWEpkQTQ5dGIyOWc?oc=5",
+          "source": "The Foundation for American Innovation",
+          "published": "2026-11-26T12:22:54+08:00",
+          "summary": "Amicus Brief in In re OpenAI Copyright Infringement Litigation The Foundation for American Innovation",
           "summary_zh": ""
         },
         {
-          "title": "Scammers are turning to Artificial Intelligence which raises concerns during the busy holiday shopping season",
-          "title_zh": "诈骗者正在转向人工智能，这在繁忙的假日购物季引起了人们的担忧",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnhYd2duNVo5WEFzcDZEQzRvNi1iRlVRYlZjN1huaFIzbzJ6TFJDenpCY29lM2x0UjUxU0U3MDZkTjd3Vzd4QlNuVGN1ZXFtX1dCaWFrTUE5RnZ0bDhKR1g4MlBqYmRpS0hlVTZhTFNpdFlGUEQyOVFmNFVzcXh0YzdkNA?oc=5",
-          "source": "Audacy",
-          "published": "2026-11-26T01:30:00+08:00",
-          "summary": "Scammers are turning to Artificial Intelligence which raises concerns during the busy holiday shopping season Audacy",
+          "title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
+          "title_zh": "不是美光。不是博通。这是我 12 月份最值得买入的超卖人工智能 (AI) 股票",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM3dkSXVjdmUxOExWZmdRZDhvcC1Rc29Dc3I2aTM4UFZGYmdBdzFLWmJtWFE2amlWdFkya0d5Tjk3V25jelFad01uekJocml0T3pyeGk0ckFrbDU1TWFnbk9NS1llNjBraDlWMnVSREZNTHBvM3g3czkxbS1yQ2pfYUsteUhKLVRSN2FFZVVKM1ZHQTZYYmJpVWhCa09UcTZhVy1RN1Vrd2w2bG1oVDJFLUZiTE5LcUZWX0pqRXBmMFBsbnJBeTE5WlhpRkxQS0NLRUNrSUFHZjB5UQ?oc=5",
+          "source": "The Motley Fool",
+          "published": "2026-11-26T05:31:01+08:00",
+          "summary": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December The Motley Fool",
           "summary_zh": ""
         },
         {
-          "title": "This May Be the Best Artificial Intelligence (AI) Stock to Buy in December (Hint: It’s Not Micron or Oracle)",
-          "title_zh": "这可能是 12 月份最值得买入的人工智能 (AI) 股票（提示：它不是美光或甲骨文）",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLU04NkxmTUxkT0VjQmdFWHFtdVF6czdpd2ZsWXNtOE5yNmxBU2tRQVZIajNVMzY3aVBIeWRibmg1S19scVE0WXNQN0pkMXpNWGNFaGpJZkJ5WkE1aV9CandtcnRaTEllcWFUWVR1RXExRWJVc1hUa1F3VVl4RXphOU5ZZVZ4YXkwTXpIUlpPRU9DMmI4NlR0ZmpwSUpDQXJB?oc=5",
-          "source": "Yahoo Finance",
-          "published": "2026-11-26T00:13:02+08:00",
-          "summary": "This May Be the Best Artificial Intelligence (AI) Stock to Buy in December (Hint: It’s Not Micron or Oracle) Yahoo Finance",
-          "summary_zh": ""
-        },
-        {
-          "title": "What to know before using AI agents for Black Friday shopping",
-          "title_zh": "使用人工智能代理进行黑色星期五购物之前需要了解什么",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDlWaVNLMGhDTHpmeHc1MmJNNDVIcVZ0WVNDUnhyYlZlS3BGR1lGdThQYWppcW5NSkxpbXhscG4tZkttMUJqZmhRNmI2OHNYbjBJSnRjdG1fNXpxelg0dm5kTFJjOVhCQ255VWhNYmkydHpmRnlaRnh0aWFvZHhLVmVfSVBMLVh4Q2tPVUNJUjloT3NJLXFsTExDcGUzbF9TeXRxMDg0dFJJUQ?oc=5",
-          "source": "NPR",
-          "published": "2026-11-25T21:51:56+08:00",
-          "summary": "What to know before using AI agents for Black Friday shopping NPR",
-          "summary_zh": ""
-        },
-        {
-          "title": "Maple focuses on privacy-first artificial intelligence",
-          "title_zh": "Maple专注于隐私优先的人工智能",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUFYQlN6U0lfcndGUkFoWHFwQV9aMU9rNDZlQjRvZHlKXzR2OVRSVXN5U0thM1lWX1NGeWMtRmV6Sk1GeEoyODl1UVJNMU5EZXc2TThFMjdWOU9CcUdsY0ZGWFFqbDRhR0h4a0dHR3FiYlJiYUF4eWpyQXkzUHJ0NjBLTTgybXYxeDMtVQ?oc=5",
-          "source": "SC Media",
-          "published": "2026-11-25T21:39:37+08:00",
-          "summary": "Maple focuses on privacy-first artificial intelligence SC Media",
-          "summary_zh": ""
-        },
-        {
-          "title": "Multispectral Imaging and Artificial Intelligence Uncover Heritable Architectural Traits in Human Facial Skin",
-          "title_zh": "多光谱成像和人工智能揭示人类面部皮肤的遗传结构特征",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUlqRTROQ2E2eFFiMWsxRU1fMmh1RzRFdU4zT1Z6N3phVnNDYXFiZzBETnVQWnN6QzBoUUg5Rmgza281aW1mcmhoSUpvS085MVE5dV9SZU16ODNoZ1JnTWluQmFaaW1ldTZ5TWFua0hGdkY1RXVRcHlYYUNBeEpUVk80cEV2c1pkWlhHbTRzbTNlV3hCa1lua3g1VFJXTm9pZF9KYml2WTgwNThBTjgwMEVlWHVDeEpFQ0Y4YUE2VmVMVWhrbWlvN3pFUGFvaWc?oc=5",
+          "title": "Multicenter Study Evaluates Artificial Intelligence for Skeletal Maturity Staging",
+          "title_zh": "多中心研究评估人工智能对骨骼成熟度分期的影响",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXgxeV91Z0w0U2N5ZFR6TWY3NU9Ga04tcGQwTDM5VHh2am40RWw3UEUtYTAzZktqcTNPbnFBX2Qydm1ydGYybEU1V093YWFaTlhFRnlIM3gxb0MzakZJcHlDelJTOVJSYm91UTJTNjdQdkxNanFaSzgzNVU2d3JRcWxWMWljTmd0eGVjX2hCY25pQ05zbE5wT2pBQy1oWmxhTEU3ZzlWNTl3QQ?oc=5",
           "source": "Bioengineer.org",
-          "published": "2026-11-26T03:23:03+08:00",
-          "summary": "Multispectral Imaging and Artificial Intelligence Uncover Heritable Architectural Traits in Human Facial Skin Bioengineer.org",
+          "published": "2026-11-26T16:44:57+08:00",
+          "summary": "Multicenter Study Evaluates Artificial Intelligence for Skeletal Maturity Staging Bioengineer.org",
           "summary_zh": ""
         },
         {
-          "title": "AI could identify psoriasis and assess its severity from a single photo",
-          "title_zh": "人工智能可以通过一张照片识别牛皮癣并评估其严重程度",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtblRZcjhYblVsOU1XY2ZjOExHZk1PNTdMN2tYSUpPRXBwX29GZGNlbURsVVQ4ZGV4WGZodm1BYzNUcXhwaFMwcURIN0daXzV4cVdtc0stM1k0NmpTakZqM3RudUI2WUpRU2xMd3FKc01CR0pqYUhKTWIyRQ?oc=5",
-          "source": "Medical Xpress",
-          "published": "2026-11-26T04:20:10+08:00",
-          "summary": "AI could identify psoriasis and assess its severity from a single photo Medical Xpress",
+          "title": "Algorithmic Constitutionalism: Reimagining Constitutional Authority in the Age of Artificial Intelligence",
+          "title_zh": "算法宪政：人工智能时代重构宪法权威",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeTNtSmNqV2lTTWQtczRCNzJLSEFGVDBKU0lXQll4a1h4cG9JU2o4VU4zbGNXclg0NFYwSHUyaWw3dVBuUjRZNzhOWGlEdzROb2owR3NBeFlVSWRFN0NxeTY4YjlHenlneTd5Y29ZdnZRbzEyZHB5TmZFR0lETmt5X0NnMU5PaHcyUlVWVHV2SlQwT3R0Yk0zSmZMOXBCX0M3NUxMclpWQm4ybmlrY2FYYVJsN3pCdjhSeWttY3NhcVVTY2JNWGpTT1pkTDRha2c?oc=5",
+          "source": "www.iconnectblog.com",
+          "published": "2026-11-26T14:06:15+08:00",
+          "summary": "Algorithmic Constitutionalism: Reimagining Constitutional Authority in the Age of Artificial Intelligence www.iconnectblog.com",
+          "summary_zh": ""
+        },
+        {
+          "title": "Are We Approaching a Breakthrough in Artificial Intelligence?",
+          "title_zh": "我们正在接近人工智能的突破吗？",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1BHRlBJcWhwa3F2ZkRya0hHV3FVWF9hZTZrdTJEcGRhNFplSUs2TmhraUI0LU5NSVY2SFBkV0RaYnk3a05XWFd1TFdzSWhINWNKM3NVZV96b1JZbjVTT09PX2RBNUM5RUUyVEF0bktQTTZwV3JRRHBRemdqMEdRLWh3VnNzbi1OMEV4cTZ0ZVJtRHhvU2oxMS1iM3FDeTNw?oc=5",
+          "source": "The Acquirer's Multiple",
+          "published": "2026-11-26T04:44:51+08:00",
+          "summary": "Are We Approaching a Breakthrough in Artificial Intelligence? The Acquirer's Multiple",
+          "summary_zh": ""
+        },
+        {
+          "title": "FedEx Preps 'Smart' Peak Season With AI and New Tracking Tools",
+          "title_zh": "联邦快递利用人工智能和新追踪工具为“智能”旺季做好准备",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYnh0ZDBBdVF3NzdFRVItYkNSakQ0QjBoeS00bnNOajNpZV9MTzhfbWplM09iN1FIMjBISjdhRnBoTklPR0sxZEFOYWxMN0Y1TWYtTUdqeUxoVm1fNDhQVTh2NU5kVFA1TDVIcy1RWGMtZC1MX011ZG5hVTlnS1Y1THpmNVJSMS1YMm9pV1JweUFpS25ON2FDNlI5eDh4Q0dNRzU2RF96Q2dDR2Ytdkt3cndSbTQySGpwQ2VsaGtwb19qLXpyOExYYjhobWNBU0QzZHRLYzZB?oc=5",
+          "source": "Commercial Carrier Journal",
+          "published": "2026-11-26T15:15:37+08:00",
+          "summary": "FedEx Preps 'Smart' Peak Season With AI and New Tracking Tools Commercial Carrier Journal",
+          "summary_zh": ""
+        },
+        {
+          "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+          "title_zh": "苹果因儿童安全问题将 MiniMax AI 聊天机器人从 App Store 下架",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNU9tZmh6STA3Ui1FY1FQaE9LMDgzQjJjV2xoZ3Q1Znlvbk5wdll2OXoyOUdxUHp2WEYteFpvTFBhVDZYbFozTXp5T0RpaE4zUUhBaDhiVDAxUkY2RURGQWFFaE1BRTVmdmdXTDh3UEdReDM5N0pjSjBzUXB3UEpPa05ma2ZoWDZhTzhJbTNFeDBfQllEWS02eHhST1FPRWI0VlRMOEhHanpvUjZpWkNPWEJLS1BlSllaZ25XeTRGUXF3bUZEcE5n?oc=5",
+          "source": "Reuters",
+          "published": "2026-11-26T13:13:00+08:00",
+          "summary": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns Reuters",
           "summary_zh": ""
         }
       ]
