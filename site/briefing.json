@@ -1,61 +1,43 @@
 {
   "date": "2026-11-27",
   "morning": {
-    "generated_at": "2026-11-27T04:30:01.016830+08:00",
+    "generated_at": "2026-11-27T17:35:55.652447+08:00",
     "sections": {
       "worldwide": [
         {
-          "title": "China and other US trading partners hit back at Trump’s new tariff plans",
-          "title_zh": "中国和其他美国贸易伙伴回击特朗普的新关税计划",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWQ3MnMzTlQ5Y2lUTW9RTzloTmp3MmtycjBUbmZUOTExYWNsVmlXX1JmLVJGYUYyRjNHSGV1b2hzLWhWclNBRDRZb2hyQ2UxSE9tYktjUTBKR2VDU2w1YlZlU0xaZ0JSMlQ1ZzhwMEJpSVk5N05XbHhnNi1ESktvTVNGNlZpMkNjX0dUNHdvLWJ2YTVqeDFv?oc=5",
+          "title": "Deadlocked final result in New Zealand’s election leaves a centrist newcomer as the decider",
+          "title_zh": "新西兰选举最终结果陷入僵局，中间派新人成为决定者",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUYyNjdXYjlOWm12Ukd3XzJLSUQwM1JtSlV3REh2bmIyWHdzelNCajRoNU4zYllONWRVLXRZY0pDVm16MVNtdWZzTlFmS0xMUHpzVFRIQnlVR2J1TlY2WE1zZVNZVmczeDA0cG50Y0VlSUk0SE1XRnBkOHgxU2hBdlJFMkpZdzZDWDFyUEo0alJ3QQ?oc=5",
           "source": "AP News",
-          "published": "2026-11-26T22:13:00+08:00",
-          "summary": "China and other US trading partners hit back at Trump’s new tariff plans AP News Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer Yahoo Finance Trump doubles down on his tariff agenda Financial Times Trump's new tariffs aim to prise...",
+          "published": "2026-11-27T13:04:00+08:00",
+          "summary": "Deadlocked final result in New Zealand’s election leaves a centrist newcomer as the decider AP News Christopher Luxon favoured for second term as New Zealand Prime Minister Reuters New Zealand election: final results show ruling coalition needs minor party to govern The...",
           "summary_zh": ""
         },
         {
-          "title": "Egypt tanker explosion kills 31 people as driver crashes into fuel truck in fiery highway crash",
-          "title_zh": "埃及油罐车发生爆炸，司机撞上加油车，造成31人死亡",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTJtLVRTTmczWXpYalJuY0hOeVNBWTFsU2xGVVc3TnhDVUFldHhCRU1lNEl6dFp2V0ROTTluYjQ4aFBUU0Y4SWF3NnNqWTkzQlg0NEFxMzI2RW9ibF9DTGVvZGVzVjFSX0lmem1ZR0V3Qm5kaGFFZHJxem9JbXJ0QQ?oc=5",
-          "source": "CBS News",
-          "published": "2026-11-26T19:27:25+08:00",
-          "summary": "Egypt tanker explosion kills 31 people as driver crashes into fuel truck in fiery highway crash CBS News Egypt detains driver suspected of causing Cairo fuel tanker crash and inferno that left 31 dead Fox News At least 31 killed in fuel tanker fire near Cairo, Egyptian...",
+          "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+          "title_zh": "两名意大利人在科威特无人机袭击中丧生；特朗普称伊朗战争“只要我愿意”就可以结束",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdZWk9aY1VrSmlEbExnWV93RnFxTDFwV3RLdjhtYW1SaXU0aXJCbGJBRUVOS0FramRyaVdva0VwUWRLQlBZdHcwYktUWVlwaEp4MTNEeUN3Y2Q1bi1RUG5TRTZoWlY0S2lFUVpqSVF3NzJQZ2hiUGFjU19LTW93cERfYzNNY3VKalHSAY8BQVVfeXFMTXlQSEhkZ20xOFJXTzlvczJPelo5S294dENlYTBpMzAxVHVxeHhFNUk3eHZVYVQzY0t6cWZ5T1hEYUdjbkc1SmROUVVTVWc4Mjdza3FYNXplRTE0Qk5NY1NyTTNwdEN6Z2JyWEJhOVRVd3RVOVRoTVlubGNUYTBsWS1zTkZ3czV6WThYWkk4RVU?oc=5",
+          "source": "CNBC",
+          "published": "2026-11-27T11:30:00+08:00",
+          "summary": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ CNBC Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’ Al Jazeera Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement CNN Live...",
           "summary_zh": ""
         },
         {
-          "title": "Andalusia offers a glimpse into Spain’s future as far right gains ground",
-          "title_zh": "随着极右翼势力的崛起，安达卢西亚让我们得以一睹西班牙的未来",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXpUcklwTHA5UDJDRUF5LTlpdDVEZGwxX2xtSWtMRVdEb21RalNybUU4N1ludjI2eWQ1Ym9jUTU1Sk5IX3J6ZzhoSGoxSjl4QzRoR1FvQ3U1bXBRZG9uRlRGNnN3eFROcnpRYUsyLXNqQjdadlo2ZXJOQU9DOUdrQV9yUlo5WERBa3FiYWNxcnRXTnlZbHViSlBicmU1emJHdlkyVW9oR2Z3TV8yQl9HVjA2d1VaZ9IBuwFBVV95cUxNN3ZHMm1uLW9keS1GdW90RDZZSXE4NFJkR1RsblRxTEhCbnNxTXBMR25XamQ1eXNZOUFQVVpyajNYb3V0U19KR3BxeVlPNVQzSHJITjRoS2I4ZWR2a3VJUEEyeWZWZ1BxcnRIN3RxLTVVWjFGQk9ZQmpOYld5U0NMVGV2enJSRmlORmo1SGZiVEVLWloxa0c3WTRqdV83Y3N4NklzVGR1dkRlSTRkZ0Q5RUZTZDZaRGlTRHVv?oc=5",
-          "source": "Al Jazeera",
-          "published": "2026-11-26T23:16:04+08:00",
-          "summary": "Andalusia offers a glimpse into Spain’s future as far right gains ground Al Jazeera Opinion | I Worry the Spanish Are Nostalgic for Franco The New York Times Spain’s Anti-Trump Hero May Be Headed for a Fall Bloomberg.com Spain’s far right hasn’t governed since Franco....",
+          "title": "Macron accuses ‘arrogant’ Le Pen of speaking as if she already won",
+          "title_zh": "马克龙指责“傲慢”的勒庞，说得好像她已经赢了一样",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0ZTelJyTGVBZ1llRS1odGNZRzhXUHQtdGtkWmVucEQ2TkhvN0FJeFBRY3dyTHhTRXBEQjlDM3cwWmdvUE1KWDBpZUpTdmJxVEw0Z1RmN1hEa3ZvQnRCdXQ4SHF4UEhnd1dyREhZcmxMRFA1aWFubzRtNU5rZFhlUkNqVUVpZU9tVTdqUklFMkVrbkNBN042Q0M3djcxVXNIa1hkMndR?oc=5",
+          "source": "POLITICO.eu",
+          "published": "2026-11-27T06:39:00+08:00",
+          "summary": "Macron accuses ‘arrogant’ Le Pen of speaking as if she already won POLITICO.eu EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear The Guardian France and Germany want deal by year-end to 'Le Pen-proof' next EU budget and Ukraine funding Reuters...",
           "summary_zh": ""
         },
         {
-          "title": "Passenger flights diverted as Kuwait intercepts Iranian drone attack",
-          "title_zh": "科威特拦截伊朗无人机袭击 客机改道",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTVRaEJwRjVGNTBMemFRQ0NEYlAyZktOd2lhbV9iV2tNbjFmVVBKR2ViSW51RzBKS003TXFXNl82TVBZYm5zUnJ0UzhOdjVHMXY5cVNjS0FXblVwcGdiMWxHU0taNjFNUi1LcFZKbzRKdVkyOGhSU2dWelpCTWNSZk0zcmI1bWZWWHYtNmlOd3hSbEgtLWJZVjd2b3ViVjlVVWlIR0tRbzdrd093?oc=5",
-          "source": "Euronews.com",
-          "published": "2026-11-27T02:50:53+08:00",
-          "summary": "Passenger flights diverted as Kuwait intercepts Iranian drone attack Euronews.com Iran war live: Tehran denies carrying out drone attack that killed 2 Al Jazeera Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement CNN Two Italians killed...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
-          "title_zh": "特朗普表示，他要求普京“撤回”整个欧洲的军事侵略",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
-          "source": "Reuters",
-          "published": "2026-11-27T00:31:40+08:00",
-          "summary": "Trump says he asked Putin to 'pull back' military aggression throughout Europe Reuters Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened The Guardian Ukraine war latest: Trump calls on Putin to pull back all military aggression in...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-          "title_zh": "刚果埃博拉疫情已达 12,000 例，部分急救人员撤离",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uQzZ2Z05RVGJOSUNFUUc5MkFqWG01c2FkQjA0TllLdGY2cGc2MFplakYwWFVlcGFiWVlIdy1FWnAzVkJIejNtMk9FU0Z2QWhfUXFVSW9Qd2UwV1JiaGlKRjVVYi1qZ0NYOE1yT1BTRlNRdGc?oc=5",
-          "source": "NPR",
-          "published": "2026-11-26T21:47:09+08:00",
-          "summary": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate NPR Fighting in eastern Congo forces Ebola workers to evacuate, threatening outbreak response AP News Fields of graves: Hidden deaths reveal scale of Ebola disaster Reuters Ebola’s Death Toll Tops 5,700....",
+          "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+          "title_zh": "费萨尔·伊斯兰：为什么特朗普的新关税威胁较小",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lV1N2Q2hJZWtleVhlNEFZQWpyWjAtUlg4cGVhcVh4VVcweGhHdnFlMkNIdFFhMkE0Z2wxb0tYSFptZDhHZnhCN1F6bXVwNVZEREdRd1VUdlZ5YUE?oc=5",
+          "source": "BBC",
+          "published": "2026-11-27T03:55:58+08:00",
+          "summary": "Faisal Islam: Why Trump's new tariffs are less of a threat BBC U.S. tariff-hike threats pile pressure on partners to sign trade deals CNBC As Trump targets 14 major economies with new tariffs, China’s $203 billion export surge into Africa presents a new economic dilemma...",
           "summary_zh": ""
         },
         {
@@ -63,26 +45,8 @@
           "title_zh": "德国：两名涉嫌策划犹太教堂袭击的伊斯兰分子在海德堡和科隆被捕",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTJjem9wYVZqdmdGdDlyX2c2YS1PX3N0SVRPNVlQb2xNTkxGNHg4dXhlVkF3Q3dMRTdmdE1GTWpLNEVILXA2b1ZEd2o1N1NHSzVPV3RVM19UY2dnSmx3TWtVb2hETDZ4eDNsdTBJNnkwOTI5c0d1VzV6STM4TFIzRUZWUHRPRmVMeTRvVDlhRmtmaDVU0gGUAUFVX3lxTE5WQ2ZSLVF6VTZ5WFNtYXRnUjFRcUNzMU90TWZrYzBnSlNVR2w0XzE1Vy1GbkRMZXRsTXVJbHpDNl90SWgtT0c1VVY5OWkxdTRnMnY3N0FhSlduRG1xXzVQcUw4Y1RKR3ZzVHFqRzJTaVRQS2R1Q2dtRWw2bGczamU5Q2RaVzdwOWExaGtUSFVrMTVIdWM?oc=5",
           "source": "DW.com",
-          "published": "2026-11-27T01:05:49+08:00",
+          "published": "2026-11-26T18:34:55+08:00",
           "summary": "Germany: 2 suspected Islamists arrested in Heidelberg and Cologne, suspected of plotting synagogue attack DW.com Germany arrests 2 Iraqi nationals allegedly tied to Iran-linked terrorist group CBS News Germany arrests Iraqi duo over alleged synagogue attack plots The Times of...",
-          "summary_zh": ""
-        },
-        {
-          "title": "US warns EU leaders against Big Tech tax",
-          "title_zh": "美国警告欧盟领导人不要对大型科技公司征税",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmFaekZkXy1DMFpvdmFRMkpoSnVwcm45d2dZYnFDeVFma1hBUURCb0RPNDFKdVdSajZ2Znk1Y0ltZDlYODVYbTFBTFlxVExKVzY2My1tVzF5NnRNXzZpRExpQ0FjU3MxaEhORTdlM2tWWWxzc2o5XzVBRzV3NlZ2MVVMZGV2MWkzZnI2ZDJsaW84WmY0azEyVQ?oc=5",
-          "source": "POLITICO.eu",
-          "published": "2026-11-26T19:21:00+08:00",
-          "summary": "US warns EU leaders against Big Tech tax POLITICO.eu EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear The Guardian EU leaders wrestle to 'Le Pen-proof' budget and lock in Ukraine funding Reuters Paris and Berlin seek to shield EU budget from Marine...",
-          "summary_zh": ""
-        },
-        {
-          "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
-          "title_zh": "英国净移民人数降至 1997 年以来的最低水平（不包括流行病）",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdFJ3YnVfVDdIay1IYTExN0MyU3cwM0dzSlN4ZENuLU9TVGVndF9YQ1BDVXhyczh6SVZZLXJERE1HRmpja0RKN1lOMWpXeEltWXRzeFBNa3FzLWZ6ZXJQR29uanc3VWpVOE84ZTZNdmVLYjJ3SkxLRUR3ZElOTjA?oc=5",
-          "source": "The New York Times",
-          "published": "2026-11-27T02:52:50+08:00",
-          "summary": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic The New York Times How much of the sharp fall in UK immigration is due to Labour’s policies? The Guardian UK net migration at lowest level since 1997 as asylum claims also fall BBC Labour cannot claim...",
           "summary_zh": ""
         },
         {
@@ -91,103 +55,175 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XSG11OFNDMy1CT0lldVd0S21WUVE4SERyVUFSRWpqZUw1LXo0MEdVWmJWNWpjaWcxUGVXeVREcGt5SGplbzZsQURVdUVJZjZZQkEyMUh1cHl4RXpxV1pDblUyNUkweXJ5THRiNWJhSGNQMm14QVdFS2IyUEZyQQ?oc=5",
           "source": "CBS News",
           "published": "2026-11-27T00:18:46+08:00",
-          "summary": "How the Black Sea front in the Russia-Ukraine war is threatening to pull the U.S. into the conflict CBS News Here's why the Black Sea matters for NATO in the Russia-Ukraine war Yahoo Romania seeks bigger German role amid Russian provocations Arab News NATO’s large-scale...",
+          "summary": "How the Black Sea front in the Russia-Ukraine war is threatening to pull the U.S. into the conflict CBS News NATO Faces Disputes Over Article 4 and Black Sea Security Военное дело Romania seeks bigger German role amid Russian provocations Arab News NATO’s large-scale...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Serbia's new student-led government proposes a 4-day work week and no reality TV until 11 p.m.",
+          "title_zh": "塞尔维亚新学生领导的政府提议每周工作 4 天，并且晚上 11 点之前不播放真人秀节目。",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLU5NTTVyOG9veDF6djk1QmJvRTQzMzZEMWFOc05yOXllaDVoRVQ2dGtkSzVDcWhiaUhMM0JYUnZFQUwzUnJRemZNdU5uM2VVa19HRFR3eUMwVjM4U200WHhUZWZ1Y3paeE00b1JqenUyNkg1X0NBSlVVTDFlanBjeUNTY3ZXOU9nR1ZUcFdGLUo?oc=5",
+          "source": "CBS News",
+          "published": "2026-11-26T00:59:40+08:00",
+          "summary": "Serbia's new student-led government proposes a 4-day work week and no reality TV until 11 p.m. CBS News How Serbia’s students devised a winning strategy to bring down strongman Vucic AP News Serbia's student movement yet to name prime minister as deadlines loom Yahoo The...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+          "title_zh": "刚果埃博拉疫情已达 12,000 例，部分急救人员撤离",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uQzZ2Z05RVGJOSUNFUUc5MkFqWG01c2FkQjA0TllLdGY2cGc2MFplakYwWFVlcGFiWVlIdy1FWnAzVkJIejNtMk9FU0Z2QWhfUXFVSW9Qd2UwV1JiaGlKRjVVYi1qZ0NYOE1yT1BTRlNRdGc?oc=5",
+          "source": "NPR",
+          "published": "2026-11-26T21:47:09+08:00",
+          "summary": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate NPR DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east Al Jazeera Fields of graves: Hidden deaths reveal scale of Ebola disaster Reuters Fighting in eastern Congo forces Ebola workers...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Trump Says He Told Putin to Back Off Europe, Calls Ukraine ‘Bloodbath’",
+          "title_zh": "特朗普称他告诉普京退出欧洲并称乌克兰为“大屠杀”",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbU5CQUptYzlNTnJlbW5YZ3pQTGN6VkJVdW5KVTNUS2REMUo0QTFjbFpKeXpJQTZYb1ZRN1lIMGlIYlNvdk03WjdnZmhXN1FPUlNUYjVFdFBSZlRHNm5JWUNBQldwT3FMQVQxTnVORFc4YVd3Tm9SZFNWWV9leEFTd3JFYTI3dVJYbXZkYTFocG1FTWc?oc=5",
+          "source": "Newsweek",
+          "published": "2026-11-27T01:21:00+08:00",
+          "summary": "Trump Says He Told Putin to Back Off Europe, Calls Ukraine ‘Bloodbath’ Newsweek Trump says he asked Putin to 'pull back' military aggression throughout Europe Reuters Trump says he urged Putin to 'pull back' military aggression in Europe DW.com Trump says he wants Putin to...",
+          "summary_zh": ""
+        },
+        {
+          "title": "Spain’s far right hasn’t governed since Franco. Immigration fears could change that",
+          "title_zh": "自佛朗哥以来，西班牙极右翼就没有执政过。对移民的担忧可能会改变这一点",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFRWOV9leVJ1NUx5LWV3T0kxMjVidmV2cEY1UmJnRFBJRmFlWlVPLW9HZUEzZnVEU01PSXlHTTJucGdxN0hLUzZrd2YtaEJxb2RJS1JySXlVNFNYdElMZVo4MXRCeHpTRURxN2ZaVngyQUduUW81YTFDLXloV2QtQ3NEOUdkVGpYd0F4S0VrcExPdlB0RnRLUVNRVERwQjg?oc=5",
+          "source": "AP News",
+          "published": "2026-11-27T01:10:00+08:00",
+          "summary": "Spain’s far right hasn’t governed since Franco. Immigration fears could change that AP News Spain general election 2026: polls, Sanchez vs Feijoo and what happens next Reuters Opinion | I Worry the Spanish Are Nostalgic for Franco The New York Times Why all of Europe should...",
           "summary_zh": ""
         }
       ],
       "china": [
         {
-          "title": "创意微视频｜鹏程万里",
+          "title": "“我们为同胞进入中国空间站而自豪”——巴基斯坦各界热议中巴航天员携手赴“天宫”",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByVi1yM2dwUjY3bHJWQlE3dmkxazNzUXpkS3FRX3I0T19Wd3o1WGpHNkV4SkhpUWF0SEpkNkc3MWsyOE9WdFRaNVNRWmo5MXNWeHhsVzJ1NjRCVW9VVjZmaE1VNnJYTEpQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DM3JPQ3FqMFdKaHI3czU0M3prM3JDMzlqMURnU0lMYVVIN2VzTTBYZjBxSmtaVnVVc0RQYlN3dWZ6VWMyOVNDM0l3Z2pTOXdrYWdIRDZWQzE3aUFiNExfdFIwUXZraXZz?oc=5",
           "source": "中国新闻网",
-          "published": "2026-11-26T20:51:05+08:00",
-          "summary": "创意微视频｜鹏程万里 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
+          "published": "2026-11-27T15:37:54+08:00",
+          "summary": "“我们为同胞进入中国空间站而自豪”——巴基斯坦各界热议中巴航天员携手赴“天宫” 中国新闻网 巴基斯坦部长：“天宫”之旅承载着巴基斯坦的发展愿景--国际 人民网 联合国：中国在和平利用外空等方面发挥重要作用 新浪财经_金融信息服务商 【新思想引领新征程】开放合作推动航天事业造福全人类- 中国日报网 China Daily 神舟二十四号丨天宫日记：有朋自远方来 新华网",
           "summary_zh": ""
         },
         {
-          "title": "呼和浩特盛乐国际机场正式投运",
+          "title": "APEC观察|世界湾区经济合作联盟将打开怎样的合作空间？",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQkpBQXJQam1zTUl0bThOczNsNUdyMGV6eWVHelRwai1vUzJlN2lrd2tqdmwwaVV6QlhGZUJLa1NDSHIxVGc5SXpGbFNTZnRMeTBJX2ZUbEdhV1JYTThxX2dzUkhJX3JwSEdXYQ?oc=5",
-          "source": "中国民航网",
-          "published": "2026-11-26T22:05:00+08:00",
-          "summary": "呼和浩特盛乐国际机场正式投运 中国民航网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIOGlNbnZHUGJ6Yi1vLXFwMjY2S3BSVENKQU5pelR3OVI3SE9ZOUk5WU5wdHJUU3F5a0daeTBRa0pXN0NUVFJsWFA0QVpBSGctVTExZ2xjX2ZCbVBGRXRRWVV6UG0?oc=5",
+          "source": "新京报",
+          "published": "2026-11-27T11:36:00+08:00",
+          "summary": "APEC观察|世界湾区经济合作联盟将打开怎样的合作空间？ 新京报 拾光纪·习近平深圳时间的时代回响 新浪新闻_手机新浪网 中国为深化亚太合作提供了丰富选择 光明网 一见·APEC会场之外，外方领导人这样看深圳 中国网新闻中心 以开放、创新、合作书写亚太共同体建设新篇章--经济·科技 人民网",
           "summary_zh": ""
         },
         {
-          "title": "神舟二十四号丨天宫日记：有朋自远方来",
+          "title": "中蒙俄国际旅客列车顺利抵达乌兰巴托",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TdDJscWpNNExESmZOb0ZCekFaaXpVRlAwQWRyeDR4UVoySHFZeXBPdkFLbHBha1BuV1VYZi1PcWxsWFY2TGZyeFRhd0wxX0YzWERZMmd1XzBiVWVXdVZCV29YcVhGVXdLeXdSUk1zMU5xeGRhOTE3WjZLZFBJQQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUXEwNTIwYUFpdHMzUU9CUEFkTVA3Sm85YmVqU0FUbDRacklYaGdhWnNTSEQ0dUJWZmpLS19zVHJDYlliREVsV0hPLV80bmxlUlNzYUhsbnQzV3JfUmcwVE1POEMyR2docDd1SDYzcW13SWVWWXlPbW92OUJNdlJtR1BfNWZ5dw?oc=5",
           "source": "新华网",
-          "published": "2026-11-26T21:13:27+08:00",
-          "summary": "神舟二十四号丨天宫日记：有朋自远方来 新华网 中巴航天员携手进入中国“天宫”在巴基斯坦引发热烈反响--国际 人民网 这些合影，意义非凡 新华网 这次“太空之约”有哪些新看点？ 新浪财经 日月谭天丨岛内舆论“扎心”追问：大陆在摘星揽月，台湾应向何方？ 凤凰网",
+          "published": "2026-11-27T09:02:46+08:00",
+          "summary": "中蒙俄国际旅客列车顺利抵达乌兰巴托 新华网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "新华社国家高端智库发布《江河穿越千年涵养时代文明——从都江堰看江河治理的中国智慧》智库报告",
+          "title": "独家：三份安保文件修改方案提及中俄朝加深合作",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYmlfLS05OHNzS3BOdXVVQlV2ZVA2M0oySzM5SGNUVGdyaElOUnhjb2lEOXJmT1pkLXBFV1hxYjJHc1J1WXhNUldtV2RTVjBlY19pMnpLampmSHVyLXRhZlZuQ1JFYk1TQmhyWWVna0p5UURvTUl6Wk5aS21KUnlKcGVLbURhUQ?oc=5",
-          "source": "新华网",
-          "published": "2026-11-26T23:19:06+08:00",
-          "summary": "新华社国家高端智库发布《江河穿越千年涵养时代文明——从都江堰看江河治理的中国智慧》智库报告 新华网 “都江堰·江河战略论坛”在成都举行 新华网 中外嘉宾齐聚蓉城 求解“治水之道”如何通向“治国之道” Sohu 江河安澜 水润天府——四川治水兴水高质量发展观察 浙江在线 要点海报丨从都江堰看江河治理的中国智慧 中国网新闻中心",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QN2MycjVKNzVROHk0Y1NRQnh4a19USWRlTGZNOVNWYmRiRDFXNWRzR2p2eWpWU29xWC16WXNVb1VYZElfM3gyRi1oS0pQNEtCQVRQT3Bydw?oc=5",
+          "source": "共同网",
+          "published": "2026-11-27T10:13:00+08:00",
+          "summary": "独家：三份安保文件修改方案提及中俄朝加深合作 共同网 日本民众：政府应铭记历史教训 高市正将日本推向危险路口 新浪财经_金融信息服务商 在北海道部署远程导弹，日本想干吗？军事专家：日方危险动向需高度警惕 凤凰网 执意推进修订“安保三文件” 日政府被批“自取灭亡” Sohu 日本拟引进新型反舰导弹，此前已引进美制“反航母”导弹 ThePaper.cn",
           "summary_zh": ""
         },
         {
-          "title": "美国拟对14个经济体加征301关税，中国商务部称坚决反对，而其他贸易伙伴与中国的摩擦可能增多",
+          "title": "习言道｜探索浩瀚宇宙建设航天强国_时政要闻",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPeWhaWjdTdHFpQTg1MFVpaTBDQTMwa2R4RmVsT0hWZnFzREJlbEhOOHRtcjV2WGlkYkI5WG8tRWJjMHNsRVJQXzQ4S0pYUy04Q0pTdkJjX21wMC1iQndTMmdURVBPZDZsbWYwczB0aVdtT1Y5OEo2RTVoZ1dzN2RBdnhGRXJqZ0VZcVVPT0RxRjBRcHhndDAwN2RTZjRCWmI2am5xeVRMcWd4YmVlR3dCQ2dyUnAzOTN0b3RucVRRTzhCMFVXUHBsbmlvQ1VoYWp2aS1uZGRIUVVhZmZoS1RFMmRMYWJIbU1uczd0SmxwREFSVmIwd25uUUZ5b0FDYldIOGhjc0I2MDlkTjR6Zlpab3lQUE1pRDBtVXFUZnRFazBxRTE0elh3YkxkZGs5SnNRSHBmUmhBNE5fUXZNeDJwVENQTm9YTVlhSDBVT3BNbG5xZmpYYkdaMWtsdDNTTk9OUjFMeklCbldBcVNyX05tQk50SlA4amdWbnVBcUpEbWFFdDRkZ2JrYlB2aUdZNjdjSlZJUnVYT1IxN3JNMXNERDY4cGF1TkgtRzlFdVRhMEJrQdIBsgNBVV95cUxQUjJ5Rko1T3VaN3dzRmJZenRxbk9EamRwdUFmbVdzbUllUVJraXB4TWF3eGk4ZjJiaDczTS0xMnFqNE9EVEN2bDFuRm5PLVNEaml6Nl9TSGxzb2w4WFZmZlVYWVJaYS14czY3YVlQZS1oNUlGWTV2eEJLTDYwQXpkWE1iZlVDUHB6VllCN1VDYjNhbTQzQk9xT1M4a3hIN1A4VnlBZkRsVlBOdnVvZXQ5LUFubUV1NWFzbGdoY2piRHlLcUZUdWFBSzVjbGxkMGkzRnc3bDU2SEgybEVPa0VTcFNBN1F4ZHNVUE5aaXlLYkl0X19wNEJBOGdtOG1sSW9pR05IdXVqN0ptRkh0OGZwTmFEdmlmN3duSW83ZndwVkczRU15WEdHUTdSQ05CLVV4Yl9WZ3R5NnNwbFVYTkQ5dmF2OHpQMmZKVFdjOXo0SUJ6SFNDbUtDcWUyYXhTMDlQU04xUklaYVkxVzR1T29KOXVNd0RJd1Y5SXd6dVV3U2wyd3NZcXN6aTVJV01SNS1Hb0NtaFVocDI5cGY5Q1NKVjZ5dVRrUWhrYVE1VkhyeG9mQQ?oc=5",
-          "source": "DW.com",
-          "published": "2026-11-26T20:33:27+08:00",
-          "summary": "美国拟对14个经济体加征301关税，中国商务部称坚决反对，而其他贸易伙伴与中国的摩擦可能增多 DW.com 美方称针对中国产品关税可能会增至40%，中方回应 凤凰网 美国公布３０１调查结果 拟对中国、台湾等14个经济体加征关税 美国之音 商务部：坚决反对美对中国等经济体加征301关税 东方财富网 301过剩产能关税落地后，美国整体关税税率如何？ 财新",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZOUhiT21JdHdxc2lPa1VqZGUwZXJsLWVyVGVGdDJTM1ZIY0wxN0dfem1uMGpCUjFzWTl3S1JXUTJZU1F0UmctQUVVZVJVY3dYYXZjN1ZNb0hWaVlURC1CSFJKQmpXZ3hURE1hNVEwMFlXajJ6b0lkRA?oc=5",
+          "source": "中国台湾网",
+          "published": "2026-11-27T08:37:00+08:00",
+          "summary": "习言道｜探索浩瀚宇宙建设航天强国_时政要闻 中国台湾网 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "李强会见亚洲开发银行行长神田真人",
+          "title": "郑丽文预料不出席蒋万安凯道选前之夜",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EcVJLZGZZcTJkWEdmZFlCQldFcDlCSnVwVHNlcHg5OFFnWWtOSXRBdWRpN3hxZlllWTE5VjVzbEFIdmVKUDVXNnV3T2RrR0I2QkdLbmx0YW9rOTlvOW5XQWJCUk11VnVIdkdPXzV3T2E?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-26T22:10:08+08:00",
-          "summary": "李强会见亚洲开发银行行长神田真人 中国新闻网 伊朗军队防空部队在波斯湾上空击落两架无人机 手机网易网 AI服务器制造商慧与科技美股盘前跌超10% 手机网易网 14万亿大震荡 黄仁勋复出背后的财富大洗牌 中国新闻网 中柬“金龙—2026”联合演习开始 中国新闻网",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IZ2M1Rmh3RWkxaENxMk5nYlUzeDVQclU4dUxnWmdOb1Y2aWN3bEd1TEdxQndrRE5zM0dUeVNIY0NmMUZJSmR0ZjdpSTdHa1dzWWxCNm05OF9uWFZpcW9wSk5PeGdGMXRQNUhF?oc=5",
+          "source": "联合早报",
+          "published": "2026-11-27T10:27:24+08:00",
+          "summary": "郑丽文预料不出席蒋万安凯道选前之夜 联合早报 台北选战黄金周 蒋万安车扫 沈伯洋办行动展 大纪元 蒋万安与蓝营议员候选人启动车队扫街全力催票 https://www.hkong.cn/ 蒋万安扫街惊喜见到88岁吴伯雄 蹲身拥抱 中国评论新闻 台湾九合一选举｜蒋万安启动全市车扫 盼市民再给4年 China Press",
           "summary_zh": ""
         },
         {
-          "title": "福建 在中国式现代化建设中奋勇争先",
+          "title": "李强将与全球主要国际经济组织负责人举行“1+10”对话会",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vU2RkMm1uQXM3MjhDYzNvbmp1a1ozWU1tSE4zVGRYOWdtZUdXU0lydUdDaWZpdXg4RzVoZHN6YnV5NVlOWTVsbXo3Uk1BWHBYTV9PVmNBQ0ZSbzQ1bWxta1VHTlRSLWl0b2x5d2hEb0JwaTNkZGUzQnU0c0ZLY1U?oc=5",
-          "source": "人民日报",
-          "published": "2026-11-27T00:15:04+08:00",
-          "summary": "福建 在中国式现代化建设中奋勇争先 人民日报 福建省第十二次党代会报告，一图读懂版来了！ 手机新浪网 中国共产党福建省第十二次代表大会隆重开幕 新华网 省第十二次党代会主席团通过多项名单和报告 凤凰网 奋勇争先立潮头——写在福建省第十二次党代会召开之际 央视网",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nTDJDWXIwTTFMRWVrZC1XdkloYVpLU0RJNFFjTE5McG1NSEhVMndrRkMwd0k0SVRFM0tGSVBkS3pxR1hHaDV0ZWplRlJWdXRY?oc=5",
+          "source": "第一财经",
+          "published": "2026-11-27T14:52:17+08:00",
+          "summary": "李强将与全球主要国际经济组织负责人举行“1+10”对话会 第一财经 在Google 新闻上查看更多头条新闻和观点",
           "summary_zh": ""
         },
         {
-          "title": "中国共产党内蒙古自治区第十二次代表大会举行预备会议 王伟中主持会议并讲话",
+          "title": "【全景看报告】今后五年会是什么样？江苏定下奋斗目标",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NNXhNVjI0VlZwQUcyVzdCTklwZXlXZ1gwRkZFTGw1bjZZVGxqdlk4VFlwVXRkeXdCQ2hyLUJtNnUtSG1KRHZSOUlYX1UzcndiRTZ4TVVLTTdyTTAwMmVYZU1n?oc=5",
-          "source": "手机网易网",
-          "published": "2026-11-26T22:18:19+08:00",
-          "summary": "中国共产党内蒙古自治区第十二次代表大会举行预备会议 王伟中主持会议并讲话 手机网易网 这五年 · 内蒙古答卷丨石榴花开 籽籽同心 Sohu 内蒙古自治区党委关于深入学习贯彻习近平总书记在乌兰察布考察时重要讲话重要指示精神的决定 网易新闻客户端 中国共产党包头市第十四届委员会第二次全体会议公报 包头新闻网 出席自治区第十二次党代会代表抵达呼和浩特 正北方网",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DZTVOYXZYc1ZuN3BTc1pHV1dYaU13QWxHUEwyN21zcEladUFwaVRzT1Z5WlhNdkRnZlRyMUZRWmhZcEZXMS13Sm9TVVpfM054TzhlbGlCNzl4NU5zaDRROA?oc=5",
+          "source": "盐城要闻",
+          "published": "2026-11-27T15:07:00+08:00",
+          "summary": "【全景看报告】今后五年会是什么样？江苏定下奋斗目标 盐城要闻 省党代会里的泰州答卷：“苏中支点”何以挺起脊梁？ 凤凰网江苏 568万分之一，每一份实干都算数 Sohu 锚定“世界一流”目标，园区代表这么说 苏州工业园区管理委员会 AI问2031丨江苏人的幸福清单再扩容！ www.ycnews.cn",
           "summary_zh": ""
         },
         {
-          "title": "多边跨境铁路客运再扩容 中蒙俄国际旅客列车开行",
+          "title": "视频丨内蒙古首座4F级机场来了！呼和浩特盛乐国际机场启用",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ocmd1N1A1Q09ieWhqdU9WRmxmSDdDdW9MQUY5NUhiRndyRWxtMF9hOFBvTVViOUsweXZyLUZiRU80SWwtM1dONmhGXzlxVmxqMUh3ZXVZWnZ3N3BONEY5NzRR?oc=5",
-          "source": "中国经营网",
-          "published": "2026-11-26T14:55:00+08:00",
-          "summary": "多边跨境铁路客运再扩容 中蒙俄国际旅客列车开行 中国经营网 “新名”“新车”新期待，一路驰骋向未来 新浪财经_金融信息服务商 二连浩特口岸：保障中蒙俄国际旅客列车顺利通关 中国日报网 中国去俄罗斯的王牌火车，终于开通了 凤凰网 从长城脚下到贝加尔湖畔 中蒙俄国际旅客列车首发 新华网",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVDF2ME1UcFFrbDM3R0VPdHlnM0I4M3NfZVo2UXVDM25CUjFIYmctTllMVUhRLUFPN1FsTlo2M3lKUVBYaVVKcGtCVERqTzZ4Wk1iTFpOT3FITEVvYzA0ejZUQlh6VExOaVhqLTdQRGd3aTNET2Y5ZVdpUW8zakh6azhwbF9kWlJBNkV4Ng?oc=5",
+          "source": "Sohu",
+          "published": "2026-11-27T12:48:11+08:00",
+          "summary": "视频丨内蒙古首座4F级机场来了！呼和浩特盛乐国际机场启用 Sohu 4000亿级“弱首府”，等来了一座4F级国际机场 凤凰网财经 呼和浩特盛乐国际机场正式投运 中国日报网 51个机场赋能内蒙古“腾飞” Sohu 呼和浩特盛乐国际机场正式投入运营，系内蒙古首座4F级国际机场 ThePaper.cn",
           "summary_zh": ""
         },
         {
-          "title": "冷空气持续发威 广东最低气温跌破10℃",
+          "title": "锻造堪当民族复兴重任的高素质干部队伍",
           "title_zh": "",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kdXUyUkhYQ1NnVnI4NldpWmFlMkFxckpRZDlLaFRoOWFYMWRlZTVUbTNPcjQwY3Q2TUZOVzkxSTB0Z0U4LXVMWmRSTUk2MXpQZEFzeDBfZ3NRb0JBUzYyMXhOZ3l0X0dM?oc=5",
-          "source": "中国新闻网",
-          "published": "2026-11-26T21:56:42+08:00",
-          "summary": "冷空气持续发威 广东最低气温跌破10℃ 中国新闻网 在Google 新闻上查看更多头条新闻和观点",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wb19qUE1kYUdQdjYxUDVaOEJUVHJPOU9aVzcwVG5MVXBYdFdCdUd2QllGSk1ERmMxNHpWdVVmWnFraTMyM1NuNlpZSkRLdmM5RjlCb1FQaFY2UWE0ME9tRjFaZXVPZzFXbUE?oc=5",
+          "source": "中国共产党员网",
+          "published": "2026-11-27T10:29:00+08:00",
+          "summary": "锻造堪当民族复兴重任的高素质干部队伍 中国共产党员网 北京市学习贯彻党的二十届五中全会精神宣讲团市委农工委系统报告会举行 北京市人民政府门户网站 时代答卷——开创管党治党 兴党强党新局面 中国青年网 江西省委宣讲团深入景德镇陶瓷大学、景德镇学院、萍乡学院、鹰潭市、江铜集团、江西师范大学、豫章师范学院宣讲 凤凰网江西 辅导报告：生动·精彩·解渴 最高人民法院知识产权法庭",
           "summary_zh": ""
         }
       ],
       "ai": [
+        {
+          "title": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI",
+          "title_zh": "人工智能与人权：人工智能时代保护人类尊严",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkNaQVc5dl80NUF0OE9TU0lIZ3ZGU19ZdGN6UHNTMW9mXy1PVVVKMzV5anZ3bTg3TDcyNE9qajRTOWxUaVl1TDZGazI2VGhFM2dZSkNJWHdhN3JKaE5DS1BVME02MDJlbmIwT0VqT1ZDVk5RaTg4M3U2TEFkTWlmeTVXTjQtVFpycWtXeUpxVUtXcG9nSHVFVTM4S1JsZUJUQmFTbDJaSFBQWGM?oc=5",
+          "source": "UNESCO",
+          "published": "2026-11-27T02:09:15+08:00",
+          "summary": "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI UNESCO",
+          "summary_zh": ""
+        },
+        {
+          "title": "As Google threatens to cut schools’ search access, Los Angeles blocks AI features",
+          "title_zh": "由于谷歌威胁要切断学校的搜索访问权限，洛杉矶封锁了人工智能功能",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX28yVGlpUUl3UEpZMGJaTDRFbXBWR09uX1diWWotVXFuQ2JOTDlZRVVCUXRtN3FyUUNzczI2SG9sTXZXanlELUZfYU1YTHZ3enQ1NUoyUGU4NmwzNzJYV3l5ZjM0cHF0NHlhMDl2R3gwaWROaHREY3Zrd3BBd2hHd202WnFqWTJwSF9pSThfUk5wRV9TQkdBVC1zc09hbHh6M1BVVHJ5MUdmc2JzQmJ2YUJLaEkzSGJXNHc?oc=5",
+          "source": "AP News",
+          "published": "2026-11-27T13:01:00+08:00",
+          "summary": "As Google threatens to cut schools’ search access, Los Angeles blocks AI features AP News",
+          "summary_zh": ""
+        },
+        {
+          "title": "1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027",
+          "title_zh": "1 只极其便宜的人工智能 (AI) 股票，在 2027 年翻倍之前值得买入",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUm9kX0xtLUd5VVZaWG5URXduTGt2TmJ5QmNYNUtWcU5hRG5jbHIyVHNRN3hPVzhCYnQxRUxYRXV1NWJrSzJkY1l1OWgtYWd0ZWVWM0FmSkdWUFNYeG1CLTFzS3ZaaDc1SXVhNjhZMHlxWDdVQXJuUlc1b01CanhYZEVaSmNOOUVONTU2OXIxN0tOdWRuQ2tQTzBWMWM0dGdCVEUxU3NGaGFFRVJjUV9wYmNnRllBZ19kV0c5Y2tSUEF3SXluZmc?oc=5",
+          "source": "The Motley Fool",
+          "published": "2026-11-27T08:08:00+08:00",
+          "summary": "1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027 The Motley Fool",
+          "summary_zh": ""
+        },
+        {
+          "title": "Dentists’ Willingness to Adopt Artificial Intelligence Is Primarily Associated With Attitudes",
+          "title_zh": "牙医采用人工智能的意愿主要与态度有关",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWpoV29PVkdVWTZQaFh1bGlQb0FpX19BTVRKSWJBUHNBR0dRQlBQekUzb0EzWm1WNVJncW5yNlZhVExrLTg1NWlaenNobXB3cUEyZFd6c0VfaTBhSURxaXl4RUQ1dG44U1dDSWV0RTRMUGszSDBTUFhLV2JWakg0RTQxNTJwNVByVEdlQnh2WlM4Uk0zOUkxMDA1Mk9mYUdNTVVFTm12SHRqdFBLSWZVZ1dQR045azJ2?oc=5",
+          "source": "Bioengineer.org",
+          "published": "2026-11-27T14:50:51+08:00",
+          "summary": "Dentists’ Willingness to Adopt Artificial Intelligence Is Primarily Associated With Attitudes Bioengineer.org",
+          "summary_zh": ""
+        },
         {
           "title": "Pentagon Hand Caroline Zier Now Leads OpenAI's Limits on Military Artificial Intelligence",
           "title_zh": "五角大楼官员 Caroline Zier 现在领导 OpenAI 对军事人工智能的限制",
@@ -198,84 +234,48 @@
           "summary_zh": ""
         },
         {
-          "title": "Do artificial intelligence pilot zones improve air quality? Evidence from Chinese urban panel data",
-          "title_zh": "人工智能试验区能否改善空气质量？来自中国城市面板数据的证据",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcUZnRmZqUXdscFI2V21KbWpiaEZxd3o2WHFCei03XzdZVlBpY3ZXTTYtWV8zY01xX2trRXB0UHJ0NnlCU0NSY0tTMnNWT2VTVjRPZmdtTGY1RW9ONjVr?oc=5",
-          "source": "Nature",
-          "published": "2026-11-27T01:42:20+08:00",
-          "summary": "Do artificial intelligence pilot zones improve air quality? Evidence from Chinese urban panel data Nature",
+          "title": "Billionaire David Tepper of Appaloosa Management Has 65% of His Portfolio Invested in These 7 Artificial Intelligence (AI) Stocks. Here Are the 3 I’d Buy Hand Over Fist Right Now",
+          "title_zh": "Appaloosa Management 的亿万富翁 David Tepper 将 65% 的投资组合投资于这 7 只人工智能 (AI) 股票。这是我现在想买的 3 款交出拳头",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc0dwYzJDRVJhaTVWYkd6OUdnQU41Z0dyUFZIajk5UVRzVWNZVG9yWWxfS0ZjQ0NqQS1BemphS2xjdmpTelZObG1XT0k2RWRuZnc5SDlTekI3VnVwQXBlY0VkaVctd0tCQ2N4bG9JZ2RSZ29pMjBhTm9Vdnc2M3hJdlNJRUxIbzE1eDRCZ1JMWXhEcThWWVE?oc=5",
+          "source": "Yahoo Finance",
+          "published": "2026-11-27T16:20:02+08:00",
+          "summary": "Billionaire David Tepper of Appaloosa Management Has 65% of His Portfolio Invested in These 7 Artificial Intelligence (AI) Stocks. Here Are the 3 I’d Buy Hand Over Fist Right Now Yahoo Finance",
           "summary_zh": ""
         },
         {
-          "title": "This Oversold Artificial Intelligence (AI) Stock Will Skyrocket 123% in 2027, According to Wall Street",
-          "title_zh": "华尔街称，这只超卖的人工智能 (AI) 股票将在 2027 年飙升 123%",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWTlwM0hwX1NOeFJtMGxIOWk4OWVhcGRRS0FJRHF2dVMyZ3BfZVY3OFphaFVXb0dnQ3hTbGZoVFM4OEFtam9EYnhzTXRLOFBrQkJHT2hXV0ZDUVI4cVhWYlk3MVJwa3Bldl8ySXZPcmdGNkpLTjBYeUN0RVFMUy1HdjhwLV9za1MyNXBzN2hsdkNEaDJIeEZzN2RHSTNqSXdIZ3Q2N2pYdWhfNncxenJQdnRHVWVHaC0wMURia3c4SHJFSkU1WW5Ec2JQMFFuSXJ1VE1oQUEwUjc?oc=5",
-          "source": "The Motley Fool",
-          "published": "2026-11-27T02:27:02+08:00",
-          "summary": "This Oversold Artificial Intelligence (AI) Stock Will Skyrocket 123% in 2027, According to Wall Street The Motley Fool",
+          "title": "Price to earnings forward of Loan Artificial Intelligence Corp. – OTC:LAAI",
+          "title_zh": "Loan Artificial Intelligence Corp. 的市盈率 – OTC:LAAI",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbHJKeFRZWk9nT0RXYkp5MnVKREJrampGVGhrQXowckpJN2Z3S0VYVFZPaWZPV3lLM2NpRTBJekZiaG5DMEJPZllXLUFWSXp0ZGlFU0pnQ0JIMVVFME1FTzJIZzNIbThSUU9QeXVoMlcxRERnSWlEM2dsejhYWGtWcUV3eFBOcF9vcWJzekw5T3QwcXZENU5uSkJBVHlhQQ?oc=5",
+          "source": "TradingView",
+          "published": "2026-11-27T15:10:27+08:00",
+          "summary": "Price to earnings forward of Loan Artificial Intelligence Corp. – OTC:LAAI TradingView",
           "summary_zh": ""
         },
         {
-          "title": "Widespread Use, Minimal Training: Generative Artificial Intelligence Among Undergraduate and Postgraduate Medical Students",
-          "title_zh": "广泛使用，最少培训：本科生和研究生医学生中的生成人工智能",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa181eVU3OHBLZXUyOXhwOGlWQlJYUlFWTjctemIwS2NVeEJ4dFE1d2lYSnhPbWVDeUp1MWJ0MjB5TjdtQTVCQ0RCcnhBUFkzaTlsV204U0NvYUNtVEtGSzJXdXJUOXlvcm9qVElBUVA2YWNrODl4VTNmX0hMSFRmaXB1VTVFeGVtLS13THJLclV2ZnVUa1JRWWpPbHpxVGc2akN2US1BTU5QbzZ4ZDU0elFVMWpsWUtuX00ybXhXVUJuTWxUY2hhM2NEWkpLeTY2WUoxbWVXZzh6V245RHF3cmhnLTQtSXJ6NDNWc254dDQ?oc=5",
-          "source": "Cureus",
-          "published": "2026-11-26T22:07:09+08:00",
-          "summary": "Widespread Use, Minimal Training: Generative Artificial Intelligence Among Undergraduate and Postgraduate Medical Students Cureus",
+          "title": "Digital Violence Threatens Women and Artificial Intelligence Multiplies the Risks",
+          "title_zh": "数字暴力威胁女性，人工智能使风险成倍增加",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeldzbUx0ZXhpb0k5cjRBYUgxeGtKVzRGVDJwckFfd3BZdVIxZW9hMkdMSHNwSVBhWjQ3OThfbDFKSm1PZEczRS1zVXZjZTNoSWFEazBhVVl0UWdPeXNXeWRRdzBxZjlaY1k0aWQ0M2p0MEpnT08zdnJoY1BQaTZoZ2NTd0NGb2FESjR4eTdUNVlMVlN0cERtYmVMbnNTOUhDLWpBODJ4RHBBcXlMdVNtY2piczRPT1NBZGNBa2VmQjktaFI1cmFCWg?oc=5",
+          "source": "وكالة أنباء المرأة",
+          "published": "2026-11-27T13:22:51+08:00",
+          "summary": "Digital Violence Threatens Women and Artificial Intelligence Multiplies the Risks وكالة أنباء المرأة",
           "summary_zh": ""
         },
         {
-          "title": "Reliath AI Introduces a New Foundational Model for Artificial Intelligence",
-          "title_zh": "Reliath AI 推出新的人工智能基础模型",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDA1anRtOFJRT0dzMTduTHh1RFZvUnlEQzlVQ1I1SkhPN0tiUnJ2aGxyYXRacVNtdk9tVnUzQ3R0Tm1heEh0eWZOSkpTVFRjckFHcVB0b1BkVDZ4Q3VTTVFxaGM1MjhWeUV6SlZXZDZvT0hFaTVkRTcyaC1uWW41WmJuME54dXIwRkdORjJvSXh5Wm9ZUi1KUUpUZFk0Z1JFc1ZUVEtrckFLMXllbklHTi1YVWR5ZUotSUlXUTA3M1NXcWNFQ2dsUDB3?oc=5",
-          "source": "El Paso Times",
-          "published": "2026-11-27T01:48:09+08:00",
-          "summary": "Reliath AI Introduces a New Foundational Model for Artificial Intelligence El Paso Times",
+          "title": "Artificial Intelligence - How Does It \"Think?\"",
+          "title_zh": "人工智能——它如何“思考”？",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0YyTTJjOHc2a0xVaDRXU1ZzRDRCZlhSczY4VW1ERGdfcE5KTzBWX2o1XzIyT0NZRzBramVGQl9aOFhmWmV6d3BTZmJLTEtaN2RheU1rbGRfeDN2dWNCanh2YVJjeVJKMzF4eUhmMWlkcERCRmFSZjNaRFl2UE5MUXIxSnJqX3VtNkd0YQ?oc=5",
+          "source": "Arizona Daily Star",
+          "published": "2026-11-27T15:00:00+08:00",
+          "summary": "Artificial Intelligence - How Does It \"Think?\" Arizona Daily Star",
           "summary_zh": ""
         },
         {
-          "title": "Scientific Artificial Intelligence Often Reprioritizes Existing Findings Rather Than Generating Novel Concepts",
-          "title_zh": "科学人工智能通常会重新确定现有发现的优先顺序，而不是产生新概念",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU1ZaOFh1QkoweC1SR1NQSzJSYlh0bXo0ZGxIYjRXLTlqVEZGSlVuQ1RqUXBVME1FRWpqMWIzOEMxeHhZY2pwX2ZWVWhvQWVFQXJzUW9jQlN1UHN5U0RxV1pfSVIyblFBZ0oxQmJ0SHlGQUljX0YycmJPSlJsc083S2tzODBfWm5wU1pIRkhSd24tTTdfbFdJOTk2Q1dZdGdsOVJxT3YxdkNJLWxYWldialBfRGk0eTc0QVVRdEVtSkhhb1U1YzBUOUp3eVAtd2Zh?oc=5",
-          "source": "Bioengineer.org",
-          "published": "2026-11-27T01:01:17+08:00",
-          "summary": "Scientific Artificial Intelligence Often Reprioritizes Existing Findings Rather Than Generating Novel Concepts Bioengineer.org",
-          "summary_zh": ""
-        },
-        {
-          "title": "Optimizing penetration testing workflows with in-house artificial intelligence",
-          "title_zh": "利用内部人工智能优化渗透测试工作流程",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0lwb2JMNWRmYkI3dk1Qb0JsUXFjSVFXNWcyZklLbkZ3d1JnZlQ2WEJjYnc5SGpZbWh3c19FZkxoSXQxdVV4aE5fNER3Xzl4TmpPOTB6NnU4SEVHQUphR2ptUmlZVDJNU1c2V3VBYU4xNFMzZW1KR1RLN1Y2TnBGckpGOTJkWEM0YWI3N1JvS1dNWHFlN0x5OEx5cHFUbTNzdkduNFZTZFUwNm5k?oc=5",
-          "source": "SC Media",
-          "published": "2026-11-26T21:39:23+08:00",
-          "summary": "Optimizing penetration testing workflows with in-house artificial intelligence SC Media",
-          "summary_zh": ""
-        },
-        {
-          "title": "Ministers from Latin America and the Caribbean Will Meet in Sao Paulo to Define a New Digital Agenda in the Age of Artificial Intelligence",
-          "title_zh": "拉丁美洲和加勒比地区部长将齐聚圣保罗，制定人工智能时代的新数字议程",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVZuRGdRTGlyUkpzSVBYdHNXSXVLZzU4RnA3X1hHNWZtQXZrSkxXZWpFR3hxQnpGRXBKUUhOdHVkTlkyeXFzdlpyVWhMNkgzbThIMHJMektfWWcyUGV6UldQeVlVdGQzWEdqZnk4UDYyY1RoQWNlZ3JXcHF1MGpzNVVGUUpMbGZLay1vTzlDWFNEb041czdNZS12aWs5VVpQanphekZDTFFBU1NOcW93MFpob1ZUOXg5?oc=5",
-          "source": "Comisión Económica para América Latina y el Caribe",
-          "published": "2026-11-26T22:37:04+08:00",
-          "summary": "Ministers from Latin America and the Caribbean Will Meet in Sao Paulo to Define a New Digital Agenda in the Age of Artificial Intelligence Comisión Económica para América Latina y el Caribe",
-          "summary_zh": ""
-        },
-        {
-          "title": "Artificial intelligence could fundamentally change how we grow our food",
-          "title_zh": "人工智能可以从根本上改变我们种植食物的方式",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmQ4ZnJpN2lzTjJ0S1BzN2ZvWGxWSmgtUmc4MDFpUEs3X05RWm1kWE5YaTY4cWZ6TWhxOGx1WWFFUDBlTi1jYm1lTmdZQmpjc0dPMDJTZS1oTTNEQWVHWHU2eVNKQ1djZDk3UTFrU3d0UGtXUjctV2pIT3NFSkd2NzVwVEY0RlRmVE1NaVNMc01vTFJRbWh2WHFpZXpoXzlIcXgw?oc=5",
-          "source": "Earth.com",
-          "published": "2026-11-26T22:05:00+08:00",
-          "summary": "Artificial intelligence could fundamentally change how we grow our food Earth.com",
-          "summary_zh": ""
-        },
-        {
-          "title": "Estonia advises against using certain artificial intelligence tools",
-          "title_zh": "爱沙尼亚建议不要使用某些人工智能工具",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHY3Y0JZRkk1c0ZoaWFZSmlqY0dTTVRFeWVhZ2ltVmUtY3RRM0g3dnZnS3FHWG1qazhoLW93Qmh2T2NzRWRRNDRhem1VY2xSczMydnlLRVNuSUQyLXI5Ymlna3dwc0syeUN4NGR2Tm9PNkhFeFVCLXF3OFJBOTVFbFNUOVEtdWFuM29hRy1ENUQ5OWhtUHZwQWlBS0pHeFhjUGhHRA?oc=5",
-          "source": "Baltic News Network",
-          "published": "2026-11-26T22:50:04+08:00",
-          "summary": "Estonia advises against using certain artificial intelligence tools Baltic News Network",
+          "title": "Integrating engineered image features with artificial intelligence to distinguish non-small cell lung cancer histological subtypes",
+          "title_zh": "将工程图像特征与人工智能相结合来区分非小细胞肺癌组织学亚型",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hRDBSWjBKZ3ZoOU10WUhRMzI3dkdSeGhtREd2VkdxaFUtaUpiUF96WUV4R1JQTTBIeFBpSWM0dHROM2FtdWdRM1UzRi1PVzBlYkhBR2FUTEhqbTRlOVR3UGhLdUxkU2tjakRV?oc=5",
+          "source": "Baishideng Publishing Group",
+          "published": "2026-11-27T09:21:14+08:00",
+          "summary": "Integrating engineered image features with artificial intelligence to distinguish non-small cell lung cancer histological subtypes Baishideng Publishing Group",
           "summary_zh": ""
         }
       ]
